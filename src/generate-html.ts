@@ -41,7 +41,7 @@ export class HTMLGenerator {
         <div class="card-header">
           <div class="card-meta">
             ${categoryIcon(item.category)}
-            <span class="source">${item.source}</span>
+            <span class="source">${this.escapeHtml(item.source)}</span>
             ${credibilityBadge(item.credibility)}
             <span class="date">${item.publishedAt.toLocaleDateString('zh-CN')}</span>
           </div>
@@ -80,7 +80,7 @@ export class HTMLGenerator {
             <div class="recommended-card">
               <div class="rec-header">
                 ${categoryIcon(item.category)}
-                <span class="rec-source">${item.source}</span>
+                <span class="rec-source">${this.escapeHtml(item.source)}</span>
                 ${credibilityBadge(item.credibility)}
               </div>
               <h3><a href="${item.url}" target="_blank">${this.escapeHtml(item.title)}</a></h3>
@@ -450,12 +450,17 @@ export class HTMLGenerator {
   }
   
   /**
-   * HTML 转义（防止 XSS）
+   * HTML 转义（Node.js 环境）
    */
   private escapeHtml(text: string): string {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
+    const escapeMap: Record<string, string> = {
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    };
+    return text.replace(/[&<>"']/g, char => escapeMap[char] || char);
   }
   
   /**
