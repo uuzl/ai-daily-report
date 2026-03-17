@@ -255,14 +255,15 @@ async function main() {
     
     console.log('🎉 全部完成！日报已生成并推送。');
     process.exit(0);
-  } catch (error) {
+  } catch (error: unknown) {
     console.error('\n' + '='.repeat(60));
     console.error('💥 生成失败');
     console.error('='.repeat(60));
-    console.error('错误类型:', error.constructor.name);
-    console.error('错误信息:', error.message);
-    if (error.stack) {
-      console.error('堆栈跟踪:\n', error.stack);
+    const err = error instanceof Error ? error : new Error(String(error));
+    console.error('错误类型:', err.constructor.name);
+    console.error('错误信息:', err.message);
+    if (err.stack) {
+      console.error('堆栈跟踪:\n', err.stack);
     }
     console.error('='.repeat(60) + '\n');
     process.exit(1);
