@@ -205,29 +205,10 @@ class AIReporter {
   }
   
   /**
-   * Git 提交并推送
+   * Git 提交并推送（由 GitHub Actions 处理，本地不再调用）
    */
-  async commitAndPush(report: DailyReport): Promise<void> {
-    console.log('📤 开始 Git 提交和推送...');
-    
-    const { execSync } = require('child_process');
-    
-    try {
-      // 添加文件
-      execSync('git add public/index.html public/report.json', { stdio: 'inherit' });
-      
-      // 提交
-      const commitMessage = `📅 AI Daily Report ${this.config.targetDate}\n\n- 自动生成 ${report.totalItems} 条新闻\n- P0: ${report.highlights.p0Count} | P1: ${report.highlights.p1Count} | P2: ${report.highlights.p2Count}`;
-      execSync(`git commit -m "${commitMessage}"`, { stdio: 'inherit' });
-      
-      // 推送
-      execSync('git push origin main', { stdio: 'inherit' });
-      
-      console.log('✅ Git 提交和推送成功！');
-    } catch (error) {
-      console.error('❌ Git 操作失败:', error);
-      throw error;
-    }
+  async commitAndPush(_report: DailyReport): Promise<void> {
+    console.log('⚠️  commitAndPush() 已弃用。Git 提交由 GitHub Actions 处理。');
   }
 }
 
@@ -250,10 +231,7 @@ async function main() {
     console.log(`✨ 推荐: ${report.summary}`);
     console.log('='.repeat(60) + '\n');
     
-    // 自动提交
-    await reporter.commitAndPush(report);
-    
-    console.log('🎉 全部完成！日报已生成并推送。');
+    console.log('✅ 报告生成完成。Git 提交将由 GitHub Actions 处理。');
     process.exit(0);
   } catch (error: unknown) {
     console.error('\n' + '='.repeat(60));
