@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # 允许推送代码
+      pages: write     # 允许上传 Pages artifact
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
@@ -52,7 +53,7 @@ jobs:
           MAX_ITEMS: ${{ secrets.MAX_ITEMS || '15' }}
       
       - name: 📦 Upload artifact for GitHub Pages
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           name: pages
           path: public
