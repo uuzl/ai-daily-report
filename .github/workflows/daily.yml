@@ -1,0 +1,64 @@
+name: AI Daily Report
+
+on:
+  schedule:
+    # 每天北京时间 8:00 运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+  repository_dispatch: # 允许外部触发
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: 📦 Install dependencies
+        run: |
+          npm ci
+      
+      - name: 🔑 Setup environment
+        run: |
+          echo "TAVILY_API_KEY=${{ secrets.TAVILY_API_KEY }}" >> .env
+          echo "SEARCH_KEYWORDS=${{ secrets.SEARCH_KEYWORDS }}" >> .env
+          echo "MAX_ITEMS=${MAX_ITEMS:-15}" >> .env
+          echo "SITE_URL=https://${{ github.repository_owner }}.github.io/ai-daily-report" >> .env
+          echo "OUTPUT_DIR=public" >> .env
+          cat .env
+        env:
+          MAX_ITEMS: ${{ secrets.MAX_ITEMS || '15' }}
+      
+      - name: 🤖 Generate report
+        run: |
+          npm run generate
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          SEARCH_KEYWORDS: ${{ secrets.SEARCH_KEYWORDS }}
+          MAX_ITEMS: ${{ secrets.MAX_ITEMS || '15' }}
+      
+      - name: 📤 Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/
+          git diff --staged --quiet || git commit -m "📅 AI Daily Report $(date +%Y-%m-%d)"
+          git push origin main
+      
+      - name: 🚀 Enable GitHub Pages
+        run: |
+          # 启用 GitHub Pages (如果需要，可以自动设置)
+          # 这需要仓库有 Pages 配置权限
+          # 目前手动在 Settings 中设置即可
+          echo "✅ Report generated and pushed. Enable Pages at: https://github.com/${{ github.repository }}/settings/pages"
+        continue-on-error: true

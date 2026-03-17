@@ -1,0 +1,33 @@
+{
+  "name": "ai-daily-report",
+  "version": "1.0.0",
+  "description": "AI Daily Report - Automated news aggregation and publishing to GitHub Pages",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "npm run build && npm run start"
+  },
+  "keywords": [
+    "ai",
+    "daily-report",
+    "github-pages",
+    "automation"
+  ],
+  "author": "Jarvis <jarvis@openclaw.ai>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/node-fetch": "^3.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
