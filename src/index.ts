@@ -90,7 +90,7 @@ class AIReporter {
       throw new Error(`Tavily API error: ${response.status} ${response.statusText}`);
     }
     
-    const data = await response.json();
+    const data = await response.json() as { results: any[] };
     return data.results || [];
   }
   

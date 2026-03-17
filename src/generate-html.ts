@@ -16,8 +16,8 @@ export class HTMLGenerator {
    * 生成完整 HTML 页面
    */
   generate(report: DailyReport): string {
-    const credibilityBadge = (cred: SourceCredibility) => {
-      const badges = {
+    const credibilityBadge = (cred: SourceCredibility): string => {
+      const badges: Record<SourceCredibility, string> = {
         [SourceCredibility.P0]: '<span class="badge badge-p0">🏆 官方</span>',
         [SourceCredibility.P1]: '<span class="badge badge-p1">⭐ 大牛</span>',
         [SourceCredibility.P2]: '<span class="badge badge-p2">📰 新闻</span>'
@@ -25,8 +25,8 @@ export class HTMLGenerator {
       return badges[cred] || '';
     };
     
-    const categoryIcon = (cat: NewsItem['category']) => {
-      const icons = {
+    const categoryIcon = (cat: NewsItem['category']): string => {
+      const icons: Record<NewsItem['category'], string> = {
         hot: '🔥',
         tech: '💻',
         product: '🚀',
@@ -47,12 +47,12 @@ export class HTMLGenerator {
           </div>
         </div>
         <h3 class="card-title">
-          <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+          <a href="${item.url}" target="_blank" rel="noopener noreferrer">${this.escapeHtml(item.title)}</a>
         </h3>
-        <p class="card-summary">${item.summary}</p>
+        <p class="card-summary">${this.escapeHtml(item.summary)}</p>
         ${item.tags.length > 0 ? `
         <div class="card-tags">
-          ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+          ${item.tags.map(tag => `<span class="tag">${this.escapeHtml(tag)}</span>`).join('')}
         </div>` : ''}
         <div class="card-footer">
           <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="read-more">
@@ -83,8 +83,8 @@ export class HTMLGenerator {
                 <span class="rec-source">${item.source}</span>
                 ${credibilityBadge(item.credibility)}
               </div>
-              <h3><a href="${item.url}" target="_blank">${item.title}</a></h3>
-              <p>${item.summary.substring(0, 120)}...</p>
+              <h3><a href="${item.url}" target="_blank">${this.escapeHtml(item.title)}</a></h3>
+              <p>${this.escapeHtml(item.summary.substring(0, 120))}...</p>
             </div>
           `).join('')}
         </div>
@@ -99,7 +99,6 @@ export class HTMLGenerator {
     <meta name="description" content="AI Daily Report - ${report.date} 人工智能领域最新动态">
     <title>AI Daily Report - ${report.date}</title>
     <style>
-        /* CSS 变量与重置 */
         :root {
           --primary: #667eea;
           --secondary: #764ba2;
@@ -126,13 +125,11 @@ export class HTMLGenerator {
           line-height: 1.6;
         }
         
-        /* 容器 */
         .container {
           max-width: 1200px;
           margin: 0 auto;
         }
         
-        /* 头部 */
         header {
           background: rgba(255, 255, 255, 0.95);
           backdrop-filter: blur(10px);
@@ -154,8 +151,8 @@ export class HTMLGenerator {
         
         .subtitle {
           color: var(--text-secondary);
-          font-size: 1.1rem;
           margin-bottom: 15px;
+          font-size: 1.1rem;
         }
         
         .stats {
@@ -179,7 +176,6 @@ export class HTMLGenerator {
           margin-left: 5px;
         }
         
-        /* 编辑推荐 */
         .recommended-section {
           background: rgba(255, 255, 255, 0.95);
           backdrop-filter: blur(10px);
@@ -226,14 +222,12 @@ export class HTMLGenerator {
           font-weight: 600;
         }
         
-        /* 新闻网格 */
         .news-grid {
           display: grid;
           grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
           gap: 20px;
         }
         
-        /* 新闻卡片 */
         .news-card {
           background: var(--card-bg);
           border-radius: var(--radius);
@@ -345,7 +339,6 @@ export class HTMLGenerator {
           gap: 8px;
         }
         
-        /* 底部 */
         footer {
           text-align: center;
           padding: 30px;
@@ -362,15 +355,6 @@ export class HTMLGenerator {
           font-size: 0.85rem;
         }
         
-        /* 加载更多（滚动加载） */
-        .loading {
-          text-align: center;
-          padding: 40px;
-          color: white;
-          font-size: 1.2rem;
-        }
-        
-        /* 响应式 */
         @media (max-width: 768px) {
           .news-grid {
             grid-template-columns: 1fr;
@@ -393,7 +377,6 @@ export class HTMLGenerator {
           }
         }
         
-        /* 滚动加载动画 */
         @keyframes spin {
           0% { transform: rotate(0deg); }
           100% { transform: rotate(360deg); }
@@ -442,9 +425,7 @@ export class HTMLGenerator {
         </footer>
     </div>
     
-    <!-- 滚动加载脚本（可选） -->
     <script>
-        // 无限滚动加载往期内容（预留接口）
         let loading = false;
         let page = 1;
         
@@ -459,13 +440,22 @@ export class HTMLGenerator {
           loading = true;
           console.log('Loading more reports...');
           // 实际实现会从 JSON API 加载往期数据
-          // await fetch(`/api/reports?page=${page}`).then(...)
+          // await fetch(\`/api/reports?page=\${page}\`).then(...)
           loading = false;
           page++;
         }
     </script>
 </body>
 </html>`;
+  }
+  
+  /**
+   * HTML 转义（防止 XSS）
+   */
+  private escapeHtml(text: string): string {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
   }
   
   /**
