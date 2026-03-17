@@ -1,12 +1,12 @@
 {
   "date": "2026-03-16",
-  "generatedAt": "2026-03-17T08:14:35.757Z",
+  "generatedAt": "2026-03-17T08:14:53.100Z",
   "totalItems": 13,
   "items": [
     {
-      "id": "news-1773735275757-6",
+      "id": "news-1773735293100-7",
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace - TechCrunch",
-      "summary": "In some cases, AI agents can prove problematic, since any LLM-based software has the potential to hallucinate and could potentially take actions that ...",
+      "summary": "The Resize Pro agent can resize images and videos for the recommended dimensions on various different platforms, but it uses AI to generatively extend...",
       "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
       "source": "techcrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
@@ -15,12 +15,11 @@
       "category": "tech",
       "tags": [
         "AI",
-        "LLM",
         "Agent"
       ]
     },
     {
-      "id": "news-1773735275757-7",
+      "id": "news-1773735293100-3",
       "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security - TechCrunch",
       "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nBuilding enterprise AI agent platforms has become the soup du jour of the AI space in recent mo...",
       "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
@@ -36,7 +35,7 @@
       ]
     },
     {
-      "id": "news-1773735275756-0",
+      "id": "news-1773735293100-5",
       "title": "DLSS 5 looks like a real-time generative AI filter for video games - The Verge",
       "summary": "Sony’s AI graphics upscaling for PS5 Pro games is getting a big update tonight\n\nEncyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its...",
       "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
@@ -52,25 +51,23 @@
       ]
     },
     {
-      "id": "news-1773735275756-1",
-      "title": "Memories.ai is building the visual memory layer for wearables and robotics - TechCrunch",
-      "summary": "The ability for AI systems to remember, in general, is a relatively new. OpenAI updated ChatGPT to start to remember past chats in 2024 and fine-tuned...",
-      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "id": "news-1773735293100-4",
+      "title": "Jensen just put Nvidia's Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere - TechCrunch",
+      "summary": "+ Rebecca Szkutak\n\n## Latest in AI\n\n In Brief\n\n  ### Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosp...",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "sourceUrl": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
       "credibility": "P2",
-      "publishedAt": "2026-03-16T20:30:00.000Z",
+      "publishedAt": "2026-03-16T21:41:37.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1773735275757-11",
+      "id": "news-1773735293100-8",
       "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed - TechCrunch",
-      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\n...",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n Meta acquired Moltbook, the AI agent social network that went viral because of fake posts\n\n  + Amanda Silberling\n Goo...",
       "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
       "source": "techcrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
@@ -83,7 +80,7 @@
       ]
     },
     {
-      "id": "news-1773735275757-8",
+      "id": "news-1773735293100-10",
       "title": "Nvidia’s DLSS 5 uses generative AI to boost photo-realism in video games, with ambitions beyond gaming - TechCrunch",
       "summary": "The billionaires made a promise — now some want out\n\n  + Connie Loizos\n US Army announces contract with Anduril worth up to $20B\n\n  + Anthony Ha\n ‘Not...",
       "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
@@ -98,9 +95,9 @@
       ]
     },
     {
-      "id": "news-1773735275756-3",
+      "id": "news-1773735293099-0",
       "title": "The dictionary sues OpenAI - TechCrunch",
-      "summary": "A similar Britannica lawsuit against Perplexity is still pending.\n\nThere is not a strong legal precedent that establishes whether using copyrighted co...",
+      "summary": "Britannica, which owns Merriam-Webster, retains the copyright to nearly 100,000 online articles, which have been scraped and used to train OpenAI’s LL...",
       "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
       "source": "techcrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
@@ -114,9 +111,9 @@
       ]
     },
     {
-      "id": "news-1773735275756-4",
+      "id": "news-1773735293099-1",
       "title": "The dictionary sues OpenAI - TechCrunch",
-      "summary": "A similar Britannica lawsuit against Perplexity is still pending.\n\nThere is not a strong legal precedent that establishes whether or not using copyrig...",
+      "summary": "Britannica, which owns Merriam-Webster, retains the copyright to nearly 100,000 online articles, which have been scraped and used to train OpenAI’s LL...",
       "url": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
       "source": "techcrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
@@ -130,7 +127,7 @@
       ]
     },
     {
-      "id": "news-1773735275756-2",
+      "id": "news-1773735293099-2",
       "title": "OpenAI in Talks for $10 Billion Joint Venture With PE Firms - Bloomberg.com",
       "summary": "OpenAI:\n\nOracle Partnership Ends\n\nPentagon Deal\n\nNvidia Investment\n\nDeepSeek Rivalry\n\nTargeted Ads\n\nChatbot Delusions\n\nTechnology\n\n# OpenAI in Talks f...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/openai-discusses-10-billion-venture-with-pe-firms-reuters-says",
@@ -146,9 +143,9 @@
       ]
     },
     {
-      "id": "news-1773735275757-12",
+      "id": "news-1773735293100-12",
       "title": "Antonio Gracias says he's longing for 'proentropic' startups — those that are built to survive chaos - TechCrunch",
-      "summary": "+ Aisha Malik\n ### \n\n  Walmart-backed PhonePe shelves IPO as global tensions rattle markets\n\n  + Jagmeet Singh\n ### \n\n  The billionaires made a promis...",
+      "summary": "Skip to content\n\nVenture\n\n# Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos\n\nDominic-Madori Davis...",
       "url": "https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/",
       "source": "techcrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/",
@@ -160,7 +157,7 @@
       ]
     },
     {
-      "id": "news-1773735275757-10",
+      "id": "news-1773735293100-9",
       "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect - TechCrunch",
       "summary": "The billionaires made a promise — now some want out\n\n  + Connie Loizos\n US Army announces contract with Anduril worth up to $20B\n\n  + Anthony Ha\n ‘Not...",
       "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
@@ -176,7 +173,7 @@
       ]
     },
     {
-      "id": "news-1773735275756-5",
+      "id": "news-1773735293100-6",
       "title": "This is not a fly uploaded to a computer - The Verge",
       "summary": "Robert Hart\n\n## Most Popular\n\nMost Popular\n\n1. Benjamin Netanyahu is struggling to prove he’s not an AI clone\n2. Apple’s $549 AirPods Max 2 add better...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
@@ -192,9 +189,9 @@
       ]
     },
     {
-      "id": "news-1773735275757-9",
+      "id": "news-1773735293100-11",
       "title": "Meta to Spend Up to $27 Billion on Nebius AI Infrastructure - Bloomberg.com",
-      "summary": "### Top Reads\n\n‘God, It’s Terrifying’: How the Pentagon Got Hooked on AI War Machines\n\nby Katrina MansonItalian Lakeside Football Club Combines €1,000...",
+      "summary": "Nebius, a so-called neocloud that operates data centers and has a strategic partnership with Nvidia Corp., will provide Meta $12 billion of dedicated ...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
       "source": "bloomberg",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
