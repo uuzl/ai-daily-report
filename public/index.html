@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI Daily Report - 2026-03-16 人工智能领域最新动态">
+    <title>AI Daily Report - 2026-03-16</title>
+    <style>
+        :root {
+          --primary: #667eea;
+          --secondary: #764ba2;
+          --bg-color: #f8f9fa;
+          --card-bg: #ffffff;
+          --text-main: #212529;
+          --text-secondary: #6c757d;
+          --border-color: #e9ecef;
+          --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          --radius: 12px;
+        }
+        
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+          background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+          min-height: 100vh;
+          padding: 20px;
+          line-height: 1.6;
+        }
+        
+        .container {
+          max-width: 1200px;
+          margin: 0 auto;
+        }
+        
+        header {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-bottom: 30px;
+          box-shadow: var(--shadow);
+          text-align: center;
+        }
+        
+        .logo {
+          font-size: 2rem;
+          font-weight: 700;
+          background: linear-gradient(135deg, var(--primary), var(--secondary));
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin-bottom: 10px;
+        }
+        
+        .subtitle {
+          color: var(--text-secondary);
+          margin-bottom: 15px;
+          font-size: 1.1rem;
+        }
+        
+        .stats {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          flex-wrap: wrap;
+          margin-top: 15px;
+        }
+        
+        .stat-item {
+          background: var(--bg-color);
+          padding: 8px 16px;
+          border-radius: 20px;
+          font-size: 0.9rem;
+          color: var(--text-secondary);
+        }
+        
+        .stat-item strong {
+          color: var(--text-main);
+          margin-left: 5px;
+        }
+        
+        .recommended-section {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-bottom: 30px;
+          box-shadow: var(--shadow);
+        }
+        
+        .recommended-section h2 {
+          color: var(--text-main);
+          margin-bottom: 20px;
+          font-size: 1.5rem;
+        }
+        
+        .recommended-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+          gap: 20px;
+        }
+        
+        .recommended-card {
+          background: var(--bg-color);
+          border-radius: 8px;
+          padding: 20px;
+          border-left: 4px solid var(--primary);
+          transition: transform 0.2s;
+        }
+        
+        .recommended-card:hover {
+          transform: translateY(-2px);
+        }
+        
+        .rec-header {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          margin-bottom: 10px;
+          font-size: 0.85rem;
+          color: var(--text-secondary);
+        }
+        
+        .rec-source {
+          font-weight: 600;
+        }
+        
+        .news-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+          gap: 20px;
+        }
+        
+        .news-card {
+          background: var(--card-bg);
+          border-radius: var(--radius);
+          padding: 25px;
+          box-shadow: var(--shadow);
+          transition: transform 0.2s, box-shadow 0.2s;
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+        }
+        
+        .news-card:hover {
+          transform: translateY(-4px);
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .card-header {
+          margin-bottom: 12px;
+        }
+        
+        .card-meta {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          font-size: 0.8rem;
+          color: var(--text-secondary);
+          flex-wrap: wrap;
+        }
+        
+        .badge {
+          padding: 2px 8px;
+          border-radius: 10px;
+          font-size: 0.75rem;
+          font-weight: 600;
+          text-transform: uppercase;
+        }
+        
+        .badge-p0 {
+          background: linear-gradient(135deg, #ffd700, #ffaa00);
+          color: #000;
+        }
+        
+        .badge-p1 {
+          background: linear-gradient(135deg, #667eea, #764ba2);
+          color: #fff;
+        }
+        
+        .badge-p2 {
+          background: #e9ecef;
+          color: #495057;
+        }
+        
+        .card-title {
+          font-size: 1.2rem;
+          line-height: 1.4;
+          margin-bottom: 12px;
+          color: var(--text-main);
+        }
+        
+        .card-title a {
+          text-decoration: none;
+          color: inherit;
+          transition: color 0.2s;
+        }
+        
+        .card-title a:hover {
+          color: var(--primary);
+        }
+        
+        .card-summary {
+          color: #495057;
+          font-size: 0.95rem;
+          flex-grow: 1;
+          margin-bottom: 15px;
+        }
+        
+        .card-tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+          margin-bottom: 15px;
+        }
+        
+        .tag {
+          background: var(--bg-color);
+          color: var(--primary);
+          padding: 3px 10px;
+          border-radius: 12px;
+          font-size: 0.75rem;
+          font-weight: 500;
+        }
+        
+        .card-footer {
+          margin-top: auto;
+        }
+        
+        .read-more {
+          display: inline-flex;
+          align-items: center;
+          gap: 5px;
+          color: var(--primary);
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 0.9rem;
+          transition: gap 0.2s;
+        }
+        
+        .read-more:hover {
+          gap: 8px;
+        }
+        
+        footer {
+          text-align: center;
+          padding: 30px;
+          color: rgba(255, 255, 255, 0.9);
+          margin-top: 40px;
+          font-size: 0.9rem;
+        }
+        
+        .generated-info {
+          background: rgba(0, 0, 0, 0.2);
+          padding: 15px;
+          border-radius: 8px;
+          margin-top: 15px;
+          font-size: 0.85rem;
+        }
+        
+        @media (max-width: 768px) {
+          .news-grid {
+            grid-template-columns: 1fr;
+          }
+          
+          .recommended-grid {
+            grid-template-columns: 1fr;
+          }
+          
+          .logo {
+            font-size: 1.5rem;
+          }
+          
+          header, .recommended-section {
+            padding: 20px;
+          }
+          
+          .news-card {
+            padding: 20px;
+          }
+        }
+        
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+        
+        .spinner {
+          width: 40px;
+          height: 40px;
+          border: 4px solid rgba(255,255,255,0.3);
+          border-top: 4px solid white;
+          border-radius: 50%;
+          animation: spin 1s linear infinite;
+          margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">🤖 AI Daily Report</div>
+            <div class="subtitle">2026-03-16 · 人工智能领域最新动态</div>
+            <div class="stats">
+                <div class="stat-item">📊 总计 <strong>13</strong> 条</div>
+                <div class="stat-item">🏆 官方 <strong>0</strong> 条</div>
+                <div class="stat-item">⭐ 大牛 <strong>0</strong> 条</div>
+                <div class="stat-item">📰 新闻 <strong>13</strong> 条</div>
+            </div>
+        </header>
+        
+        
+        
+        <main class="news-grid" id="news-container">
+            
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/" target="_blank" rel="noopener noreferrer">Picsart now allows creators to ‘hire’ AI assistants through agent marketplace - TechCrunch</a>
+        </h3>
+        <p class="card-summary">In some cases, AI agents can prove problematic, since any LLM-based software has the potential to hallucinate and could potentially take actions that ...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span><span class="tag">LLM</span><span class="tag">Agent</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/" target="_blank" rel="noopener noreferrer">Nvidia’s version of OpenClaw could solve its biggest problem: security - TechCrunch</a>
+        </h3>
+        <p class="card-summary">San Francisco, CA | October 13-15, 2026
+
+REGISTER NOW
+
+Building enterprise AI agent platforms has become the soup du jour of the AI space in recent mo...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">AI</span><span class="tag">OpenCL</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">theverge</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics" target="_blank" rel="noopener noreferrer">DLSS 5 looks like a real-time generative AI filter for video games - The Verge</a>
+        </h3>
+        <p class="card-summary">Sony’s AI graphics upscaling for PS5 Pro games is getting a big update tonight
+
+Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/" target="_blank" rel="noopener noreferrer">Memories.ai is building the visual memory layer for wearables and robotics - TechCrunch</a>
+        </h3>
+        <p class="card-summary">The ability for AI systems to remember, in general, is a relatively new. OpenAI updated ChatGPT to start to remember past chats in 2024 and fine-tuned...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/" target="_blank" rel="noopener noreferrer">Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed - TechCrunch</a>
+        </h3>
+        <p class="card-summary">### Topics
+
+Biotech &amp; Health
+
+Cloud Computing
+
+Commerce
+
+Crypto
+
+Enterprise
+
+EVs
+
+Fintech
+
+Fundraising
+
+Gadgets
+
+Gaming
+
+Google
+
+Government &amp; Policy
+
+...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span><span class="tag">Agent</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="hot">
+        <div class="card-header">
+          <div class="card-meta">
+            🔥
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/" target="_blank" rel="noopener noreferrer">Nvidia’s DLSS 5 uses generative AI to boost photo-realism in video games, with ambitions beyond gaming - TechCrunch</a>
+        </h3>
+        <p class="card-summary">The billionaires made a promise — now some want out
+
+  + Connie Loizos
+ US Army announces contract with Anduril worth up to $20B
+
+  + Anthony Ha
+ ‘Not...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span><span class="tag">Agent</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/" target="_blank" rel="noopener noreferrer">The dictionary sues OpenAI - TechCrunch</a>
+        </h3>
+        <p class="card-summary">A similar Britannica lawsuit against Perplexity is still pending.
+
+There is not a strong legal precedent that establishes whether using copyrighted co...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/" target="_blank" rel="noopener noreferrer">The dictionary sues OpenAI - TechCrunch</a>
+        </h3>
+        <p class="card-summary">A similar Britannica lawsuit against Perplexity is still pending.
+
+There is not a strong legal precedent that establishes whether or not using copyrig...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">bloomberg</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.bloomberg.com/news/articles/2026-03-16/openai-discusses-10-billion-venture-with-pe-firms-reuters-says" target="_blank" rel="noopener noreferrer">OpenAI in Talks for $10 Billion Joint Venture With PE Firms - Bloomberg.com</a>
+        </h3>
+        <p class="card-summary">OpenAI:
+
+Oracle Partnership Ends
+
+Pentagon Deal
+
+Nvidia Investment
+
+DeepSeek Rivalry
+
+Targeted Ads
+
+Chatbot Delusions
+
+Technology
+
+# OpenAI in Talks f...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">DeepSeek</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.bloomberg.com/news/articles/2026-03-16/openai-discusses-10-billion-venture-with-pe-firms-reuters-says" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/16</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/" target="_blank" rel="noopener noreferrer">Antonio Gracias says he&#39;s longing for &#39;proentropic&#39; startups — those that are built to survive chaos - TechCrunch</a>
+        </h3>
+        <p class="card-summary">+ Aisha Malik
+ ### 
+
+  Walmart-backed PhonePe shelves IPO as global tensions rattle markets
+
+  + Jagmeet Singh
+ ### 
+
+  The billionaires made a promis...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/16</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/" target="_blank" rel="noopener noreferrer">How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect - TechCrunch</a>
+        </h3>
+        <p class="card-summary">The billionaires made a promise — now some want out
+
+  + Connie Loizos
+ US Army announces contract with Anduril worth up to $20B
+
+  + Anthony Ha
+ ‘Not...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">AI</span><span class="tag">Agent</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">theverge</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/16</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload" target="_blank" rel="noopener noreferrer">This is not a fly uploaded to a computer - The Verge</a>
+        </h3>
+        <p class="card-summary">Robert Hart
+
+## Most Popular
+
+Most Popular
+
+1. Benjamin Netanyahu is struggling to prove he’s not an AI clone
+2. Apple’s $549 AirPods Max 2 add better...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">bloomberg</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/16</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius" target="_blank" rel="noopener noreferrer">Meta to Spend Up to $27 Billion on Nebius AI Infrastructure - Bloomberg.com</a>
+        </h3>
+        <p class="card-summary">### Top Reads
+
+‘God, It’s Terrifying’: How the Pentagon Got Hooked on AI War Machines
+
+by Katrina MansonItalian Lakeside Football Club Combines €1,000...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span><span class="tag">OpenCL</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+        </main>
+        
+        <footer>
+            <p>Powered by OpenClaw Agent & GitHub Pages</p>
+            <div class="generated-info">
+                <p>📅 报告日期: 2026-03-16</p>
+                <p>⏰ 生成时间: 2026/3/17 16:14:35</p>
+                <p>🔗 <a href="#" style="color:white;text-decoration:underline;">查看往期报告</a></p>
+                <p style="margin-top:10px; font-size:0.8rem; opacity:0.8;">
+                    数据来源：Tavily AI Search · 可信度分级：P0(官方) > P1(大牛) > P2(新闻)
+                </p>
+            </div>
+        </footer>
+    </div>
+    
+    <script>
+        let loading = false;
+        let page = 1;
+        
+        window.addEventListener('scroll', () => {
+          if (loading) return;
+          if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+            loadMore();
+          }
+        });
+        
+        async function loadMore() {
+          loading = true;
+          console.log('Loading more reports...');
+          // 实际实现会从 JSON API 加载往期数据
+          // await fetch(`/api/reports?page=${page}`).then(...)
+          loading = false;
+          page++;
+        }
+    </script>
+</body>
+</html>
