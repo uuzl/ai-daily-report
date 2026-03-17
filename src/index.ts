@@ -64,7 +64,8 @@ class AIReporter {
    */
   private async fetchNews(): Promise<any[]> {
     const query = this.buildSearchQuery();
-    console.log(`🔍 搜索: ${query}`);
+    console.log(`🔍 搜索查询: ${query}`);
+    console.log(`📊 配置: maxItems=${this.config.maxItems}, keywords=${this.config.searchKeywords.join(', ')}`);
     
     const response = await fetch('https://api.tavily.com/search', {
       method: 'POST',
@@ -76,21 +77,30 @@ class AIReporter {
         query: query,
         search_depth: 'advanced',
         topic: 'news',
-        days: 1, // 只搜索过去24小时
-        max_results: this.config.maxItems + 10, // 多取一些，后面再筛选
+        days: 1,
+        max_results: this.config.maxItems + 10,
         include_domains: [
           'openai.com', 'anthropic.com', 'deepseek.ai', 'huggingface.co',
           'arxiv.org', 'scholar.google.com',
-          'techcrunch.com', 'theverge.com', 'arstechnica.com'
+          'techcrunch.com', 'theverge.com', 'arstechnica.com',
+          'wired.com', 'bloomberg.com', 'reuters.com',
+          '36kr.com', 'tech.sina.com.cn'
         ]
       })
     });
     
     if (!response.ok) {
+      const errorText = await response.text();
+      console.error(`❌ Tavily API 错误: ${response.status} ${response.statusText}`);
+      console.error(`📋 错误详情: ${errorText}`);
       throw new Error(`Tavily API error: ${response.status} ${response.statusText}`);
     }
     
-    const data = await response.json() as { results: any[] };
+    const data = await response.json() as { results: any[]; message?: string };
+    console.log(`✅ Tavily 返回 ${data.results?.length || 0} 条结果`);
+    if (data.message) {
+      console.warn(`⚠️ Tavily 警告: ${data.message}`);
+    }
     return data.results || [];
   }
   
@@ -181,6 +191,9 @@ class AIReporter {
   private saveJsonData(report: DailyReport): void {
     const jsonPath = `${this.config.outputDir}/report.json`;
     const fs = require('fs');
+    if (!fs.existsSync(this.config.outputDir)) {
+      fs.mkdirSync(this.config.outputDir, { recursive: true });
+    }
     fs.writeFileSync(jsonPath, JSON.stringify(report, (key, value) => {
       // 处理 Date 对象
       if (value instanceof Date) {
@@ -225,6 +238,7 @@ async function main() {
   const reporter = new AIReporter();
   
   try {
+    console.log('🚀 开始生成 AI Daily Report...');
     const report = await reporter.generate();
     
     console.log('\n' + '='.repeat(60));
@@ -239,8 +253,18 @@ async function main() {
     // 自动提交
     await reporter.commitAndPush(report);
     
+    console.log('🎉 全部完成！日报已生成并推送。');
+    process.exit(0);
   } catch (error) {
-    console.error('💥 生成失败:', error);
+    console.error('\n' + '='.repeat(60));
+    console.error('💥 生成失败');
+    console.error('='.repeat(60));
+    console.error('错误类型:', error.constructor.name);
+    console.error('错误信息:', error.message);
+    if (error.stack) {
+      console.error('堆栈跟踪:\n', error.stack);
+    }
+    console.error('='.repeat(60) + '\n');
     process.exit(1);
   }
 }
