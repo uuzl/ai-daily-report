@@ -51,6 +51,12 @@ jobs:
           SEARCH_KEYWORDS: ${{ secrets.SEARCH_KEYWORDS }}
           MAX_ITEMS: ${{ secrets.MAX_ITEMS || '15' }}
       
+      - name: 📦 Upload artifact for GitHub Pages
+        uses: actions/upload-artifact@v4
+        with:
+          name: pages
+          path: public
+      
       - name: 📤 Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
