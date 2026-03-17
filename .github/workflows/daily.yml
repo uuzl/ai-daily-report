@@ -51,11 +51,15 @@ jobs:
       
       - name: 📤 Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add public/
-          git diff --staged --quiet || git commit -m "📅 AI Daily Report $(date +%Y-%m-%d)"
-          git push origin main
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A public/
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "📅 AI Daily Report $(date +%Y-%m-%d)"
+            git push origin main
+          fi
       
       - name: 🚀 Enable GitHub Pages
         run: |
