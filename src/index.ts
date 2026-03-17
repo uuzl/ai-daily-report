@@ -51,12 +51,12 @@ class AIReporter {
   
   /**
    * 构建 Tavily 搜索查询
+   * 注意：不能同时使用 days 参数和 after: 语法，这里只用关键词组合
    */
   private buildSearchQuery(): string {
     const keywords = this.config.searchKeywords.join(' OR ');
-    const date = this.config.targetDate;
-    // Tavily 支持时间范围：过去24小时或特定日期
-    return `(${keywords}) after:${date}`;
+    // 只用关键词，时间范围由 days 参数控制
+    return `(${keywords})`;
   }
   
   /**
