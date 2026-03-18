@@ -96,6 +96,24 @@
     .legend { display: flex; gap: 20px; justify-content: center; margin-top: 10px; flex-wrap: wrap; }
     .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.85rem; }
     .legend-color { width: 20px; height: 20px; border-radius: 4px; }
+    .algorithm-info {
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(10px);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-top: 20px;
+      box-shadow: var(--shadow);
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    .algorithm-info h3 { margin: 0 0 10px 0; color: var(--text-main); }
+    .algorithm-info .meta { color: var(--text-secondary); margin-bottom: 10px; font-size: 0.85rem; }
+    .algorithm-info .desc { margin-bottom: 10px; }
+    .algorithm-info .pros-cons { display: flex; gap: 20px; flex-wrap: wrap; }
+    .algorithm-info .pros, .algorithm-info .cons { flex: 1; min-width: 200px; }
+    .algorithm-info .pros { color: #28a745; }
+    .algorithm-info .cons { color: #dc3545; }
+    .algorithm-info code { background: #e9ecef; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
     @media (max-width: 768px) {
       .controls { flex-direction: column; align-items: stretch; }
       .control-group { justify-content: center; }
@@ -149,6 +167,10 @@
         <div class="legend-item"><div class="legend-color" style="background:#51cf66"></div>已就位</div>
         <div class="legend-item"><div class="legend-color" style="background:#ffd43b"></div>基准/交换</div>
       </div>
+    </div>
+    
+    <div id="algorithm-info" class="algorithm-info">
+      <!-- 算法信息动态插入 -->
     </div>
     
     <footer>
