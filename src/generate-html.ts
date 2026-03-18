@@ -417,7 +417,7 @@ export class HTMLGenerator {
             <div class="generated-info">
                 <p>📅 报告日期: ${report.date}</p>
                 <p>⏰ 生成时间: ${report.generatedAt.toLocaleString('zh-CN')}</p>
-                <p>🔗 <a href="#" style="color:white;text-decoration:underline;">查看往期报告</a></p>
+                <p>🔗 <a href="history.html" style="color:white;text-decoration:underline;">查看往期归档</a></p>
                 <p style="margin-top:10px; font-size:0.8rem; opacity:0.8;">
                     数据来源：Tavily AI Search · 可信度分级：P0(官方) > P1(大牛) > P2(新闻)
                 </p>

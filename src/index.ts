@@ -40,13 +40,11 @@ class AIReporter {
   }
   
   /**
-   * 获取目标日期（前一天）
+   * 获取目标日期（当天）
    */
   private getTargetDate(): string {
     const now = new Date();
-    const yesterday = new Date(now);
-    yesterday.setDate(yesterday.getDate() - 1);
-    return format(yesterday, 'yyyy-MM-dd');
+    return format(now, 'yyyy-MM-dd');
   }
   
   /**
@@ -67,41 +65,55 @@ class AIReporter {
     console.log(`🔍 搜索查询: ${query}`);
     console.log(`📊 配置: maxItems=${this.config.maxItems}, keywords=${this.config.searchKeywords.join(', ')}`);
     
-    const response = await fetch('https://api.tavily.com/search', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        api_key: this.config.tavilyApiKey,
-        query: query,
-        search_depth: 'advanced',
-        topic: 'news',
-        days: 1,
-        max_results: this.config.maxItems + 10,
-        include_domains: [
-          'openai.com', 'anthropic.com', 'deepseek.ai', 'huggingface.co',
-          'arxiv.org', 'scholar.google.com',
-          'techcrunch.com', 'theverge.com', 'arstechnica.com',
-          'wired.com', 'bloomberg.com', 'reuters.com',
-          '36kr.com', 'tech.sina.com.cn'
-        ]
-      })
-    });
-    
-    if (!response.ok) {
-      const errorText = await response.text();
-      console.error(`❌ Tavily API 错误: ${response.status} ${response.statusText}`);
-      console.error(`📋 错误详情: ${errorText}`);
-      throw new Error(`Tavily API error: ${response.status} ${response.statusText}`);
+    try {
+      const response = await fetch('https://api.tavily.com/search', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          api_key: this.config.tavilyApiKey,
+          query: query,
+          search_depth: 'advanced',
+          topic: 'news',
+          days: 1,
+          max_results: this.config.maxItems + 10,
+          include_domains: [
+            'openai.com', 'anthropic.com', 'deepseek.ai', 'huggingface.co',
+            'arxiv.org', 'scholar.google.com',
+            'techcrunch.com', 'theverge.com', 'arstechnica.com',
+            'wired.com', 'bloomberg.com', 'reuters.com',
+            '36kr.com', 'tech.sina.com.cn'
+          ]
+        })
+      });
+      
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error(`❌ Tavily API 错误: ${response.status} ${response.statusText}`);
+        console.error(`📋 错误详情: ${errorText}`);
+        throw new Error(`Tavily API error: ${response.status} ${response.statusText}`);
+      }
+      
+      const data = await response.json() as { results: any[]; message?: string };
+      console.log(`✅ Tavily 返回 ${data.results?.length || 0} 条结果`);
+      if (data.message) {
+        console.warn(`⚠️ Tavily 警告: ${data.message}`);
+      }
+      return data.results || [];
+    } catch (error: unknown) {
+      console.error('❌ fetchNews 异常:', error);
+      // 记录到文件
+      const fs = require('fs');
+      const logPath = 'public/fetch-error.log';
+      try {
+        fs.writeFileSync(logPath, `Time: ${new Date().toISOString()}\nError: ${error}\nQuery: ${query}\nAPI Key: ${this.config.tavilyApiKey.substring(0, 10)}...`);
+        console.error(`📝 错误日志已保存到 ${logPath}`);
+      } catch (e) {
+        // ignore
+      }
+      throw error;
     }
-    
-    const data = await response.json() as { results: any[]; message?: string };
-    console.log(`✅ Tavily 返回 ${data.results?.length || 0} 条结果`);
-    if (data.message) {
-      console.warn(`⚠️ Tavily 警告: ${data.message}`);
-    }
-    return data.results || [];
   }
   
   /**
@@ -182,6 +194,12 @@ class AIReporter {
     // 6. 同时保存 JSON 数据（用于后续扩展）
     this.saveJsonData(report);
     
+    // 7. 保存历史归档（避免重复调用 API）
+    this.saveArchive(report);
+    
+    // 8. 生成历史索引页面
+    this.generateHistoryIndex();
+    
     return report;
   }
   
@@ -202,6 +220,184 @@ class AIReporter {
       return value;
     }, 2));
     console.log(`📋 数据已保存到 ${jsonPath}`);
+  }
+  
+  /**
+   * 保存历史归档（按日期命名）
+   * - 避免重复生成：检查当天是否已存在，新报告时间更晚才覆盖
+   * - 保留HTML快照：同时保存渲染好的HTML页面
+   */
+  private saveArchive(report: DailyReport): void {
+    const fs = require('fs');
+    const archiveDir = `${this.config.outputDir}/archives`;
+    if (!fs.existsSync(archiveDir)) {
+      fs.mkdirSync(archiveDir, { recursive: true });
+    }
+    
+    const archiveJsonPath = `${archiveDir}/${report.date}.json`;
+    
+    // 检查是否已存在当日归档，并比较时间戳
+    if (fs.existsSync(archiveJsonPath)) {
+      console.log(`⚠️  当日归档已存在 (${report.date}.json)，正在检查是否需要更新...`);
+      try {
+        const existingData = JSON.parse(fs.readFileSync(archiveJsonPath, 'utf8'));
+        const existingAt = new Date(existingData.generatedAt).getTime();
+        const newAt = report.generatedAt.getTime();
+        if (newAt <= existingAt) {
+          console.log(`⏭️  新报告时间不晚于已有版本，跳过保存`);
+          return;
+        } else {
+          console.log(`🔄 新报告更新，覆盖旧版本`);
+        }
+      } catch (e) {
+        // 如果读取失败，继续保存
+        console.log(`⚠️  无法读取现有归档，将直接覆盖`);
+      }
+    }
+    
+    // 保存带日期的 JSON 归档
+    fs.writeFileSync(archiveJsonPath, JSON.stringify(report, (key, value) => {
+      if (value instanceof Date) {
+        return value.toISOString();
+      }
+      return value;
+    }, 2));
+    console.log(`📦 归档已保存到 ${archiveJsonPath}`);
+    
+    // 同时保存 HTML 快照
+    try {
+      const html = this.htmlGen.generate(report);
+      const archiveHtmlPath = `${archiveDir}/${report.date}.html`;
+      fs.writeFileSync(archiveHtmlPath, html);
+      console.log(`📄 HTML 归档已保存到 ${archiveHtmlPath}`);
+    } catch (e) {
+      console.warn(`⚠️  HTML 归档保存失败: ${e}`);
+    }
+  }
+  
+  /**
+   * 生成历史索引页面（history.html）
+   * 列出所有可用的往期报告
+   */
+  private generateHistoryIndex(): void {
+    const fs = require('fs');
+    const archiveDir = `${this.config.outputDir}/archives`;
+    
+    if (!fs.existsSync(archiveDir)) {
+      console.log('⚠️  归档目录不存在，跳过历史索引生成');
+      return;
+    }
+    
+    // 扫描所有归档文件
+    const files: string[] = fs.readdirSync(archiveDir)
+      .filter((name: string) => name.endsWith('.json'))
+      .map((name: string) => name.replace('.json', ''))
+      .sort()
+      .reverse(); // 最新的在前面
+    
+    if (files.length === 0) {
+      console.log('⚠️  暂无归档文件，跳过历史索引生成');
+      return;
+    }
+    
+    // 生成所有卡片 HTML
+    const cards: string[] = [];
+    for (const date of files) {
+      try {
+        const data = JSON.parse(fs.readFileSync(`${archiveDir}/${date}.json`, 'utf8'));
+        const { totalItems, highlights, summary } = data as any;
+        const p0 = highlights?.p0Count || 0;
+        const p1 = highlights?.p1Count || 0;
+        const p2 = highlights?.p2Count || 0;
+        const desc = summary ? (summary.length > 60 ? summary.substring(0, 60) + '...' : summary) : '无摘要';
+        const hasHtml = fs.existsSync(`${archiveDir}/${date}.html`);
+        
+        cards.push(`
+            <div class="card">
+                <div class="date">📅 ${date}</div>
+                <h3>AI 行业日报</h3>
+                <div class="stats">
+                    <span class="badge">🏆P0:${p0}</span>
+                    <span class="badge p1">⭐P1:${p1}</span>
+                    <span class="badge p2">📰P2:${p2}</span>
+                    <span>📝${totalItems}条</span>
+                </div>
+                <div style="font-size:0.9em;color:var(--text2);margin-bottom:12px;">${desc}</div>
+                <div style="display:flex; gap:10px; flex-wrap:wrap;">
+                    <a href="archives/${date}.json" class="view-btn" target="_blank">📄 原始数据</a>
+                    ${hasHtml ? `<a href="archives/${date}.html" class="view-btn" target="_blank" style="background:#28a745;">🌐 查看页面</a>` : ''}
+                </div>
+            </div>`);
+      } catch (e) {
+        // 跳过损坏的文件
+      }
+    }
+    
+    const now = new Date().toISOString();
+    const cardsHtml = cards.join('\n');
+    
+    const html = `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Daily Report - 历史归档</title>
+    <style>
+        :root {
+          --primary: #667eea;
+          --secondary: #764ba2;
+          --bg: #f8f9fa;
+          --card: #fff;
+          --text: #212529;
+          --text2: #6c757d;
+          --border: #e9ecef;
+          --shadow: 0 4px 6px rgba(0,0,0,0.1);
+          --radius: 12px;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background:linear-gradient(135deg,var(--primary),var(--secondary)); min-height:100vh; padding:20px; }
+        .container { max-width:1200px; margin:0 auto; }
+        header { background:rgba(255,255,255,0.95); backdrop-filter:blur(10px); border-radius:var(--radius); padding:30px; margin-bottom:30px; box-shadow:var(--shadow); text-align:center; }
+        h1 { color:var(--text); margin-bottom:10px; }
+        .subtitle { color:var(--text2); margin-bottom:20px; }
+        .back-link { display:inline-block; margin-top:15px; color:var(--primary); text-decoration:none; font-weight:600; }
+        .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px; }
+        .card { background:var(--card); border-radius:var(--radius); padding:20px; box-shadow:var(--shadow); transition:transform 0.2s; }
+        .card:hover { transform:translateY(-2px); }
+        .date { font-size:0.9em; color:var(--text2); margin-bottom:8px; }
+        .card h3 { color:var(--text); margin-bottom:12px; font-size:1.1em; }
+        .stats { display:flex; gap:15px; font-size:0.85em; color:var(--text2); margin-bottom:12px; }
+        .badge { background:var(--primary); color:#fff; padding:2px 8px; border-radius:10px; font-size:0.8em; }
+        .badge.p0 { background:#28a745; }
+        .badge.p1 { background:#ffc107; color:#000; }
+        .badge.p2 { background:#6c757d; }
+        .view-btn { display:inline-block; background:var(--primary); color:#fff; padding:8px 16px; border-radius:6px; text-decoration:none; font-size:0.9em; margin-top:10px; }
+        .view-btn:hover { background:var(--secondary); }
+        footer { text-align:center; margin-top:40px; color:rgba(255,255,255,0.8); font-size:0.9em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 AI Daily Report - 历史归档</h1>
+            <p class="subtitle">共 ${files.length} 期往期报告，点击查看详情</p>
+            <a href="index.html" class="back-link">← 返回最新一期</a>
+        </header>
+        
+        <div class="grid">
+${cardsHtml}
+        </div>
+        
+        <footer>
+            <p>Generated by OpenClaw Agent • ${now}</p>
+        </footer>
+    </div>
+</body>
+</html>`;
+    
+    const indexPath = `${this.config.outputDir}/history.html`;
+    fs.writeFileSync(indexPath, html);
+    console.log(`📜 历史索引已生成: ${indexPath}`);
   }
   
   /**
