@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI Daily Report - 2026-03-18 人工智能领域最新动态">
+    <title>AI Daily Report - 2026-03-18</title>
+    <style>
+        :root {
+          --primary: #667eea;
+          --secondary: #764ba2;
+          --bg-color: #f8f9fa;
+          --card-bg: #ffffff;
+          --text-main: #212529;
+          --text-secondary: #6c757d;
+          --border-color: #e9ecef;
+          --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          --radius: 12px;
+        }
+        
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+          background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+          min-height: 100vh;
+          padding: 20px;
+          line-height: 1.6;
+        }
+        
+        .container {
+          max-width: 1200px;
+          margin: 0 auto;
+        }
+        
+        header {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-bottom: 30px;
+          box-shadow: var(--shadow);
+          text-align: center;
+        }
+        
+        .logo {
+          font-size: 2rem;
+          font-weight: 700;
+          background: linear-gradient(135deg, var(--primary), var(--secondary));
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin-bottom: 10px;
+        }
+        
+        .subtitle {
+          color: var(--text-secondary);
+          margin-bottom: 15px;
+          font-size: 1.1rem;
+        }
+        
+        .stats {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          flex-wrap: wrap;
+          margin-top: 15px;
+        }
+        
+        .stat-item {
+          background: var(--bg-color);
+          padding: 8px 16px;
+          border-radius: 20px;
+          font-size: 0.9rem;
+          color: var(--text-secondary);
+        }
+        
+        .stat-item strong {
+          color: var(--text-main);
+          margin-left: 5px;
+        }
+        
+        .recommended-section {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-bottom: 30px;
+          box-shadow: var(--shadow);
+        }
+        
+        .recommended-section h2 {
+          color: var(--text-main);
+          margin-bottom: 20px;
+          font-size: 1.5rem;
+        }
+        
+        .recommended-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+          gap: 20px;
+        }
+        
+        .recommended-card {
+          background: var(--bg-color);
+          border-radius: 8px;
+          padding: 20px;
+          border-left: 4px solid var(--primary);
+          transition: transform 0.2s;
+        }
+        
+        .recommended-card:hover {
+          transform: translateY(-2px);
+        }
+        
+        .rec-header {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          margin-bottom: 10px;
+          font-size: 0.85rem;
+          color: var(--text-secondary);
+        }
+        
+        .rec-source {
+          font-weight: 600;
+        }
+        
+        .news-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+          gap: 20px;
+        }
+        
+        .news-card {
+          background: var(--card-bg);
+          border-radius: var(--radius);
+          padding: 25px;
+          box-shadow: var(--shadow);
+          transition: transform 0.2s, box-shadow 0.2s;
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+        }
+        
+        .news-card:hover {
+          transform: translateY(-4px);
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .card-header {
+          margin-bottom: 12px;
+        }
+        
+        .card-meta {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          font-size: 0.8rem;
+          color: var(--text-secondary);
+          flex-wrap: wrap;
+        }
+        
+        .badge {
+          padding: 2px 8px;
+          border-radius: 10px;
+          font-size: 0.75rem;
+          font-weight: 600;
+          text-transform: uppercase;
+        }
+        
+        .badge-p0 {
+          background: linear-gradient(135deg, #ffd700, #ffaa00);
+          color: #000;
+        }
+        
+        .badge-p1 {
+          background: linear-gradient(135deg, #667eea, #764ba2);
+          color: #fff;
+        }
+        
+        .badge-p2 {
+          background: #e9ecef;
+          color: #495057;
+        }
+        
+        .card-title {
+          font-size: 1.2rem;
+          line-height: 1.4;
+          margin-bottom: 12px;
+          color: var(--text-main);
+        }
+        
+        .card-title a {
+          text-decoration: none;
+          color: inherit;
+          transition: color 0.2s;
+        }
+        
+        .card-title a:hover {
+          color: var(--primary);
+        }
+        
+        .card-summary {
+          color: #495057;
+          font-size: 0.95rem;
+          flex-grow: 1;
+          margin-bottom: 15px;
+        }
+        
+        .card-tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+          margin-bottom: 15px;
+        }
+        
+        .tag {
+          background: var(--bg-color);
+          color: var(--primary);
+          padding: 3px 10px;
+          border-radius: 12px;
+          font-size: 0.75rem;
+          font-weight: 500;
+        }
+        
+        .card-footer {
+          margin-top: auto;
+        }
+        
+        .read-more {
+          display: inline-flex;
+          align-items: center;
+          gap: 5px;
+          color: var(--primary);
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 0.9rem;
+          transition: gap 0.2s;
+        }
+        
+        .read-more:hover {
+          gap: 8px;
+        }
+        
+        .tools-section {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-top: 30px;
+          box-shadow: var(--shadow);
+          text-align: center;
+        }
+        
+        .tools-section h2 {
+          color: var(--text-main);
+          margin-bottom: 20px;
+          font-size: 1.5rem;
+        }
+        
+        .tools-section p {
+          color: var(--text-secondary);
+          margin-bottom: 20px;
+          font-size: 1.1rem;
+        }
+        
+        .explore-btn {
+          display: inline-block;
+          background: linear-gradient(135deg, var(--primary), var(--secondary));
+          color: white;
+          padding: 15px 40px;
+          border-radius: 30px;
+          text-decoration: none;
+          font-weight: 700;
+          font-size: 1.1rem;
+          transition: transform 0.2s, box-shadow 0.2s;
+          box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .explore-btn:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+        
+        footer {
+          text-align: center;
+          padding: 30px;
+          color: rgba(255, 255, 255, 0.9);
+          margin-top: 40px;
+          font-size: 0.9rem;
+        }
+        
+        .generated-info {
+          background: rgba(0, 0, 0, 0.2);
+          padding: 15px;
+          border-radius: 8px;
+          margin-top: 15px;
+          font-size: 0.85rem;
+        }
+        
+        @media (max-width: 768px) {
+          .news-grid {
+            grid-template-columns: 1fr;
+          }
+          
+          .recommended-grid {
+            grid-template-columns: 1fr;
+          }
+          
+          .logo {
+            font-size: 1.5rem;
+          }
+          
+          header, .recommended-section, .tools-section {
+            padding: 20px;
+          }
+          
+          .news-card {
+            padding: 20px;
+          }
+        }
+        
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+        
+        .spinner {
+          width: 40px;
+          height: 40px;
+          border: 4px solid rgba(255,255,255,0.3);
+          border-top: 4px solid white;
+          border-radius: 50%;
+          animation: spin 1s linear infinite;
+          margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">🤖 AI Daily Report</div>
+            <div class="subtitle">2026-03-18 · 人工智能领域最新动态</div>
+            <div class="stats">
+                <div class="stat-item">📊 总计 <strong>12</strong> 条</div>
+                <div class="stat-item">🏆 官方 <strong>0</strong> 条</div>
+                <div class="stat-item">⭐ 大牛 <strong>0</strong> 条</div>
+                <div class="stat-item">📰 新闻 <strong>12</strong> 条</div>
+            </div>
+        </header>
+        
+        
+        
+        <main class="news-grid" id="news-container">
+            
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">reuters</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/" target="_blank" rel="noopener noreferrer">Alibaba&#39;s AI strategy shift comes into focus with big bets on agents - Reuters</a>
+        </h3>
+        <p class="card-summary">In recent months, ​Alibaba has rolled out several AI agent integrations and this week, the firm said it would separate its AI businesses from its clou...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">AI</span><span class="tag">OpenCL</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">wired</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/" target="_blank" rel="noopener noreferrer">Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED</a>
+        </h3>
+        <p class="card-summary">Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on mi...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">Claude</span><span class="tag">GPT</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank" rel="noopener noreferrer">Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise - TechCrunch</a>
+        </h3>
+        <p class="card-summary">Topics
+
+AI, ai models, Enterprise, Enterprise, Europe, Exclusive, France, LLMs, Mistral AI
+
+Anna Heim
+
+Freelance Reporter
+
+Anna Heim is a writer and e...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">AI</span><span class="tag">LLM</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/" target="_blank" rel="noopener noreferrer">The Pentagon is developing alternatives to Anthropic, report says - TechCrunch</a>
+        </h3>
+        <p class="card-summary">Instead, the Pentagon is building tools to replace Anthropic’s AI, according to a Bloomberg conversation with Cameron Stanley, the chief digital and A...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">AI</span><span class="tag">LLM</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">theverge</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence" target="_blank" rel="noopener noreferrer">Now everyone in the US is getting Google’s personalized Gemini AI - The Verge</a>
+        </h3>
+        <p class="card-summary">The homepage
+
+The homepage
+
+Navigation Drawer
+
+ Login
+  Sign Up
+
+Subscribe
+
+Comments Drawer
+
+Comments
+
+Loading comments
+
+Getting the conversation read...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">arstechnica</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/" target="_blank" rel="noopener noreferrer">Gamers react with overwhelming disgust to DLSS 5&#39;s generative AI glow-ups - Ars Technica</a>
+        </h3>
+        <p class="card-summary">Comments
+
+ Forum view
+
+Loading comments...
+
+Prev story
+
+Next story
+
+Most Read
+
+1. 1. Elon Musk&#39;s xAI sued for turning three girls&#39; real photos into AI...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/18</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/" target="_blank" rel="noopener noreferrer">Google’s Personal Intelligence feature is expanding to all US users - TechCrunch</a>
+        </h3>
+        <p class="card-summary">REGISTER NOW
+
+## Most Popular
+
+ Apple quietly launches AirPods Max 2
+
+  + Aisha Malik
+ The billionaires made a promise — now some want out
+
+  + Connie...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/" target="_blank" rel="noopener noreferrer">OpenAI expands government footprint with AWS deal, report says - TechCrunch</a>
+        </h3>
+        <p class="card-summary">OpenAI’s AWS deal sees the AI giant stepping onto Anthropic’s home turf. Amazon has invested at least $4 billion in Anthropic, and as such, Anthropic ...</p>
+        
+        <div class="card-tags">
+          <span class="tag">OpenAI</span><span class="tag">Claude</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/" target="_blank" rel="noopener noreferrer">AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby - TechCrunch</a>
+        </h3>
+        <p class="card-summary">## Most Popular
+
+ Apple quietly launches AirPods Max 2
+
+  + Aisha Malik
+ The billionaires made a promise — now some want out
+
+  + Connie Loizos
+ US Ar...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">theverge</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview" target="_blank" rel="noopener noreferrer">Capcom’s next big game explores the horrors of AI - The Verge</a>
+        </h3>
+        <p class="card-summary">Nintendo Switch 2 update adds ‘Handheld Boost Mode’ for original Switch games
+
+DLSS 5 looks like a real-time generative AI filter for video games
+
+Rem...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/" target="_blank" rel="noopener noreferrer">Gamma adds AI image generation tools in bid to take on Canva and Adobe - TechCrunch</a>
+        </h3>
+        <p class="card-summary">The company says its new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and...</p>
+        
+        <div class="card-tags">
+          <span class="tag">Claude</span><span class="tag">GPT</span><span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+
+      <article class="news-card" data-credibility="P2" data-category="tech">
+        <div class="card-header">
+          <div class="card-meta">
+            💻
+            <span class="source">techcrunch</span>
+            <span class="badge badge-p2">📰 新闻</span>
+            <span class="date">2026/3/17</span>
+          </div>
+        </div>
+        <h3 class="card-title">
+          <a href="https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/" target="_blank" rel="noopener noreferrer">Niv-AI exits stealth to wring more power performance out of GPUs - TechCrunch</a>
+        </h3>
+        <p class="card-summary">+ Tim Fernholz
+ Lovable says it added $100M in revenue last month alone, with just 146 employees
+
+  + Anna Heim
+
+Loading the next article
+
+Error loadi...</p>
+        
+        <div class="card-tags">
+          <span class="tag">AI</span>
+        </div>
+        <div class="card-footer">
+          <a href="https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/" target="_blank" rel="noopener noreferrer" class="read-more">
+            阅读原文 →
+          </a>
+        </div>
+      </article>
+    
+        </main>
+        
+        <section class="tools-section">
+          <h2>🧪 实验性功能</h2>
+          <p>这里有一些正在测试中的小工具，可能会不稳定</p>
+          <a href="tools/index.html" class="explore-btn">打开测试工具 →</a>
+        </section>
+        
+        <footer>
+            <p>Powered by OpenClaw Agent & GitHub Pages</p>
+            <div class="generated-info">
+                <p>📅 报告日期: 2026-03-18</p>
+                <p>⏰ 生成时间: 2026/3/18 16:22:27</p>
+                <p>🔗 <a href="history.html" style="color:white;text-decoration:underline;">查看往期归档</a></p>
+                <p style="margin-top:10px; font-size:0.8rem; opacity:0.8;">
+                    数据来源：Tavily AI Search · 可信度分级：P0(官方) > P1(大牛) > P2(新闻)
+                </p>
+            </div>
+        </footer>
+    </div>
+    
+    <script>
+        let loading = false;
+        let page = 1;
+        
+        window.addEventListener('scroll', () => {
+          if (loading) return;
+          if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+            loadMore();
+          }
+        });
+        
+        async function loadMore() {
+          loading = true;
+          console.log('Loading more reports...');
+          // 实际实现会从 JSON API 加载往期数据
+          // await fetch(`/api/reports?page=${page}`).then(...)
+          loading = false;
+          page++;
+        }
+    </script>
+</body>
+</html>

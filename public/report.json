@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-18",
+  "generatedAt": "2026-03-18T08:22:27.929Z",
+  "totalItems": 12,
+  "items": [
+    {
+      "id": "news-1773822147929-8",
+      "title": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
+      "summary": "In recent months, ​Alibaba has rolled out several AI agent integrations and this week, the firm said it would separate its AI businesses from its clou...",
+      "url": "https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-18T07:29:41.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1773822147929-3",
+      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
+      "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on mi...",
+      "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-18T00:51:14.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1773822147928-1",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise - TechCrunch",
+      "summary": "Topics\n\nAI, ai models, Enterprise, Enterprise, Europe, Exclusive, France, LLMs, Mistral AI\n\nAnna Heim\n\nFreelance Reporter\n\nAnna Heim is a writer and e...",
+      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T21:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1773822147928-0",
+      "title": "The Pentagon is developing alternatives to Anthropic, report says - TechCrunch",
+      "summary": "Instead, the Pentagon is building tools to replace Anthropic’s AI, according to a Bloomberg conversation with Cameron Stanley, the chief digital and A...",
+      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T18:20:15.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1773822147929-4",
+      "title": "Now everyone in the US is getting Google’s personalized Gemini AI - The Verge",
+      "summary": "The homepage\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nSubscribe\n\nComments Drawer\n\nComments\n\nLoading comments\n\nGetting the conversation read...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T16:33:41.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-6",
+      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups - Ars Technica",
+      "summary": "Comments\n\n Forum view\n\nLoading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Elon Musk's xAI sued for turning three girls' real photos into AI...",
+      "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T16:29:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-11",
+      "title": "Google’s Personal Intelligence feature is expanding to all US users - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Apple quietly launches AirPods Max 2\n\n  + Aisha Malik\n The billionaires made a promise — now some want out\n\n  + Connie...",
+      "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147928-2",
+      "title": "OpenAI expands government footprint with AWS deal, report says - TechCrunch",
+      "summary": "OpenAI’s AWS deal sees the AI giant stepping onto Anthropic’s home turf. Amazon has invested at least $4 billion in Anthropic, and as such, Anthropic ...",
+      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T15:37:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-9",
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby - TechCrunch",
+      "summary": "## Most Popular\n\n Apple quietly launches AirPods Max 2\n\n  + Aisha Malik\n The billionaires made a promise — now some want out\n\n  + Connie Loizos\n US Ar...",
+      "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T15:16:21.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-7",
+      "title": "Capcom’s next big game explores the horrors of AI - The Verge",
+      "summary": "Nintendo Switch 2 update adds ‘Handheld Boost Mode’ for original Switch games\n\nDLSS 5 looks like a real-time generative AI filter for video games\n\nRem...",
+      "url": "https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-5",
+      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe - TechCrunch",
+      "summary": "The company says its new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and...",
+      "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773822147929-10",
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs - TechCrunch",
+      "summary": "+ Tim Fernholz\n Lovable says it added $100M in revenue last month alone, with just 146 employees\n\n  + Anna Heim\n\nLoading the next article\n\nError loadi...",
+      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-17T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    }
+  ],
+  "highlights": {
+    "p0Count": 0,
+    "p1Count": 0,
+    "p2Count": 12
+  },
+  "summary": ""
+}
