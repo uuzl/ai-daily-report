@@ -343,7 +343,7 @@ async function updateAlgorithmInfo() {
   `;
 }
 
-function startSort() {
+async function startSort() {
   if (sorting) return;
   sorting = true;
   abort = false;
