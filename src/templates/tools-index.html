@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>测试工具 - AI Daily Report</title>
+  <style>
+    :root {
+      --primary: #667eea;
+      --secondary: #764ba2;
+      --bg-color: #f8f9fa;
+      --card-bg: #ffffff;
+      --text-main: #212529;
+      --text-secondary: #6c757d;
+      --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      --radius: 12px;
+    }
+    
+    * { margin:0; padding:0; box-sizing:border-box; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    header {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-radius: var(--radius);
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+    
+    .logo {
+      font-size: 2rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+    }
+    
+    .subtitle {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+    }
+    
+    .back-link {
+      display: inline-block;
+      margin-top: 15px;
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    
+    .back-link:hover {
+      text-decoration: underline;
+    }
+    
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 25px;
+    }
+    
+    .tool-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 30px;
+      box-shadow: var(--shadow);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s, box-shadow 0.2s;
+      display: block;
+    }
+    
+    .tool-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
+    
+    .tool-icon {
+      font-size: 3rem;
+      margin-bottom: 15px;
+    }
+    
+    .tool-card h3 {
+      color: var(--text-main);
+      font-size: 1.3rem;
+      margin-bottom: 10px;
+    }
+    
+    .tool-card p {
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+    
+    .tool-status {
+      display: inline-block;
+      background: #d4edda;
+      color: #155724;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+    
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: rgba(255, 255, 255, 0.9);
+      margin-top: 40px;
+      font-size: 0.9rem;
+    }
+    
+    @media (max-width: 768px) {
+      .tools-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="../index.html" class="back-link">← 返回日报首页</a>
+      <div class="logo">🛠️ 测试工具</div>
+      <div class="subtitle">实验性功能集合，用于快速验证想法</div>
+    </header>
+    
+    <main class="tools-grid">
+      <a href="maze.html" class="tool-card">
+        <div class="tool-icon">🧩</div>
+        <h3>迷宫生成器</h3>
+        <p>随机生成黑墙白底迷宫，支持自定义尺寸 n×n，含寻路功能</p>
+        <div class="tool-status">✅ 已就绪</div>
+      </a>
+    </main>
+    
+    <footer>
+      <p>Powered by OpenClaw Agent</p>
+    </footer>
+  </div>
+</body>
+</html>
