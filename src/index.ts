@@ -5,14 +5,11 @@ import { HTMLGenerator } from './generate-html';
 import { format } from 'date-fns';
 
 /**
- * AI Daily Report 主程序
- * 
- * 工作流程：
- * 1. 从环境变量读取配置
- * 2. 使用 Tavily API 搜索 AI 新闻
+ * AI Daily Report 主程�? * 
+ * 工作流程�? * 1. 从环境变量读取配�? * 2. 使用 Tavily API 搜索 AI 新闻
  * 3. 根据可信度分级和编辑推荐整理
- * 4. 生成美观的 HTML 页面
- * 5. 保存到 public/ 目录
+ * 4. 生成美观�?HTML 页面
+ * 5. 保存�?public/ 目录
  * 6. 自动 git commit & push
  */
 
@@ -49,11 +46,11 @@ class AIReporter {
   
   /**
    * 构建 Tavily 搜索查询
-   * 注意：不能同时使用 days 参数和 after: 语法，这里只用关键词组合
+   * 注意：不能同时使�?days 参数�?after: 语法，这里只用关键词组合
    */
   private buildSearchQuery(): string {
     const keywords = this.config.searchKeywords.join(' OR ');
-    // 只用关键词，时间范围由 days 参数控制
+    // 只用关键词，时间范围�?days 参数控制
     return `(${keywords})`;
   }
   
@@ -90,19 +87,19 @@ class AIReporter {
       
       if (!response.ok) {
         const errorText = await response.text();
-        console.error(`❌ Tavily API 错误: ${response.status} ${response.statusText}`);
+        console.error(`�?Tavily API 错误: ${response.status} ${response.statusText}`);
         console.error(`📋 错误详情: ${errorText}`);
         throw new Error(`Tavily API error: ${response.status} ${response.statusText}`);
       }
       
       const data = await response.json() as { results: any[]; message?: string };
-      console.log(`✅ Tavily 返回 ${data.results?.length || 0} 条结果`);
+      console.log(`�?Tavily 返回 ${data.results?.length || 0} 条结果`);
       if (data.message) {
         console.warn(`⚠️ Tavily 警告: ${data.message}`);
       }
       return data.results || [];
     } catch (error: unknown) {
-      console.error('❌ fetchNews 异常:', error);
+      console.error('fetchNews 异常:', error);
       // 记录到文件
       const fs = require('fs');
       const logPath = 'public/fetch-error.log';
@@ -110,7 +107,7 @@ class AIReporter {
         fs.writeFileSync(logPath, `Time: ${new Date().toISOString()}\nError: ${error}\nQuery: ${query}\nAPI Key: ${this.config.tavilyApiKey.substring(0, 10)}...`);
         console.error(`📝 错误日志已保存到 ${logPath}`);
       } catch (e) {
-        // ignore
+        // 忽略错误
       }
       throw error;
     }
@@ -127,7 +124,7 @@ class AIReporter {
     
     // 排序规则：P0 > P1 > P2，相同级别按时间倒序
     items.sort((a, b) => {
-      // 先按可信度
+      // 先按可信度排序
       const credOrder = [SourceCredibility.P0, SourceCredibility.P1, SourceCredibility.P2];
       const aCred = credOrder.indexOf(a.credibility);
       const bCred = credOrder.indexOf(b.credibility);
@@ -153,15 +150,15 @@ class AIReporter {
    * 执行生成报告
    */
   async generate(): Promise<DailyReport> {
-    console.log('🚀 开始生成 AI Daily Report...');
+    console.log('🚀 开始生�?AI Daily Report...');
     
     // 1. 抓取新闻
     const rawResults = await this.fetchNews();
-    console.log(`📥 获取到 ${rawResults.length} 条原始结果`);
+    console.log(`📥 获取�?${rawResults.length} 条原始结果`);
     
     // 2. 组织新闻（排序、去重、筛选）
     const items = this.organizeNews(rawResults);
-    console.log(`✅ 整理后 ${items.length} 条新闻`);
+    console.log(`�?整理�?${items.length} 条新闻`);
     
     const p0Count = items.filter(i => i.credibility === SourceCredibility.P0).length;
     const p1Count = items.filter(i => i.credibility === SourceCredibility.P1).length;
@@ -194,21 +191,16 @@ class AIReporter {
     // 6. 同时保存 JSON 数据（用于后续扩展）
     this.saveJsonData(report);
     
-    // 7. 保存历史归档（避免重复调用 API）
-    this.saveArchive(report);
+    // 7. 保存历史归档（避免重复调�?API�?    this.saveArchive(report);
     
     // 8. 生成历史索引页面
     this.generateHistoryIndex();
-    
-    // 9. 生成测试工具页面
-    this.generateTestTools();
     
     return report;
   }
   
   /**
-   * 保存 JSON 数据（用于历史记录或 API）
-   */
+   * 保存 JSON 数据（用于历史记录或 API�?   */
   private saveJsonData(report: DailyReport): void {
     const jsonPath = `${this.config.outputDir}/report.json`;
     const fs = require('fs');
@@ -226,9 +218,7 @@ class AIReporter {
   }
   
   /**
-   * 保存历史归档（按日期命名）
-   * - 避免重复生成：检查当天是否已存在，新报告时间更晚才覆盖
-   * - 保留HTML快照：同时保存渲染好的HTML页面
+   * 保存历史归档（按日期命名�?   * - 避免重复生成：检查当天是否已存在，新报告时间更晚才覆�?   * - 保留HTML快照：同时保存渲染好的HTML页面
    */
   private saveArchive(report: DailyReport): void {
     const fs = require('fs');
@@ -239,9 +229,9 @@ class AIReporter {
     
     const archiveJsonPath = `${archiveDir}/${report.date}.json`;
     
-    // 检查是否已存在当日归档，并比较时间戳
+    // 检查是否已存在当日归档，并比较时间
     if (fs.existsSync(archiveJsonPath)) {
-      console.log(`⚠️  当日归档已存在 (${report.date}.json)，正在检查是否需要更新...`);
+      console.log(`⚠️  当日归档已存�?(${report.date}.json)，正在检查是否需要更�?..`);
       try {
         const existingData = JSON.parse(fs.readFileSync(archiveJsonPath, 'utf8'));
         const existingAt = new Date(existingData.generatedAt).getTime();
@@ -253,8 +243,7 @@ class AIReporter {
           console.log(`🔄 新报告更新，覆盖旧版本`);
         }
       } catch (e) {
-        // 如果读取失败，继续保存
-        console.log(`⚠️  无法读取现有归档，将直接覆盖`);
+        // 如果读取失败，继续保存        console.log(`⚠️  无法读取现有归档，将直接覆盖`);
       }
     }
     
@@ -296,8 +285,7 @@ class AIReporter {
       .filter((name: string) => name.endsWith('.json'))
       .map((name: string) => name.replace('.json', ''))
       .sort()
-      .reverse(); // 最新的在前面
-    
+      .reverse(); // 最新的在前    
     if (files.length === 0) {
       console.log('⚠️  暂无归档文件，跳过历史索引生成');
       return;
@@ -323,7 +311,7 @@ class AIReporter {
                     <span class="badge">🏆P0:${p0}</span>
                     <span class="badge p1">⭐P1:${p1}</span>
                     <span class="badge p2">📰P2:${p2}</span>
-                    <span>📝${totalItems}条</span>
+                    <span>📝${totalItems}</span>
                 </div>
                 <div style="font-size:0.9em;color:var(--text2);margin-bottom:12px;">${desc}</div>
                 <div style="display:flex; gap:10px; flex-wrap:wrap;">
@@ -383,7 +371,7 @@ class AIReporter {
     <div class="container">
         <header>
             <h1>📚 AI Daily Report - 历史归档</h1>
-            <p class="subtitle">共 ${files.length} 期往期报告，点击查看详情</p>
+            <p class="subtitle">${files.length} 期往期报告，点击查看详情</p>
             <a href="index.html" class="back-link">← 返回最新一期</a>
         </header>
         
@@ -392,7 +380,7 @@ ${cardsHtml}
         </div>
         
         <footer>
-            <p>Generated by OpenClaw Agent • ${now}</p>
+            <p>Generated by OpenClaw Agent ${now}</p>
         </footer>
     </div>
 </body>
@@ -400,28 +388,7 @@ ${cardsHtml}
     
     const indexPath = `${this.config.outputDir}/history.html`;
     fs.writeFileSync(indexPath, html);
-    console.log(`📜 历史索引已生成: ${indexPath}`);
-  }
-  
-  /**
-   * 生成测试工具页面集合
-   */
-  private generateTestTools(): void {
-    const fs = require('fs');
-    const toolsDir = `${this.config.outputDir}/tools`;
-    if (!fs.existsSync(toolsDir)) {
-      fs.mkdirSync(toolsDir, { recursive: true });
-    }
-    
-    // 1. 生成工具列表页 (tools/index.html)
-    const toolsIndexHtml = this.htmlGen.generateToolsPage();
-    this.htmlGen.save(toolsIndexHtml, `${toolsDir}/index.html`);
-    console.log(`🛠️  工具列表已生成: ${toolsDir}/index.html`);
-    
-    // 2. 生成迷宫工具页 (tools/maze.html)
-    const mazeHtml = this.htmlGen.generateMazePage();
-    this.htmlGen.save(mazeHtml, `${toolsDir}/maze.html`);
-    console.log(`🧩 迷宫工具已生成: ${toolsDir}/maze.html`);
+    console.log(`📜 历史索引已生成 ${indexPath}`);
   }
   
   /**
@@ -442,13 +409,12 @@ async function main() {
     console.log('🚀 开始生成 AI Daily Report...');
     const report = await reporter.generate();
     
-    console.log('\n' + '='.repeat(60));
     console.log('📊 AI Daily Report 生成完成');
     console.log('='.repeat(60));
     console.log(`📅 日期: ${report.date}`);
     console.log(`📝 新闻数: ${report.totalItems}`);
     console.log(`🏆 P0: ${report.highlights.p0Count} | ⭐ P1: ${report.highlights.p1Count} | 📰 P2: ${report.highlights.p2Count}`);
-    console.log(`✨ 推荐: ${report.summary}`);
+    console.log(`💡 推荐: ${report.summary}`);
     console.log('='.repeat(60) + '\n');
     
     console.log('✅ 报告生成完成。Git 提交将由 GitHub Actions 处理。');
