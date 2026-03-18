@@ -200,6 +200,9 @@ class AIReporter {
     // 8. 生成历史索引页面
     this.generateHistoryIndex();
     
+    // 9. 生成测试工具页面
+    this.generateTestTools();
+    
     return report;
   }
   
@@ -398,6 +401,27 @@ ${cardsHtml}
     const indexPath = `${this.config.outputDir}/history.html`;
     fs.writeFileSync(indexPath, html);
     console.log(`📜 历史索引已生成: ${indexPath}`);
+  }
+  
+  /**
+   * 生成测试工具页面集合
+   */
+  private generateTestTools(): void {
+    const fs = require('fs');
+    const toolsDir = `${this.config.outputDir}/tools`;
+    if (!fs.existsSync(toolsDir)) {
+      fs.mkdirSync(toolsDir, { recursive: true });
+    }
+    
+    // 1. 生成工具列表页 (tools/index.html)
+    const toolsIndexHtml = this.htmlGen.generateToolsPage();
+    this.htmlGen.save(toolsIndexHtml, `${toolsDir}/index.html`);
+    console.log(`🛠️  工具列表已生成: ${toolsDir}/index.html`);
+    
+    // 2. 生成迷宫工具页 (tools/maze.html)
+    const mazeHtml = this.htmlGen.generateMazePage();
+    this.htmlGen.save(mazeHtml, `${toolsDir}/maze.html`);
+    console.log(`🧩 迷宫工具已生成: ${toolsDir}/maze.html`);
   }
   
   /**
