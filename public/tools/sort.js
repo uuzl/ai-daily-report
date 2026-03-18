@@ -47,6 +47,14 @@ const padding = 60;      // 画布两侧预留空间
 const canvas = document.getElementById('sort-canvas');
 const ctx = canvas.getContext('2d');
 
+let array = [];
+let originalArray = [];
+let comparisons = 0;
+let swaps = 0;
+let sorting = false;
+let abort = false;
+let sortedCount = 0;
+
 function getColor(value, max, state) {
   const hue = 220 + (value / max) * 60; // 蓝色到紫色范围
   switch(state) {
