@@ -391,6 +391,50 @@ export class HTMLGenerator {
           animation: spin 1s linear infinite;
           margin: 20px auto;
         }
+        
+        /* 实验性功能 section */
+        .tools-section {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(10px);
+          border-radius: var(--radius);
+          padding: 30px;
+          margin-bottom: 30px;
+          box-shadow: var(--shadow);
+          text-align: center;
+        }
+        
+        .tools-section h2 {
+          color: var(--text-main);
+          margin-bottom: 10px;
+          font-size: 1.5rem;
+        }
+        
+        .tools-section p {
+          color: var(--text-secondary);
+          margin-bottom: 20px;
+        }
+        
+        .explore-btn {
+          display: inline-block;
+          background: linear-gradient(135deg, var(--primary), var(--secondary));
+          color: white;
+          padding: 12px 24px;
+          border-radius: 8px;
+          text-decoration: none;
+          font-weight: 600;
+          transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .explore-btn:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+        
+        @media (max-width: 768px) {
+          .tools-section {
+            padding: 20px;
+          }
+        }
     </style>
 </head>
 <body>
@@ -411,6 +455,12 @@ export class HTMLGenerator {
         <main class="news-grid" id="news-container">
             ${newsCards}
         </main>
+        
+        <section class="tools-section">
+          <h2>🧪 实验性功能</h2>
+          <p>这里有一些正在测试中的小工具，可能会不稳定</p>
+          <a href="tools/index.html" class="explore-btn">打开测试工具 →</a>
+        </section>
         
         <footer>
             <p>Powered by OpenClaw Agent & GitHub Pages</p>
