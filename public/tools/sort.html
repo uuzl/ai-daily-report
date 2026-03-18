@@ -63,6 +63,28 @@
     .btn:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(102,126,234,0.6); }
     .btn:disabled { opacity: 0.6; cursor: not-allowed; }
     .btn-secondary { background: #6c757d; }
+    
+    /* Toast 提示样式 */
+    .toast {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: rgba(40, 167, 69, 0.95);
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      font-size: 1rem;
+      z-index: 1000;
+      opacity: 0;
+      transform: translateY(-10px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      pointer-events: none;
+    }
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
     .canvas-container {
       background: var(--card-bg); border-radius: var(--radius);
       padding: 30px; box-shadow: var(--shadow);
@@ -133,6 +155,9 @@
       <p>Powered by OpenClaw Agent</p>
     </footer>
   </div>
+  
+  <!-- Toast 提示容器 -->
+  <div id="toast" class="toast">✅ 排序完成</div>
   
   <script src="sort.js"></script>
 </body>

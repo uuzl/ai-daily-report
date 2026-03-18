@@ -72,6 +72,15 @@ function updateStats() {
   document.getElementById('swaps').textContent = swaps;
 }
 
+function showToast(message, duration = 3000) {
+  const toast = document.getElementById('toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  setTimeout(() => {
+    toast.classList.remove('show');
+  }, duration);
+}
+
 async function bubbleSort() {
   const n = array.length;
   for (let i = 0; i < n - 1; i++) {
@@ -275,8 +284,9 @@ async function startSort() {
   }
   
   if (!abort) {
+    sortedCount = array.length;
     drawArray([]);
-    alert(`排序完成！\n比较次数: ${comparisons}\n交换次数: ${swaps}`);
+    showToast(`✅ 排序完成！比较: ${comparisons}, 交换: ${swaps}`);
   }
   
   sorting = false;
