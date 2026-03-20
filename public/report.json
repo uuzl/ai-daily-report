@@ -1,199 +1,238 @@
 {
-  "date": "2026-03-19",
-  "generatedAt": "2026-03-19T02:34:35.969Z",
-  "totalItems": 12,
+  "date": "2026-03-20",
+  "generatedAt": "2026-03-20T02:27:03.212Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1773887675969-4",
-      "title": "Meta is having trouble with rogue AI agents - TechCrunch",
-      "summary": "+ Amanda Silberling\n AI\n\n  ### Sam Altman’s thank-you to coders draws the memes\n\n  + Julie Bort\n AI\n\n  ### Nothing CEO Carl Pei says smartphone apps w...",
-      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "id": "news-1773973623212-11",
+      "title": "Alibaba Targets $100 Billion of AI Revenue in Five Years - Bloomberg.com",
+      "summary": "The AI Race:\n\nBorrowing Boom\n\nBonanza or Bubble?\n\nHistoric RAM Shortages\n\nGemini Mac App\n\nOpenClaw Mania\n\nAI Chips’ Climate Cost\n\nTechnology\n\nAI\n\n# Al...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-19/alibaba-revenue-disappoints-as-ai-profit-push-grows-urgent",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-19/alibaba-revenue-disappoints-as-ai-profit-push-grows-urgent",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T23:42:46.000Z",
+      "publishedAt": "2026-03-20T00:07:34.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "OpenCL",
-        "Agent"
+        "benchmark"
       ]
     },
     {
-      "id": "news-1773887675969-7",
-      "title": "Sam Altman’s thank-you to coders draws the memes - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\n“Sam’s eulogy for software engineers”  \n  \n“It’s times like this when I really miss the Sam Alt...",
-      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "id": "news-1773973623211-0",
+      "title": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude - Bloomberg.com",
+      "summary": "AI Chips’ Climate Cost\n\nBack Forward\n\nTechnology\n\nAI\n\n# Google Begins Testing Gemini Mac App to Match ChatGPT and Claude\n\nGift this article\n\nAdd us on...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T19:18:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1773973623211-4",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business\n\n  + Rebecca Szkutak\n ##...",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T23:12:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1773887675968-1",
-      "title": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
-      "summary": "Alphabet-owned (GOOGL.O), opens new tab Google has narrowed the gap with ⁠AI market leaders OpenAI and Anthropic, after initially scrambling to retain...",
-      "url": "https://www.reuters.com/business/finance/bridgewaters-chief-scientist-sekhon-join-googles-deepmind-ai-unit-2026-03-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/bridgewaters-chief-scientist-sekhon-join-googles-deepmind-ai-unit-2026-03-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-18T22:55:44.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1773887675968-0",
-      "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\" - Ars Technica",
-      "summary": "In the intervening years, of course, an unignorable AI hype train has transformed these LLMs from fun toys into the linchpin of the entire tech indust...",
-      "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-18T22:06:32.000Z",
+      "publishedAt": "2026-03-19T19:09:02.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1773887675969-11",
-      "title": "Quantum leap: UK partnerships are accelerating commercial applications for quantum technologies - TechCrunch",
-      "summary": "### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news [...] ### Topics\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCryp...",
-      "url": "https://techcrunch.com/sponsor/uk-office-for-investment/quantum-leap-uk-partnerships-are-accelerating-commercial-applications-for-quantum-technologies/",
+      "id": "news-1773973623212-12",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors - TechCrunch",
+      "summary": "+ Rebecca Szkutak\n Apple quietly launches AirPods Max 2\n\n  + Aisha Malik\n The billionaires made a promise — now some want out\n\n  + Connie Loizos\n US A...",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/sponsor/uk-office-for-investment/quantum-leap-uk-partnerships-are-accelerating-commercial-applications-for-quantum-technologies/",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T20:01:19.000Z",
+      "publishedAt": "2026-03-19T17:24:13.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1773887675969-5",
-      "title": "ChatGPT did not cure a dog’s cancer - The Verge",
-      "summary": "That nuance was lost as the story spread. Newsweek ran the headline “Owner With No Medical Background Invents Cure for Dog’s Terminal Cancer,” while t...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "id": "news-1773973623212-14",
+      "title": "Startup Battlefield 200 nominations are still open - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nTopics\n\nAI, Apps, Biotech & Health, Climate, Fintech, Fundraising, Space, Startup Battlefield, ...",
+      "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773973623211-5",
+      "title": "Can Paramount break the Warner Bros. curse? - The Verge",
+      "summary": "This is the title for the native ad\n\n## More in Podcasts\n\nThe future of code is exciting and terrifying\n\nYahoo CEO Jim Lanzone on reviving the web’s h...",
+      "url": "https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "sourceUrl": "https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T18:14:39.000Z",
+      "publishedAt": "2026-03-19T14:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1773887675969-2",
-      "title": "The leaderboard “you can’t game,” funded by the companies it ranks - TechCrunch",
-      "summary": "Theresa Loconsolo\n\n24 min\n\nLoading the player…\n\nArtificial intelligence models are multiplying fast, and competition is stiff. With so many players cr...",
-      "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-18T16:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1773887675969-6",
-      "title": "This startup wants to make enterprise software look more like a prompt - TechCrunch",
+      "id": "news-1773973623212-8",
+      "title": "Tools for founders to navigate and move past conflict - TechCrunch",
       "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
-      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "url": "https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T16:00:00.000Z",
+      "publishedAt": "2026-03-19T14:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1773887675969-3",
-      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’ - TechCrunch",
-      "summary": "+ Amanda Silberling\n Government & Policy\n\n  ### OpenAI expands government footprint with AWS deal, report says\n\n  + Rebecca Bellan [...] REGISTER NOW\n...",
-      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-18T13:40:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1773887675969-8",
-      "title": "Inside will.i.am's Trinity EV: A car that thinks and computes - Reuters",
-      "summary": "Load More Technology Videos\n\nTechnology\n\n## Inside will.i.am's Trinity EV: A car that thinks and computes\n\nMarch 18, 2026\n\nMusician and tech entrepren...",
-      "url": "https://www.reuters.com/video/watch/idRW517618032026RP1/?chan=technology",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW517618032026RP1/?chan=technology",
+      "id": "news-1773973623211-6",
+      "title": "Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nJune 9\n\nBoston, MA...",
+      "url": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T13:29:53.000Z",
+      "publishedAt": "2026-03-19T13:19:41.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1773887675969-9",
-      "title": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-18T07:29:41.000Z",
-      "category": "tech",
-      "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1773887675969-10",
-      "title": "China’s AI Stocks Rise as Nvidia’s Huang Calls OpenClaw 'the Next ChatGPT' - Bloomberg.com",
-      "summary": "MiniMax Group Inc., which just released a new self-evolving agent, extended earlier gains to climb as much as 29% to a record high. Knowledge Atlas Te...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt",
+      "id": "news-1773973623212-10",
+      "title": "Adobe’s AI image generator can now be trained on your own art - The Verge",
+      "summary": "Update, March 19th: added statement from Adobe spokesperson.\n\nFollow topics and authors from this story to see more like this in your personalized hom...",
+      "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
       "credibility": "P2",
-      "publishedAt": "2026-03-18T07:05:50.000Z",
+      "publishedAt": "2026-03-19T13:00:00.000Z",
       "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773973623212-7",
+      "title": "Feds intensify investigation into Tesla’s Full Self-Driving (Supervised) software - TechCrunch",
+      "summary": "You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nView Bio\n\nJune 9\n\n...",
+      "url": "https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T12:32:47.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773973623211-2",
+      "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy - Reuters",
+      "summary": "© 2026 Reuters. All rights reserved\n\nImage 21: dot image pixelImage 22Image 23Image 24Image 25Image 26Image 27Image 28Image 29Image 30Image 31Image 32...",
+      "url": "https://www.reuters.com/business/hegseth-wants-pentagon-dump-anthropics-claude-military-users-say-its-not-so-easy-2026-03-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/hegseth-wants-pentagon-dump-anthropics-claude-military-users-say-its-not-so-easy-2026-03-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T10:02:21.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773973623212-13",
+      "title": "Musk says Tesla may 'tape out' next-generation AI6 chips in December - Reuters",
+      "summary": "Suggested Topics:\n   Autos & Transportation\n   ADAS, AV & Safety\n   Sustainable & EV Supply Chain\n   EV Strategy\n   Products\n\n    \n    \n    \n    \n    ...",
+      "url": "https://www.reuters.com/business/autos-transportation/musk-says-tesla-may-tape-out-next-generation-ai6-chips-december-2026-03-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/musk-says-tesla-may-tape-out-next-generation-ai6-chips-december-2026-03-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T08:29:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1773973623211-1",
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream - TechCrunch",
+      "summary": "Real-time usage monitoring is one of the key features of the API, and that’s no accident. Alongside the potential advantages of deploying on the edge,...",
+      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1773973623212-9",
+      "title": "Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### Sam Altman’s thank-you to coders draws...",
+      "url": "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T06:11:53.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "OpenCL"
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1773973623211-3",
+      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze - WIRED",
+      "summary": "OpenAI executives say they’d like Codex to power general-purpose agents inside of ChatGPT. Meanwhile, Anthropic has already built a version of this, C...",
+      "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-19T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
