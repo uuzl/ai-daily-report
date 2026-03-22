@@ -1,62 +1,73 @@
 {
-  "date": "2026-03-21",
-  "generatedAt": "2026-03-21T02:21:41.135Z",
-  "totalItems": 14,
+  "date": "2026-03-22",
+  "generatedAt": "2026-03-22T02:35:14.736Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1774059701134-3",
-      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput - TechCrunch",
-      "summary": "His declaration takes on the government’s claim that Anthropic could theoretically interfere with military operations by disabling the technology or o...",
-      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T01:40:28.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774059701134-2",
-      "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says - Reuters",
-      "summary": "Palantir developed its AI system to serve the Pentagon’s Project Maven, which began as a drone-imagery labeling program in 2017. In 2024, the Pentagon...",
-      "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
+      "id": "news-1774146914735-7",
+      "title": "788.F - | Stock Price & Latest News - Reuters",
+      "summary": "# 788.F - | Stock Price & Latest News | Reuters\n\nReport AdImage 1\n\nExclusive news, data and analytics for financial market professionals Learn more ab...",
+      "url": "https://www.reuters.com/markets/companies/788.F/financials/cash-flow-annual/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
+      "sourceUrl": "https://www.reuters.com/markets/companies/788.F/financials/cash-flow-annual/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T23:49:20.000Z",
+      "publishedAt": "2026-03-22T01:21:22.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1774059701134-6",
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business\n\n  + Rebecca Szkutak\n Why Garry ...",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "id": "news-1774146914735-12",
+      "title": "Volkswagen CEO tells newspaper German carmakers should look to Chinese planning - Reuters",
+      "summary": "## Read Next\n\n Autos & Transportationcategory\n\n  US regulator closes defect petition covering over 2 million Tesla vehicles\n Legalcategory\n\n  Hyundai ...",
+      "url": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-tells-newspaper-german-carmakers-should-look-chinese-planning-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-tells-newspaper-german-carmakers-should-look-chinese-planning-2026-03-21/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T20:53:09.000Z",
+      "publishedAt": "2026-03-21T23:03:43.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1774059701135-10",
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet - TechCrunch",
-      "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\n\nView Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundrai...",
-      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "id": "news-1774146914735-2",
+      "title": "It’s been 20 years since the first tweet - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Startups\n\n  ### Delve accused of misleading cust...",
+      "url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T20:02:35.000Z",
+      "publishedAt": "2026-03-21T20:30:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774146914735-4",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns - TechCrunch",
+      "summary": "June 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbooks and dire...",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T19:30:27.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774146914735-3",
+      "title": "Delve accused of misleading customers with ‘fake compliance’ - TechCrunch",
+      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T17:00:05.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -65,91 +76,30 @@
       ]
     },
     {
-      "id": "news-1774059701135-9",
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either - WIRED",
-      "summary": "Everything Samsung Announced at Galaxy Unpacked 2026\n\nSamsung’s new phones all get AI enhancements, and the flagship Galaxy S26 Ultra has a Privacy Di...",
-      "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-20T19:13:19.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1774059701135-12",
-      "title": "Why scientists can’t get a laugh - TechCrunch",
-      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\n...",
-      "url": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+      "id": "news-1774146914735-6",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference - TechCrunch",
+      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T17:39:06.000Z",
+      "publishedAt": "2026-03-21T16:28:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1774059701134-0",
-      "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
-      "summary": "As a publishing platform, WordPress powers over 43% of all websites on the internet. The hosted version at WordPress.com represents only a small fract...",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "id": "news-1774146914735-1",
+      "title": "OpenAI to expand ads on ChatGPT to all free and low-cost users, The Information reports - Reuters",
+      "summary": "Skip to main content\n\n# OpenAI to expand ads on ChatGPT to all free and low-cost users, The Information reports\n\nBy Reuters\n\nMarch 21 (Reuters) - Open...",
+      "url": "https://www.reuters.com/business/media-telecom/openai-expand-ads-chatgpt-all-free-low-cost-users-information-reports-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-expand-ads-chatgpt-all-free-low-cost-users-information-reports-2026-03-21/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T16:43:09.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774059701135-11",
-      "title": "Amazon is reportedly developing an AI-centric smartphone - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs\n2. 2. Googl...",
-      "url": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-20T16:38:06.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1774059701134-5",
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents - TechCrunch",
-      "summary": "The framework comes as Anthropic is suing the government for allegedly infringing on its First Amendment rights after the Defense Department labeled i...",
-      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-20T16:14:04.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774059701134-4",
-      "title": "AI startups are eating the venture industry and the returns, so far, are good - TechCrunch",
-      "summary": "“While funding rounds have gotten slightly harder to raise, the capital for each round has increased,” Peter Walker, head of insights at Carta, told T...",
-      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-20T15:41:21.000Z",
+      "publishedAt": "2026-03-21T16:20:10.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -158,46 +108,44 @@
       ]
     },
     {
-      "id": "news-1774059701134-8",
-      "title": "Amazon working on new smartphone with Alexa at its core, report says - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business\n\n  + Rebecca Szkutak\n Why Garry ...",
-      "url": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+      "id": "news-1774146914735-14",
+      "title": "Apple M5 MacBook Pro and Air Review: When the Neo Isn’t Enough - Bloomberg.com",
+      "summary": "Apple:\n\nFoldable iPhone\n\n$599 MacBook Neo\n\niPhone 17e\n\nUS Manufacturing Push\n\nInvestor Haven\n\nEarnings\n\nTechnology\n\nConsumer Tech\n\n# Apple M5 MacBook ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T14:51:30.000Z",
+      "publishedAt": "2026-03-21T15:00:05.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1774059701134-7",
-      "title": "Google Search is now using AI to replace headlines - The Verge",
-      "summary": "Sean Hollister\n\n## Most Popular\n\nMost Popular\n\n1. Belkin’s wireless HDMI adapter freed me from a long annoying cable when I travel\n2. Marc Andreessen ...",
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "id": "news-1774146914735-9",
+      "title": "How fusion power works and the startups pursuing it - TechCrunch",
+      "summary": "Here is a brief overview of the main approaches to fusion power.\n\nTechcrunch event\n\n### Disrupt 2026: The tech ecosystem, all in one room\n\n#### Your n...",
+      "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T14:30:00.000Z",
+      "publishedAt": "2026-03-21T14:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "Claude",
         "AI",
-        "RAG"
+        "Agent"
       ]
     },
     {
-      "id": "news-1774059701134-1",
-      "title": "Russia to give itself sweeping powers to ban or restrict foreign AI tools - Reuters",
-      "summary": "# Russia to give itself sweeping powers to ban or restrict foreign AI tools | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data an...",
-      "url": "https://www.reuters.com/business/russia-give-itself-sweeping-powers-ban-or-restrict-foreign-ai-tools-2026-03-20/",
+      "id": "news-1774146914734-0",
+      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
+      "summary": "Skip to main content\n\n# OpenAI to nearly double workforce to 8,000 by end-2026, FT reports\n\nBy Reuters\n\nMarch 21 (Reuters) - Artificial intelligence s...",
+      "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/russia-give-itself-sweeping-powers-ban-or-restrict-foreign-ai-tools-2026-03-20/",
+      "sourceUrl": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T13:04:36.000Z",
+      "publishedAt": "2026-03-21T12:25:07.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -206,24 +154,83 @@
       ]
     },
     {
-      "id": "news-1774059701135-13",
-      "title": "How to manage risk in a global economy where trade is a weapon - Reuters",
-      "summary": "AI risk will trigger a global economic reckoning\n\nWhile AI delivers value for sourcing intelligence, the WEF highlights elements of AI as a rapidly es...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/how-manage-risk-global-economy-where-trade-is-weapon--ecmii-2026-03-20/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/how-manage-risk-global-economy-where-trade-is-weapon--ecmii-2026-03-20/",
+      "id": "news-1774146914735-5",
+      "title": "Gemini task automation is slow, clunky, and super impressive - The Verge",
+      "summary": "The homepage\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nSubscribe\n\nComments Drawer\n\nComments\n\nLoading comments\n\nGetting the conversation read...",
+      "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
       "credibility": "P2",
-      "publishedAt": "2026-03-20T11:19:28.000Z",
+      "publishedAt": "2026-03-21T11:30:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "news-1774146914735-8",
+      "title": "Paul Freud on using art to understand wars and politics - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/lifestyle/culture-current/paul-freud-using-art-understand-wars-politics-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/lifestyle/culture-current/paul-freud-using-art-understand-wars-politics-2026-03-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1774146914735-13",
+      "title": "Officer killed in drone strike near Iraqi intelligence headquarters in Baghdad - Reuters",
+      "summary": "Skip to main content\n\n# Officer killed in drone strike near Iraqi intelligence headquarters in Baghdad\n\nBy Reuters\n\nBAGHDAD, March 21 (Reuters) - An o...",
+      "url": "https://www.reuters.com/world/officer-killed-drone-strike-near-iraqi-intelligence-headquarters-baghdad-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/officer-killed-drone-strike-near-iraqi-intelligence-headquarters-baghdad-2026-03-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T09:37:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774146914735-11",
+      "title": "Jamal Murray's 31-point output lifts Nuggets in comeback vs. Raptors - Reuters",
+      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
+      "url": "https://www.reuters.com/sports/basketball/jamal-murrays-31-point-output-lifts-nuggets-comeback-vs-raptors--flm-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/jamal-murrays-31-point-output-lifts-nuggets-comeback-vs-raptors--flm-2026-03-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T05:18:57.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1774146914735-10",
+      "title": "Top-seeded Florida scores historic blowout of Prairie View A&M - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sports/basketball/top-seeded-florida-scores-historic-blowout-prairie-view-am--flm-2026-03-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/top-seeded-florida-scores-historic-blowout-prairie-view-am--flm-2026-03-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-21T04:09:17.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 15
   },
   "summary": ""
 }
