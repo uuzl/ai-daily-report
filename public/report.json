@@ -1,73 +1,91 @@
 {
-  "date": "2026-03-22",
-  "generatedAt": "2026-03-22T02:35:14.736Z",
-  "totalItems": 15,
+  "date": "2026-03-23",
+  "generatedAt": "2026-03-23T02:35:49.502Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1774146914735-7",
-      "title": "788.F - | Stock Price & Latest News - Reuters",
-      "summary": "# 788.F - | Stock Price & Latest News | Reuters\n\nReport AdImage 1\n\nExclusive news, data and analytics for financial market professionals Learn more ab...",
-      "url": "https://www.reuters.com/markets/companies/788.F/financials/cash-flow-annual/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/markets/companies/788.F/financials/cash-flow-annual/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T01:21:22.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774146914735-12",
-      "title": "Volkswagen CEO tells newspaper German carmakers should look to Chinese planning - Reuters",
-      "summary": "## Read Next\n\n Autos & Transportationcategory\n\n  US regulator closes defect petition covering over 2 million Tesla vehicles\n Legalcategory\n\n  Hyundai ...",
-      "url": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-tells-newspaper-german-carmakers-should-look-chinese-planning-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-ceo-tells-newspaper-german-carmakers-should-look-chinese-planning-2026-03-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T23:03:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774146914735-2",
-      "title": "It’s been 20 years since the first tweet - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Startups\n\n  ### Delve accused of misleading cust...",
-      "url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "id": "news-1774233349501-4",
+      "title": "Do you want to build a robot snowman? - TechCrunch",
+      "summary": "The founder has gone to OpenAI. So it’s now this open source project that potentially can flourish and evolve beyond its creator, or it could languish...",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T20:30:47.000Z",
+      "publishedAt": "2026-03-22T19:45:07.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1774146914735-4",
-      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns - TechCrunch",
-      "summary": "June 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbooks and dire...",
-      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "id": "news-1774233349501-2",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\n“We are proud to see Kimi-k2.5 provide the foundation,” the Kimi account said. “Seeing our mode...",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T19:30:27.000Z",
+      "publishedAt": "2026-03-22T18:41:09.000Z",
+      "category": "hot",
+      "tags": [
+        "Claude",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774233349502-8",
+      "title": "Fletcher Loyer, Purdue outlast Miami to advance to Sweet 16 - Reuters",
+      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
+      "url": "https://www.reuters.com/sports/basketball/fletcher-loyer-purdue-outlast-miami-advance-sweet-16--flm-2026-03-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/fletcher-loyer-purdue-outlast-miami-advance-sweet-16--flm-2026-03-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-22T18:34:37.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1774146914735-3",
+      "id": "news-1774233349502-12",
+      "title": "Mets OF Mike Tauchman's injury opens spot for top prospect Carson Benge - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sports/mets-mike-tauchmans-injury-opens-spot-top-prospect-carson-benge--flm-2026-03-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/mets-mike-tauchmans-injury-opens-spot-top-prospect-carson-benge--flm-2026-03-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-22T16:38:58.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774233349502-6",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla - TechCrunch",
+      "summary": "+ Julie Bort\n AI\n\n  ### Are AI tokens the new signing bonus or just a cost of doing business?\n\n  + Connie Loizos\n\n## Latest in AI\n\n In Brief\n\n  ### El...",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-22T16:20:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774233349501-5",
       "title": "Delve accused of misleading customers with ‘fake compliance’ - TechCrunch",
       "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
-      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T17:00:05.000Z",
+      "publishedAt": "2026-03-22T14:43:51.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -76,161 +94,118 @@
       ]
     },
     {
-      "id": "news-1774146914735-6",
-      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference - TechCrunch",
-      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
-      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T16:28:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1774146914735-1",
-      "title": "OpenAI to expand ads on ChatGPT to all free and low-cost users, The Information reports - Reuters",
-      "summary": "Skip to main content\n\n# OpenAI to expand ads on ChatGPT to all free and low-cost users, The Information reports\n\nBy Reuters\n\nMarch 21 (Reuters) - Open...",
-      "url": "https://www.reuters.com/business/media-telecom/openai-expand-ads-chatgpt-all-free-low-cost-users-information-reports-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-expand-ads-chatgpt-all-free-low-cost-users-information-reports-2026-03-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T16:20:10.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774146914735-14",
-      "title": "Apple M5 MacBook Pro and Air Review: When the Neo Isn’t Enough - Bloomberg.com",
-      "summary": "Apple:\n\nFoldable iPhone\n\n$599 MacBook Neo\n\niPhone 17e\n\nUS Manufacturing Push\n\nInvestor Haven\n\nEarnings\n\nTechnology\n\nConsumer Tech\n\n# Apple M5 MacBook ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users",
+      "id": "news-1774233349501-0",
+      "title": "Apple’s AirPods Max 2 Blurs the Lines Between Marketing and Innovation - Bloomberg.com",
+      "summary": "A: The Mac has seen a resurgence in recent years, and it’s become a key artificial intelligence tool with the advent of services like Anthropic’s Cowo...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/apple-s-airpods-max-2-blurs-the-lines-between-marketing-and-innovation-mn1pfx3h",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-03-22/apple-s-airpods-max-2-blurs-the-lines-between-marketing-and-innovation-mn1pfx3h",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T15:00:05.000Z",
+      "publishedAt": "2026-03-22T12:00:01.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774146914735-9",
-      "title": "How fusion power works and the startups pursuing it - TechCrunch",
-      "summary": "Here is a brief overview of the main approaches to fusion power.\n\nTechcrunch event\n\n### Disrupt 2026: The tech ecosystem, all in one room\n\n#### Your n...",
-      "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
+        "OpenAI",
         "AI",
-        "Agent"
+        "RAG"
       ]
     },
     {
-      "id": "news-1774146914734-0",
-      "title": "OpenAI to nearly double workforce to 8,000 by end-2026, FT reports - Reuters",
-      "summary": "Skip to main content\n\n# OpenAI to nearly double workforce to 8,000 by end-2026, FT reports\n\nBy Reuters\n\nMarch 21 (Reuters) - Artificial intelligence s...",
-      "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
+      "id": "news-1774233349501-1",
+      "title": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
+      "summary": "The OpenAI deal makes AWS the exclusive provider of the model maker’s new AI agent builder, Frontier, which could become an important part of OpenAI’s...",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T12:25:07.000Z",
+      "publishedAt": "2026-03-22T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1774146914735-5",
-      "title": "Gemini task automation is slow, clunky, and super impressive - The Verge",
-      "summary": "The homepage\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nSubscribe\n\nComments Drawer\n\nComments\n\nLoading comments\n\nGetting the conversation read...",
-      "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T11:30:00.000Z",
-      "category": "tech",
-      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1774146914735-8",
-      "title": "Paul Freud on using art to understand wars and politics - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/lifestyle/culture-current/paul-freud-using-art-understand-wars-politics-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/lifestyle/culture-current/paul-freud-using-art-understand-wars-politics-2026-03-21/",
+      "id": "news-1774233349502-11",
+      "title": "AI was everywhere at gaming’s big developer conference — except the games - The Verge",
+      "summary": "Photo by the GDC Festival of Gaming\n\nIt was a common refrain. Those I spoke to, most of whom were indie developers, disavowed AI, and many said they w...",
+      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T10:00:00.000Z",
+      "publishedAt": "2026-03-22T12:00:00.000Z",
       "category": "tech",
       "tags": [
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1774233349502-9",
+      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-22T07:36:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1774233349502-7",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business? - TechCrunch",
+      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-22T06:20:43.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1774146914735-13",
-      "title": "Officer killed in drone strike near Iraqi intelligence headquarters in Baghdad - Reuters",
-      "summary": "Skip to main content\n\n# Officer killed in drone strike near Iraqi intelligence headquarters in Baghdad\n\nBy Reuters\n\nBAGHDAD, March 21 (Reuters) - An o...",
-      "url": "https://www.reuters.com/world/officer-killed-drone-strike-near-iraqi-intelligence-headquarters-baghdad-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/officer-killed-drone-strike-near-iraqi-intelligence-headquarters-baghdad-2026-03-21/",
+      "id": "news-1774233349501-3",
+      "title": "Elon Musk says Tesla, xAI, SpaceX ‘Terafab’ to start in Austin - Bloomberg.com",
+      "summary": "Musk, the chief executive officer of both companies, said he will start off with an “advanced technology fab” in Austin that will have all of the equi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T09:37:13.000Z",
+      "publishedAt": "2026-03-22T04:50:35.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1774146914735-11",
-      "title": "Jamal Murray's 31-point output lifts Nuggets in comeback vs. Raptors - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/sports/basketball/jamal-murrays-31-point-output-lifts-nuggets-comeback-vs-raptors--flm-2026-03-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/jamal-murrays-31-point-output-lifts-nuggets-comeback-vs-raptors--flm-2026-03-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-21T05:18:57.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1774146914735-10",
-      "title": "Top-seeded Florida scores historic blowout of Prairie View A&M - Reuters",
+      "id": "news-1774233349502-10",
+      "title": "Andrej Stojakovic, No. 3 Illinois blow past No. 11 VCU - Reuters",
       "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/basketball/top-seeded-florida-scores-historic-blowout-prairie-view-am--flm-2026-03-21/",
+      "url": "https://www.reuters.com/sports/basketball/andrej-stojakovic-no-3-illinois-blow-past-no-11-vcu--flm-2026-03-22/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/top-seeded-florida-scores-historic-blowout-prairie-view-am--flm-2026-03-21/",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/andrej-stojakovic-no-3-illinois-blow-past-no-11-vcu--flm-2026-03-22/",
       "credibility": "P2",
-      "publishedAt": "2026-03-21T04:09:17.000Z",
+      "publishedAt": "2026-03-22T02:38:09.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "TPU"
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 13
   },
   "summary": ""
 }
