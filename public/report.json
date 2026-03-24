@@ -1,211 +1,238 @@
 {
-  "date": "2026-03-23",
-  "generatedAt": "2026-03-23T02:35:49.502Z",
-  "totalItems": 13,
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T02:27:50.604Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1774233349501-4",
-      "title": "Do you want to build a robot snowman? - TechCrunch",
-      "summary": "The founder has gone to OpenAI. So it’s now this open source project that potentially can flourish and evolve beyond its creator, or it could languish...",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "id": "news-1774319270603-5",
+      "title": "Emil Michael, now a senior Pentagon official, says he'll never forgive Uber investors who ousted him and Kalanick - TechCrunch",
+      "summary": "Meanwhile, Michael has found a new battlefront. The interview was recorded just before the DoD’s negotiations with Anthropic publicly collapsed, and h...",
+      "url": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T19:45:07.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349501-2",
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\n“We are proud to see Kimi-k2.5 provide the foundation,” the Kimi account said. “Seeing our mode...",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T18:41:09.000Z",
-      "category": "hot",
-      "tags": [
-        "Claude",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349502-8",
-      "title": "Fletcher Loyer, Purdue outlast Miami to advance to Sweet 16 - Reuters",
-      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
-      "url": "https://www.reuters.com/sports/basketball/fletcher-loyer-purdue-outlast-miami-advance-sweet-16--flm-2026-03-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/fletcher-loyer-purdue-outlast-miami-advance-sweet-16--flm-2026-03-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T18:34:37.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349502-12",
-      "title": "Mets OF Mike Tauchman's injury opens spot for top prospect Carson Benge - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/mets-mike-tauchmans-injury-opens-spot-top-prospect-carson-benge--flm-2026-03-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/mets-mike-tauchmans-injury-opens-spot-top-prospect-carson-benge--flm-2026-03-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T16:38:58.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349502-6",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla - TechCrunch",
-      "summary": "+ Julie Bort\n AI\n\n  ### Are AI tokens the new signing bonus or just a cost of doing business?\n\n  + Connie Loizos\n\n## Latest in AI\n\n In Brief\n\n  ### El...",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T16:20:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349501-5",
-      "title": "Delve accused of misleading customers with ‘fake compliance’ - TechCrunch",
-      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T14:43:51.000Z",
+      "publishedAt": "2026-03-23T23:49:10.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1774233349501-0",
-      "title": "Apple’s AirPods Max 2 Blurs the Lines Between Marketing and Innovation - Bloomberg.com",
-      "summary": "A: The Mac has seen a resurgence in recent years, and it’s become a key artificial intelligence tool with the advent of services like Anthropic’s Cowo...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/apple-s-airpods-max-2-blurs-the-lines-between-marketing-and-innovation-mn1pfx3h",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-03-22/apple-s-airpods-max-2-blurs-the-lines-between-marketing-and-innovation-mn1pfx3h",
+      "id": "news-1774319270604-14",
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund - TechCrunch",
+      "summary": "Topics\n\nAI, Europe, Venture, venture\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 202...",
+      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T12:00:01.000Z",
+      "publishedAt": "2026-03-23T22:36:39.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270604-11",
+      "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop” - Ars Technica",
+      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. A unique NASA satellite is falling out of orbit—this team is trying to rescue it\n2. 2. Y...",
+      "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T21:19:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270603-1",
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great - TechCrunch",
+      "summary": "AI may represent a new medium for lawmakers to potentially regulate, but personal data has long been fueling the digital economy. (Ironically, Anthrop...",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T20:15:59.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1774233349501-1",
-      "title": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
-      "summary": "The OpenAI deal makes AWS the exclusive provider of the model maker’s new AI agent builder, Frontier, which could become an important part of OpenAI’s...",
-      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-22T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774233349502-11",
-      "title": "AI was everywhere at gaming’s big developer conference — except the games - The Verge",
-      "summary": "Photo by the GDC Festival of Gaming\n\nIt was a common refrain. Those I spoke to, most of whom were indie developers, disavowed AI, and many said they w...",
-      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "id": "news-1774319270603-2",
+      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’ - The Verge",
+      "summary": "### Related\n\n Gemini task automation is slow, clunky, and super impressive\n\n### Related\n\n The Galaxy S26 is a photography nightmare\n\nFollow topics and...",
+      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "sourceUrl": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T12:00:00.000Z",
+      "publishedAt": "2026-03-23T19:49:11.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "TPU"
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1774233349502-9",
-      "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/",
+      "id": "news-1774319270604-8",
+      "title": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing - WIRED",
+      "summary": "Anthropic Claims Pentagon Feud Could Cost It Billions\n\nExecutives at the AI startup say companies paused deal talks after the Trump administration lab...",
+      "url": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T19:46:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270604-12",
+      "title": "AI may boost euro area productivity growth by 4% in 10 years, ECB says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   21 mins agoTechnology categoryApple to hold annual developers conference from June 8 , opens new tab\n\n### ...",
+      "url": "https://www.reuters.com/business/finance/ai-may-boost-euro-area-productivity-growth-by-4-10-years-ecb-says-2026-03-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/",
+      "sourceUrl": "https://www.reuters.com/business/finance/ai-may-boost-euro-area-productivity-growth-by-4-10-years-ecb-says-2026-03-23/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T07:36:49.000Z",
+      "publishedAt": "2026-03-23T16:52:09.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "OpenCL",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1774233349502-7",
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business? - TechCrunch",
-      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
-      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "id": "news-1774319270603-3",
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen - TechCrunch",
+      "summary": "“We got started when Alap posed an interesting problem that AI is going to be about your [users’] data. Models don’t know anything about you, and that...",
+      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T06:20:43.000Z",
+      "publishedAt": "2026-03-23T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1774319270604-7",
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way - TechCrunch",
+      "summary": "+ Sarah Perez\n Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business\n\n  + Rebecca Szkutak\n Why Garry Tan’s Claude Code...",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270603-4",
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’ - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nThe AI lab last week submitted two declarations to the court that claim the government’s logic ...",
+      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T15:22:57.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270604-13",
+      "title": "CERAWEEK US needs more energy development to power AI, Google president says - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/energy/ceraweek-us-needs-more-energy-development-power-ai-google-president-says-2026-03-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/ceraweek-us-needs-more-energy-development-power-ai-google-president-says-2026-03-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T15:20:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270604-6",
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI - TechCrunch",
+      "summary": "+ Connie Loizos\n Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place\n\n  + Sarah Perez\n Nvidia is quietly building a...",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T15:03:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774319270604-9",
+      "title": "HSBC appoints David Rice as first chief AI officer - Reuters",
+      "summary": "Reporting ​by Lawrence White; Editing by Kirsten Donovan and Barbara Lewis\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Su...",
+      "url": "https://www.reuters.com/business/finance/hsbc-appoints-david-rice-first-chief-ai-officer-2026-03-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/hsbc-appoints-david-rice-first-chief-ai-officer-2026-03-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-23T13:13:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1774233349501-3",
-      "title": "Elon Musk says Tesla, xAI, SpaceX ‘Terafab’ to start in Austin - Bloomberg.com",
-      "summary": "Musk, the chief executive officer of both companies, said he will start off with an “advanced technology fab” in Austin that will have all of the equi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
+      "id": "news-1774319270604-10",
+      "title": "Alibaba launches latest agentic AI platform with international unit's Accio Work - Reuters",
+      "summary": "The launch comes less than a ​week after another Alibaba division introduced Wukong, an enterprise-focused agentic AI platform that can coordinate mul...",
+      "url": "https://www.reuters.com/business/finance/alibaba-launches-latest-agentic-ai-platform-with-international-units-accio-work-2026-03-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/alibaba-launches-latest-agentic-ai-platform-with-international-units-accio-work-2026-03-23/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T04:50:35.000Z",
-      "category": "tech",
+      "publishedAt": "2026-03-23T13:02:21.000Z",
+      "category": "product",
       "tags": [
-        "OpenAI",
-        "AI"
+        "AI",
+        "Agent"
       ]
     },
     {
-      "id": "news-1774233349502-10",
-      "title": "Andrej Stojakovic, No. 3 Illinois blow past No. 11 VCU - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/basketball/andrej-stojakovic-no-3-illinois-blow-past-no-11-vcu--flm-2026-03-22/",
+      "id": "news-1774319270603-0",
+      "title": "China's open-source dominance threatens US AI lead, US advisory body warns - Reuters",
+      "summary": "## CHINA POISED TO CAPITALISE ON SHIFT TO EMBODIED ​AI\n\nSome estimates suggest that around 80% of U.S. AI startups now use Chinese open-source AI mode...",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns-2026-03-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/andrej-stojakovic-no-3-illinois-blow-past-no-11-vcu--flm-2026-03-22/",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns-2026-03-23/",
       "credibility": "P2",
-      "publishedAt": "2026-03-22T02:38:09.000Z",
+      "publishedAt": "2026-03-23T12:02:07.000Z",
       "category": "tech",
       "tags": [
-        "AI"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
