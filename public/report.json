@@ -1,49 +1,88 @@
 {
-  "date": "2026-03-25",
-  "generatedAt": "2026-03-25T02:32:49.253Z",
-  "totalItems": 13,
+  "date": "2026-03-26",
+  "generatedAt": "2026-03-26T02:39:56.174Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1774405969251-0",
-      "title": "Update on the OpenAI Foundation - OpenAI",
-      "summary": "OpenAI to acquire Promptfoo Company Mar 9, 2026\n\nOur Research\n   Research Index\n   Research Overview\n   Research Residency\n   OpenAI for Science\n   Ec...",
-      "url": "https://openai.com/index/update-on-the-openai-foundation/",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/update-on-the-openai-foundation/",
-      "credibility": "P0",
-      "publishedAt": "2026-03-24T16:00:24.000Z",
+      "id": "news-1774492796173-14",
+      "title": "Taiwan indicates next US arms sale is on track after receiving guarantee letter - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/china/taiwan-indicates-next-us-arms-sale-is-track-after-receiving-guarantee-letter-2026-03-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/taiwan-indicates-next-us-arms-sale-is-track-after-receiving-guarantee-letter-2026-03-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-26T02:16:55.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1774405969252-6",
-      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down - TechCrunch",
-      "summary": "But just because Sora is gone doesn’t mean the threat went with it. The Sora 2 model is still available — it’s just tucked behind the ChatGPT paywall....",
-      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "id": "news-1774492796173-13",
+      "title": "Stocks on edge as Middle East ceasefire talks take centre stage - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-03-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-03-26/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T23:57:55.000Z",
+      "publishedAt": "2026-03-26T02:13:33.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1774492796173-16",
+      "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever - The Verge",
+      "summary": "Cox Communications not liable for pirated music, Supreme Court rules\n\nMeta is laying off hundreds of employees as it pours money into AI\n\nEmma Roth\n\nR...",
+      "url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+      "credibility": "P2",
+      "publishedAt": "2026-03-26T00:33:07.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1774405969252-3",
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash - TechCrunch",
-      "summary": "Rebecca Bellan\n\nFor developers using AI, “vibe coding” right now comes down to babysitting every action or risking letting the model run unchecked. An...",
-      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "id": "news-1774492796173-3",
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India - TechCrunch",
+      "summary": "View Bio\n\nJune 9\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?  \n  \nTechCrunch Founder Summit 2026 delivers tactical playbook...",
+      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T21:00:30.000Z",
+      "publishedAt": "2026-03-26T00:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-5",
+      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Someone has publicly leaked an exploit kit that can hack millions of iPhones\n\n  + Lorenzo Franceschi-Bicchierai\n  + Za...",
+      "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-26T00:03:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1774492796173-1",
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nHe said Anthropic looked at which roles involve tasks AI is particularly good at, are already b...",
+      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T21:44:13.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,14 +91,90 @@
       ]
     },
     {
-      "id": "news-1774405969252-4",
-      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year - The Verge",
-      "summary": "This is the title for the native ad\n\n## More in AI\n\nChatGPT and Gemini are fighting to be the AI bot that sells you stuff\n\nAnthropic’s Claude Code and...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "id": "news-1774492796173-6",
+      "title": "Google unveils TurboQuant, a lossless AI memory compression algorithm — and yes, the internet is calling it 'Pied Piper' - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Someone has publicly leaked an exploit kit that can hack millions of iPhones\n\n  + Lorenzo Franceschi-Bicchierai\n  + Za...",
+      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T20:43:14.000Z",
+      "publishedAt": "2026-03-25T20:38:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-2",
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - WIRED",
+      "summary": "Will Knight is a senior writer for WIRED, covering artificial intelligence. He writes the AI Lab newsletter, a weekly dispatch from beyond the cutting...",
+      "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T18:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-8",
+      "title": "Bernie Sanders and AOC propose a ban on data center construction - TechCrunch",
+      "summary": "+ Sean O'Kane\n\n## Latest in AI\n\n In Brief\n\n  ### Bernie Sanders and AOC propose a ban on data center construction\n\n  + Tim Fernholz\n AI\n\n  ### Google ...",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T17:15:50.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-7",
+      "title": "Google launches Lyria 3 Pro music generation model - TechCrunch",
+      "summary": "+ Anthony Ha\n Delve accused of misleading customers with ‘fake compliance’\n\n  + Anthony Ha\n An exclusive tour of Amazon’s Trainium lab, the chip that’...",
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T16:37:43.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-15",
+      "title": "Robotic arms bring sign language to Kenya's STEM classrooms - Reuters",
+      "summary": "### Oddly Enough\n25 stories\n\n   ### Entertainment\n25 stories\n\n## Sports [...] ### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched fin...",
+      "url": "https://www.reuters.com/video/watch/idRW723125032026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW723125032026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T15:07:06.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774492796173-0",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nJune 9\n\nBoston, MA...",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-25T14:48:40.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,149 +183,55 @@
       ]
     },
     {
-      "id": "news-1774405969252-2",
-      "title": "OpenAI adds open source tools to help developers build for teen safety - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nOpenAI admits that these policies aren’t a solution to the complicated challenges of AI safety....",
-      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "id": "news-1774492796173-10",
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Someone has publicly leaked an exploit kit that can hack millions of iPhones\n\n  + Lorenzo Franceschi-Bicchierai\n  + Za...",
+      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T18:41:34.000Z",
+      "publishedAt": "2026-03-25T14:16:17.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1774405969252-7",
-      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud - TechCrunch",
-      "summary": "“We’re leaning into configurability and letting users control where their data goes: pick your own LLM, auto-export to [note-taking app] Obsidian, web...",
-      "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T18:41:33.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1774405969252-10",
-      "title": "Arm unveils new AI chip, expects it to add billions in annual revenue - Reuters",
-      "summary": "Reporting by Max A. Cherney in San Francisco; Editing by Muralikumar Anantharaman and Nick Zieminski\n\nOur Standards: The Thomson Reuters Trust Princip...",
-      "url": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T17:02:41.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774405969252-8",
-      "title": "Arm Is Now Making Its Own Chips - WIRED",
-      "summary": "From helium extraction in Qatar to shipping lanes in the Strait of Hormuz, the semiconductor industry depends on fragile links across the Gulf. Escala...",
-      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1774405969252-5",
-      "title": "Claude Code can now take over your computer to complete tasks - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nAnthropic is joining the increasingly crowded field of companies with AI agents that can take direct c...",
-      "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+      "id": "news-1774492796173-9",
+      "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans - Ars Technica",
+      "summary": "Disney and OpenAI announced the blockbuster three-year licensing deal in December, saying that over 200 Disney-owned characters would be available for...",
+      "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+      "sourceUrl": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T15:45:19.000Z",
+      "publishedAt": "2026-03-25T13:56:56.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1774405969252-1",
-      "title": "Anthropic’s Claude Code and Cowork can control your computer - The Verge",
-      "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "id": "news-1774492796173-4",
+      "title": "Elon Musk pauses changes to X’s creator revenue-sharing program after backlash - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nJune 9\n\nBoston, MA...",
+      "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/",
       "credibility": "P2",
-      "publishedAt": "2026-03-24T13:32:23.000Z",
+      "publishedAt": "2026-03-25T13:41:35.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1774405969252-9",
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions - TechCrunch",
-      "summary": "Ivan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including ...",
-      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1774405969252-12",
-      "title": "Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos - TechCrunch",
-      "summary": "Aisha Malik\n\nConsumer News Reporter\n\nAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom repo...",
-      "url": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "category": "hot",
-      "tags": [
+        "OpenAI",
         "AI"
-      ]
-    },
-    {
-      "id": "news-1774405969252-11",
-      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-24T12:38:09.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
