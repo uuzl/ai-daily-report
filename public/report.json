@@ -1,49 +1,32 @@
 {
-  "date": "2026-03-27",
-  "generatedAt": "2026-03-27T02:42:16.109Z",
-  "totalItems": 13,
+  "date": "2026-03-28",
+  "generatedAt": "2026-03-28T02:31:49.490Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1774579336108-9",
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
-      "summary": "ChatGPT remains the big kahuna in the consumer chatbot market, with OpenAI announcing last month that it has reached 900 million weekly active users. ...",
-      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "id": "news-1774665109489-6",
+      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again - TechCrunch",
+      "summary": "TechCrunch visited Physical Intelligence’s headquarters in January, where co-founder Sergey Levine described the company’s ambition simply: “Think of ...",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "sourceUrl": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T23:47:56.000Z",
+      "publishedAt": "2026-03-27T23:59:40.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1774579336108-5",
-      "title": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks - Reuters",
-      "summary": "# OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data...",
-      "url": "https://www.reuters.com/business/media-telecom/openais-us-ad-pilot-exceeds-100-million-annualized-revenue-six-weeks-2026-03-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openais-us-ad-pilot-exceeds-100-million-annualized-revenue-six-weeks-2026-03-26/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-26T22:25:24.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774579336108-6",
-      "title": "Wikipedia cracks down on the use of AI in article writing - TechCrunch",
-      "summary": "+ Lucas Ropek\n AI\n\n  ### OpenAI abandons yet another side quest: ChatGPT’s erotic mode\n\n  + Lucas Ropek\n Government & Policy\n\n  ### Data centers get r...",
-      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "id": "news-1774665109489-5",
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO - TechCrunch",
+      "summary": "Most striking is that the loan is unsecured and has a 12-month term, meaning it must be repaid or refinanced by next year. This could be a signal that...",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "sourceUrl": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T21:50:10.000Z",
+      "publishedAt": "2026-03-27T21:44:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,94 +35,85 @@
       ]
     },
     {
-      "id": "news-1774579336108-4",
-      "title": "Google is making it easier to import another AI’s memory into Gemini - The Verge",
-      "summary": "After Anthropic updated its tool for copying another AI’s memory into Claude earlier this month, Google Gemini is rolling out new “Import Memory” and ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "credibility": "P2",
-      "publishedAt": "2026-03-26T21:44:37.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1774579336108-3",
-      "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
-      "summary": "Google:\n\nGemini Mac App\n\nGlobal Bond Spree\n\nPixel 10a Debut\n\nChrome AI Agent\n\nNew Gemini AI Model\n\n$4 Trillion Company\n\nTechnology\n\n# Google Gemini Ad...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "id": "news-1774665109489-3",
+      "title": "Cyber Stocks Sink on Report Anthropic AI Model Poses Security Risks - Bloomberg.com",
+      "summary": "Unlock the global benchmark for business news.\n\nGet unlimited access for just $1.99 your first month. [...] Shares of CrowdStrike Holdings Inc., Palo ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/cyber-stocks-sink-on-report-anthropic-model-poses-security-risks",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-27/cyber-stocks-sink-on-report-anthropic-model-poses-security-risks",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T20:24:29.000Z",
+      "publishedAt": "2026-03-27T20:24:10.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1774579336108-7",
-      "title": "16 of the most interesting startups from YC W’26 Demo Day - TechCrunch",
-      "summary": "Why it’s interesting:A nonprofit in YC! But then again, when OpenAI, Anthropic, and GoogleMind are already using some form of the organization’s bench...",
-      "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-26T19:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI",
         "benchmark"
       ]
     },
     {
-      "id": "news-1774579336108-0",
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode - TechCrunch",
-      "summary": "All of the changes come approximately a week after The Wall Street Journal reported that OpenAI would be engaging in a “major strategy shift” to pivot...",
-      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "id": "news-1774665109489-12",
+      "title": "Nasdaq 100 Sinks Into Correction as Big Tech Keeps Falling - Bloomberg.com",
+      "summary": "The tech-heavy benchmark fell 1.9% to close at 23,132.77, leaving the index down more than 11% from a peak in October. It’s the first time since US Pr...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/nasdaq-100-sinks-into-correction-as-big-tech-stocks-keep-falling",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-27/nasdaq-100-sinks-into-correction-as-big-tech-stocks-keep-falling",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T18:34:02.000Z",
+      "publishedAt": "2026-03-27T20:10:08.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774579336108-8",
-      "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’\n\n ...",
-      "url": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-26T16:06:33.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI",
-        "LLM"
+        "benchmark"
       ]
     },
     {
-      "id": "news-1774579336109-10",
-      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut - TechCrunch",
-      "summary": "+ Anthony Ha\n An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple\n\n  + Julie Bort\n Cyberattack on vehic...",
-      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "id": "news-1774665109489-11",
+      "title": "California bans officials from using inside knowledge to bet on prediction markets - reuters.com",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/finance/california-bans-officials-using-inside-knowledge-bet-prediction-markets-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/california-bans-officials-using-inside-knowledge-bet-prediction-markets-2026-03-27/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T15:25:13.000Z",
+      "publishedAt": "2026-03-27T18:00:56.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1774665109489-7",
+      "title": "Aetherflux reportedly raising Series B at $2 billion valuation - TechCrunch",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n Government & Policy\n\n  ### David Sacks is done as AI czar — here’s what he’s doing instead\n\n  + Connie Loizos\n\n## Lat...",
+      "url": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T17:05:26.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774665109489-13",
+      "title": "It Sucks to Work in the Video-Game Industry Right Now - Bloomberg",
+      "summary": "News\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work\n\nMarket Data\n\nSto...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T17:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774665109489-10",
+      "title": "Fed's Barkin says 'fog' again obscuring economic outlook - Reuters",
+      "summary": "Purchase Licensing Rights\n\nHoward Schneider\n\nThomson Reuters\n\nCovers the U.S. Federal Reserve, monetary policy and the economy, a graduate of the Univ...",
+      "url": "https://www.reuters.com/business/feds-barkin-says-fog-again-obscuring-economic-outlook-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/feds-barkin-says-fog-again-obscuring-economic-outlook-2026-03-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T15:02:09.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -147,73 +121,117 @@
       ]
     },
     {
-      "id": "news-1774579336108-1",
-      "title": "OpenAI shelves erotic chatbot ‘indefinitely’ - The Verge",
-      "summary": "OpenAI ​has paused plans to release a sexualized “adult mode” for ChatGPT, in its latest move to refocus on the company’s core ​products. According to...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "id": "news-1774665109489-14",
+      "title": "Utility Entergy says revised Meta data-center deal to deliver higher customer savings - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/energy/utility-entergy-says-revised-meta-data-center-deal-deliver-higher-customer-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/utility-entergy-says-revised-meta-data-center-deal-deliver-higher-customer-2026-03-27/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T11:58:09.000Z",
+      "publishedAt": "2026-03-27T14:30:03.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774579336109-11",
-      "title": "Hiring during hypergrowth with Isaiah Granet, Bland - TechCrunch",
-      "summary": "View Bio\n\nImage 5: Event Logo\n\nNovember 4\n\nBoston, MA\n\nActively scaling? Fundraising? Planning your next launch?\n\nTechCrunch Founder Summit 2026 deliv...",
-      "url": "https://techcrunch.com/video/hiring-during-hypergrowth-with-isaiah-granet-bland/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/hiring-during-hypergrowth-with-isaiah-granet-bland/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-26T11:11:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1774579336108-2",
-      "title": "OpenAI indefinitely pauses plans to release erotic chatbot, FT says - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nThe ⁠company did not immediately respond to a Reuters ⁠request ​for comment.\n\nReporting by ​Akash Sriram in Bengal...",
-      "url": "https://www.reuters.com/business/openai-indefinitely-pauses-plans-release-erotic-chatbot-ft-says-2026-03-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-indefinitely-pauses-plans-release-erotic-chatbot-ft-says-2026-03-26/",
+      "id": "news-1774665109489-1",
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court - TechCrunch",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n  + Zack Whittaker\n Cursor admits its new coding model was built on top of Moonshot AI’s Kimi\n\n  + Anthony Ha\n Delve a...",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T10:22:22.000Z",
-      "category": "product",
+      "publishedAt": "2026-03-27T13:30:00.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1774579336109-12",
-      "title": "The least surprising chapter of the Manus story is what’s happening right now - TechCrunch",
-      "summary": "But if that string of events raised eyebrows in Washington, you can only imagine that in Beijing, they were apoplectic.\n\nChina has a phrase for all of...",
-      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "id": "news-1774665109489-2",
+      "title": "The Latest AI Documentary Asks: Just How Scared Should We Be? - WIRED",
+      "summary": "Lough originally planned a feature exploring the potential and perils of AI that would center on a conversation with the OpenAI CEO. But, after having...",
+      "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
       "credibility": "P2",
-      "publishedAt": "2026-03-26T02:46:48.000Z",
+      "publishedAt": "2026-03-27T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774665109489-0",
+      "title": "SoftBank secures $40 billion loan to fund further OpenAI investment - Reuters",
+      "summary": "March 25, 2026Technology categoryOpenAI drops AI video tool Sora, startling Disney, sources say , opens new tab [...] 42 mins agoBusiness categoryDema...",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-secures-40-billion-loan-fund-further-openai-investment-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-secures-40-billion-loan-fund-further-openai-investment-2026-03-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T10:14:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774665109489-8",
+      "title": "A quarter for the history books - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-pix-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-pix-2026-03-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T08:48:28.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774665109489-9",
+      "title": "Exclusive: Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say - Reuters",
+      "summary": "Reporting by Reuters staff; Editing by Miyoung Kim and Edwina Gibbs\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Lic...",
+      "url": "https://www.reuters.com/world/china/huaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-place-orders-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/huaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-place-orders-2026-03-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T07:47:30.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "CUDA",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1774665109489-4",
+      "title": "China boycotts top AI conference after ban on papers from US-sanctioned entities - Reuters",
+      "summary": "US judge says Pentagon's blacklisting of Anthropic looks like punishment for its views on AI safety\n Businesscategory\n\n  Arm unveils new AI chip, expe...",
+      "url": "https://www.reuters.com/world/china/china-boycotts-top-ai-conference-after-ban-papers-us-sanctioned-entities-2026-03-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/china-boycotts-top-ai-conference-after-ban-papers-us-sanctioned-entities-2026-03-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-27T06:59:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
-        "Agent"
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
