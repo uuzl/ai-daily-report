@@ -1,139 +1,32 @@
 {
-  "date": "2026-03-29",
-  "generatedAt": "2026-03-29T02:45:47.611Z",
-  "totalItems": 13,
+  "date": "2026-03-30",
+  "generatedAt": "2026-03-30T02:48:27.489Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1774752347610-5",
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n The AI skills gap is here, says AI company, and power users are pulling ahead\n\n  + Rebecca Bellan\n Google unveils Turb...",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "id": "news-1774838907488-6",
+      "title": "Lilly, Insilico Ink Deal on AI Drugs Worth Up to $2.75 Billion - Bloomberg.com",
+      "summary": "LEARN MORE\n\n### Top Reads\n\nThe MIT Professor Tangled Up in a Tech CEO’s ‘Ponzi-Like’ Scheme\n\nby Austin CarrThe Myth of the American Turning Point\n\nby ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-29/lilly-insilico-ink-deal-on-ai-drugs-worth-up-to-2-75-billion",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-29/lilly-insilico-ink-deal-on-ai-drugs-worth-up-to-2-75-billion",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T23:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774752347610-3",
-      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
-      "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T21:23:58.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774752347610-0",
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice - TechCrunch",
-      "summary": "The study had two parts. In the first, researchers tested 11 large language models, including OpenAI’s ChatGPT, Anthropic’s Claude, Google Gemini, and...",
-      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T20:45:54.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1774752347610-9",
-      "title": "Displaced mothers in Lebanon welcome newborns with hope and fear - Reuters",
-      "summary": "Load More Categories\n\n   22 hours agoExclusive: US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam , opens new tab\n\n### S...",
-      "url": "https://www.reuters.com/video/watch/idRW825928032026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW825928032026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T16:37:50.000Z",
+      "publishedAt": "2026-03-30T01:57:28.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "RAG"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1774752347610-4",
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI - TechCrunch",
-      "summary": "## Related\n\n Apps\n\n  ### These iPad apps will make you wish you had more free time\n\n  + Aisha Malik\n AI\n\n  ### Anthropic’s Claude popularity with payi...",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "id": "news-1774838907488-2",
+      "title": "The Week in Breakingviews: Deals during wartime - Reuters",
+      "summary": "## THE WEEK IN PODCASTS\n\nAt Breakingviews we ​spend a lot of time talking about - and writing about - OpenAI’s business model. The creator of ChatGPT ...",
+      "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-03-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-03-29/",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T16:11:16.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774752347610-1",
-      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing - TechCrunch",
-      "summary": "Beyond the drama, Claude Code and Claude Cowork — developer and productivity tools released in January — have been drivers of subscriptions. The Compu...",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T14:15:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1774752347610-10",
-      "title": "HORMUZ TRACKER: Ships Exit Persian Gulf Through Iranian Corridor - Bloomberg.com",
-      "summary": "Claim This Offer\n\nSign InTerms of ServicePrivacy PolicyDo Not Sell or Share My Personal Information\n\nImage 5\n\n## We've updated our terms\n\nBy accepting...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-28/hormuz-tracker-ships-exit-persian-gulf-through-iranian-corridor",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-28/hormuz-tracker-ships-exit-persian-gulf-through-iranian-corridor",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T13:38:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774752347610-7",
-      "title": "Causality optional? Testing the \"indefinite causal order\" superposition - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T12:00:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1774752347610-2",
-      "title": "Why OpenAI killed Sora - The Verge",
-      "summary": "As OpenAI faces questions from investors and hot competition from Anthropic and Google, executives seem to agree that a change in direction is warrant...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "credibility": "P2",
-      "publishedAt": "2026-03-28T12:00:00.000Z",
+      "publishedAt": "2026-03-30T00:33:35.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -142,66 +35,185 @@
       ]
     },
     {
-      "id": "news-1774752347610-6",
-      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day - TechCrunch",
-      "summary": "+ Graham Starr\n Someone has publicly leaked an exploit kit that can hack millions of iPhones\n\n  + Lorenzo Franceschi-Bicchierai\n  + Zack Whittaker\n Cu...",
-      "url": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "id": "news-1774838907489-12",
+      "title": "Pascal Siakam's 30 points help Pacers upend Heat - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/basketball/pascal-siakams-30-points-help-pacers-upend-heat--flm-2026-03-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/pascal-siakams-30-points-help-pacers-upend-heat--flm-2026-03-29/",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T12:00:00.000Z",
-      "category": "hot",
+      "publishedAt": "2026-03-29T23:49:11.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907488-0",
+      "title": "Bluesky’s new app is an AI for customizing your feed - The Verge",
+      "summary": "Why can’t TikTok identify AI generated ads when I can?\n\nJess Weatherbed\n\nWhy OpenAI killed Sora\n\nHayden Field\n\nThe latest in data centers, AI, and ene...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T21:44:41.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907488-7",
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’ - TechCrunch",
+      "summary": "## Related\n\n Media & Entertainment\n\n  ### ‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit\n\n  + Anthony Ha\n AI\n\n  ### Sora’s shutdown c...",
+      "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T21:17:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907488-3",
+      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit - TechCrunch",
+      "summary": "You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nView Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off th...",
+      "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T19:50:57.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907488-1",
+      "title": "Sora’s shutdown could be a reality check moment for AI video - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nSean: Yeah, I never really used [the app]. The idea of it turned me off for a number of differe...",
+      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T16:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907488-5",
+      "title": "TechCrunch Mobility: When a robotaxi has to call 911 - TechCrunch",
+      "summary": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’\n ### \n\n  Kentucky woman rejects $2...",
+      "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T16:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907489-10",
+      "title": "India relaxes kerosene rules to tackle energy supply issues - Reuters",
+      "summary": "## Read Next\n\n   5 hours agoSustainability categoryPetroChina's 2025 net profit falls 4.5% on lower oil prices Image 3: PetroChina gas station in Beij...",
+      "url": "https://www.reuters.com/business/energy/india-relaxes-kerosene-rules-tackle-energy-supply-issues-2026-03-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/india-relaxes-kerosene-rules-tackle-energy-supply-issues-2026-03-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T14:02:19.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "Agent"
+        "TPU"
       ]
     },
     {
-      "id": "news-1774752347610-8",
-      "title": "AI deepfakes blur reality in 2026 US midterm campaigns - Reuters",
-      "summary": "Purchase Licensing Rights\n\nHelen Coster\n\nThomson Reuters\n\nHelen Coster is a National Affairs Correspondent at Reuters, where she writes a mix of spot ...",
-      "url": "https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/",
+      "id": "news-1774838907488-8",
+      "title": "Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly - Reuters",
+      "summary": "Skip to main content\n\n# Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly\n\nBy Reuters\n\n Companies\n\n Insilico Medicine Inc\n CSL...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T10:11:54.000Z",
+      "publishedAt": "2026-03-29T12:50:43.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1774752347610-11",
-      "title": "India's Bellatrix Aerospace nets $20 million in pre-Series B round - Reuters",
-      "summary": "United Statescategory · · 8 mins ago\n\n  Thousands of rallies are expected across the U.S. on Saturday ​in the latest \"No Kings\" protest against the po...",
-      "url": "https://www.reuters.com/world/india/indias-bellatrix-aerospace-nets-20-million-pre-series-b-round-2026-03-28/",
+      "id": "news-1774838907489-9",
+      "title": "Swiss back tougher social media rules for minors, survey finds - Reuters",
+      "summary": "Dutch court rules against Grok over AI-generated 'undressing' images in rare legal rebuke\n Legalcategory\n\n  Food safety nonprofit's lawsuit claims Pan...",
+      "url": "https://www.reuters.com/legal/litigation/swiss-back-tougher-social-media-rules-minors-survey-finds-2026-03-29/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/india/indias-bellatrix-aerospace-nets-20-million-pre-series-b-round-2026-03-28/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/swiss-back-tougher-social-media-rules-minors-survey-finds-2026-03-29/",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T09:57:43.000Z",
+      "publishedAt": "2026-03-29T12:39:43.000Z",
       "category": "tech",
       "tags": [
-        "AI"
+        "AI",
+        "RAG"
       ]
     },
     {
-      "id": "news-1774752347610-12",
-      "title": "Pension Fund Losses Spotlight Storied Realtor’s Licensing Model - bloomberg.com",
-      "summary": "# Bloomberg\n\nNeed help? Contact us\n\n## We've detected unusual activity from your computer network\n\nTo continue, please click the box below to let us k...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-28/pension-fund-losses-spotlight-storied-realtor-s-licensing-model",
+      "id": "news-1774838907488-4",
+      "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach - Bloomberg.com",
+      "summary": "Newsletter\n\nPower On\n\n# Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach\n\nAlso: The company finally kills the Mac Pro.\n\nContac...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-28/pension-fund-losses-spotlight-storied-realtor-s-licensing-model",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon",
       "credibility": "P2",
-      "publishedAt": "2026-03-28T06:00:00.000Z",
+      "publishedAt": "2026-03-29T12:00:01.000Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907489-13",
+      "title": "France detains two more suspects over foiled Paris Bank of America attack - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/finance/france-detains-two-more-suspects-over-foiled-paris-bank-america-attack-2026-03-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/france-detains-two-more-suspects-over-foiled-paris-bank-america-attack-2026-03-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T11:02:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1774838907489-11",
+      "title": "Lucrative bets that anticipated Trump's policy surprises warrant scrutiny, experts say - Reuters",
+      "summary": "## Read Next / Editor's Picks\n\n Worldcategory\n\n  Bank of America agrees to pay $72.5 million to settle Epstein accusers' lawsuit\n Legalcategory\n\n  Bla...",
+      "url": "https://www.reuters.com/legal/government/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-2026-03-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-2026-03-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-03-29T10:15:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 14
   },
   "summary": ""
 }
