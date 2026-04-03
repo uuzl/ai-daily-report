@@ -1,17 +1,97 @@
 {
-  "date": "2026-04-02",
-  "generatedAt": "2026-04-02T02:37:54.712Z",
-  "totalItems": 13,
+  "date": "2026-04-03",
+  "generatedAt": "2026-04-03T02:39:55.848Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1775097474712-4",
-      "title": "Anthropic took down thousands of Github repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch",
-      "summary": "Crunchboard\n\nContact Us\n\nIn Brief\n\nPosted:\n\n Tim Fernholz\n\n# Anthropic took down thousands of Github repos trying to yank its leaked source code — a m...",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "id": "news-1775183995847-2",
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show - TechCrunch",
+      "summary": "## Most Popular\n\n Anthropic is having a month\n\n  + Connie Loizos\n Google is now letting users in the US change their Gmail address\n\n  + Ivan Mehta\n Wh...",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
       "credibility": "P2",
-      "publishedAt": "2026-04-01T22:12:13.000Z",
+      "publishedAt": "2026-04-02T19:21:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995847-3",
+      "title": "ElevenLabs releases a new AI-powered music generation app - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
+      "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T18:58:45.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995847-5",
+      "title": "OpenAI just bought TBPN - The Verge",
+      "summary": "OpenAI’s reasoning for purchasing the show involved “accelerating the global conversation around AI,” according to a memo sent around the company Thur...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T17:40:07.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995847-1",
+      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex - wired.com",
+      "summary": "“In the last few months, our profession has completely changed,” said Jonas Nelle, one of Cursor’s heads of engineering, in an interview with WIRED. “...",
+      "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T17:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1775183995847-6",
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "summary": "+ Ivan Mehta\n Why OpenAI really shut down Sora\n\n  + Connie Loizos\n The Pixel 10a doesn’t have a camera bump, and it’s great\n\n  + Ivan Mehta\n Anthropic...",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T16:48:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995847-4",
+      "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license - Ars Technica",
+      "summary": "13 Comments\n\nStaff Picks\n\nm\n\nmichaeltherobot\n\nIt's neat to reflect that LLM capabilities that used obscene amounts of energy three years ago can now r...",
+      "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T16:01:33.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,121 +100,14 @@
       ]
     },
     {
-      "id": "news-1775097474712-8",
-      "title": "The reputation of troubled YC startup Delve has gotten even worse - TechCrunch",
-      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "id": "news-1775183995847-0",
+      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions - WIRED",
+      "summary": "## “Function Emotions”\n\nAnthropic was founded by ex-OpenAI employees who believe that AI could become hard to control as it becomes more powerful. In ...",
+      "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
       "credibility": "P2",
-      "publishedAt": "2026-04-01T21:23:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775097474712-9",
-      "title": "Startup funding shatters all records in Q1 - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nTopics\n\nfundraising trends, In Brief, record breaking, Startups, Venture\n\nApril 30\n\nSan Francis...",
-      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T20:25:28.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775097474712-5",
-      "title": "Anthropic Rushes to Limit the Leak of Claude Code Source Code - Bloomberg.com",
-      "summary": "Anthropic:\n\nClaude Code Leak\n\nIPO Discussions\n\nTrump Legal Fight\n\nRevenue\n\nSafety Pledge Dropped\n\nClaude Code\n\nTechnology\n\nAI\n\n# Anthropic Rushes to L...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-scrambles-to-address-leak-of-claude-code-source-code",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-scrambles-to-address-leak-of-claude-code-source-code",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T20:10:37.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1775097474712-2",
-      "title": "Here’s what that Claude Code source leak reveals about Anthropic’s plans - Ars Technica",
-      "summary": "An UltraPlan feature allowing Opus-level Claude models to “draft an advanced plan you can edit and approve,” which can run for 10 to 30 minutes at a t...",
-      "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T20:04:04.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1775097474712-3",
-      "title": "Anthropic Executive Blames Claude Code Leak on ‘Process Errors’ - Bloomberg.com",
-      "summary": "The unintended release marked Anthropic’s second security slip-up in a matter of days, compromising approximately 1,900 files and 512,000 lines of cod...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-executive-blames-claude-code-leak-on-process-errors",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-executive-blames-claude-code-leak-on-process-errors",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T20:03:55.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1775097474712-11",
-      "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T19:53:31.000Z",
-      "category": "research",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775097474712-12",
-      "title": "Musk loves Grok’s “roasts.” Swiss official sues in attempt to neuter them. - Ars Technica",
-      "summary": "“We will continue to act decisively where it’s deemed that AI services are not doing enough to ensure safe user experiences,” a spokesperson for the U...",
-      "url": "https://arstechnica.com/tech-policy/2026/04/grok-degrades-women-with-vulgar-roasts-swiss-govt-officials-lawsuit-says/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/grok-degrades-women-with-vulgar-roasts-swiss-govt-officials-lawsuit-says/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T18:43:14.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775097474711-0",
-      "title": "OpenAI Is Falling Out of Favor With Secondary Buyers - Bloomberg.com",
-      "summary": "Both AI firms have grown rapidly in recent years, particularly after OpenAI’s 2022 debut of ChatGPT and Anthropic’s subsequent launch of Claude. Both ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T17:26:24.000Z",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -143,74 +116,85 @@
       ]
     },
     {
-      "id": "news-1775097474712-10",
-      "title": "America’s AI Build-Out Hinges on Chinese Electrical Parts - Bloomberg.com",
-      "summary": "By Emily Forgash and Akshat Rathi\n\nUpdated on\n\nIn the red dirt of Abilene, Texas, more than 6,000 workers travel around on electric buggies, spending ...",
-      "url": "https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports",
+      "id": "news-1775183995848-8",
+      "title": "Google now lets you direct avatars through prompts in its Vids app - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Anthropic is having a month\n\n  + Connie Loizos\n Google is now letting users in the US change their Gmail address\n\n  + ...",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
       "credibility": "P2",
-      "publishedAt": "2026-04-01T16:40:45.000Z",
+      "publishedAt": "2026-04-02T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995848-9",
+      "title": "Sudan appoints Yassir al-Atta armed forces Chief of Staff - Reuters",
+      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
+      "url": "https://www.reuters.com/world/africa/sudan-appoints-yassir-al-atta-armed-forces-chief-staff-2026-04-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/sudan-appoints-yassir-al-atta-armed-forces-chief-staff-2026-04-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T13:32:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995848-7",
+      "title": "Diverse teams start with diverse VCs, with Leah Solivan, Taskrabbit - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/podcast/diverse-teams-start-with-diverse-vcs-with-leah-solivan-taskrabbit/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/diverse-teams-start-with-diverse-vcs-with-leah-solivan-taskrabbit/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T12:43:05.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995848-10",
+      "title": "UN tells Africa borrow, boost revenue, to fund AI push - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/africa/un-tells-africa-borrow-boost-revenue-fund-ai-push-2026-04-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/un-tells-africa-borrow-boost-revenue-fund-ai-push-2026-04-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T12:02:53.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775183995848-11",
+      "title": "US Job-Cut Announcements in Tech Keep Rising With AI Adoption - Bloomberg.com",
+      "summary": "Get unlimited access for just $1.99 your first month\n\nUnlock the global benchmark for business news.\n\nGet unlimited access for just $1.99 your first m...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
+      "credibility": "P2",
+      "publishedAt": "2026-04-02T11:30:00.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
         "benchmark"
-      ]
-    },
-    {
-      "id": "news-1775097474712-7",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775097474711-1",
-      "title": "Anthropic Accidentally Releases Source Code for Claude AI Agent - Bloomberg.com",
-      "summary": "Anthropic:\n\nIPO Discussions\n\nTrump Legal Fight\n\nRevenue\n\nSafety Pledge Dropped\n\nClaude Code\n\nOdd Lots Podcast\n\nTechnology\n\nAI\n\n# Anthropic Accidentall...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T12:23:05.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1775097474712-6",
-      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong - wired.com",
-      "summary": "When asked for comment, an OpenAI spokesperson pointed me to a recent blog about the new AI shopping assistant experience in ChatGPT. “Shopping on the...",
-      "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-01T09:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 12
   },
   "summary": ""
 }
