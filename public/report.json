@@ -1,47 +1,49 @@
 {
-  "date": "2026-04-04",
-  "generatedAt": "2026-04-04T02:31:02.013Z",
-  "totalItems": 12,
+  "date": "2026-04-05",
+  "generatedAt": "2026-04-05T02:48:14.553Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1775269862013-1",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "id": "news-1775357294552-3",
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator - TechCrunch",
+      "summary": "+ Tim Fernholz\n The reputation of troubled YC startup Delve has gotten even worse\n\n  + Julie Bort\n Anthropic is having a month\n\n  + Connie Loizos\n Goo...",
+      "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T01:31:00.000Z",
+      "publishedAt": "2026-04-04T21:03:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "AI",
+        "LLM"
       ]
     },
     {
-      "id": "news-1775269862013-5",
-      "title": "SAD! Trump’s AI data center push is failing. Blame his own tariffs. - Ars Technica",
-      "summary": "Comments\n\n Forum view\n\nLoading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. New Rowhammer attacks give complete control of machines running N...",
-      "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+      "id": "news-1775357294552-2",
+      "title": "A folk musician became a target for AI fakes and a copyright troll - The Verge",
+      "summary": "Terrence O'Brien\n\nNorth Carolina man pleads guilty to AI music streaming fraud.\n\nEmma Roth\n\n## Most Popular\n\nMost Popular\n\n1. Anthropic essentially ba...",
+      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
       "credibility": "P2",
-      "publishedAt": "2026-04-03T20:43:14.000Z",
+      "publishedAt": "2026-04-04T17:52:10.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775269862013-11",
-      "title": "Private credit sector stresses could be catastrophic, but not just yet - Reuters",
-      "summary": "\"You're going to have credit cycles, you're going to have ⁠losses, you're going to have some markdowns. I mean, they're not lending at 5% for a reason...",
-      "url": "https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/",
+      "id": "news-1775357294553-14",
+      "title": "Nets G Malachi Smith signs multi-year contract - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/nets-g-malachi-smith-signs-multi-year-contract--flm-2026-04-04/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/",
+      "sourceUrl": "https://www.reuters.com/sports/nets-g-malachi-smith-signs-multi-year-contract--flm-2026-04-04/",
       "credibility": "P2",
-      "publishedAt": "2026-04-03T20:42:16.000Z",
+      "publishedAt": "2026-04-04T16:46:50.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -49,119 +51,14 @@
       ]
     },
     {
-      "id": "news-1775269862013-3",
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’ - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T20:35:34.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862013-7",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports - TechCrunch",
-      "summary": "Contact Us\n\nIn Brief\n\nPosted:\n\n Dominic-Madori Davis\n\n# Anthropic buys biotech startup Coefficient Bio in $400M deal: reports\n\nAnthropic has purchased...",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T20:28:40.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862013-6",
-      "title": "Anthropic ramps up its political activities with a new PAC - TechCrunch",
-      "summary": "Anthropic’s political activities have ramped up as the company continues to be enmeshed in a nasty legal battle with the Defense Department. The dispu...",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T20:22:18.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862013-4",
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong? - TechCrunch",
-      "summary": "+ Ivan Mehta\n Anthropic’s Claude popularity with paying consumers is skyrocketing\n\n  + Julie Bort\n Let’s take a look at the retro tech making a comeba...",
-      "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T19:48:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862012-0",
-      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up - WIRED",
-      "summary": "As OpenAI expands in every direction, the new CEO of Applications is on a mission to make ChatGPT indispensable and lucrative.\n\nZoë Schiffer\n\nOpenAI B...",
-      "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T19:38:35.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775269862013-8",
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center - TechCrunch",
-      "summary": "+ Kirsten Korosec\n Security\n\n  ### Europe’s cyber agency blames hacking gangs for massive data breach and leak\n\n  + Lorenzo Franceschi-Bicchierai\n AI\n...",
-      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T19:20:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862013-10",
-      "title": "US fighter jet shot down over Iran, search underway for crew, US official says - reuters.com",
-      "summary": "7 hours agoMiddle East categoryTurkey lifts customs duty on urea-type goods to protect against rising prices , opens new tab [...] All quotes delayed ...",
-      "url": "https://www.reuters.com/world/middle-east/us-fighter-jet-shot-down-over-iran-search-underway-crew-us-official-says-2026-04-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/us-fighter-jet-shot-down-over-iran-search-underway-crew-us-official-says-2026-04-03/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-03T14:09:07.000Z",
-      "category": "hot",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775269862013-2",
-      "title": "The Facebook insider building content moderation for the AI era - techcrunch.com",
+      "id": "news-1775357294552-1",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw support - TechCrunch",
       "summary": "REGISTER NOW\n\n## Most Popular\n\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an a...",
-      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
       "credibility": "P2",
-      "publishedAt": "2026-04-03T14:00:15.000Z",
+      "publishedAt": "2026-04-04T16:32:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -170,24 +67,168 @@
       ]
     },
     {
-      "id": "news-1775269862013-9",
-      "title": "China moves to regulate digital humans, bans addictive services for children - Reuters",
-      "summary": "\"The governance of digital virtual humans is no longer merely an issue of industry norms; ⁠rather, ​it has become a strategic scientific problem that ...",
-      "url": "https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/",
+      "id": "news-1775357294552-7",
+      "title": "US agents arrest niece of Iran's Qassem Soleimani after Rubio revoked green card - Reuters",
+      "summary": "3 hours agoUnited States categoryTrump weighs broader cabinet shake-up as Iran war pressure grows Image 1: U.S. President Donald Trump delivers an add...",
+      "url": "https://www.reuters.com/world/us/us-agents-arrest-niece-irans-qassem-soleimani-after-rubio-revoked-green-card-2026-04-04/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/",
+      "sourceUrl": "https://www.reuters.com/world/us/us-agents-arrest-niece-irans-qassem-soleimani-after-rubio-revoked-green-card-2026-04-04/",
       "credibility": "P2",
-      "publishedAt": "2026-04-03T10:07:28.000Z",
+      "publishedAt": "2026-04-04T14:52:54.000Z",
+      "category": "tech",
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1775357294553-11",
+      "title": "UAE condemns 'acts of vandalism' on its mission in Damascus - Reuters",
+      "summary": "1 hour agoMiddle East categoryIran says it hit Israel-linked vessel in Hormuz strait Image 7: Reuters' template to be used in breaking news scenarios ...",
+      "url": "https://www.reuters.com/world/middle-east/uae-condemns-acts-vandalism-its-mission-damascus-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/uae-condemns-acts-vandalism-its-mission-damascus-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T13:13:42.000Z",
       "category": "tech",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "news-1775357294553-13",
+      "title": "Iran says new air defence system used to target US fighter jet - Reuters",
+      "summary": "1 hour agoMiddle East categoryIran says it hit Israel-linked vessel in Hormuz strait Image 5: Reuters' template to be used in breaking news scenarios ...",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-new-air-defence-system-used-target-us-fighter-jet-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/iran-says-new-air-defence-system-used-target-us-fighter-jet-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T13:07:58.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775357294552-4",
+      "title": "Rat that detected 100 landmines honored by Cambodia statue - Reuters",
+      "summary": "Chimp urine test study bolsters 'drunken monkey' theory February 27, 2026\n   Rice gene may unlock higher yields and curb fertilizers February 26, 2026...",
+      "url": "https://www.reuters.com/video/watch/idRW987104042026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW987104042026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T10:53:24.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775357294552-0",
+      "title": "Security News This Week: Hackers Are Posting the Claude Code Leak With Bonus Malware - WIRED",
+      "summary": "that TeamPCP has carried out to spread its infostealer malware, including via the LiteLLM AI software and the security software CheckMarx. [...] ## Co...",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T10:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1775357294552-6",
+      "title": "Iraq closes Shalamcheh crossing with Iran after airstrikes kill Iraqi - reuters.com",
+      "summary": "11 hours agoMiddle East categoryUS fighter jet shot down over Iran, search under way for crew member Image 6: The Iranian state media said to show fra...",
+      "url": "https://www.reuters.com/world/middle-east/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T09:32:28.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775357294553-12",
+      "title": "Fire reported at foreign oil companies' storage facilities in Iraq after drone strike - Reuters",
+      "summary": "10 hours agoEnergy categoryRussian oil terminals under attack unable to accept shipments for second week, sources say  in New York City ANALYSISPrivat...",
+      "url": "https://www.reuters.com/business/energy/fire-reported-foreign-oil-companies-storage-facilities-iraq-after-drone-strike-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/fire-reported-foreign-oil-companies-storage-facilities-iraq-after-drone-strike-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T05:16:19.000Z",
+      "category": "tech",
+      "tags": [
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775357294553-9",
+      "title": "Iran executes two linked to opposition group, media say - Reuters",
+      "summary": "6 hours agoMiddle East categoryDowned planes raise new perils for Trump as Tehran hunts for missing US pilot Image 2: The Iranian state media said to ...",
+      "url": "https://www.reuters.com/world/middle-east/iran-executes-two-linked-opposition-group-media-say-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/iran-executes-two-linked-opposition-group-media-say-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T05:03:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775357294553-10",
+      "title": "Dylan Cardwell, Kings reject Pelicans in final seconds - Reuters",
+      "summary": "Suggested Topics:\n   Basketball\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   1 hour agoSports categoryReports: NBA probes Bu...",
+      "url": "https://www.reuters.com/sports/basketball/dylan-cardwell-kings-reject-pelicans-final-seconds--flm-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/dylan-cardwell-kings-reject-pelicans-final-seconds--flm-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T05:00:39.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1775357294552-5",
+      "title": "AI is rewiring the world’s most prolific film industry - Reuters",
+      "summary": "# AI is rewiring the world’s most prolific film industry | Reuters\n\nSkip to main content\n\nImage 1\n\nReport AdImage 2\n\nExclusive news, data and analytic...",
+      "url": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775357294553-8",
+      "title": "Peru stadium 'incident' kills one, injures 47 before football derby, AFP says - Reuters",
+      "summary": "5 hours agoMiddle East categoryDowned planes raise new perils for Trump as Tehran hunts for missing US pilot Image 2: The Iranian state media said to ...",
+      "url": "https://www.reuters.com/world/peru-stadium-incident-kills-one-injures-47-before-football-derby-afp-says-2026-04-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/peru-stadium-incident-kills-one-injures-47-before-football-derby-afp-says-2026-04-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-04T04:01:24.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
