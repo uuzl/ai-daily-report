@@ -1,33 +1,91 @@
 {
-  "date": "2026-04-05",
-  "generatedAt": "2026-04-05T02:48:14.553Z",
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T02:49:38.800Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1775357294552-3",
-      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator - TechCrunch",
-      "summary": "+ Tim Fernholz\n The reputation of troubled YC startup Delve has gotten even worse\n\n  + Julie Bort\n Anthropic is having a month\n\n  + Connie Loizos\n Goo...",
-      "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "id": "news-1775443778799-9",
+      "title": "Contending Magic rally from 15-point deficit, upend Pelicans - Reuters",
+      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
+      "url": "https://www.reuters.com/sports/basketball/contending-magic-rally-15-point-deficit-upend-pelicans--flm-2026-04-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/contending-magic-rally-15-point-deficit-upend-pelicans--flm-2026-04-06/",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T21:03:43.000Z",
+      "publishedAt": "2026-04-06T02:01:40.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778800-13",
+      "title": "Rickard Rakell scores twice as Penguins handle Panthers - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sports/nhl/rickard-rakell-scores-twice-penguins-handle-panthers--flm-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/nhl/rickard-rakell-scores-twice-penguins-handle-panthers--flm-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T22:17:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778799-5",
+      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer - TechCrunch",
+      "summary": "## Related\n\n Social\n\n  ### As people look for ways to make new friends, here are the apps promising to help\n\n  + Lauren Forristal\n Transportation\n\n  #...",
+      "url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T19:36:03.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778799-4",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of service - TechCrunch",
+      "summary": "AI, Copilot, Microsoft\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry ...",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T18:51:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
-        "LLM"
+        "TPU"
       ]
     },
     {
-      "id": "news-1775357294552-2",
-      "title": "A folk musician became a target for AI fakes and a copyright troll - The Verge",
-      "summary": "Terrence O'Brien\n\nNorth Carolina man pleads guilty to AI music streaming fraud.\n\nEmma Roth\n\n## Most Popular\n\nMost Popular\n\n1. Anthropic essentially ba...",
-      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "id": "news-1775443778799-1",
+      "title": "TechCrunch Mobility: ‘A stunning lack of transparency’ - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T16:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778799-3",
+      "title": "Suno is a music copyright nightmare capable of pumping out AI cover slop - The Verge",
+      "summary": "OpenAI’s AGI boss is taking a leave of absence\n\nApple’s best product ever\n\nChatbots are now prescribing psychiatric drugs\n\nA folk musician became a ta...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T17:52:10.000Z",
+      "publishedAt": "2026-04-05T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,192 +94,133 @@
       ]
     },
     {
-      "id": "news-1775357294553-14",
-      "title": "Nets G Malachi Smith signs multi-year contract - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/nets-g-malachi-smith-signs-multi-year-contract--flm-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/nets-g-malachi-smith-signs-multi-year-contract--flm-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T16:46:50.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775357294552-1",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw support - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an a...",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "id": "news-1775443778799-2",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T16:32:22.000Z",
+      "publishedAt": "2026-04-05T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775357294552-7",
-      "title": "US agents arrest niece of Iran's Qassem Soleimani after Rubio revoked green card - Reuters",
-      "summary": "3 hours agoUnited States categoryTrump weighs broader cabinet shake-up as Iran war pressure grows Image 1: U.S. President Donald Trump delivers an add...",
-      "url": "https://www.reuters.com/world/us/us-agents-arrest-niece-irans-qassem-soleimani-after-rubio-revoked-green-card-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/us-agents-arrest-niece-irans-qassem-soleimani-after-rubio-revoked-green-card-2026-04-04/",
+      "id": "news-1775443778799-6",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well - The Verge",
+      "summary": "Allison Johnson\n\n## Most Popular\n\nMost Popular\n\n1. Buy two Nintendo Switch games, get $30 off at Target\n2. Anthropic essentially bans OpenClaw from Cl...",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T14:52:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1775357294553-11",
-      "title": "UAE condemns 'acts of vandalism' on its mission in Damascus - Reuters",
-      "summary": "1 hour agoMiddle East categoryIran says it hit Israel-linked vessel in Hormuz strait Image 7: Reuters' template to be used in breaking news scenarios ...",
-      "url": "https://www.reuters.com/world/middle-east/uae-condemns-acts-vandalism-its-mission-damascus-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/uae-condemns-acts-vandalism-its-mission-damascus-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T13:13:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775357294553-13",
-      "title": "Iran says new air defence system used to target US fighter jet - Reuters",
-      "summary": "1 hour agoMiddle East categoryIran says it hit Israel-linked vessel in Hormuz strait Image 5: Reuters' template to be used in breaking news scenarios ...",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-new-air-defence-system-used-target-us-fighter-jet-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/iran-says-new-air-defence-system-used-target-us-fighter-jet-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T13:07:58.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775357294552-4",
-      "title": "Rat that detected 100 landmines honored by Cambodia statue - Reuters",
-      "summary": "Chimp urine test study bolsters 'drunken monkey' theory February 27, 2026\n   Rice gene may unlock higher yields and curb fertilizers February 26, 2026...",
-      "url": "https://www.reuters.com/video/watch/idRW987104042026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW987104042026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T10:53:24.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775357294552-0",
-      "title": "Security News This Week: Hackers Are Posting the Claude Code Leak With Bonus Malware - WIRED",
-      "summary": "that TeamPCP has carried out to spread its infostealer malware, including via the LiteLLM AI software and the security software CheckMarx. [...] ## Co...",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T10:30:00.000Z",
+      "publishedAt": "2026-04-05T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "LLM"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1775357294552-6",
-      "title": "Iraq closes Shalamcheh crossing with Iran after airstrikes kill Iraqi - reuters.com",
-      "summary": "11 hours agoMiddle East categoryUS fighter jet shot down over Iran, search under way for crew member Image 6: The Iranian state media said to show fra...",
-      "url": "https://www.reuters.com/world/middle-east/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi-2026-04-04/",
+      "id": "news-1775443778799-8",
+      "title": "Vessel with wheat cargo sinks in Sea of ​​Azov, one dead, two missing - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/vessel-with-wheat-cargo-sinks-sea-azov-one-dead-two-missing-2026-04-05/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi-2026-04-04/",
+      "sourceUrl": "https://www.reuters.com/world/vessel-with-wheat-cargo-sinks-sea-azov-one-dead-two-missing-2026-04-05/",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T09:32:28.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775357294553-12",
-      "title": "Fire reported at foreign oil companies' storage facilities in Iraq after drone strike - Reuters",
-      "summary": "10 hours agoEnergy categoryRussian oil terminals under attack unable to accept shipments for second week, sources say  in New York City ANALYSISPrivat...",
-      "url": "https://www.reuters.com/business/energy/fire-reported-foreign-oil-companies-storage-facilities-iraq-after-drone-strike-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/fire-reported-foreign-oil-companies-storage-facilities-iraq-after-drone-strike-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T05:16:19.000Z",
-      "category": "tech",
-      "tags": [
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775357294553-9",
-      "title": "Iran executes two linked to opposition group, media say - Reuters",
-      "summary": "6 hours agoMiddle East categoryDowned planes raise new perils for Trump as Tehran hunts for missing US pilot Image 2: The Iranian state media said to ...",
-      "url": "https://www.reuters.com/world/middle-east/iran-executes-two-linked-opposition-group-media-say-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/iran-executes-two-linked-opposition-group-media-say-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T05:03:52.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775357294553-10",
-      "title": "Dylan Cardwell, Kings reject Pelicans in final seconds - Reuters",
-      "summary": "Suggested Topics:\n   Basketball\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   1 hour agoSports categoryReports: NBA probes Bu...",
-      "url": "https://www.reuters.com/sports/basketball/dylan-cardwell-kings-reject-pelicans-final-seconds--flm-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/dylan-cardwell-kings-reject-pelicans-final-seconds--flm-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T05:00:39.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1775357294552-5",
-      "title": "AI is rewiring the world’s most prolific film industry - Reuters",
-      "summary": "# AI is rewiring the world’s most prolific film industry | Reuters\n\nSkip to main content\n\nImage 1\n\nReport AdImage 2\n\nExclusive news, data and analytic...",
-      "url": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-04T05:00:00.000Z",
+      "publishedAt": "2026-04-05T11:39:42.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1775357294553-8",
-      "title": "Peru stadium 'incident' kills one, injures 47 before football derby, AFP says - Reuters",
-      "summary": "5 hours agoMiddle East categoryDowned planes raise new perils for Trump as Tehran hunts for missing US pilot Image 2: The Iranian state media said to ...",
-      "url": "https://www.reuters.com/world/peru-stadium-incident-kills-one-injures-47-before-football-derby-afp-says-2026-04-04/",
+      "id": "news-1775443778800-12",
+      "title": "Kuwait Petroleum Corp reports damage at units after Iran drone attack - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/middle-east/kuwait-petroleum-corp-reports-damage-units-after-iran-drone-attack-2026-04-05/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/peru-stadium-incident-kills-one-injures-47-before-football-derby-afp-says-2026-04-04/",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/kuwait-petroleum-corp-reports-damage-units-after-iran-drone-attack-2026-04-05/",
       "credibility": "P2",
-      "publishedAt": "2026-04-04T04:01:24.000Z",
+      "publishedAt": "2026-04-05T10:39:12.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778800-14",
+      "title": "Congo says it will receive third-country deportees under new deal with US - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/africa/congo-says-it-will-receive-third-country-deportees-under-new-deal-with-us-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/congo-says-it-will-receive-third-country-deportees-under-new-deal-with-us-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T10:03:40.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778799-10",
+      "title": "Around 100 evacuated from burning military school in Moscow, TASS reports - Reuters",
+      "summary": "Reporting ​by Vladimir Soldatkin; Editing ​by Kirsten Donovan\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topic...",
+      "url": "https://www.reuters.com/world/around-100-evacuated-burning-military-school-moscow-tass-reports-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/around-100-evacuated-burning-military-school-moscow-tass-reports-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T09:32:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778800-15",
+      "title": "OPEC+ debates theoretical oil output hike amid Iran war paralysis, sources say - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T08:41:01.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "RAG"
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1775443778800-16",
+      "title": "Bahrain's Gulf Petrochemical Industries says fire under control at units after Iran drone attack - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/energy/bahrains-gulf-petrochemical-industries-says-fire-under-control-units-after-iran-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/bahrains-gulf-petrochemical-industries-says-fire-under-control-units-after-iran-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T08:00:06.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775443778799-7",
+      "title": "Foxconn first-quarter revenue jumps 30% y/y - reuters.com",
+      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nAdvertisement · Scro...",
+      "url": "https://www.reuters.com/world/asia-pacific/foxconn-first-quarter-revenue-jumps-30-yy-2026-04-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/foxconn-first-quarter-revenue-jumps-30-yy-2026-04-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-05T07:40:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
