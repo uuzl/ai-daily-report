@@ -1,122 +1,144 @@
 {
-  "date": "2026-04-06",
-  "generatedAt": "2026-04-06T02:49:38.800Z",
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T02:43:11.453Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1775443778799-9",
-      "title": "Contending Magic rally from 15-point deficit, upend Pelicans - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/sports/basketball/contending-magic-rally-15-point-deficit-upend-pelicans--flm-2026-04-06/",
+      "id": "news-1775529791453-10",
+      "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices - Reuters",
+      "summary": "## HIGH BANDWIDTH MEMORY GAINS GROUND\n\nAbout a year ago, Samsung CEO apologised for its disappointing earnings and share price performance, after the ...",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/basketball/contending-magic-rally-15-point-deficit-upend-pelicans--flm-2026-04-06/",
+      "sourceUrl": "https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/",
       "credibility": "P2",
-      "publishedAt": "2026-04-06T02:01:40.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775443778800-13",
-      "title": "Rickard Rakell scores twice as Penguins handle Panthers - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/nhl/rickard-rakell-scores-twice-penguins-handle-panthers--flm-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/nhl/rickard-rakell-scores-twice-penguins-handle-panthers--flm-2026-04-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-05T22:17:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775443778799-5",
-      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer - TechCrunch",
-      "summary": "## Related\n\n Social\n\n  ### As people look for ways to make new friends, here are the apps promising to help\n\n  + Lauren Forristal\n Transportation\n\n  #...",
-      "url": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-05T19:36:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775443778799-4",
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of service - TechCrunch",
-      "summary": "AI, Copilot, Microsoft\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry ...",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-05T18:51:37.000Z",
+      "publishedAt": "2026-04-07T00:24:14.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775529791452-4",
+      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips - Reuters",
+      "summary": "Anthropic said on Monday that the new deal builds on the company's ​commitment to ​invest $50 billion in ⁠strengthening U.S. computing infrastructure....",
+      "url": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-06T22:37:55.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "TPU"
       ]
     },
     {
-      "id": "news-1775443778799-1",
-      "title": "TechCrunch Mobility: ‘A stunning lack of transparency’ - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "id": "news-1775529791452-1",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund - TechCrunch",
+      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T16:05:00.000Z",
+      "publishedAt": "2026-04-06T21:54:26.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "AI"
+        "GPT"
       ]
     },
     {
-      "id": "news-1775443778799-3",
-      "title": "Suno is a music copyright nightmare capable of pumping out AI cover slop - The Verge",
-      "summary": "OpenAI’s AGI boss is taking a leave of absence\n\nApple’s best product ever\n\nChatbots are now prescribing psychiatric drugs\n\nA folk musician became a ta...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "id": "news-1775529791453-9",
+      "title": "OpenAI urges California, Delaware to investigate Musk's 'anti-competitive behavior’ - Reuters",
+      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
+      "url": "https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T16:00:00.000Z",
+      "publishedAt": "2026-04-06T21:54:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1775443778799-2",
-      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "id": "news-1775529791453-11",
+      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO - Ars Technica",
+      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Why will today's lunar flyby only beam back low-resolution video?\n2. 2. \"Cognitive surre...",
+      "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-06T21:23:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775529791452-5",
+      "title": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com",
+      "summary": "The AI Race:\n\nThe Iran War and AI\n\nBorrowing Boom\n\nBonanza or Bubble?\n\nHistoric RAM Shortages\n\nGemini Mac App\n\nOpenClaw Mania\n\nTechnology\n\n# OpenAI, A...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+      "credibility": "P2",
+      "publishedAt": "2026-04-06T21:08:58.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775529791452-0",
+      "title": "Google quietly releases an offline-first AI dictation app on iOS - TechCrunch",
+      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
+      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T14:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-06T18:54:33.000Z",
+      "category": "product",
       "tags": [
-        "OpenAI",
-        "AI"
+        "Claude",
+        "AI",
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1775443778799-6",
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well - The Verge",
-      "summary": "Allison Johnson\n\n## Most Popular\n\nMost Popular\n\n1. Buy two Nintendo Switch games, get $30 off at Target\n2. Anthropic essentially bans OpenClaw from Cl...",
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "id": "news-1775529791453-12",
+      "title": "Iran threatens ‘Stargate’ AI data centers - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
+      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T14:00:00.000Z",
+      "publishedAt": "2026-04-06T18:06:28.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775529791452-6",
+      "title": "North Korea's hijack of one of the web's most used open source projects was likely weeks in the making - TechCrunch",
+      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
+      "url": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-06T16:43:25.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -125,99 +147,91 @@
       ]
     },
     {
-      "id": "news-1775443778799-8",
-      "title": "Vessel with wheat cargo sinks in Sea of ​​Azov, one dead, two missing - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/vessel-with-wheat-cargo-sinks-sea-azov-one-dead-two-missing-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/vessel-with-wheat-cargo-sinks-sea-azov-one-dead-two-missing-2026-04-05/",
+      "id": "news-1775529791452-3",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week - TechCrunch",
+      "summary": "+ Kate Park\n Embattled startup Delve has ‘parted ways’ with Y Combinator\n\n  + Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extr...",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T11:39:42.000Z",
+      "publishedAt": "2026-04-06T15:55:55.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775443778800-12",
-      "title": "Kuwait Petroleum Corp reports damage at units after Iran drone attack - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/middle-east/kuwait-petroleum-corp-reports-damage-units-after-iran-drone-attack-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/kuwait-petroleum-corp-reports-damage-units-after-iran-drone-attack-2026-04-05/",
+      "id": "news-1775529791452-8",
+      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi - The Verge",
+      "summary": "Nilay Patel\n\nSuno is a music copyright nightmare\n\nTerrence O'Brien\n\nI let Gemini in Google Maps plan my day and it went surprisingly well\n\nAllison Joh...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T10:39:12.000Z",
+      "publishedAt": "2026-04-06T15:54:19.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1775443778800-14",
-      "title": "Congo says it will receive third-country deportees under new deal with US - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/africa/congo-says-it-will-receive-third-country-deportees-under-new-deal-with-us-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/africa/congo-says-it-will-receive-third-country-deportees-under-new-deal-with-us-2026-04-05/",
+      "id": "news-1775529791452-7",
+      "title": "Startup Battlefield 200 applications open until May 27 - TechCrunch",
+      "summary": "Topics\n\nAI, Apps, Biotech & Health, Climate, Fintech, Fundraising, Robotics, Startup Battlefield, Startup Battlefield 200, Startups, TC, TechCrunch Di...",
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T10:03:40.000Z",
+      "publishedAt": "2026-04-06T14:30:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775443778799-10",
-      "title": "Around 100 evacuated from burning military school in Moscow, TASS reports - Reuters",
-      "summary": "Reporting ​by Vladimir Soldatkin; Editing ​by Kirsten Donovan\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topic...",
-      "url": "https://www.reuters.com/world/around-100-evacuated-burning-military-school-moscow-tass-reports-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/around-100-evacuated-burning-military-school-moscow-tass-reports-2026-04-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-05T09:32:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775443778800-15",
-      "title": "OPEC+ debates theoretical oil output hike amid Iran war paralysis, sources say - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-05T08:41:01.000Z",
-      "category": "tech",
-      "tags": [
+        "Claude",
         "AI",
-        "TPU"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1775443778800-16",
-      "title": "Bahrain's Gulf Petrochemical Industries says fire under control at units after Iran drone attack - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/energy/bahrains-gulf-petrochemical-industries-says-fire-under-control-units-after-iran-2026-04-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/bahrains-gulf-petrochemical-industries-says-fire-under-control-units-after-iran-2026-04-05/",
+      "id": "news-1775529791452-2",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants\n\n  + Kate Park\n Embattled startup Del...",
+      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T08:00:06.000Z",
+      "publishedAt": "2026-04-06T14:11:42.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775529791453-13",
+      "title": "US regulator ends probe into Tesla's 'actually smart summon' feature after software fixes - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Autos & Transportation\n   ADAS, AV & Safety\n   Sustainabl...",
+      "url": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-2026-04-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-2026-04-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-06T09:30:53.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1775443778799-7",
-      "title": "Foxconn first-quarter revenue jumps 30% y/y - reuters.com",
-      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nAdvertisement · Scro...",
-      "url": "https://www.reuters.com/world/asia-pacific/foxconn-first-quarter-revenue-jumps-30-yy-2026-04-05/",
+      "id": "news-1775529791453-14",
+      "title": "Head of Iran's Revolutionary Guards' intelligence organisation announced as dead, state media reports - Reuters",
+      "summary": "1 hour agoAsia Pacific categorySouth Korea says 'credible intelligence' indicates North Korean leader's daughter is successor Image 6: Performance com...",
+      "url": "https://www.reuters.com/world/head-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/foxconn-first-quarter-revenue-jumps-30-yy-2026-04-05/",
+      "sourceUrl": "https://www.reuters.com/world/head-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06/",
       "credibility": "P2",
-      "publishedAt": "2026-04-05T07:40:47.000Z",
+      "publishedAt": "2026-04-06T07:37:44.000Z",
       "category": "tech",
       "tags": [
         "AI"
