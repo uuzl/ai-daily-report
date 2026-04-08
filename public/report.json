@@ -1,33 +1,204 @@
 {
-  "date": "2026-04-07",
-  "generatedAt": "2026-04-07T02:43:11.453Z",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T02:43:43.509Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1775529791453-10",
-      "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices - Reuters",
-      "summary": "## HIGH BANDWIDTH MEMORY GAINS GROUND\n\nAbout a year ago, Samsung CEO apologised for its disappointing earnings and share price performance, after the ...",
-      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T00:24:14.000Z",
+      "id": "news-1775616223507-5",
+      "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+      "summary": "Read announcement\n\n“The window between a vulnerability being discovered and being exploited by an adversary has collapsed—what once took months now ha...",
+      "url": "https://www.anthropic.com/glasswing",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/glasswing",
+      "credibility": "P0",
+      "publishedAt": "2026-04-07T18:11:49.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775529791452-4",
-      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips - Reuters",
-      "summary": "Anthropic said on Monday that the new deal builds on the company's ​commitment to ​invest $50 billion in ⁠strengthening U.S. computing infrastructure....",
-      "url": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+      "id": "news-1775616223507-10",
+      "title": "I can’t help rooting for tiny open source AI model maker Arcee - TechCrunch",
+      "summary": "With Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version...",
+      "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
       "credibility": "P2",
-      "publishedAt": "2026-04-06T22:37:55.000Z",
+      "publishedAt": "2026-04-07T21:35:02.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775616223508-14",
+      "title": "VC Eclipse has a new $1.3B to back — and build — ‘physical AI’ startups - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T21:24:54.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775616223507-1",
+      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\" - Ars Technica",
+      "summary": "> Until December of last year I was using LLMs as fancy autocomplete for coding. It was nice for scaffolding out boilerplate, or giving me a gut check...",
+      "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T19:09:44.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1775616223507-2",
+      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything - WIRED",
+      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.\n\nMaxwel...",
+      "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:49:50.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1775616223508-22",
+      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
+      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:46:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775616223508-23",
+      "title": "Intel signs on to Elon Musk’s Terafab chips project - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nTopics\n\nAI, Elon Musk, Hardware, In Brief, Intel, semiconductors\n\nApril 30\n\nSan Francisco, CA\n\n...",
+      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:10:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775616223507-6",
+      "title": "Anthropic touts AI cybersecurity project with Big Tech partners - Reuters",
+      "summary": "# Anthropic touts AI cybersecurity project with Big Tech partners | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytic...",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:01:02.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1775616223507-0",
+      "title": "Anthropic is launching a new AI model for cybersecurity - The Verge",
+      "summary": "Despite its highly public recent clash with the Trump administration, Anthropic also said in the release that it has been in “ongoing discussions with...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775616223507-4",
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative - TechCrunch",
+      "summary": "+ Ivan Mehta\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan, th...",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T18:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775616223508-17",
+      "title": "Testing suggests Google’s AI Overviews tells millions of lies per hour - Ars Technica",
+      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. NASA's Moon ship and rocket seem to be working well, so what about the landers?\n2. 2. “T...",
+      "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T16:53:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1775616223507-12",
+      "title": "Uber is the latest to be won over by Amazon’s AI chips - techcrunch.com",
+      "summary": "+ Anthony Ha\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident\n\n  + Tim F...",
+      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T16:46:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775616223507-3",
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand - TechCrunch",
+      "summary": "The majority of this compute will be housed in the U.S. and will be an extension of the company’s $50 billion commitment to invest in U.S. compute inf...",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-07T16:05:56.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -36,212 +207,40 @@
       ]
     },
     {
-      "id": "news-1775529791452-1",
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund - TechCrunch",
-      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
-      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T21:54:26.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775529791453-9",
-      "title": "OpenAI urges California, Delaware to investigate Musk's 'anti-competitive behavior’ - Reuters",
-      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
-      "url": "https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T21:54:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775529791453-11",
-      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Why will today's lunar flyby only beam back low-resolution video?\n2. 2. \"Cognitive surre...",
-      "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T21:23:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775529791452-5",
-      "title": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com",
-      "summary": "The AI Race:\n\nThe Iran War and AI\n\nBorrowing Boom\n\nBonanza or Bubble?\n\nHistoric RAM Shortages\n\nGemini Mac App\n\nOpenClaw Mania\n\nTechnology\n\n# OpenAI, A...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T21:08:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775529791452-0",
-      "title": "Google quietly releases an offline-first AI dictation app on iOS - TechCrunch",
-      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
-      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T18:54:33.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775529791453-12",
-      "title": "Iran threatens ‘Stargate’ AI data centers - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
-      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T18:06:28.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775529791452-6",
-      "title": "North Korea's hijack of one of the web's most used open source projects was likely weeks in the making - TechCrunch",
-      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Anthropic took down thousands of GitHu...",
-      "url": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T16:43:25.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775529791452-3",
-      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week - TechCrunch",
-      "summary": "+ Kate Park\n Embattled startup Delve has ‘parted ways’ with Y Combinator\n\n  + Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extr...",
-      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T15:55:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775529791452-8",
-      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi - The Verge",
-      "summary": "Nilay Patel\n\nSuno is a music copyright nightmare\n\nTerrence O'Brien\n\nI let Gemini in Google Maps plan my day and it went surprisingly well\n\nAllison Joh...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "id": "news-1775616223508-19",
+      "title": "Intel will help build Elon Musk’s Terafab AI chip factory - theverge.com",
+      "summary": "Despite EV headwinds, Rivian’s sales are up\n\nRobotaxi companies won’t say how often remote operators intervene\n\nAndrew J. Hawkins\n\nIs the Slate Truck ...",
+      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "sourceUrl": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
       "credibility": "P2",
-      "publishedAt": "2026-04-06T15:54:19.000Z",
+      "publishedAt": "2026-04-07T15:43:17.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1775529791452-7",
-      "title": "Startup Battlefield 200 applications open until May 27 - TechCrunch",
-      "summary": "Topics\n\nAI, Apps, Biotech & Health, Climate, Fintech, Fundraising, Robotics, Startup Battlefield, Startup Battlefield 200, Startups, TC, TechCrunch Di...",
-      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "id": "news-1775616223507-11",
+      "title": "Google Maps can now write captions for your photos using AI - techcrunch.com",
+      "summary": "+ Anthony Ha\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident\n\n  + Tim F...",
+      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-04-06T14:30:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-07T15:30:00.000Z",
+      "category": "hot",
       "tags": [
         "Claude",
         "AI",
         "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775529791452-2",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants\n\n  + Kate Park\n Embattled startup Del...",
-      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T14:11:42.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775529791453-13",
-      "title": "US regulator ends probe into Tesla's 'actually smart summon' feature after software fixes - Reuters",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Autos & Transportation\n   ADAS, AV & Safety\n   Sustainabl...",
-      "url": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-2026-04-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-2026-04-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T09:30:53.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775529791453-14",
-      "title": "Head of Iran's Revolutionary Guards' intelligence organisation announced as dead, state media reports - Reuters",
-      "summary": "1 hour agoAsia Pacific categorySouth Korea says 'credible intelligence' indicates North Korean leader's daughter is successor Image 6: Performance com...",
-      "url": "https://www.reuters.com/world/head-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/head-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-06T07:37:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
