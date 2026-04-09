@@ -1,246 +1,244 @@
 {
-  "date": "2026-04-08",
-  "generatedAt": "2026-04-08T02:43:43.509Z",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T02:38:40.821Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1775616223507-5",
-      "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
-      "summary": "Read announcement\n\n“The window between a vulnerability being discovered and being exploited by an adversary has collapsed—what once took months now ha...",
-      "url": "https://www.anthropic.com/glasswing",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/glasswing",
-      "credibility": "P0",
-      "publishedAt": "2026-04-07T18:11:49.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775616223507-10",
-      "title": "I can’t help rooting for tiny open source AI model maker Arcee - TechCrunch",
-      "summary": "With Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version...",
-      "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T21:35:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775616223508-14",
-      "title": "VC Eclipse has a new $1.3B to back — and build — ‘physical AI’ startups - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T21:24:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775616223507-1",
-      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\" - Ars Technica",
-      "summary": "> Until December of last year I was using LLMs as fancy autocomplete for coding. It was nice for scaffolding out boilerplate, or giving me a gut check...",
-      "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T19:09:44.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1775616223507-2",
-      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything - WIRED",
-      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.\n\nMaxwel...",
-      "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T18:49:50.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1775616223508-22",
-      "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T18:46:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775616223508-23",
-      "title": "Intel signs on to Elon Musk’s Terafab chips project - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nTopics\n\nAI, Elon Musk, Hardware, In Brief, Intel, semiconductors\n\nApril 30\n\nSan Francisco, CA\n\n...",
-      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T18:10:01.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775616223507-6",
-      "title": "Anthropic touts AI cybersecurity project with Big Tech partners - Reuters",
-      "summary": "# Anthropic touts AI cybersecurity project with Big Tech partners | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytic...",
-      "url": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T18:01:02.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775616223507-0",
-      "title": "Anthropic is launching a new AI model for cybersecurity - The Verge",
-      "summary": "Despite its highly public recent clash with the Trump administration, Anthropic also said in the release that it has been in “ongoing discussions with...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "id": "news-1775702320820-13",
+      "title": "Gemini gets notebooks to help you organize projects - The Verge",
+      "summary": "Google’s Gemini is getting a feature called “notebooks” to help you organize things about certain topics in a single place while using the AI chatbot,...",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
       "credibility": "P2",
-      "publishedAt": "2026-04-07T18:00:00.000Z",
-      "category": "product",
+      "publishedAt": "2026-04-09T00:06:12.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775702320820-3",
+      "title": "US court declines to block Pentagon's Anthropic blacklisting for now - Reuters",
+      "summary": "The lawsuit is one of two Anthropic filed over Hegseth’s unprecedented ​move, which came after Anthropic refused to allow the military to use AI chatb...",
+      "url": "https://www.reuters.com/world/us-court-declines-block-pentagons-anthropic-blacklisting-now-2026-04-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/us-court-declines-block-pentagons-anthropic-blacklisting-now-2026-04-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T21:54:35.000Z",
+      "category": "tech",
       "tags": [
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775616223507-4",
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative - TechCrunch",
-      "summary": "+ Ivan Mehta\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan, th...",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775616223508-17",
-      "title": "Testing suggests Google’s AI Overviews tells millions of lies per hour - Ars Technica",
-      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. NASA's Moon ship and rocket seem to be working well, so what about the landers?\n2. 2. “T...",
-      "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+      "id": "news-1775702320820-20",
+      "title": "LinkedIn scanning users’ browser extensions sparks controversy and two lawsuits - arstechnica.com",
+      "summary": "Jon Brodkin  Senior IT Reporter\n\nJon is a Senior IT Reporter for Ars Technica. He covers the telecom industry, Federal Communications Commission rulem...",
+      "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
       "credibility": "P2",
-      "publishedAt": "2026-04-07T16:53:55.000Z",
+      "publishedAt": "2026-04-08T21:08:06.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1775616223507-12",
-      "title": "Uber is the latest to be won over by Amazon’s AI chips - techcrunch.com",
-      "summary": "+ Anthony Ha\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident\n\n  + Tim F...",
-      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-07T16:46:59.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775616223507-3",
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand - TechCrunch",
-      "summary": "The majority of this compute will be housed in the U.S. and will be an extension of the company’s $50 billion commitment to invest in U.S. compute inf...",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "id": "news-1775702320820-14",
+      "title": "Poke makes AI agents as easy as sending a text - techcrunch.com",
+      "summary": "Unlike OpenClaw, getting started with Poke is easy. You simply visit Poke.com, click “Get Started,” and enter your phone number. There’s no app to ins...",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "credibility": "P2",
-      "publishedAt": "2026-04-07T16:05:56.000Z",
+      "publishedAt": "2026-04-08T21:05:13.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775702320820-16",
+      "title": "US-Iran truce risks sliding into 'indefinite stalemate,' says CIO - Reuters",
+      "summary": "Load More Categories\n\n   2 hours agoUS court declines to block Pentagon's Anthropic blacklisting for now , opens new tab\n\n### Stay Informed\n\n   Downlo...",
+      "url": "https://www.reuters.com/video/watch/idRW095708042026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW095708042026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T20:09:21.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
         "TPU"
       ]
     },
     {
-      "id": "news-1775616223508-19",
-      "title": "Intel will help build Elon Musk’s Terafab AI chip factory - theverge.com",
-      "summary": "Despite EV headwinds, Rivian’s sales are up\n\nRobotaxi companies won’t say how often remote operators intervene\n\nAndrew J. Hawkins\n\nIs the Slate Truck ...",
-      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+      "id": "news-1775702320820-5",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nFor AWS, making a huge investment in OpenAI to gain its model for its customers (and as a techn...",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "credibility": "P2",
-      "publishedAt": "2026-04-07T15:43:17.000Z",
+      "publishedAt": "2026-04-08T20:09:14.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775702320819-1",
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI - TechCrunch",
+      "summary": "Amanda Silberling\n\nMeta released an AI model on Wednesday called Muse Spark, which marks its “first step” toward an “overhaul of [its] AI efforts.”\n\nM...",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T18:53:19.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775702320820-17",
+      "title": "To beat Altman in court, Musk offers to give all damages to Open AI nonprofit - Ars Technica",
+      "summary": "On X, OpenAI’s newsroom accused Musk of lodging a “court filing pretending to change his tune about attacking the nonprofit OpenAI Foundation.”\n\n“The ...",
+      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T17:37:06.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775702320820-21",
+      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber - TechCrunch",
+      "summary": "+ Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\n  + Anthony Ha\n Microsoft takes on AI rivals with thre...",
+      "url": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T17:19:16.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775702320820-2",
+      "title": "Meta is reentering the AI race with a new model called Muse Spark - The Verge",
+      "summary": "Image: Meta\n\nMeta also highlighted that Muse Spark can answer “complex questions in science, math, and health.” Health-focused AI chatbots have been a...",
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T16:12:54.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775702320821-24",
+      "title": "Citigroup says AI helps speed account openings and systems upgrades - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Artificial Intelligence\n   Finance & Banking\n\n    \n    \n ...",
+      "url": "https://www.reuters.com/business/finance/citigroup-says-ai-helps-speed-account-openings-systems-upgrades-2026-04-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/citigroup-says-ai-helps-speed-account-openings-systems-upgrades-2026-04-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T16:11:40.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1775616223507-11",
-      "title": "Google Maps can now write captions for your photos using AI - techcrunch.com",
-      "summary": "+ Anthony Ha\n Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident\n\n  + Tim F...",
-      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "id": "news-1775702320820-18",
+      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nTopics\n\nCrypto, crypto, satoshi\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in ...",
+      "url": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
       "credibility": "P2",
-      "publishedAt": "2026-04-07T15:30:00.000Z",
-      "category": "hot",
+      "publishedAt": "2026-04-08T16:03:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1775702320820-11",
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support - TechCrunch",
+      "summary": "+ Ivan Mehta\n AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost\n\n  + Jagmeet Singh\n North Korea’s hijack of one of the we...",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T16:01:09.000Z",
+      "category": "tech",
       "tags": [
         "Claude",
         "AI",
         "OpenCL"
       ]
+    },
+    {
+      "id": "news-1775702320820-9",
+      "title": "Hackers steal and leak sensitive LAPD police documents - TechCrunch",
+      "summary": "+ Zack Whittaker\n In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants\n\n  + Kate Park\n Embattled startup Delve has ‘parted...",
+      "url": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T15:38:34.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775702320820-23",
+      "title": "Steam client files point to \"framerate estimator\" feature in the works - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-08T15:37:04.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
