@@ -1,17 +1,65 @@
 {
-  "date": "2026-04-10",
-  "generatedAt": "2026-04-10T02:50:25.874Z",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T02:34:40.337Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1775789425873-5",
-      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters - WIRED",
-      "summary": "Nick Clegg Doesn’t Want to Talk About Superintelligence\n\nAfter leaving Meta last year, the former deputy prime minister of the UK is charting a new pa...",
-      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "id": "news-1775874880336-7",
+      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission - TechCrunch",
+      "summary": "+ Tim Fernholz\n Google quietly launched an AI dictation app that works offline\n\n  + Ivan Mehta\n Apple’s foldable iPhone is on track to launch in Septe...",
+      "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T00:44:17.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775874880336-3",
+      "title": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release, CNBC reports - Reuters",
+      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
+      "url": "https://www.reuters.com/business/vance-bessent-questioned-tech-giants-ai-security-before-anthropics-mythos-2026-04-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/vance-bessent-questioned-tech-giants-ai-security-before-anthropics-mythos-2026-04-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T20:41:12.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775874880335-1",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude - TechCrunch",
+      "summary": "Multiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also ...",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T20:27:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775874880336-4",
+      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think - WIRED",
+      "summary": "Read More\n\nAnthropic Teams Up With Its Rivals to Keep AI From Hacking Everything\n\nThe AI lab's Project Glasswing will bring together Apple, Google, an...",
+      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "sourceUrl": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T00:19:53.000Z",
+      "publishedAt": "2026-04-10T18:08:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,203 +68,59 @@
       ]
     },
     {
-      "id": "news-1775789425873-7",
-      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nOpenAI added that it builds and continues to improve ChatGPT to understand user intent and resp...",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "id": "news-1775874880336-14",
+      "title": "South Africa unveils draft AI policy, proposes new institutions and incentives - Reuters",
+      "summary": "# South Africa unveils draft AI policy, proposes new institutions and incentives | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, da...",
+      "url": "https://www.reuters.com/legal/litigation/south-africa-unveils-draft-ai-policy-proposes-new-institutions-incentives-2026-04-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/south-africa-unveils-draft-ai-policy-proposes-new-institutions-incentives-2026-04-10/",
       "credibility": "P2",
-      "publishedAt": "2026-04-09T22:13:26.000Z",
+      "publishedAt": "2026-04-10T17:47:47.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775789425873-4",
-      "title": "ChatGPT finally offers $100/month Pro plan - TechCrunch",
-      "summary": "OpenAI makes no bones that this new pricing tier is to challenge Anthropic, which has long had a $100/month option for Claude.\n\n“The new $100 Pro Tier...",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T21:29:11.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775789425872-2",
-      "title": "Why Anthropic sent its Claude AI to an actual psychiatrist - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nThe AI company Anthropic released a 244-page “system card” (PDF) this week describing its newest model...",
-      "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T21:20:31.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775789425873-15",
-      "title": "Software Slumps Again With Growth Hopes ‘Dashed on the Rocks’ - Bloomberg.com",
-      "summary": "by Saleha MohsinFerraris, Advil y chips de IA: 10 compañías clave a seguir\n\nby Tim CraigheadWhere to Invest 100 Million Nigerian Naira\n\nby Emele Onu a...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/software-slumps-again-with-growth-hopes-dashed-on-the-rocks",
+      "id": "news-1775874880336-5",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings - TechCrunch",
+      "summary": "+ Aisha Malik\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan, t...",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T16:41:34.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775874880336-2",
+      "title": "Anthropic Will Rent CoreWeave AI Capacity to Power Claude - Bloomberg.com",
+      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nAI\n\n# Anthropic Will Use...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-09/software-slumps-again-with-growth-hopes-dashed-on-the-rocks",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude",
       "credibility": "P2",
-      "publishedAt": "2026-04-09T20:21:51.000Z",
+      "publishedAt": "2026-04-10T15:57:43.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1775789425873-6",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT - TechCrunch",
-      "summary": "+ Aisha Malik\n AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost\n\n  + Jagmeet Singh\n North Korea’s hijack of one of the w...",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T20:11:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775789425873-11",
-      "title": "After data breach, $10B valued startup Mercor is having a month - TechCrunch",
-      "summary": "+ Jagmeet Singh\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan,...",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T19:33:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1775789425873-3",
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch - TechCrunch",
-      "summary": "Plus, Meta AI is able to launch multiple subagents to handle users’ questions, the company said.\n\nThe model will roll out to other platforms, includin...",
-      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T19:10:07.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775789425872-1",
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic? - TechCrunch",
-      "summary": "That analysis jibes with what we’re seeing in the AI ecosystem: A race between frontier labs developing the largest, most capable models, and companie...",
-      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T18:50:05.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1775789425872-0",
-      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations - The Verge",
-      "summary": "Screenshot: The Verge\n\nThis update comes just weeks after Anthropic gave Claude the ability to automatically respond with charts, diagrams, and other ...",
-      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T17:57:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775789425873-8",
-      "title": "US software stocks fall as Anthropic's new AI model revives disruption fears - Reuters",
-      "summary": "# US software stocks fall as Anthropic's new AI model revives disruption fears | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data...",
-      "url": "https://www.reuters.com/business/us-software-stocks-fall-anthropics-new-ai-model-revives-disruption-fears-2026-04-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-software-stocks-fall-anthropics-new-ai-model-revives-disruption-fears-2026-04-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T15:27:48.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1775789425873-13",
-      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter - TechCrunch",
-      "summary": "+ Kate Park\n Embattled startup Delve has ‘parted ways’ with Y Combinator\n\n  + Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extr...",
-      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T14:27:57.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775789425873-14",
-      "title": "Intel and Google to double down on AI CPUs with expanded partnership - Reuters",
-      "summary": "Reporting by Zaheer Kachwala in Bengaluru; Editing by Sriraj Kalluvila\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase ...",
-      "url": "https://www.reuters.com/business/intel-google-double-down-ai-cpus-with-expanded-partnership-2026-04-09/",
+      "id": "news-1775874880336-9",
+      "title": "OpenAI faces tighter regulation under EU's Digital Service Act, Handelsblatt says - Reuters",
+      "summary": "# OpenAI faces tighter regulation under EU's Digital Service Act, Handelsblatt says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news,...",
+      "url": "https://www.reuters.com/world/openai-faces-tighter-regulation-under-eus-digital-service-act-handelsblatt-says-2026-04-10/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/intel-google-double-down-ai-cpus-with-expanded-partnership-2026-04-09/",
+      "sourceUrl": "https://www.reuters.com/world/openai-faces-tighter-regulation-under-eus-digital-service-act-handelsblatt-says-2026-04-10/",
       "credibility": "P2",
-      "publishedAt": "2026-04-09T13:03:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775789425873-10",
-      "title": "OpenAI projects $2.5 billion in ad revenue this year, $100 billion by 2030, Axios reports - Reuters",
-      "summary": "# OpenAI projects $2.5 billion in ad revenue this year, $100 billion by 2030, Axios reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusi...",
-      "url": "https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-09T12:00:09.000Z",
+      "publishedAt": "2026-04-10T14:29:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -225,18 +129,112 @@
       ]
     },
     {
-      "id": "news-1775789425873-12",
-      "title": "Google makes it easy to deepfake yourself - The Verge",
-      "summary": "Nilay Patel\n\nGemini gets notebooks to help you organize projects\n\nJay Peters\n\nOpenAI made economic proposals — here’s what DC thinks of them\n\nTina Ngu...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "id": "news-1775874880336-10",
+      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing - TechCrunch",
+      "summary": "+ Kate Park\n Embattled startup Delve has ‘parted ways’ with Y Combinator\n\n  + Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extr...",
+      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
       "credibility": "P2",
-      "publishedAt": "2026-04-09T10:53:49.000Z",
+      "publishedAt": "2026-04-10T13:52:02.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1775874880336-11",
+      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares surge - Reuters",
+      "summary": "The partnership will initially focus on a phased infrastructure ⁠rollout, with the potential to expand in the future, ​the companies said. \n   The Ant...",
+      "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T12:58:35.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1775874880336-6",
+      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus - TechCrunch",
+      "summary": "## Related\n\n Government & Policy\n\n  ### Florida AG to probe OpenAI, alleging possible connection to FSU shooting\n\n  + Amanda Silberling\n AI\n\n  ### Cha...",
+      "url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775874880336-8",
+      "title": "Gen Z’s love-hate relationship with AI - The Verge",
+      "summary": "Fear and loathing at OpenAI\n\nDavid Pierce\n\nMicrosoft starts removing Copilot buttons from Windows 11 apps\n\nTom Warren\n\nChatGPT has a new $100 per mont...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T11:23:28.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775874880336-12",
+      "title": "The Week in Numbers: oil prices swing wildly, AI boom motors on - Reuters",
+      "summary": "## Science [...] Giant dinosaur discovery in Brazil shows prehistoric Europe link March 13, 2026\n   Could this zero-gravity gym help astronauts stay f...",
+      "url": "https://www.reuters.com/video/watch/idRW118709042026RP1",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW118709042026RP1",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T10:51:03.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775874880335-0",
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice - WIRED",
+      "summary": "“Paste your numbers from a fitness tracker, glucose monitor, or a lab report. I’ll calculate trends, flag patterns, and visualize them,” read the Meta...",
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T09:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1775874880336-13",
+      "title": "Canada's Cohere, Germany's Aleph Alpha in merger talks, Handelsblatt reports - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n   26 mins agoLitigation categoryBig Tech puts financial heft behind next-gen nuclear power ...",
+      "url": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-merger-talks-handelsblatt-reports-2026-04-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-merger-talks-handelsblatt-reports-2026-04-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-10T07:30:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
       ]
     }
   ],
