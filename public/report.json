@@ -1,190 +1,75 @@
 {
-  "date": "2026-04-11",
-  "generatedAt": "2026-04-11T02:34:40.337Z",
-  "totalItems": 15,
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T02:53:48.402Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1775874880336-7",
-      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission - TechCrunch",
-      "summary": "+ Tim Fernholz\n Google quietly launched an AI dictation app that works offline\n\n  + Ivan Mehta\n Apple’s foldable iPhone is on track to launch in Septe...",
-      "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "id": "news-1775962428401-8",
+      "title": "Valkyries sign Veronica Burton to multiyear deal - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   5 hours ago TennisAlcaraz ends Vacherot fairytale to set up Monte Carlo final with Sinner  on 10-day IL  o...",
+      "url": "https://www.reuters.com/sports/valkyries-sign-veronica-burton-multiyear-deal--flm-2026-04-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/valkyries-sign-veronica-burton-multiyear-deal--flm-2026-04-11/",
       "credibility": "P2",
-      "publishedAt": "2026-04-11T00:44:17.000Z",
+      "publishedAt": "2026-04-11T22:49:25.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775962428401-9",
+      "title": "Dream re-sign G Rhyne Howard, four others - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/dream-re-sign-g-rhyne-howard-four-others--flm-2026-04-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/dream-re-sign-g-rhyne-howard-four-others--flm-2026-04-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T20:53:13.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "OpenCL"
+        "LLM"
       ]
     },
     {
-      "id": "news-1775874880336-3",
-      "title": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release, CNBC reports - Reuters",
-      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
-      "url": "https://www.reuters.com/business/vance-bessent-questioned-tech-giants-ai-security-before-anthropics-mythos-2026-04-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/vance-bessent-questioned-tech-giants-ai-security-before-anthropics-mythos-2026-04-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T20:41:12.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880335-1",
-      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude - TechCrunch",
-      "summary": "Multiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also ...",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "id": "news-1775962428401-4",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home - TechCrunch",
+      "summary": "Of course, the correct way to deal with the ring of power is to destroy it, so Altman added, “I don’t mean that [artificial general intelligence] is t...",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "sourceUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T20:27:52.000Z",
+      "publishedAt": "2026-04-11T17:18:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775874880336-4",
-      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think - WIRED",
-      "summary": "Read More\n\nAnthropic Teams Up With Its Rivals to Keep AI From Hacking Everything\n\nThe AI lab's Project Glasswing will bring together Apple, Google, an...",
-      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T18:08:37.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1775874880336-14",
-      "title": "South Africa unveils draft AI policy, proposes new institutions and incentives - Reuters",
-      "summary": "# South Africa unveils draft AI policy, proposes new institutions and incentives | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, da...",
-      "url": "https://www.reuters.com/legal/litigation/south-africa-unveils-draft-ai-policy-proposes-new-institutions-incentives-2026-04-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/south-africa-unveils-draft-ai-policy-proposes-new-institutions-incentives-2026-04-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T17:47:47.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880336-5",
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings - TechCrunch",
-      "summary": "+ Aisha Malik\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan, t...",
-      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T16:41:34.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1775874880336-2",
-      "title": "Anthropic Will Rent CoreWeave AI Capacity to Power Claude - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nAI\n\n# Anthropic Will Use...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T15:57:43.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880336-9",
-      "title": "OpenAI faces tighter regulation under EU's Digital Service Act, Handelsblatt says - Reuters",
-      "summary": "# OpenAI faces tighter regulation under EU's Digital Service Act, Handelsblatt says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news,...",
-      "url": "https://www.reuters.com/world/openai-faces-tighter-regulation-under-eus-digital-service-act-handelsblatt-says-2026-04-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/openai-faces-tighter-regulation-under-eus-digital-service-act-handelsblatt-says-2026-04-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T14:29:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880336-10",
-      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing - TechCrunch",
-      "summary": "+ Kate Park\n Embattled startup Delve has ‘parted ways’ with Y Combinator\n\n  + Anthony Ha\n Anthropic says Claude Code subscribers will need to pay extr...",
-      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T13:52:02.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1775874880336-11",
-      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares surge - Reuters",
-      "summary": "The partnership will initially focus on a phased infrastructure ⁠rollout, with the potential to expand in the future, ​the companies said. \n   The Ant...",
-      "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T12:58:35.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880336-6",
-      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus - TechCrunch",
-      "summary": "## Related\n\n Government & Policy\n\n  ### Florida AG to probe OpenAI, alleging possible connection to FSU shooting\n\n  + Amanda Silberling\n AI\n\n  ### Cha...",
-      "url": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-10T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1775874880336-8",
-      "title": "Gen Z’s love-hate relationship with AI - The Verge",
-      "summary": "Fear and loathing at OpenAI\n\nDavid Pierce\n\nMicrosoft starts removing Copilot buttons from Windows 11 apps\n\nTom Warren\n\nChatGPT has a new $100 per mont...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "id": "news-1775962428401-5",
+      "title": "Google says Polymarket bets showing up in News was an ‘error’ - The Verge",
+      "summary": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool\n\nAmazon Luna axes third-party game purchases\n\nYou don’t have t...",
+      "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "sourceUrl": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T11:23:28.000Z",
+      "publishedAt": "2026-04-11T15:07:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775962428401-2",
+      "title": "Your article about AI doesn’t need AI art - The Verge",
+      "summary": "How Iran out-shitposted the White House\n\n20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house\n\nThe Iranian Lego AI...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -193,55 +78,127 @@
       ]
     },
     {
-      "id": "news-1775874880336-12",
-      "title": "The Week in Numbers: oil prices swing wildly, AI boom motors on - Reuters",
-      "summary": "## Science [...] Giant dinosaur discovery in Brazil shows prehistoric Europe link March 13, 2026\n   Could this zero-gravity gym help astronauts stay f...",
-      "url": "https://www.reuters.com/video/watch/idRW118709042026RP1",
+      "id": "news-1775962428401-11",
+      "title": "Iraqi parliament elects Nizar Amedi as country's new president - Reuters",
+      "summary": "2 hours agoAsia Pacific categoryIran in touch with Lebanon to ensure ceasefire commitments respected, foreign ministry says  listing of Leopard ​tank ...",
+      "url": "https://www.reuters.com/world/middle-east/iraqi-parliament-elects-nizar-amedi-countrys-new-president-2026-04-11/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW118709042026RP1",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/iraqi-parliament-elects-nizar-amedi-countrys-new-president-2026-04-11/",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T10:51:03.000Z",
+      "publishedAt": "2026-04-11T14:50:40.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1775874880335-0",
-      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice - WIRED",
-      "summary": "“Paste your numbers from a fitness tracker, glucose monitor, or a lab report. I’ll calculate trends, flag patterns, and visualize them,” read the Meta...",
-      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "id": "news-1775962428401-6",
+      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips - TechCrunch",
+      "summary": "+ Jagmeet Singh\n North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making\n\n  + Zack Whittaker\n In Japan,...",
+      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T09:30:00.000Z",
+      "publishedAt": "2026-04-11T14:03:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1775874880336-13",
-      "title": "Canada's Cohere, Germany's Aleph Alpha in merger talks, Handelsblatt reports - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n   26 mins agoLitigation categoryBig Tech puts financial heft behind next-gen nuclear power ...",
-      "url": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-merger-talks-handelsblatt-reports-2026-04-10/",
+      "id": "news-1775962428401-12",
+      "title": "Chinese oil tankers transit Strait of Hormuz, data shows - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/energy/chinese-oil-tankers-transit-strait-hormuz-data-shows-2026-04-11/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-merger-talks-handelsblatt-reports-2026-04-10/",
+      "sourceUrl": "https://www.reuters.com/business/energy/chinese-oil-tankers-transit-strait-hormuz-data-shows-2026-04-11/",
       "credibility": "P2",
-      "publishedAt": "2026-04-10T07:30:09.000Z",
+      "publishedAt": "2026-04-11T13:19:48.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775962428401-3",
+      "title": "How Iran out-shitposted the White House - The Verge",
+      "summary": "Congress can finally close a mass surveillance loophole — but will they?\n\nTrump Mobile isn’t giving up just yet\n\nFlorida launches investigation into O...",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775962428401-7",
+      "title": "‘Crimson Desert’ Is a Cat Dad Simulator - WIRED",
+      "summary": "## Comments\n\nBack to top\n\n## You Might Also Like\n\n In your inbox: Will Knight's AI Lab explores advances in AI\n Unmasking the paramilitary agents behi...",
+      "url": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T12:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1775962428401-1",
+      "title": "Americans voice anxiety over Iran war amid fragile ceasefire - Reuters",
+      "summary": "### Image 5: Hadfield says Artemis II mission 'so needed' amid global uncertainty 01:35 Hadfield says Artemis II mission 'so needed' amid global uncer...",
+      "url": "https://www.reuters.com/video/watch/idRW152210042026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW152210042026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T10:08:04.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "RAG"
+      ]
+    },
+    {
+      "id": "news-1775962428401-0",
+      "title": "Flight Path Data Shows How Mosquitoes Target Humans - WIRED",
+      "summary": "The moon gets hit by space debris all the time, but some of it is so large that the impact generates light that can be seen thousands of kilometers aw...",
+      "url": "https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1775962428401-10",
+      "title": "IBM Japan Ltd - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/company/ibm-japan-ltd/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/company/ibm-japan-ltd/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-11T05:55:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 13
   },
   "summary": ""
 }
