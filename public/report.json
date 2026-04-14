@@ -1,31 +1,65 @@
 {
-  "date": "2026-04-13",
-  "generatedAt": "2026-04-13T02:58:11.937Z",
-  "totalItems": 13,
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T02:51:22.899Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1776049091937-11",
-      "title": "US, Australia, Philippines hold second joint drills in South China Sea this year - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-australia-philippines-hold-second-joint-drills-south-china-sea-this-year-2026-04-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/us-australia-philippines-hold-second-joint-drills-south-china-sea-this-year-2026-04-13/",
+      "id": "news-1776135082899-4",
+      "title": "OpenAI has bought AI personal finance startup Hiro - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
       "credibility": "P2",
-      "publishedAt": "2026-04-13T02:12:22.000Z",
+      "publishedAt": "2026-04-14T00:23:33.000Z",
       "category": "tech",
       "tags": [
-        "AI"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1776049091936-3",
-      "title": "US FTC in settlement talks with ad companies in boycott probe, WSJ reports - Reuters",
-      "summary": "3 hours agoWorld categoryUK regulators rush to assess risks of latest Anthropic AI model, FT reports Image 3: Illustration shows Anthropic logo  \n   A...",
-      "url": "https://www.reuters.com/legal/litigation/us-ftc-settlement-talks-with-ad-companies-boycott-probe-wsj-reports-2026-04-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/us-ftc-settlement-talks-with-ad-companies-boycott-probe-wsj-reports-2026-04-12/",
+      "id": "news-1776135082899-13",
+      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now - TechCrunch",
+      "summary": "See More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Enterprise\n\n  ### Microsoft is working on yet another OpenClaw-like agent\n\n  + ...",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T21:50:23.000Z",
+      "publishedAt": "2026-04-13T20:20:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1776135082898-3",
+      "title": "Microsoft is working on yet another OpenClaw-like agent - TechCrunch",
+      "summary": "In March, for instance, Microsoft announced Copilot Cowork, which is designed to take actions in Microsoft 365 apps, not just provide search results o...",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T19:05:19.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776135082899-11",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
+      "summary": "The divide has been most apparent in the online reaction to the recent attacks on OpenAI CEO Sam Altman’s home. in posts on X , for instance, AI insid...",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T18:55:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -33,28 +67,118 @@
       ]
     },
     {
-      "id": "news-1776049091937-10",
-      "title": "US military says it will start blockade of all ships going to and from Iran on Monday - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/middle-east/us-military-says-it-will-start-blockade-all-ships-going-iran-monday-2026-04-12/",
+      "id": "news-1776135082898-1",
+      "title": "AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks - Reuters",
+      "summary": "Marlin said that could act as a force multiplier for breaches, making any AI-powered exploits \"potentially catastrophic at scale.\"\n\nGovernment ​offici...",
+      "url": "https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/us-military-says-it-will-start-blockade-all-ships-going-iran-monday-2026-04-12/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T21:15:55.000Z",
+      "publishedAt": "2026-04-13T18:11:42.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1776135082899-12",
+      "title": "Booking.com confirms hackers accessed customers’ data - TechCrunch",
+      "summary": "+ Aisha Malik\n This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit.’\n\n  + Tim Fernholz\n Develop...",
+      "url": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T17:02:31.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776049091936-4",
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Social\n\n  ### X says it’s reducing payments to c...",
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "id": "news-1776135082898-0",
+      "title": "OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’ - The Verge",
+      "summary": "The homepage\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nComments Drawer\n\nComments\n\nLoading comments\n\nGetting the conversation ready...\n\n# Rea...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T21:14:38.000Z",
+      "publishedAt": "2026-04-13T16:21:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776135082899-16",
+      "title": "Dell, HP Inc. Shares Jump on Acquisition Speculation Report - Bloomberg.com",
+      "summary": "US Stocks:\n\nToday’s Markets Wrap\n\nWorrisome Earnings Season\n\nOptimistic Analysts\n\nMarket’s Hottest Stock\n\nPerks Drive Fintech Loyalty\n\nStock Movers Po...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/dell-hp-inc-shares-jump-on-acquisition-speculation-report",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-13/dell-hp-inc-shares-jump-on-acquisition-speculation-report",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T16:07:46.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776135082899-15",
+      "title": "Meta poised to surpass Google in digital ad revenue for first time, report says - Reuters",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   3 hours agoBusiness categoryTesco ...",
+      "url": "https://www.reuters.com/business/media-telecom/meta-poised-surpass-google-digital-ad-revenue-first-time-report-says-2026-04-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/meta-poised-surpass-google-digital-ad-revenue-first-time-report-says-2026-04-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T15:48:53.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776135082899-8",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge - TechCrunch",
+      "summary": "2026 was expected to be a strong year for new listings, but a sharp sell-off in software, fueled by the fear of AI disruption, has effectively frozen ...",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T15:22:29.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776135082899-9",
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings - The Verge",
+      "summary": "Allow me to explain why I love this camera that can’t shoot color\n\nThe AI code wars are heating up [...] Did Neuralink make the wrong bet?\n\nElissa Wel...",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T13:40:03.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776135082898-2",
+      "title": "Did Neuralink make the wrong bet? - The Verge",
+      "summary": "Looking further, AI chatbots seem like an obvious complement to speech BCIs. The two technologies are tangentially related: BCIs are already built on ...",
+      "url": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+      "credibility": "P2",
+      "publishedAt": "2026-04-13T11:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -63,137 +187,45 @@
       ]
     },
     {
-      "id": "news-1776049091937-9",
-      "title": "X says it’s reducing payments to clickbait accounts - TechCrunch",
-      "summary": "Anthony Ha\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local gov...",
-      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "id": "news-1776135082899-14",
+      "title": "The largest orbital compute cluster is open for business - TechCrunch",
+      "summary": "+ Zack Whittaker\n Apple’s foldable iPhone is on track to launch in September, report says\n\n  + Aisha Malik\n North Korea’s hijack of one of the web’s m...",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T17:02:20.000Z",
+      "publishedAt": "2026-04-13T07:01:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776049091937-12",
-      "title": "Iran's Guards will view military vessels approaching strait as ceasefire breach - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/middle-east/irans-guards-will-view-military-vessels-approaching-strait-ceasefire-breach-2026-04-12/",
+      "id": "news-1776135082899-5",
+      "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say - Reuters",
+      "summary": "AI startup Moonshot, for example, is weighing the necessity of dismantling its offshore incorporation structure and has yet to come to a decision, thr...",
+      "url": "https://www.reuters.com/world/china/chinese-ai-startup-stepfun-unwind-offshore-structure-pave-way-ipo-sources-say-2026-04-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/irans-guards-will-view-military-vessels-approaching-strait-ceasefire-breach-2026-04-12/",
+      "sourceUrl": "https://www.reuters.com/world/china/chinese-ai-startup-stepfun-unwind-offshore-structure-pave-way-ipo-sources-say-2026-04-13/",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T16:52:40.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776049091937-8",
-      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent? - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T16:06:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776049091936-1",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms - TechCrunch",
-      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
-      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T15:07:08.000Z",
+      "publishedAt": "2026-04-13T06:56:10.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776049091936-5",
-      "title": "When AI stops being an experiment and becomes a new development model - TechCrunch",
-      "summary": "Utilization: How much AI is used across workflows, including the percentage of AI-assisted pull requests, AI-generated code, and tasks executed by age...",
-      "url": "https://techcrunch.com/sponsor/vention/when-ai-stops-being-an-experiment-and-becomes-a-new-development-model/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/sponsor/vention/when-ai-stops-being-an-experiment-and-becomes-a-new-development-model/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T15:07:08.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1776049091936-0",
-      "title": "At the HumanX conference, everyone was talking about Claude - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nIf anything, it remains clear that OpenAI is determined to do what it takes to remain dominant....",
-      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776049091937-6",
-      "title": "Visa recognizes Huli and Open Co as the winners of the Visa Everywhere Initiative Latin America and the Caribbean - TechCrunch",
-      "summary": "+ Zack Whittaker\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Social\n\n  ### X says it’s reducing payments ...",
-      "url": "https://techcrunch.com/sponsor/visa-everywhere-initiative/the-visa-everywhere-initiative-finals-for-latin-america-and-the-caribbean-are-here/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/sponsor/visa-everywhere-initiative/the-visa-everywhere-initiative-finals-for-latin-america-and-the-caribbean-are-here/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776049091937-7",
-      "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For - WIRED",
-      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.\n\nMaxwel...",
-      "url": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-12T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776049091936-2",
-      "title": "UK financial regulators rush to assess risks of Anthropic’s latest AI model, FT reports - Reuters",
-      "summary": "April 11, 2026Business categoryOpenAI identifies security issue involving third-party tool, says user data was not accessed Image 3: FILE PHOTO: Illus...",
-      "url": "https://www.reuters.com/world/uk/uk-financial-regulators-rush-assess-risks-anthropics-latest-ai-model-ft-reports-2026-04-12/",
+      "id": "news-1776135082899-7",
+      "title": "Benin finance minister seen coasting to presidential election win - Reuters",
+      "summary": "Artemis II astronauts splash down after 10-day moon mission April 11, 2026\n   Hadfield says Artemis II mission 'so needed' amid global uncertainty Apr...",
+      "url": "https://www.reuters.com/video/watch/idRW195613042026RP1/?chan=politics&location=channel-item",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/uk/uk-financial-regulators-rush-assess-risks-anthropics-latest-ai-model-ft-reports-2026-04-12/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW195613042026RP1/?chan=politics&location=channel-item",
       "credibility": "P2",
-      "publishedAt": "2026-04-12T11:55:36.000Z",
+      "publishedAt": "2026-04-13T04:43:27.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     }
@@ -201,7 +233,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
