@@ -1,217 +1,65 @@
 {
-  "date": "2026-04-15",
-  "generatedAt": "2026-04-15T02:49:19.776Z",
-  "totalItems": 15,
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T02:56:05.339Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1776221359775-1",
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T02:31:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359775-9",
-      "title": "AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report - TechCrunch",
-      "summary": "The deal was a huge vote of confidence for Fluidstack, a company that was relatively unknown in the U.S. before it. Anthropic primarily uses AWS and G...",
-      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T21:33:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359776-13",
-      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   50 mins agoBusiness categoryWall Street rallies on renewed hopes for US-Iran talks, earnings boost  of ass...",
-      "url": "https://www.reuters.com/business/meta-inks-deal-with-broadcom-custom-ai-chips-2026-04-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-inks-deal-with-broadcom-custom-ai-chips-2026-04-14/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T21:19:05.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1776221359775-0",
-      "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos - Bloomberg.com",
-      "summary": "OpenAI:\n\nMythos Competition\n\n$852 Billion Valuation\n\nTech Talk Show TBPN\n\nPentagon Deal\n\nDeepSeek Rivalry\n\nChatbot Delusions\n\nTechnology\n\nAI\n\n# OpenAI...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos",
+      "id": "news-1776308165338-2",
+      "title": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
+      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nThe Big Take\n\n# How Anth...",
+      "url": "https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release",
       "credibility": "P2",
-      "publishedAt": "2026-04-14T20:00:22.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1776221359775-3",
-      "title": "Anthropic co-founder confirms the company briefed the Trump adminstration on Mythos - TechCrunch",
-      "summary": "“Our position is the government has to know about this stuff, and we have to find new ways for the government to partner with a private sector that is...",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-adminstration-on-mythos/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-adminstration-on-mythos/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T18:09:12.000Z",
+      "publishedAt": "2026-04-16T00:20:08.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "Claude",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1776221359775-4",
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos - TechCrunch",
-      "summary": "“Our position is the government has to know about this stuff, and we have to find new ways for the government to partner with a private sector that is...",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T18:09:12.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1776221359776-12",
-      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain - TechCrunch",
-      "summary": "+ Aisha Malik\n This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit.’\n\n  + Tim Fernholz\n Develop...",
-      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T17:13:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359775-2",
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman respo...",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359775-7",
-      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’ - WIRED",
-      "summary": "Save With Our Google Workspace Promo Codes for April\n\nBoost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 1...",
-      "url": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359776-15",
-      "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z - TechCrunch",
-      "summary": "+ Aisha Malik\n This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit.’\n\n  + Tim Fernholz\n Develop...",
-      "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T16:05:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359775-6",
-      "title": "StrictlyVC San Francisco is in less than a month - TechCrunch",
-      "summary": "Then we’ll move to a conversation with Campbell Brown, former CNN host and head of news at Meta who has since made the pivot toward the startup scene ...",
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T15:30:49.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776221359775-5",
-      "title": "Google brings its Gemini Personal Intelligence feature to India - TechCrunch",
+      "id": "news-1776308165338-1",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents - TechCrunch",
       "summary": "+ Sarah Perez\n Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n\n  + Anthony Ha\n Anthropic temporarily banned OpenClaw’...",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
       "credibility": "P2",
-      "publishedAt": "2026-04-14T14:48:34.000Z",
+      "publishedAt": "2026-04-15T19:28:36.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776221359776-14",
-      "title": "Amazon launches AI research tool to speed early-stage drug discovery - Reuters",
-      "summary": "# Amazon launches AI research tool to speed early-stage drug discovery | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and ana...",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-14T14:35:05.000Z",
-      "category": "product",
-      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776221359775-8",
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice - TechCrunch",
+      "id": "news-1776308165338-8",
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI - TechCrunch",
       "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-04-14T14:22:44.000Z",
+      "publishedAt": "2026-04-15T18:55:12.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1776308165338-4",
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet - TechCrunch",
+      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T18:51:54.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -220,17 +68,160 @@
       ]
     },
     {
-      "id": "news-1776221359776-11",
-      "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development - Reuters",
-      "summary": "“AI is reshaping industries and in life sciences, it can help people live better, longer lives,” OpenAI CEO Sam Altman said in a statement. “This coll...",
-      "url": "https://www.reuters.com/legal/litigation/wegovy-maker-novo-nordisk-partners-with-openai-speed-drug-development-2026-04-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/wegovy-maker-novo-nordisk-partners-with-openai-speed-drug-development-2026-04-14/",
+      "id": "news-1776308165338-5",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment - TechCrunch",
+      "summary": "+ Anthony Ha\n Anthropic temporarily banned OpenClaw’s creator from accessing Claude\n\n  + Julie Bort\n France to ditch Windows for Linux to reduce relia...",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
       "credibility": "P2",
-      "publishedAt": "2026-04-14T06:04:37.000Z",
+      "publishedAt": "2026-04-15T18:38:10.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776308165338-12",
+      "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
+      "summary": "# Google rolls out a native Gemini app for Mac\n\nGoogle announced on Wednesday that it’s introducing a native Gemini app for Mac, catching up to rivals...",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T18:22:13.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776308165338-7",
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space - TechCrunch",
+      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T17:24:18.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776308165338-13",
+      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
+      "summary": "Ad Break Coming UpImage 4: Next VideoNEXT Stay Next Off English 480p Auto (480p)About Connatix V308424469 About Connatix V308424469 1/1 Skip Ad Contin...",
+      "url": "https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T16:59:50.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1776308165338-3",
+      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now - TechCrunch",
+      "summary": "But so far, Anthropic has not been interested in the VCs’ latest offers, Bloomberg reports. Of course, this could change. Anthropic has its own enormo...",
+      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T16:21:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776308165338-9",
+      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate - TechCrunch",
+      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
+      "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T13:06:54.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776308165338-6",
+      "title": "This startup is betting tokenmaxxing will create the next compute giant - TechCrunch",
+      "summary": "The company’s potential relies on the continued proliferation of open-source models and agents outside of frontier labs. Parasail’s executives and inv...",
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776308165338-10",
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million - TechCrunch",
+      "summary": "+ Sarah Perez\n Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n\n  + Anthony Ha\n Anthropic temporarily banned OpenClaw’...",
+      "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1776308165337-0",
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
+      "summary": "Image 3\n\nReport AdImage 4\n\nIn the wake of the ruling, attorneys have been advising that conversations with chatbots like Anthropic's Claude and ‌OpenA...",
+      "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T10:01:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1776308165338-11",
+      "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI - Reuters",
+      "summary": "Hyundai's new robotics platform will use DEEPX's second-generation DX-M2 chips, which will go into volume production later next ​year using Samsung El...",
+      "url": "https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-15T03:03:05.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
         "AI"
       ]
     }
@@ -238,7 +229,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
