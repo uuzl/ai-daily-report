@@ -1,209 +1,96 @@
 {
-  "date": "2026-04-16",
-  "generatedAt": "2026-04-16T02:56:05.339Z",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T02:51:59.982Z",
   "totalItems": 14,
   "items": [
     {
-      "id": "news-1776308165338-2",
-      "title": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nThe Big Take\n\n# How Anth...",
-      "url": "https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T00:20:08.000Z",
+      "id": "news-1776394319981-1",
+      "title": "Introducing Claude Opus 4.7 - Anthropic",
+      "summary": "> Anthropic has already set the standard for coding models, and Claude Opus 4.7 pushes that further in a meaningful way as the state-of-the-art model ...",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-7",
+      "credibility": "P0",
+      "publishedAt": "2026-04-16T14:26:32.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI",
-        "RAG"
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1776308165338-1",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents - TechCrunch",
-      "summary": "+ Sarah Perez\n Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n\n  + Anthony Ha\n Anthropic temporarily banned OpenClaw’...",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "id": "news-1776394319982-10",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
       "credibility": "P2",
-      "publishedAt": "2026-04-15T19:28:36.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-16T20:26:44.000Z",
+      "category": "hot",
       "tags": [
         "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319981-5",
+      "title": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg.com",
+      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nCybersecurity\n\n# White H...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T18:51:42.000Z",
+      "category": "tech",
+      "tags": [
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776308165338-8",
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "id": "news-1776394319981-4",
+      "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports - Reuters",
+      "summary": "# White House to give US agencies Anthropic Mythos access, Bloomberg News reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, d...",
+      "url": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/",
       "credibility": "P2",
-      "publishedAt": "2026-04-15T18:55:12.000Z",
+      "publishedAt": "2026-04-16T18:32:31.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI",
-        "LLM"
+        "AI"
       ]
     },
     {
-      "id": "news-1776308165338-4",
-      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet - TechCrunch",
-      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
-      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "id": "news-1776394319981-7",
+      "title": "New Codex features include the ability to use your computer in the background - Ars Technica",
+      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nA new version of OpenAI’s Codex desktop app reaches users today. It brings a smorgasbord of new featur...",
+      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
       "credibility": "P2",
-      "publishedAt": "2026-04-15T18:51:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165338-5",
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment - TechCrunch",
-      "summary": "+ Anthony Ha\n Anthropic temporarily banned OpenClaw’s creator from accessing Claude\n\n  + Julie Bort\n France to ditch Windows for Linux to reduce relia...",
-      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T18:38:10.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165338-12",
-      "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
-      "summary": "# Google rolls out a native Gemini app for Mac\n\nGoogle announced on Wednesday that it’s introducing a native Gemini app for Mac, catching up to rivals...",
-      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T18:22:13.000Z",
+      "publishedAt": "2026-04-16T18:30:44.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165338-7",
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space - TechCrunch",
-      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
-      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T17:24:18.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165338-13",
-      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
-      "summary": "Ad Break Coming UpImage 4: Next VideoNEXT Stay Next Off English 480p Auto (480p)About Connatix V308424469 About Connatix V308424469 1/1 Skip Ad Contin...",
-      "url": "https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T16:59:50.000Z",
-      "category": "tech",
-      "tags": [
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1776308165338-3",
-      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now - TechCrunch",
-      "summary": "But so far, Anthropic has not been interested in the VCs’ latest offers, Bloomberg reports. Of course, this could change. Anthropic has its own enormo...",
-      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "id": "news-1776394319981-0",
+      "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code - The Verge",
+      "summary": "Codex will also be getting a memory feature allowing it to remember useful context from past experience, such as personal preferences, corrections, an...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "credibility": "P2",
-      "publishedAt": "2026-04-15T16:21:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776308165338-9",
-      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate - TechCrunch",
-      "summary": "+ Amanda Silberling\n Stanford report highlights growing disconnect between AI insiders and everyone else\n\n  + Sarah Perez\n Sam Altman responds to ‘inc...",
-      "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T13:06:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165338-6",
-      "title": "This startup is betting tokenmaxxing will create the next compute giant - TechCrunch",
-      "summary": "The company’s potential relies on the continued proliferation of open-source models and agents outside of frontier labs. Parasail’s executives and inv...",
-      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776308165338-10",
-      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million - TechCrunch",
-      "summary": "+ Sarah Perez\n Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n\n  + Anthony Ha\n Anthropic temporarily banned OpenClaw’...",
-      "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776308165337-0",
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
-      "summary": "Image 3\n\nReport AdImage 4\n\nIn the wake of the ruling, attorneys have been advising that conversations with chatbots like Anthropic's Claude and ‌OpenA...",
-      "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-15T10:01:43.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-16T17:00:00.000Z",
+      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
@@ -211,25 +98,135 @@
       ]
     },
     {
-      "id": "news-1776308165338-11",
-      "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI - Reuters",
-      "summary": "Hyundai's new robotics platform will use DEEPX's second-generation DX-M2 chips, which will go into volume production later next ​year using Samsung El...",
-      "url": "https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/",
+      "id": "news-1776394319982-9",
+      "title": "Google now lets you explore the web side-by-side with AI Mode - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
       "credibility": "P2",
-      "publishedAt": "2026-04-15T03:03:05.000Z",
+      "publishedAt": "2026-04-16T17:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319982-11",
+      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome - WIRED",
+      "summary": "Molly Higgins\n\nYour Photos Are Probably Giving Away Your Location. Here’s How to Stop That\n\nAll your snaps come with metadata containing more informat...",
+      "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319982-13",
+      "title": "Gemini can now create personalized AI images by digging around in Google Photos - Ars Technica",
+      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nGoogle began rolling out “personal intelligence” in Gemini early this year, giving AI subscribers the ...",
+      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T16:59:25.000Z",
+      "category": "hot",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319981-6",
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\n“The biggest misconception is that AI observability is limited to LLM evaluation during the dev...",
+      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T16:15:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1776394319982-12",
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games - TechCrunch",
+      "summary": "After sale of its shoe business, Allbirds pivots to AI\n\n  + Sarah Perez\n An Amazon warehouse worker died on the job at Oregon facility\n\n  + Amanda Sil...",
+      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319981-2",
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz - The Verge",
+      "summary": "For security reasons, Anthropic is only currently making Mythos Preview available privately to select partners, such as Nvidia, JPMorgan Chase, Google...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T15:59:24.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1776394319981-8",
+      "title": "Canva’s AI assistant can now call various tools to make designs for you - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776394319981-3",
+      "title": "This simulation startup wants to be the Cursor for physical AI - TechCrunch",
+      "summary": "There are already experiments in this direction. David Mayo, a researcher at MIT’s Computer Science and Artificial Intelligence Laboratory, is using A...",
+      "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-16T12:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
