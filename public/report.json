@@ -1,34 +1,48 @@
 {
-  "date": "2026-04-17",
-  "generatedAt": "2026-04-17T02:51:59.982Z",
-  "totalItems": 14,
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T02:42:36.071Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1776394319981-1",
-      "title": "Introducing Claude Opus 4.7 - Anthropic",
-      "summary": "> Anthropic has already set the standard for coding models, and Claude Opus 4.7 pushes that further in a meaningful way as the state-of-the-art model ...",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-7",
-      "credibility": "P0",
-      "publishedAt": "2026-04-16T14:26:32.000Z",
+      "id": "news-1776480156070-9",
+      "title": "Mythos a serious threat but more will follow, Barclays CEO says - Reuters",
+      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
+      "url": "https://www.reuters.com/business/finance/mythos-serious-threat-more-will-follow-barclays-ceo-says-2026-04-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/mythos-serious-threat-more-will-follow-barclays-ceo-says-2026-04-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T20:40:35.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1776394319982-10",
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "id": "news-1776480156070-2",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
+      "summary": "OpenAI for Science was the internal research group behind Prism, an AI-powered platform that promised to accelerate scientific discovery. It’s being a...",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "credibility": "P2",
-      "publishedAt": "2026-04-16T20:26:44.000Z",
-      "category": "hot",
+      "publishedAt": "2026-04-17T20:38:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1776480156070-8",
+      "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/technology/nvidia-rival-cerebras-reveals-us-ipo-filing-ai-boom-drives-listings-2026-04-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/nvidia-rival-cerebras-reveals-us-ipo-filing-ai-boom-drives-listings-2026-04-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T20:27:59.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
@@ -36,44 +50,46 @@
       ]
     },
     {
-      "id": "news-1776394319981-5",
-      "title": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Model\n\nBessent, Powell Warning\n\nTrump Legal Fight\n\nClaude Code Leak\n\nIPO Discussions\n\nRevenue\n\nTechnology\n\nCybersecurity\n\n# White H...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access",
+      "id": "news-1776480156070-1",
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
+      "summary": "Weil, who joined OpenAI in June 2024, announced last September that he would be starting a new initiative inside of the company called OpenAI for Scie...",
+      "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
       "credibility": "P2",
-      "publishedAt": "2026-04-16T18:51:42.000Z",
+      "publishedAt": "2026-04-17T19:56:42.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1776480156070-3",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T19:17:26.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776394319981-4",
-      "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports - Reuters",
-      "summary": "# White House to give US agencies Anthropic Mythos access, Bloomberg News reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, d...",
-      "url": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/",
+      "id": "news-1776480156070-4",
+      "title": "“Tokenmaxxing” is making developers less productive than they think - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
       "credibility": "P2",
-      "publishedAt": "2026-04-16T18:32:31.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776394319981-7",
-      "title": "New Codex features include the ability to use your computer in the background - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nA new version of OpenAI’s Codex desktop app reaches users today. It brings a smorgasbord of new featur...",
-      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T18:30:44.000Z",
+      "publishedAt": "2026-04-17T18:42:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -82,151 +98,97 @@
       ]
     },
     {
-      "id": "news-1776394319981-0",
-      "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code - The Verge",
-      "summary": "Codex will also be getting a memory feature allowing it to remember useful context from past experience, such as personal preferences, corrections, an...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776394319982-9",
-      "title": "Google now lets you explore the web side-by-side with AI Mode - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "id": "news-1776480156070-0",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
+      "summary": "The launch highlights Anthropic’s ongoing push into the enterprise and prosumer categories, as competition intensifies around AI workplace tools. In J...",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
       "credibility": "P2",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776394319982-11",
-      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome - WIRED",
-      "summary": "Molly Higgins\n\nYour Photos Are Probably Giving Away Your Location. Here’s How to Stop That\n\nAll your snaps come with metadata containing more informat...",
-      "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776394319982-13",
-      "title": "Gemini can now create personalized AI images by digging around in Google Photos - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nGoogle began rolling out “personal intelligence” in Gemini early this year, giving AI subscribers the ...",
-      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T16:59:25.000Z",
-      "category": "hot",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776394319981-6",
-      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\n“The biggest misconception is that AI observability is limited to LLM evaluation during the dev...",
-      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T16:15:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1776394319982-12",
-      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games - TechCrunch",
-      "summary": "After sale of its shoe business, Allbirds pivots to AI\n\n  + Sarah Perez\n An Amazon warehouse worker died on the job at Oregon facility\n\n  + Amanda Sil...",
-      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776394319981-2",
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz - The Verge",
-      "summary": "For security reasons, Anthropic is only currently making Mythos Preview available privately to select partners, such as Nvidia, JPMorgan Chase, Google...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T15:59:24.000Z",
+      "publishedAt": "2026-04-17T15:00:00.000Z",
       "category": "product",
       "tags": [
-        "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1776394319981-8",
-      "title": "Canva’s AI assistant can now call various tools to make designs for you - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-16T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
         "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776394319981-3",
-      "title": "This simulation startup wants to be the Cursor for physical AI - TechCrunch",
-      "summary": "There are already experiments in this direction. David Mayo, a researcher at MIT’s Computer Science and Artificial Intelligence Laboratory, is using A...",
-      "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "id": "news-1776480156070-6",
+      "title": "Google’s AI Mode can now help you find products in stock nearby - TechCrunch",
+      "summary": "Aisha Malik\n\nConsumer News Reporter\n\nAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom repo...",
+      "url": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
       "credibility": "P2",
-      "publishedAt": "2026-04-16T12:30:00.000Z",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776480156071-10",
+      "title": "Netflix plans to add a vertical video feed, use AI for recommendations - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
+      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T13:17:18.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776480156070-5",
+      "title": "Anthropic talks to EU, including on its cyber security models, Commission says - Reuters",
+      "summary": "# Anthropic talks to EU, including on its cyber security models, Commission says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, da...",
+      "url": "https://www.reuters.com/business/media-telecom/anthropic-talks-eu-including-its-cyber-security-models-commission-says-2026-04-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-talks-eu-including-its-cyber-security-models-commission-says-2026-04-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T10:41:44.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776480156071-11",
+      "title": "French finance minister calls for euro-based stablecoins - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   10 hours agoLegal categoryRussia-linked Grinex crypto exchange suspends operations after cyber attack , op...",
+      "url": "https://www.reuters.com/business/finance/french-finance-minister-calls-euro-based-stablecoins-2026-04-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/french-finance-minister-calls-euro-based-stablecoins-2026-04-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T08:33:49.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1776480156070-7",
+      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets - TechCrunch",
+      "summary": "The money signals where Sequoia sees the future: deeply embedded in AI, from the giants building the underlying technology to the startups putting it ...",
+      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-17T02:55:06.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
-        "LLM"
+        "Agent"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 12
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
