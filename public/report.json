@@ -1,79 +1,59 @@
 {
-  "date": "2026-04-18",
-  "generatedAt": "2026-04-18T02:42:36.071Z",
-  "totalItems": 12,
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T03:17:13.615Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1776480156070-9",
-      "title": "Mythos a serious threat but more will follow, Barclays CEO says - Reuters",
-      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
-      "url": "https://www.reuters.com/business/finance/mythos-serious-threat-more-will-follow-barclays-ceo-says-2026-04-17/",
+      "id": "news-1776568633615-8",
+      "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/mythos-serious-threat-more-will-follow-barclays-ceo-says-2026-04-17/",
+      "sourceUrl": "https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T20:40:35.000Z",
+      "publishedAt": "2026-04-19T01:41:53.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776480156070-2",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
-      "summary": "OpenAI for Science was the internal research group behind Prism, an AI-powered platform that promised to accelerate scientific discovery. It’s being a...",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "id": "news-1776568633615-4",
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’ - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### Anthropic’s relationship with the Trum...",
+      "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T20:38:17.000Z",
+      "publishedAt": "2026-04-18T20:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1776480156070-8",
-      "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/technology/nvidia-rival-cerebras-reveals-us-ipo-filing-ai-boom-drives-listings-2026-04-17/",
+      "id": "news-1776568633615-12",
+      "title": "Brazil, Mexico, Spain pledge to send more aid to Cuba - Reuters",
+      "summary": "#### World-Check, opens new tab\nScreen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and...",
+      "url": "https://www.reuters.com/world/americas/brazil-mexico-spain-pledge-send-more-aid-cuba-2026-04-18/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/nvidia-rival-cerebras-reveals-us-ipo-filing-ai-boom-drives-listings-2026-04-17/",
+      "sourceUrl": "https://www.reuters.com/world/americas/brazil-mexico-spain-pledge-send-more-aid-cuba-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T20:27:59.000Z",
+      "publishedAt": "2026-04-18T19:24:12.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1776480156070-1",
-      "title": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
-      "summary": "Weil, who joined OpenAI in June 2024, announced last September that he would be starting a new initiative inside of the company called OpenAI for Scie...",
-      "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-17T19:56:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776480156070-3",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "id": "news-1776568633614-3",
+      "title": "AI chip startup Cerebras files for IPO - TechCrunch",
+      "summary": "AI, andrew feldman, cerebras systems, Startups\n\nAnthony Ha\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adw...",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T19:17:26.000Z",
+      "publishedAt": "2026-04-18T19:19:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -82,31 +62,45 @@
       ]
     },
     {
-      "id": "news-1776480156070-4",
-      "title": "“Tokenmaxxing” is making developers less productive than they think - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "id": "news-1776568633615-9",
+      "title": "Valkyries re-sign G Tiffany Hayes to 1-year deal - Reuters",
+      "summary": "Suggested Topics:\n   Sports\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   38 mins ago SoccerWolves on brink of relegation fro...",
+      "url": "https://www.reuters.com/sports/valkyries-re-sign-g-tiffany-hayes-1-year-deal--flm-2026-04-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/valkyries-re-sign-g-tiffany-hayes-1-year-deal--flm-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T18:42:45.000Z",
+      "publishedAt": "2026-04-18T16:15:15.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI",
+        "RAG",
         "Agent"
       ]
     },
     {
-      "id": "news-1776480156070-0",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
-      "summary": "The launch highlights Anthropic’s ongoing push into the enterprise and prosumer categories, as competition intensifies around AI workplace tools. In J...",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "id": "news-1776568633615-6",
+      "title": "Shooter opens fire in Kyiv district, several dead, mayor says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   April 17, 2026Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt Ima...",
+      "url": "https://www.reuters.com/world/europe/shooter-opens-fire-kyiv-district-several-dead-mayor-says-2026-04-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/europe/shooter-opens-fire-kyiv-district-several-dead-mayor-says-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T15:00:00.000Z",
-      "category": "product",
+      "publishedAt": "2026-04-18T14:59:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776568633614-0",
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-18T14:56:48.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
@@ -114,81 +108,97 @@
       ]
     },
     {
-      "id": "news-1776480156070-6",
-      "title": "Google’s AI Mode can now help you find products in stock nearby - TechCrunch",
-      "summary": "Aisha Malik\n\nConsumer News Reporter\n\nAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom repo...",
-      "url": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
+      "id": "news-1776568633615-5",
+      "title": "US sanctions Nicaragua vice minister over alleged human rights abuses - Reuters",
+      "summary": "2 hours agoAmericas categoryBrazil's Lula calls on permanent members of UN Security Council to change behaviour Image 5: Spain's PM Sanchez welcomes B...",
+      "url": "https://www.reuters.com/world/americas/us-sanctions-nicaragua-vice-minister-over-alleged-human-rights-abuses-2026-04-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/us-sanctions-nicaragua-vice-minister-over-alleged-human-rights-abuses-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
+      "publishedAt": "2026-04-18T14:24:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1776568633615-7",
+      "title": "US Justice Department refuses to assist French probe into Musk’s X, WSJ reports - Reuters",
+      "summary": "April 17, 2026Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt Image 3: 71st Cannes Film Festival  \n   4 hours...",
+      "url": "https://www.reuters.com/world/europe/us-justice-department-refuses-assist-french-probe-into-musks-x-wsj-reports-2026-04-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/europe/us-justice-department-refuses-assist-french-probe-into-musks-x-wsj-reports-2026-04-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-18T13:43:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776568633614-1",
+      "title": "The App Store is booming again, and AI may be why - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-18T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776480156071-10",
-      "title": "Netflix plans to add a vertical video feed, use AI for recommendations - TechCrunch",
-      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "id": "news-1776568633615-11",
+      "title": "Merchant vessels report gunfire as they attempt to cross Hormuz, shipping sources say - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   55 mins agoAsia Pacific categoryTankers move through Hormuz, Tehran signals strait may close again Image 2...",
+      "url": "https://www.reuters.com/world/middle-east/merchant-vessels-report-gunfire-they-attempt-cross-hormuz-shipping-sources-say-2026-04-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/merchant-vessels-report-gunfire-they-attempt-cross-hormuz-shipping-sources-say-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T13:17:18.000Z",
+      "publishedAt": "2026-04-18T10:43:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776480156070-5",
-      "title": "Anthropic talks to EU, including on its cyber security models, Commission says - Reuters",
-      "summary": "# Anthropic talks to EU, including on its cyber security models, Commission says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, da...",
-      "url": "https://www.reuters.com/business/media-telecom/anthropic-talks-eu-including-its-cyber-security-models-commission-says-2026-04-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-talks-eu-including-its-cyber-security-models-commission-says-2026-04-17/",
+      "id": "news-1776568633614-2",
+      "title": "The ‘Lonely Runner’ Problem Only Appears Simple - WIRED",
+      "summary": "Will Knight\n\nAI Agents Are Coming for Your Dating Life\n\nThe developers of Pixel Societies are using AI agents to simulate social interactions. It's an...",
+      "url": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T10:41:44.000Z",
+      "publishedAt": "2026-04-18T09:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776480156071-11",
-      "title": "French finance minister calls for euro-based stablecoins - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   10 hours agoLegal categoryRussia-linked Grinex crypto exchange suspends operations after cyber attack , op...",
-      "url": "https://www.reuters.com/business/finance/french-finance-minister-calls-euro-based-stablecoins-2026-04-17/",
+      "id": "news-1776568633615-10",
+      "title": "Teen sensation Gout misses sub‑10 mark at Australia's junior championships - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   13 mins agoBasketball categoryJalen Green, Suns shoot past Warriors, charge into playoffs , opens new tab\n...",
+      "url": "https://www.reuters.com/sports/teen-sensation-gout-misses-sub10-mark-australias-junior-championships-2026-04-18/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/french-finance-minister-calls-euro-based-stablecoins-2026-04-17/",
+      "sourceUrl": "https://www.reuters.com/sports/teen-sensation-gout-misses-sub10-mark-australias-junior-championships-2026-04-18/",
       "credibility": "P2",
-      "publishedAt": "2026-04-17T08:33:49.000Z",
+      "publishedAt": "2026-04-18T07:02:50.000Z",
       "category": "tech",
       "tags": []
-    },
-    {
-      "id": "news-1776480156070-7",
-      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets - TechCrunch",
-      "summary": "The money signals where Sequoia sees the future: deeply embedded in AI, from the giants building the underlying technology to the startups putting it ...",
-      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-17T02:55:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 13
   },
   "summary": ""
 }
