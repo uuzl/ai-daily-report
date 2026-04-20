@@ -1,121 +1,75 @@
 {
-  "date": "2026-04-19",
-  "generatedAt": "2026-04-19T03:17:13.615Z",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T03:19:17.954Z",
   "totalItems": 13,
   "items": [
     {
-      "id": "news-1776568633615-8",
-      "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/",
+      "id": "news-1776655157954-12",
+      "title": "Oil prices rebound 7% as Strait of Hormuz is closed again - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rebound-7-strait-hormuz-is-closed-again-2026-04-19/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/",
+      "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-rebound-7-strait-hormuz-is-closed-again-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T01:41:53.000Z",
+      "publishedAt": "2026-04-19T22:10:47.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776568633615-4",
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’ - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### Anthropic’s relationship with the Trum...",
-      "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "id": "news-1776655157953-0",
+      "title": "OpenAI’s existential questions - TechCrunch",
+      "summary": "Our reporter Lucas [Ropek], he did a great piece over the weekend about the HumanX conference, where he was talking to everyone there and they’re sort...",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T20:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776568633615-12",
-      "title": "Brazil, Mexico, Spain pledge to send more aid to Cuba - Reuters",
-      "summary": "#### World-Check, opens new tab\nScreen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and...",
-      "url": "https://www.reuters.com/world/americas/brazil-mexico-spain-pledge-send-more-aid-cuba-2026-04-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/americas/brazil-mexico-spain-pledge-send-more-aid-cuba-2026-04-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-18T19:24:12.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776568633614-3",
-      "title": "AI chip startup Cerebras files for IPO - TechCrunch",
-      "summary": "AI, andrew feldman, cerebras systems, Startups\n\nAnthony Ha\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adw...",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-18T19:19:11.000Z",
+      "publishedAt": "2026-04-19T21:24:06.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "AI"
+        "GPT"
       ]
     },
     {
-      "id": "news-1776568633615-9",
-      "title": "Valkyries re-sign G Tiffany Hayes to 1-year deal - Reuters",
-      "summary": "Suggested Topics:\n   Sports\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   38 mins ago SoccerWolves on brink of relegation fro...",
-      "url": "https://www.reuters.com/sports/valkyries-re-sign-g-tiffany-hayes-1-year-deal--flm-2026-04-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/valkyries-re-sign-g-tiffany-hayes-1-year-deal--flm-2026-04-18/",
+      "id": "news-1776655157954-9",
+      "title": "Cloud development platform Vercel was hacked - The Verge",
+      "summary": "> Our investigation has revealed that the incident originated from a third-party AI tool whose Google Workspace OAuth app was the subject of a broader...",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T16:15:15.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1776568633615-6",
-      "title": "Shooter opens fire in Kyiv district, several dead, mayor says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   April 17, 2026Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt Ima...",
-      "url": "https://www.reuters.com/world/europe/shooter-opens-fire-kyiv-district-several-dead-mayor-says-2026-04-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/europe/shooter-opens-fire-kyiv-district-several-dead-mayor-says-2026-04-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-18T14:59:51.000Z",
+      "publishedAt": "2026-04-19T19:54:52.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776568633614-0",
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "id": "news-1776655157953-1",
+      "title": "The 12-month window - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Space\n\n  ### Blue Origin’s New Glenn put a custo...",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T14:56:48.000Z",
+      "publishedAt": "2026-04-19T19:30:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776568633615-5",
-      "title": "US sanctions Nicaragua vice minister over alleged human rights abuses - Reuters",
-      "summary": "2 hours agoAmericas categoryBrazil's Lula calls on permanent members of UN Security Council to change behaviour Image 5: Spain's PM Sanchez welcomes B...",
-      "url": "https://www.reuters.com/world/americas/us-sanctions-nicaragua-vice-minister-over-alleged-human-rights-abuses-2026-04-18/",
+      "id": "news-1776655157953-7",
+      "title": "Germany's Merz says industrial AI needs less stringent EU regulation - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/americas/us-sanctions-nicaragua-vice-minister-over-alleged-human-rights-abuses-2026-04-18/",
+      "sourceUrl": "https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T14:24:49.000Z",
+      "publishedAt": "2026-04-19T18:27:19.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -123,28 +77,28 @@
       ]
     },
     {
-      "id": "news-1776568633615-7",
-      "title": "US Justice Department refuses to assist French probe into Musk’s X, WSJ reports - Reuters",
-      "summary": "April 17, 2026Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt Image 3: 71st Cannes Film Festival  \n   4 hours...",
-      "url": "https://www.reuters.com/world/europe/us-justice-department-refuses-assist-french-probe-into-musks-x-wsj-reports-2026-04-18/",
+      "id": "news-1776655157953-2",
+      "title": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports - Reuters",
+      "summary": "# US security agency is using Anthropic's Mythos despite blacklist, Axios reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, d...",
+      "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/europe/us-justice-department-refuses-assist-french-probe-into-musks-x-wsj-reports-2026-04-18/",
+      "sourceUrl": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T13:43:52.000Z",
+      "publishedAt": "2026-04-19T18:12:29.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776568633614-1",
-      "title": "The App Store is booming again, and AI may be why - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "id": "news-1776655157953-4",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures - TechCrunch",
+      "summary": "+ Tim Fernholz\n Anthropic launches Claude Design, a new product for creating quick visuals\n\n  + Aisha Malik\n Anthropic CPO leaves Figma’s board after ...",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T13:00:00.000Z",
+      "publishedAt": "2026-04-19T16:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -153,46 +107,90 @@
       ]
     },
     {
-      "id": "news-1776568633615-11",
-      "title": "Merchant vessels report gunfire as they attempt to cross Hormuz, shipping sources say - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   55 mins agoAsia Pacific categoryTankers move through Hormuz, Tehran signals strait may close again Image 2...",
-      "url": "https://www.reuters.com/world/middle-east/merchant-vessels-report-gunfire-they-attempt-cross-hormuz-shipping-sources-say-2026-04-18/",
+      "id": "news-1776655157954-10",
+      "title": "Eight children killed in Louisiana mass shooting, media reports say - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/eight-children-killed-louisiana-mass-shooting-media-reports-say-2026-04-19/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/merchant-vessels-report-gunfire-they-attempt-cross-hormuz-shipping-sources-say-2026-04-18/",
+      "sourceUrl": "https://www.reuters.com/world/eight-children-killed-louisiana-mass-shooting-media-reports-say-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T10:43:32.000Z",
+      "publishedAt": "2026-04-19T16:26:48.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776568633614-2",
-      "title": "The ‘Lonely Runner’ Problem Only Appears Simple - WIRED",
-      "summary": "Will Knight\n\nAI Agents Are Coming for Your Dating Life\n\nThe developers of Pixel Societies are using AI agents to simulate social interactions. It's an...",
-      "url": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
+      "id": "news-1776655157954-11",
+      "title": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/iran-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19/",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T09:00:00.000Z",
+      "publishedAt": "2026-04-19T14:07:45.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776568633615-10",
-      "title": "Teen sensation Gout misses sub‑10 mark at Australia's junior championships - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   13 mins agoBasketball categoryJalen Green, Suns shoot past Warriors, charge into playoffs , opens new tab\n...",
-      "url": "https://www.reuters.com/sports/teen-sensation-gout-misses-sub10-mark-australias-junior-championships-2026-04-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/teen-sensation-gout-misses-sub10-mark-australias-junior-championships-2026-04-18/",
+      "id": "news-1776655157954-8",
+      "title": "Apple’s Revamped Siri Interface in iOS 27 Is Hidden in WWDC Teaser - Bloomberg",
+      "summary": "HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweek...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-19/apple-ios-27-siri-interface-ios-27-details-mac-studio-touch-macbook-release-mo5u23o7",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-04-19/apple-ios-27-siri-interface-ios-27-details-mac-studio-touch-macbook-release-mo5u23o7",
       "credibility": "P2",
-      "publishedAt": "2026-04-18T07:02:50.000Z",
+      "publishedAt": "2026-04-19T14:00:01.000Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1776655157953-3",
+      "title": "Google in talks with Marvell to build new AI chips for inference, The Information reports - Reuters",
+      "summary": "April 18, 2026World categoryExclusive: Meta targets May 20 for first wave of layoffs, more cuts are coming Image 6: Cars drive past a sign of Meta, th...",
+      "url": "https://www.reuters.com/business/google-talks-with-marvell-build-new-ai-chips-inference-information-reports-2026-04-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/google-talks-with-marvell-build-new-ai-chips-inference-information-reports-2026-04-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-19T13:21:41.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776655157953-6",
+      "title": "Humanoid robots outrun humans in Beijing half-marathon - Reuters",
+      "summary": "Load More Categories\n\n   2 hours ago'There is no alternative': Investors pile into US stocks , opens new tab\n\n### Stay Informed\n\n   Download the App (...",
+      "url": "https://www.reuters.com/video/watch/idRW372219042026RP1/?chan=science&location=channel-item",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW372219042026RP1/?chan=science&location=channel-item",
+      "credibility": "P2",
+      "publishedAt": "2026-04-19T12:30:32.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776655157953-5",
+      "title": "Honor Device Co., Ltd. - Reuters",
+      "summary": "# Honor Device Co., Ltd. | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refin...",
+      "url": "https://www.reuters.com/company/honor-device-co-ltd/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/company/honor-device-co-ltd/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-19T04:28:03.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
