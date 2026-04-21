@@ -1,31 +1,17 @@
 {
-  "date": "2026-04-20",
-  "generatedAt": "2026-04-20T03:19:17.954Z",
-  "totalItems": 13,
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T02:52:45.742Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1776655157954-12",
-      "title": "Oil prices rebound 7% as Strait of Hormuz is closed again - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/energy/oil-prices-rebound-7-strait-hormuz-is-closed-again-2026-04-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-rebound-7-strait-hormuz-is-closed-again-2026-04-19/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T22:10:47.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776655157953-0",
-      "title": "OpenAI’s existential questions - TechCrunch",
-      "summary": "Our reporter Lucas [Ropek], he did a great piece over the weekend about the HumanX conference, where he was talking to everyone there and they’re sort...",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "id": "news-1776739965740-0",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return - TechCrunch",
+      "summary": "Anthropic announced on Monday that Amazon has agreed to invest a fresh $5 billion, bringing Amazon’s total investment in the company to $13 billion. A...",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T21:24:06.000Z",
+      "publishedAt": "2026-04-20T23:10:27.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -34,71 +20,88 @@
       ]
     },
     {
-      "id": "news-1776655157954-9",
-      "title": "Cloud development platform Vercel was hacked - The Verge",
-      "summary": "> Our investigation has revealed that the incident originated from a third-party AI tool whose Google Workspace OAuth app was the subject of a broader...",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "id": "news-1776739965741-11",
+      "title": "AI company deleted OKCupid user photos, data after FTC scrutiny - Reuters",
+      "summary": "# AI company deleted OKCupid user photos, data after FTC scrutiny | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial ma...",
+      "url": "https://www.reuters.com/legal/government/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-2026-04-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-2026-04-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T21:02:46.000Z",
+      "category": "hot",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-9",
+      "title": "Silicon Valley has forgotten what normal people want - The Verge",
+      "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they ...",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "sourceUrl": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T19:54:52.000Z",
+      "publishedAt": "2026-04-20T20:30:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776655157953-1",
-      "title": "The 12-month window - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Space\n\n  ### Blue Origin’s New Glenn put a custo...",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T19:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776655157953-7",
-      "title": "Germany's Merz says industrial AI needs less stringent EU regulation - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T18:27:19.000Z",
-      "category": "tech",
-      "tags": [
+        "GPT",
         "AI",
-        "RAG"
+        "LLM"
       ]
     },
     {
-      "id": "news-1776655157953-2",
-      "title": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports - Reuters",
-      "summary": "# US security agency is using Anthropic's Mythos despite blacklist, Axios reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, d...",
-      "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+      "id": "news-1776739965741-6",
+      "title": "It’s not just one thing — it’s another thing - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T18:12:29.000Z",
+      "publishedAt": "2026-04-20T19:37:07.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-4",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud - TechCrunch",
+      "summary": "The National Security Agency is said to be using Mythos Preview, Anthropic’s recently announced model that it withheld from public release, Axios repo...",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T16:06:21.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776655157953-4",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures - TechCrunch",
-      "summary": "+ Tim Fernholz\n Anthropic launches Claude Design, a new product for creating quick visuals\n\n  + Aisha Malik\n Anthropic CPO leaves Figma’s board after ...",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "id": "news-1776739965741-2",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated - TechCrunch",
+      "summary": "You can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha\\_malik.01 on Signal.\n\nView Bio\n\nApril...",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T16:30:00.000Z",
+      "publishedAt": "2026-04-20T14:57:05.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-5",
+      "title": "App host Vercel confirms security incident, says customer data was stolen via breach at Context AI - TechCrunch",
+      "summary": "+ Anthony Ha\n ‘Tokenmaxxing’ is making developers less productive than they think\n\n  + Tim Fernholz\n Anthropic launches Claude Design, a new product f...",
+      "url": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T14:45:56.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -107,96 +110,114 @@
       ]
     },
     {
-      "id": "news-1776655157954-10",
-      "title": "Eight children killed in Louisiana mass shooting, media reports say - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/eight-children-killed-louisiana-mass-shooting-media-reports-say-2026-04-19/",
+      "id": "news-1776739965740-1",
+      "title": "Adobe launches AI suite for corporate clients as competition heats up - Reuters",
+      "summary": "Anthropic on Friday unveiled Claude ​Design, ⁠an experimental feature that allows users to create visuals such as prototypes, slide decks and ⁠one-pag...",
+      "url": "https://www.reuters.com/business/retail-consumer/adobe-launches-ai-suite-corporate-clients-competition-heats-up-2026-04-20/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/eight-children-killed-louisiana-mass-shooting-media-reports-say-2026-04-19/",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/adobe-launches-ai-suite-corporate-clients-competition-heats-up-2026-04-20/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T16:26:48.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-20T14:13:12.000Z",
+      "category": "product",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776655157954-11",
-      "title": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19/",
+      "id": "news-1776739965741-3",
+      "title": "What do we know about Anthropic's Mythos amid rising concerns? - Reuters",
+      "summary": "# Explainer: What do we know about Anthropic's Mythos amid rising concerns? | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data an...",
+      "url": "https://www.reuters.com/business/finance/what-do-we-know-about-anthropics-mythos-amid-rising-concerns-2026-04-20/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/iran-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19/",
+      "sourceUrl": "https://www.reuters.com/business/finance/what-do-we-know-about-anthropics-mythos-amid-rising-concerns-2026-04-20/",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T14:07:45.000Z",
+      "publishedAt": "2026-04-20T12:16:46.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776655157954-8",
-      "title": "Apple’s Revamped Siri Interface in iOS 27 Is Hidden in WWDC Teaser - Bloomberg",
-      "summary": "HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweek...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-19/apple-ios-27-siri-interface-ios-27-details-mac-studio-touch-macbook-release-mo5u23o7",
+      "id": "news-1776739965741-10",
+      "title": "Marvell shares gain on report of deal talks with Google to develop two AI chips - Reuters",
+      "summary": "Image 6: Next VideoNEXT Stay Next About Connatix V318671162 About Connatix V318671162 1/1 Skip Ad Continue watching after the adImage 7: Loading PodsV...",
+      "url": "https://www.reuters.com/business/marvell-shares-gain-report-deal-talks-with-google-develop-two-ai-chips-2026-04-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/marvell-shares-gain-report-deal-talks-with-google-develop-two-ai-chips-2026-04-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T10:52:09.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1776739965741-12",
+      "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia - Bloomberg.com",
+      "summary": "Market Data\n\nStocksCommoditiesRates & BondsCurrenciesFuturesSectorsEconomic Calendar\n\nNewslettersExplainersPointed News QuizAlphadots GameThe Big Take...",
+      "url": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-04-19/apple-ios-27-siri-interface-ios-27-details-mac-studio-touch-macbook-release-mo5u23o7",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
       "credibility": "P2",
-      "publishedAt": "2026-04-19T14:00:01.000Z",
+      "publishedAt": "2026-04-20T10:30:08.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-7",
+      "title": "Banks in close contact with European regulator on Anthropic's Mythos, banker says - Reuters",
+      "summary": "\"It's certainly not something that's causing panic or ​setting off any alarm bells ​on our end right now, but it's ‌definitely ⁠something we need to k...",
+      "url": "https://www.reuters.com/business/finance/banks-close-contact-with-european-regulator-anthropics-mythos-banker-says-2026-04-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/banks-close-contact-with-european-regulator-anthropics-mythos-banker-says-2026-04-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T09:45:32.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-8",
+      "title": "Regulators monitor Anthropic's Mythos for banking risks - Reuters",
+      "summary": "Suggested Topics:\n   Cybersecurity\n   Securities Enforcement\n   Regulatory Oversight\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Nex...",
+      "url": "https://www.reuters.com/legal/government/regulators-monitor-anthropics-mythos-banking-risks-2026-04-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/regulators-monitor-anthropics-mythos-banking-risks-2026-04-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T07:55:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776739965741-13",
+      "title": "Siemens Threatens to Skip Europe for AI Spending Due to Rules - Bloomberg.com",
+      "summary": "The AI Race:\n\nThe Iran War and AI\n\nGemini Mac App\n\nBorrowing Boom\n\nBonanza or Bubble?\n\nHistoric RAM Shortages\n\nOpenClaw Mania\n\nTechnology\n\nAI\n\n# Sieme...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/siemens-threatens-to-skip-europe-for-ai-spending-due-to-rules",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/siemens-threatens-to-skip-europe-for-ai-spending-due-to-rules",
+      "credibility": "P2",
+      "publishedAt": "2026-04-20T05:07:11.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1776655157953-3",
-      "title": "Google in talks with Marvell to build new AI chips for inference, The Information reports - Reuters",
-      "summary": "April 18, 2026World categoryExclusive: Meta targets May 20 for first wave of layoffs, more cuts are coming Image 6: Cars drive past a sign of Meta, th...",
-      "url": "https://www.reuters.com/business/google-talks-with-marvell-build-new-ai-chips-inference-information-reports-2026-04-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-talks-with-marvell-build-new-ai-chips-inference-information-reports-2026-04-19/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T13:21:41.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776655157953-6",
-      "title": "Humanoid robots outrun humans in Beijing half-marathon - Reuters",
-      "summary": "Load More Categories\n\n   2 hours ago'There is no alternative': Investors pile into US stocks , opens new tab\n\n### Stay Informed\n\n   Download the App (...",
-      "url": "https://www.reuters.com/video/watch/idRW372219042026RP1/?chan=science&location=channel-item",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW372219042026RP1/?chan=science&location=channel-item",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T12:30:32.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776655157953-5",
-      "title": "Honor Device Co., Ltd. - Reuters",
-      "summary": "# Honor Device Co., Ltd. | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refin...",
-      "url": "https://www.reuters.com/company/honor-device-co-ltd/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/company/honor-device-co-ltd/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-19T04:28:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
+        "OpenCL"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 14
   },
   "summary": ""
 }
