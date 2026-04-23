@@ -1,31 +1,17 @@
 {
-  "date": "2026-04-22",
-  "generatedAt": "2026-04-22T02:51:38.098Z",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T02:54:16.400Z",
   "totalItems": 13,
   "items": [
     {
-      "id": "news-1776826298097-11",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models - TechCrunch",
-      "summary": "## Related\n\n AI\n\n  ### Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n AI\n\n  ### Spac...",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "id": "news-1776912856399-3",
+      "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
       "credibility": "P2",
-      "publishedAt": "2026-04-21T23:45:21.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776826298097-5",
-      "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
-      "summary": "# Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics ...",
-      "url": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T21:49:32.000Z",
+      "publishedAt": "2026-04-22T22:44:26.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -33,123 +19,45 @@
       ]
     },
     {
-      "id": "news-1776826298097-9",
-      "title": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users - Bloomberg.com",
-      "summary": "Technology\n\nAI\n\n# Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users\n\nAnthropic's Mythos AI Model Accessed by Unauthorized Users\n\nVideo ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users",
+      "id": "news-1776912856399-5",
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia - TechCrunch",
+      "summary": "+ Sean O'Kane\n Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures\n\n  + Anthony Ha\n ‘Tokenmaxxing’ is making developers les...",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
       "credibility": "P2",
-      "publishedAt": "2026-04-21T21:41:21.000Z",
+      "publishedAt": "2026-04-22T18:39:27.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1776912856399-4",
+      "title": "AI Overviews are coming to your Gmail at work - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
+      "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T16:46:10.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776826298097-10",
-      "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nEarlier this month, Anthropic said its Mythos Preview model was so good at finding cybersecurity vulne...",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T21:40:41.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1776826298097-4",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T19:11:29.000Z",
-      "category": "research",
-      "tags": [
-        "Claude",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1776826298097-0",
-      "title": "OpenAI’s updated image generator can now pull information from the web - The Verge",
-      "summary": "All ChatGPT users can take advantage of updates that let ChatGPT Images 2.0 “better capture the defining characteristics of photos,” in addition to pi...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "id": "news-1776912856399-7",
+      "title": "Now Meta will track what employees do on their computers to train its AI agents - The Verge",
+      "summary": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day\n\nWatch Sony’s elite ping-pong robot beat top-ranked players\n\nAnthropic’s Myt...",
+      "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "sourceUrl": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
       "credibility": "P2",
-      "publishedAt": "2026-04-21T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776826298097-2",
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nThe company did, however, explain that the new model has “thinking capabilities,” which give it...",
-      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776826298097-3",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’ - TechCrunch",
-      "summary": "## Related\n\n AI\n\n  ### ChatGPT’s new Images 2.0 model is surprisingly good at generating text\n\n  + Amanda Silberling\n AI\n\n  ### It’s not just one thin...",
-      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T18:51:52.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776826298097-8",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox - WIRED",
-      "summary": "Maxwell Zeff\n\nThe US Army Is Building Its Own Chatbot for Combat\n\nThe AI system, trained on real military data, is meant to give soldiers mission-crit...",
-      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T18:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776826298097-12",
-      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
-      "summary": "Reporting by Katie Paul in New York and Jeff Horwitz in San Francisco; Editing by Matthew Lewis\n\nOur Standards: The Thomson Reuters Trust Principles.,...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T16:28:13.000Z",
+      "publishedAt": "2026-04-22T14:22:35.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -157,50 +65,146 @@
       ]
     },
     {
-      "id": "news-1776826298097-6",
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs - TechCrunch",
-      "summary": "+ Anthony Ha\n ‘Tokenmaxxing’ is making developers less productive than they think\n\n  + Tim Fernholz\n Anthropic launches Claude Design, a new product f...",
-      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "id": "news-1776912856399-2",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
       "credibility": "P2",
-      "publishedAt": "2026-04-21T16:00:00.000Z",
+      "publishedAt": "2026-04-22T14:22:10.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1776826298097-7",
-      "title": "YouTube expands its AI likeness detection technology to celebrities - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insid...",
-      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-21T15:02:06.000Z",
-      "category": "tech",
-      "tags": [
+        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776826298097-1",
-      "title": "OpenAI leans on global consultancies to expand Codex use in large companies - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nThe ChatGPT‑maker said it is working with global ⁠systems integrators including Accenture (ACN.N), opens new tab, ...",
-      "url": "https://www.reuters.com/business/openai-leans-global-consultancies-expand-codex-use-large-companies-2026-04-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-leans-global-consultancies-expand-codex-use-large-companies-2026-04-21/",
+      "id": "news-1776912856400-12",
+      "title": "Google Cloud Releases New TPU Chip Lineup in Bid to Speed Up AI - Bloomberg.com",
+      "summary": "LEARN MORE\n\n### More From Bloomberg\n\nGoogle’s Internal Politics Leave It Playing Catch-Up on AI CodingSpaceX Has Deal for Right to Acquire Cursor for ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
       "credibility": "P2",
-      "publishedAt": "2026-04-21T13:57:47.000Z",
+      "publishedAt": "2026-04-22T13:01:36.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1776912856400-9",
+      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
+      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
+      "url": "https://www.reuters.com/business/google-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/google-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T12:03:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776912856399-8",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal - TechCrunch",
+      "summary": "Google has been actively striking a number of cloud deals with AI developers as it aims to wrap together its cloud offerings with other services like ...",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776912856400-11",
+      "title": "The most interesting startups showcased at Google Cloud Next 2026 - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
+      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1776912856399-6",
+      "title": "Macro Matters: Fed Chair Powell 'has no inclination to step aside' - Reuters",
+      "summary": "### 01:20 Deutsche Telekom exploring merger with T-Mobile, Bloomberg News reports\n\n   ### 00:40 NASA ready to launch new Nancy Grace Roman Telescope\n\n...",
+      "url": "https://www.reuters.com/video/watch/idRW957602042026RP1",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW957602042026RP1",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T09:51:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1776912856399-0",
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands - The Verge",
+      "summary": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare\n\nJohn Ternus’ first big problem is AI\n\nAI backlash is coming for elections\n\nLauren...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T09:18:40.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
+      ]
+    },
+    {
+      "id": "news-1776912856399-1",
+      "title": "OpenAI briefs US agencies, Five Eyes on new cybersecurity product, Axios reports - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nReport AdImage 2\n\nOpenAI ⁠did not immediately respond to a request for comment. Reuters ​could not independently v...",
+      "url": "https://www.reuters.com/business/openai-briefs-us-agencies-five-eyes-new-cyber-product-axios-reports-2026-04-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-briefs-us-agencies-five-eyes-new-cyber-product-axios-reports-2026-04-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T09:11:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776912856400-10",
+      "title": "OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports - Reuters",
+      "summary": "# OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, dat...",
+      "url": "https://www.reuters.com/legal/transactional/openai-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-2026-04-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/openai-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-2026-04-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-22T04:13:29.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
       ]
     }
   ],
