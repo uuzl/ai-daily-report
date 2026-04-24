@@ -1,173 +1,92 @@
 {
-  "date": "2026-04-23",
-  "generatedAt": "2026-04-23T02:54:16.400Z",
-  "totalItems": 13,
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T02:55:14.901Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1776912856399-3",
-      "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
-      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "id": "news-1776999314901-13",
+      "title": "Intel forecasts second-quarter revenue above estimates, shares jump 19% - Reuters",
+      "summary": "Reporting by Zaheer Kachwala in Bengaluru and Max A. Cherney and Stephen Nellis in San Francisco; Additional reporting by Noel Randewich in San Franci...",
+      "url": "https://www.reuters.com/legal/transactional/intel-forecasts-second-quarter-revenue-above-estimates-2026-04-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/intel-forecasts-second-quarter-revenue-above-estimates-2026-04-23/",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T22:44:26.000Z",
+      "publishedAt": "2026-04-23T20:02:28.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1776912856399-5",
-      "title": "Google Cloud launches two new AI chips to compete with Nvidia - TechCrunch",
-      "summary": "+ Sean O'Kane\n Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures\n\n  + Anthony Ha\n ‘Tokenmaxxing’ is making developers les...",
-      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "id": "news-1776999314900-5",
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
+      "summary": "+ Lauren Forristal\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim Cook stepping...",
+      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T18:39:27.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1776912856399-4",
-      "title": "AI Overviews are coming to your Gmail at work - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
-      "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T16:46:10.000Z",
+      "publishedAt": "2026-04-23T19:38:25.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776912856399-7",
-      "title": "Now Meta will track what employees do on their computers to train its AI agents - The Verge",
-      "summary": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day\n\nWatch Sony’s elite ping-pong robot beat top-ranked players\n\nAnthropic’s Myt...",
-      "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T14:22:35.000Z",
-      "category": "tech",
-      "tags": [
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1776912856399-2",
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
-      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "id": "news-1776999314900-1",
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’ - TechCrunch",
+      "summary": "According to OpenAI, GPT-5.5 is designed to be useful across a broad array of categories, including foundational enterprise areas like agentic coding ...",
+      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T14:22:10.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776912856400-12",
-      "title": "Google Cloud Releases New TPU Chip Lineup in Bid to Speed Up AI - Bloomberg.com",
-      "summary": "LEARN MORE\n\n### More From Bloomberg\n\nGoogle’s Internal Politics Leave It Playing Catch-Up on AI CodingSpaceX Has Deal for Right to Acquire Cursor for ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T13:01:36.000Z",
+      "publishedAt": "2026-04-23T18:29:29.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1776912856400-9",
-      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
-      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
-      "url": "https://www.reuters.com/business/google-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T12:03:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
-        "AI"
+        "GPT"
       ]
     },
     {
-      "id": "news-1776912856399-8",
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal - TechCrunch",
-      "summary": "Google has been actively striking a number of cloud deals with AI developers as it aims to wrap together its cloud offerings with other services like ...",
-      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776912856400-11",
-      "title": "The most interesting startups showcased at Google Cloud Next 2026 - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim C...",
-      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1776912856399-6",
-      "title": "Macro Matters: Fed Chair Powell 'has no inclination to step aside' - Reuters",
-      "summary": "### 01:20 Deutsche Telekom exploring merger with T-Mobile, Bloomberg News reports\n\n   ### 00:40 NASA ready to launch new Nancy Grace Roman Telescope\n\n...",
-      "url": "https://www.reuters.com/video/watch/idRW957602042026RP1",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW957602042026RP1",
-      "credibility": "P2",
-      "publishedAt": "2026-04-22T09:51:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1776912856399-0",
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands - The Verge",
-      "summary": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare\n\nJohn Ternus’ first big problem is AI\n\nAI backlash is coming for elections\n\nLauren...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "id": "news-1776999314900-2",
+      "title": "Anthropic’s Mythos breach was humiliating - The Verge",
+      "summary": "Anthropic’s tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybers...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T09:18:40.000Z",
+      "publishedAt": "2026-04-23T18:24:56.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314900-11",
+      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T18:08:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314900-0",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding - The Verge",
+      "summary": "The new model is the latest step in an increasingly heated battle between OpenAI and Anthropic as the companies race to potentially go public later th...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T18:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -176,34 +95,137 @@
       ]
     },
     {
-      "id": "news-1776912856399-1",
-      "title": "OpenAI briefs US agencies, Five Eyes on new cybersecurity product, Axios reports - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nReport AdImage 2\n\nOpenAI ⁠did not immediately respond to a request for comment. Reuters ​could not independently v...",
-      "url": "https://www.reuters.com/business/openai-briefs-us-agencies-five-eyes-new-cyber-product-axios-reports-2026-04-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-briefs-us-agencies-five-eyes-new-cyber-product-axios-reports-2026-04-22/",
+      "id": "news-1776999314900-12",
+      "title": "Bluesky now supports better quality photos - TechCrunch",
+      "summary": "Topics\n\nBluesky, Social\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry...",
+      "url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T09:11:17.000Z",
-      "category": "tech",
+      "publishedAt": "2026-04-23T16:41:14.000Z",
+      "category": "hot",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1776912856400-10",
-      "title": "OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports - Reuters",
-      "summary": "# OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, dat...",
-      "url": "https://www.reuters.com/legal/transactional/openai-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-2026-04-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/openai-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-2026-04-22/",
+      "id": "news-1776999314900-7",
+      "title": "Era computer raises $11M to build a software platform for AI gadgets - TechCrunch",
+      "summary": "+ Sean O'Kane\n Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch\n\n  + Sean O'Kane\n Palantir posts mini-manif...",
+      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
       "credibility": "P2",
-      "publishedAt": "2026-04-22T04:13:29.000Z",
+      "publishedAt": "2026-04-23T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1776999314900-9",
+      "title": "X is shutting down Communities because of low usage and lots of spam - TechCrunch",
+      "summary": "+ Lauren Forristal\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim Cook stepping...",
+      "url": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T15:32:10.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314900-10",
+      "title": "White House accuses China of industrial-scale theft of AI technology - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/white-house-accuses-china-industrial-scale-theft-ai-technology-ft-reports-2026-04-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/white-house-accuses-china-industrial-scale-theft-ai-technology-ft-reports-2026-04-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T14:27:26.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314900-8",
+      "title": "Another customer of troubled startup Delve suffered a big security incident - TechCrunch",
+      "summary": "+ Amanda Silberling\n  + Connie Loizos\n Rivian’s factory hit by tornado ahead of R2 launch\n\n  + Sean O'Kane\n Blue Origin’s New Glenn put a customer sat...",
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314901-14",
+      "title": "Applied Digital signs $7.5 billion AI data center lease with US hyperscaler - Reuters",
+      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
+      "url": "https://www.reuters.com/business/applied-digital-signs-75-billion-ai-data-center-lease-with-us-hyperscaler-2026-04-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/applied-digital-signs-75-billion-ai-data-center-lease-with-us-hyperscaler-2026-04-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T13:37:20.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1776999314900-6",
+      "title": "AI galaxy hunters are adding to the global GPU crunch - TechCrunch",
+      "summary": "+ Sean O'Kane\n Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures\n\n  + Anthony Ha\n Anthropic launches Claude Design, a new...",
+      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Transformer"
+      ]
+    },
+    {
+      "id": "news-1776999314900-4",
+      "title": "Biggest IPO wave in history promises $3 trillion in value – with no profits - Reuters",
+      "summary": "The bull case is straightforward. SpaceX's Starlink satellite internet business ​is viewed by many investors as a potentially game-changing growth eng...",
+      "url": "https://www.reuters.com/business/biggest-ipo-wave-history-promises-3-trillion-value-with-no-profits-2026-04-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/biggest-ipo-wave-history-promises-3-trillion-value-with-no-profits-2026-04-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T11:18:30.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1776999314900-3",
+      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Rope...",
+      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-23T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI"
       ]
     }
@@ -211,7 +233,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
