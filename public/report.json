@@ -1,31 +1,156 @@
 {
-  "date": "2026-04-24",
-  "generatedAt": "2026-04-24T02:55:14.901Z",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T02:44:21.032Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1776999314901-13",
-      "title": "Intel forecasts second-quarter revenue above estimates, shares jump 19% - Reuters",
-      "summary": "Reporting by Zaheer Kachwala in Bengaluru and Max A. Cherney and Stephen Nellis in San Francisco; Additional reporting by Noel Randewich in San Franci...",
-      "url": "https://www.reuters.com/legal/transactional/intel-forecasts-second-quarter-revenue-above-estimates-2026-04-23/",
+      "id": "news-1777085061031-7",
+      "title": "Exclusive: US State Dept orders global warning about alleged China AI thefts by DeepSeek, others - Reuters",
+      "summary": "Image 4: Next VideoNEXT Stay Next Off English 480p Auto (480p)About Connatix V330430866 About Connatix V330430866 1/1 Skip Ad Continue watching after ...",
+      "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/intel-forecasts-second-quarter-revenue-above-estimates-2026-04-23/",
+      "sourceUrl": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T20:02:28.000Z",
+      "publishedAt": "2026-04-24T22:32:23.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1777085061031-3",
+      "title": "Google will invest as much as $40 billion in Anthropic - Ars Technica",
+      "summary": "Several factors contributed to Anthropic’s success in recent months, including controversies around OpenAI and its ChatGPT product and models, more ro...",
+      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T22:05:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1777085061031-15",
+      "title": "Cohere acquires, merges with German-based startup to create a 'transatlantic AI powerhouse' - TechCrunch",
+      "summary": "A press release announcing the Cohere-Aleph Alpha union said one goal of the merger was to give businesses and governments an alternative to these dom...",
+      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T21:35:30.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776999314900-5",
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
-      "summary": "+ Lauren Forristal\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim Cook stepping...",
-      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "id": "news-1777085061031-6",
+      "title": "Meta’s loss is Thinking Machines gain - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T19:38:25.000Z",
+      "publishedAt": "2026-04-24T20:52:07.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777085061031-5",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T19:49:35.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777085061031-4",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T18:00:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777085061031-16",
+      "title": "US Justice Department intervenes in xAI challenge to Colorado tech law - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nMusk's artificial intelligence firm said the law violates the ​First Amendment by ​restricting how ⁠developers des...",
+      "url": "https://www.reuters.com/world/us-justice-department-intervenes-xai-challenge-colorado-tech-law-2026-04-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/us-justice-department-intervenes-xai-challenge-colorado-tech-law-2026-04-24/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T16:00:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777085061031-10",
+      "title": "Nothing introduces an AI-powered dictation tool - TechCrunch",
+      "summary": "Nothing is one of the first companies to offer a system-level integration for dication. However, based on Google’s recent release of its offline dicta...",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T13:41:42.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777085061030-1",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models - TechCrunch",
+      "summary": "Ram Iyer\n\nChinese AI lab DeepSeek has launched two preview versions of its newest large language model, DeepSeek V4, a much-awaited update to last yea...",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T13:30:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1777085061031-11",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs - TechCrunch",
+      "summary": "But Anthropic had already swooped in with a deal announced earlier this month that commandeered many of those chips for years to come. The Claude make...",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-24T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -34,59 +159,14 @@
       ]
     },
     {
-      "id": "news-1776999314900-1",
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’ - TechCrunch",
-      "summary": "According to OpenAI, GPT-5.5 is designed to be useful across a broad array of categories, including foundational enterprise areas like agentic coding ...",
-      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T18:29:29.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1776999314900-2",
-      "title": "Anthropic’s Mythos breach was humiliating - The Verge",
-      "summary": "Anthropic’s tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybers...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "id": "news-1777085061030-0",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals - The Verge",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can c...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T18:24:56.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776999314900-11",
-      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insi...",
-      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T18:08:16.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776999314900-0",
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding - The Verge",
-      "summary": "The new model is the latest step in an increasingly heated battle between OpenAI and Anthropic as the companies race to potentially go public later th...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T18:00:00.000Z",
+      "publishedAt": "2026-04-24T09:45:30.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -95,137 +175,60 @@
       ]
     },
     {
-      "id": "news-1776999314900-12",
-      "title": "Bluesky now supports better quality photos - TechCrunch",
-      "summary": "Topics\n\nBluesky, Social\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry...",
-      "url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+      "id": "news-1777085061031-13",
+      "title": "China to Curb US Investment in Tech Companies After Meta Deal - Bloomberg.com",
+      "summary": "Meta:\n\nJob Cuts\n\nNew AI Model\n\nNew Mexico Trial Verdict\n\nCustom Chips\n\nBlockbuster AMD AI Deal\n\nEarnings\n\nTechnology\n\nBig Tech\n\n# China to Curb US Inv...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/china-to-curb-us-investment-in-tech-companies-after-meta-deal",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/china-to-curb-us-investment-in-tech-companies-after-meta-deal",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T16:41:14.000Z",
-      "category": "hot",
+      "publishedAt": "2026-04-24T09:23:46.000Z",
+      "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776999314900-7",
-      "title": "Era computer raises $11M to build a software platform for AI gadgets - TechCrunch",
-      "summary": "+ Sean O'Kane\n Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch\n\n  + Sean O'Kane\n Palantir posts mini-manif...",
-      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1776999314900-9",
-      "title": "X is shutting down Communities because of low usage and lots of spam - TechCrunch",
-      "summary": "+ Lauren Forristal\n Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Ropek\n Tim Cook stepping...",
-      "url": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T15:32:10.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776999314900-10",
-      "title": "White House accuses China of industrial-scale theft of AI technology - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/white-house-accuses-china-industrial-scale-theft-ai-technology-ft-reports-2026-04-23/",
+      "id": "news-1777085061031-14",
+      "title": "Take Five: Lots of talk, lots of tech - Reuters",
+      "summary": "# Take Five: Lots of talk, lots of tech | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn m...",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-04-24/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/white-house-accuses-china-industrial-scale-theft-ai-technology-ft-reports-2026-04-23/",
+      "sourceUrl": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-04-24/",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T14:27:26.000Z",
+      "publishedAt": "2026-04-24T09:18:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1776999314900-8",
-      "title": "Another customer of troubled startup Delve suffered a big security incident - TechCrunch",
-      "summary": "+ Amanda Silberling\n  + Connie Loizos\n Rivian’s factory hit by tornado ahead of R2 launch\n\n  + Sean O'Kane\n Blue Origin’s New Glenn put a customer sat...",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776999314901-14",
-      "title": "Applied Digital signs $7.5 billion AI data center lease with US hyperscaler - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/business/applied-digital-signs-75-billion-ai-data-center-lease-with-us-hyperscaler-2026-04-23/",
+      "id": "news-1777085061031-9",
+      "title": "Intel shares surge as AI drives first-quarter revenue jump - Reuters",
+      "summary": "### 02:07 Florida launches criminal probe into OpenAI over deadly shooting\n\n   ### 02:07 AI Weekly: Amazon deepens Anthropic ties, VW fights back in C...",
+      "url": "https://www.reuters.com/video/watch/idRW513524042026RP1/?chan=technology",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/applied-digital-signs-75-billion-ai-data-center-lease-with-us-hyperscaler-2026-04-23/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW513524042026RP1/?chan=technology",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T13:37:20.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1776999314900-6",
-      "title": "AI galaxy hunters are adding to the global GPU crunch - TechCrunch",
-      "summary": "+ Sean O'Kane\n Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures\n\n  + Anthony Ha\n Anthropic launches Claude Design, a new...",
-      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1776999314900-4",
-      "title": "Biggest IPO wave in history promises $3 trillion in value – with no profits - Reuters",
-      "summary": "The bull case is straightforward. SpaceX's Starlink satellite internet business ​is viewed by many investors as a potentially game-changing growth eng...",
-      "url": "https://www.reuters.com/business/biggest-ipo-wave-history-promises-3-trillion-value-with-no-profits-2026-04-23/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/biggest-ipo-wave-history-promises-3-trillion-value-with-no-profits-2026-04-23/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-23T11:18:30.000Z",
+      "publishedAt": "2026-04-24T06:23:40.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "Agent"
       ]
     },
     {
-      "id": "news-1776999314900-3",
-      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\n  + Lucas Rope...",
-      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "id": "news-1777085061031-12",
+      "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
       "credibility": "P2",
-      "publishedAt": "2026-04-23T11:00:00.000Z",
+      "publishedAt": "2026-04-24T06:11:27.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
         "AI"
       ]
     }
