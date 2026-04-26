@@ -1,242 +1,193 @@
 {
-  "date": "2026-04-25",
-  "generatedAt": "2026-04-25T02:44:21.032Z",
-  "totalItems": 15,
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T03:21:31.480Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1777085061031-7",
-      "title": "Exclusive: US State Dept orders global warning about alleged China AI thefts by DeepSeek, others - Reuters",
-      "summary": "Image 4: Next VideoNEXT Stay Next Off English 480p Auto (480p)About Connatix V330430866 About Connatix V330430866 1/1 Skip Ad Continue watching after ...",
-      "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T22:32:23.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1777085061031-3",
-      "title": "Google will invest as much as $40 billion in Anthropic - Ars Technica",
-      "summary": "Several factors contributed to Anthropic’s success in recent months, including controversies around OpenAI and its ChatGPT product and models, more ro...",
-      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T22:05:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777085061031-15",
-      "title": "Cohere acquires, merges with German-based startup to create a 'transatlantic AI powerhouse' - TechCrunch",
-      "summary": "A press release announcing the Cohere-Aleph Alpha union said one goal of the merger was to give businesses and governments an alternative to these dom...",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T21:35:30.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-6",
-      "title": "Meta’s loss is Thinking Machines gain - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T20:52:07.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-5",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T19:49:35.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-4",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T18:00:03.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-16",
-      "title": "US Justice Department intervenes in xAI challenge to Colorado tech law - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nMusk's artificial intelligence firm said the law violates the ​First Amendment by ​restricting how ⁠developers des...",
-      "url": "https://www.reuters.com/world/us-justice-department-intervenes-xai-challenge-colorado-tech-law-2026-04-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us-justice-department-intervenes-xai-challenge-colorado-tech-law-2026-04-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T16:00:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-10",
-      "title": "Nothing introduces an AI-powered dictation tool - TechCrunch",
-      "summary": "Nothing is one of the first companies to offer a system-level integration for dication. However, based on Google’s recent release of its offline dicta...",
-      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T13:41:42.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061030-1",
-      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models - TechCrunch",
-      "summary": "Ram Iyer\n\nChinese AI lab DeepSeek has launched two preview versions of its newest large language model, DeepSeek V4, a much-awaited update to last yea...",
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T13:30:59.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777085061031-11",
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs - TechCrunch",
-      "summary": "But Anthropic had already swooped in with a deal announced earlier this month that commandeered many of those chips for years to come. The Claude make...",
-      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1777085061030-0",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals - The Verge",
-      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can c...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T09:45:30.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777085061031-13",
-      "title": "China to Curb US Investment in Tech Companies After Meta Deal - Bloomberg.com",
-      "summary": "Meta:\n\nJob Cuts\n\nNew AI Model\n\nNew Mexico Trial Verdict\n\nCustom Chips\n\nBlockbuster AMD AI Deal\n\nEarnings\n\nTechnology\n\nBig Tech\n\n# China to Curb US Inv...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/china-to-curb-us-investment-in-tech-companies-after-meta-deal",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/china-to-curb-us-investment-in-tech-companies-after-meta-deal",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T09:23:46.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-14",
-      "title": "Take Five: Lots of talk, lots of tech - Reuters",
-      "summary": "# Take Five: Lots of talk, lots of tech | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn m...",
-      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-04-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-04-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T09:18:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777085061031-9",
-      "title": "Intel shares surge as AI drives first-quarter revenue jump - Reuters",
-      "summary": "### 02:07 Florida launches criminal probe into OpenAI over deadly shooting\n\n   ### 02:07 AI Weekly: Amazon deepens Anthropic ties, VW fights back in C...",
-      "url": "https://www.reuters.com/video/watch/idRW513524042026RP1/?chan=technology",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW513524042026RP1/?chan=technology",
-      "credibility": "P2",
-      "publishedAt": "2026-04-24T06:23:40.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1777085061031-12",
-      "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+      "id": "news-1777173691480-10",
+      "title": "Trump removed from White House correspondents dinner as attendees take cover - Reuters",
       "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
+      "url": "https://www.reuters.com/world/us/trump-removed-white-house-correspondents-dinner-attendees-take-cover-2026-04-26/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
+      "sourceUrl": "https://www.reuters.com/world/us/trump-removed-white-house-correspondents-dinner-attendees-take-cover-2026-04-26/",
       "credibility": "P2",
-      "publishedAt": "2026-04-24T06:11:27.000Z",
+      "publishedAt": "2026-04-26T00:45:04.000Z",
       "category": "tech",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-4",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, R...",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1777173691479-8",
+      "title": "Russia's parliamentary speaker visits Pyongyang, KCNA says - Reuters",
+      "summary": "1 hour agoFirefighters in northern Japan struggle to contain blazes as over 3,000 people evacuated Image 2: Wildfires in mountainous areas of Otsuchi ...",
+      "url": "https://www.reuters.com/world/asia-pacific/russias-parliamentary-speaker-visits-pyongyang-kcna-says-2026-04-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/russias-parliamentary-speaker-visits-pyongyang-kcna-says-2026-04-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T21:22:29.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-6",
+      "title": "Maine’s governor vetoes data center moratorium - TechCrunch",
+      "summary": "AI, Government & Policy\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights ...",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691480-11",
+      "title": "Al Qaeda-linked JNIM says it carried out Mali attacks with Tuareg‑led FLA, SITE reports - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/africa/al-qaeda-linked-jnim-says-it-carried-out-mali-attacks-with-tuaregled-fla-site-2026-04-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/al-qaeda-linked-jnim-says-it-carried-out-mali-attacks-with-tuaregled-fla-site-2026-04-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T18:45:35.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-1",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-9",
+      "title": "Insurgents launch 'simultaneous, complex' attacks across Mali - Reuters",
+      "summary": "Load More Categories\n\n   13 hours agoUS consumer sentiment slumps to record low in April; inflation expectations rise , opens new tab\n\n### Stay Inform...",
+      "url": "https://www.reuters.com/video/watch/idRW548925042026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW548925042026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T17:03:21.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-5",
+      "title": "Why Cohere is merging with Aleph Alpha - TechCrunch",
+      "summary": "Anna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrup...",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-2",
+      "title": "Why Tokyo is the most important tech destination of 2026 - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T15:03:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-0",
+      "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say - TechCrunch",
+      "summary": "You can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nView Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off t...",
+      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T14:57:26.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-3",
+      "title": "Security News This Week: Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos - WIRED",
+      "summary": "Photo-Illustration: Darrell Jackson; Getty Images\n\nAs researchers and practitioners debate the impact that new AI models will have on cybersecurity, M...",
+      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T10:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777173691479-7",
+      "title": "Yalda Hakim on the collapse of ‘seeing is believing’ - Reuters",
+      "summary": "But I do sense a lot of interest in foreign news. You can see this blockade of the Strait of Hormuz and the impact it's having on the global economy ....",
+      "url": "https://www.reuters.com/lifestyle/culture-current/yalda-hakim-collapse-seeing-is-believing-2026-04-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/lifestyle/culture-current/yalda-hakim-collapse-seeing-is-believing-2026-04-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-25T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 12
   },
   "summary": ""
 }
