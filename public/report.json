@@ -1,31 +1,108 @@
 {
-  "date": "2026-04-26",
-  "generatedAt": "2026-04-26T03:21:31.480Z",
-  "totalItems": 12,
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T03:26:24.131Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1777173691480-10",
-      "title": "Trump removed from White House correspondents dinner as attendees take cover - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/us/trump-removed-white-house-correspondents-dinner-attendees-take-cover-2026-04-26/",
+      "id": "news-1777260384130-2",
+      "title": "Our Principles - OpenAI",
+      "summary": "__\n\nWe are heading into a very impactful phase as the technology continues to improve. It’s very fair to critique us on every decision; we deserve an ...",
+      "url": "https://openai.com/index/our-principles/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/our-principles/",
+      "credibility": "P0",
+      "publishedAt": "2026-04-26T23:03:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-11",
+      "title": "China's industrial firms' profit rises 15.5% in first quarter - Reuters",
+      "summary": "19 hours agoEgypt economic outlook trimmed slightly due to Iran war: Reuters poll , opens new tab [...] 14 mins agoIndia rupee, bonds under strain on ...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-industrial-firms-profit-rises-155-first-quarter-2026-04-27/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/trump-removed-white-house-correspondents-dinner-attendees-take-cover-2026-04-26/",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-industrial-firms-profit-rises-155-first-quarter-2026-04-27/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T00:45:04.000Z",
+      "publishedAt": "2026-04-27T01:40:27.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1777173691479-4",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, R...",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "id": "news-1777260384131-5",
+      "title": "Could Asia be the unlikely winner in the fallout from the Iran war?: Raychaudhuri - Reuters",
+      "summary": "AI already appears to be doing just that.\n\nFor example, Anthropic's Mythos- a model that is reportedly capable ​of identifying software vulnerabilitie...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
       "credibility": "P2",
-      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "publishedAt": "2026-04-26T23:19:12.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1777260384130-0",
+      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T22:00:46.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-6",
+      "title": "Strange New Worlds S4 teaser strikes a more serious tone - Ars Technica",
+      "summary": "15 Comments\n\nComments\n\n Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. Palantir employees are talking about company's \"descent into fas...",
+      "url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T19:52:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384130-1",
+      "title": "TechCrunch Mobility: Elon’s admission - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T16:03:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-4",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, R...",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T15:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -34,57 +111,14 @@
       ]
     },
     {
-      "id": "news-1777173691479-8",
-      "title": "Russia's parliamentary speaker visits Pyongyang, KCNA says - Reuters",
-      "summary": "1 hour agoFirefighters in northern Japan struggle to contain blazes as over 3,000 people evacuated Image 2: Wildfires in mountainous areas of Otsuchi ...",
-      "url": "https://www.reuters.com/world/asia-pacific/russias-parliamentary-speaker-visits-pyongyang-kcna-says-2026-04-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/russias-parliamentary-speaker-visits-pyongyang-kcna-says-2026-04-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T21:22:29.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-6",
-      "title": "Maine’s governor vetoes data center moratorium - TechCrunch",
-      "summary": "AI, Government & Policy\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights ...",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "id": "news-1777260384130-3",
+      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations - TechCrunch",
+      "summary": "Ivan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including ...",
+      "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
       "credibility": "P2",
-      "publishedAt": "2026-04-25T20:57:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691480-11",
-      "title": "Al Qaeda-linked JNIM says it carried out Mali attacks with Tuareg‑led FLA, SITE reports - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/africa/al-qaeda-linked-jnim-says-it-carried-out-mali-attacks-with-tuaregled-fla-site-2026-04-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/africa/al-qaeda-linked-jnim-says-it-carried-out-mali-attacks-with-tuaregled-fla-site-2026-04-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T18:45:35.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-1",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "publishedAt": "2026-04-26T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -93,101 +127,82 @@
       ]
     },
     {
-      "id": "news-1777173691479-9",
-      "title": "Insurgents launch 'simultaneous, complex' attacks across Mali - Reuters",
-      "summary": "Load More Categories\n\n   13 hours agoUS consumer sentiment slumps to record low in April; inflation expectations rise , opens new tab\n\n### Stay Inform...",
-      "url": "https://www.reuters.com/video/watch/idRW548925042026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW548925042026RP1/",
+      "id": "news-1777260384131-8",
+      "title": "Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg",
+      "summary": "Apple:\n\nApple Names New CEO\n\nJohn Ternus\n\nTim Cook’s Legacy\n\nWWDC and Siri\n\n$599 MacBook Neo\n\nFoldable iPhone\n\nNewsletter\n\nPower On\n\n# Apple’s Cook Gi...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
       "credibility": "P2",
-      "publishedAt": "2026-04-25T17:03:21.000Z",
+      "publishedAt": "2026-04-26T14:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-12",
+      "title": "Musk Vies to Turn X Into Super App With Banking Tool Near Launch - Bloomberg",
+      "summary": "Terms of ServiceTrademarksPrivacy Policy\n\nCareersAdvertise\n\nAd Choices\n\nHelp©2026 Bloomberg L.P. All Rights Reserved. [...] Elon Musk’s X:\n\nX Money Ba...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-26/musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T12:00:00.000Z",
       "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-5",
-      "title": "Why Cohere is merging with Aleph Alpha - TechCrunch",
-      "summary": "Anna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrup...",
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-2",
-      "title": "Why Tokyo is the most important tech destination of 2026 - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T15:03:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-0",
-      "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say - TechCrunch",
-      "summary": "You can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nView Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off t...",
-      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T14:57:26.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-3",
-      "title": "Security News This Week: Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos - WIRED",
-      "summary": "Photo-Illustration: Darrell Jackson; Getty Images\n\nAs researchers and practitioners debate the impact that new AI models will have on cybersecurity, M...",
-      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T10:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777173691479-7",
-      "title": "Yalda Hakim on the collapse of ‘seeing is believing’ - Reuters",
-      "summary": "But I do sense a lot of interest in foreign news. You can see this blockade of the Strait of Hormuz and the impact it's having on the global economy ....",
-      "url": "https://www.reuters.com/lifestyle/culture-current/yalda-hakim-collapse-seeing-is-believing-2026-04-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/lifestyle/culture-current/yalda-hakim-collapse-seeing-is-believing-2026-04-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-25T10:00:00.000Z",
-      "category": "tech",
       "tags": [
         "AI",
         "RAG"
       ]
+    },
+    {
+      "id": "news-1777260384131-10",
+      "title": "King Charles relieved Trump and first lady unharmed after shooting - Reuters",
+      "summary": "3 hours agoUnited Kingdom categoryUK says cooperating closely with US on security ahead of King Charles' visit Image 3: Britain's King Charles and Que...",
+      "url": "https://www.reuters.com/world/uk/king-charles-relieved-trump-first-lady-unharmed-after-shooting-2026-04-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/uk/king-charles-relieved-trump-first-lady-unharmed-after-shooting-2026-04-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T11:37:35.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-7",
+      "title": "Australia's Wong to visit Japan, China, South Korea to discuss energy security - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   China\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Right...",
+      "url": "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T11:12:52.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777260384131-9",
+      "title": "Six passengers injured evacuating from Swiss Air flight in India, Economic Times says - Reuters",
+      "summary": "22 hours agoChina categoryIndia rebukes Trump for sharing ‘hellhole’ remarks on birthright citizenship Image 2: U.S. President Trump holds a joint pre...",
+      "url": "https://www.reuters.com/world/india/six-passengers-injured-evacuating-swiss-air-flight-india-economic-times-says-2026-04-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/six-passengers-injured-evacuating-swiss-air-flight-india-economic-times-says-2026-04-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-26T03:52:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
     "p2Count": 12
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（openai等）"
 }
