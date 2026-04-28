@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-27",
-  "generatedAt": "2026-04-27T03:26:24.131Z",
-  "totalItems": 13,
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T03:32:15.089Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1777260384130-2",
-      "title": "Our Principles - OpenAI",
-      "summary": "__\n\nWe are heading into a very impactful phase as the technology continues to improve. It’s very fair to critique us on every decision; we deserve an ...",
-      "url": "https://openai.com/index/our-principles/",
+      "id": "news-1777347135089-10",
+      "title": "The next chapter of the Microsoft–OpenAI partnership - OpenAI",
+      "summary": "Safety\n   Safety Approach\n   Security & Privacy\n   Trust & Transparency\n\nChatGPT\n   Explore ChatGPT(opens in a new window)\n   Business\n   Enterprise\n ...",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/our-principles/",
+      "sourceUrl": "https://openai.com/index/next-phase-of-microsoft-partnership/",
       "credibility": "P0",
-      "publishedAt": "2026-04-26T23:03:39.000Z",
+      "publishedAt": "2026-04-27T13:07:03.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,43 +20,14 @@
       ]
     },
     {
-      "id": "news-1777260384131-11",
-      "title": "China's industrial firms' profit rises 15.5% in first quarter - Reuters",
-      "summary": "19 hours agoEgypt economic outlook trimmed slightly due to Iran war: Reuters poll , opens new tab [...] 14 mins agoIndia rupee, bonds under strain on ...",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-industrial-firms-profit-rises-155-first-quarter-2026-04-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-industrial-firms-profit-rises-155-first-quarter-2026-04-27/",
+      "id": "news-1777347135089-9",
+      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins - WIRED",
+      "summary": "Maxwell Zeff\n\nOpenAI Buys Some Positive News\n\nOpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continu...",
+      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T01:40:27.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777260384131-5",
-      "title": "Could Asia be the unlikely winner in the fallout from the Iran war?: Raychaudhuri - Reuters",
-      "summary": "AI already appears to be doing just that.\n\nFor example, Anthropic's Mythos- a model that is reportedly capable ​of identifying software vulnerabilitie...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-26T23:19:12.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1777260384130-0",
-      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-26T22:00:46.000Z",
+      "publishedAt": "2026-04-27T20:08:51.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -65,60 +36,75 @@
       ]
     },
     {
-      "id": "news-1777260384131-6",
-      "title": "Strange New Worlds S4 teaser strikes a more serious tone - Ars Technica",
-      "summary": "15 Comments\n\nComments\n\n Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. Palantir employees are talking about company's \"descent into fas...",
-      "url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "id": "news-1777347135089-13",
+      "title": "EU tells Google to open up AI on Android; Google says that’s “unwarranted intervention” - Ars Technica",
+      "summary": "## EU rules could mean more AI, not less\n\nJust because Gemini is preinstalled on virtually every Android phone doesn’t mean you have to use it. You ca...",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T19:52:22.000Z",
+      "publishedAt": "2026-04-27T20:03:49.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777260384130-1",
-      "title": "TechCrunch Mobility: Elon’s admission - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-26T16:03:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1777260384131-4",
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity - TechCrunch",
-      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, R...",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "id": "news-1777347135089-15",
+      "title": "Meta pokes holes in China's great AI firewall - Reuters",
+      "summary": "By continuing to use our services, you acknowledge this use of cookies and other tracking technologies, which may include storing and accessing inform...",
+      "url": "https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T15:30:00.000Z",
+      "publishedAt": "2026-04-27T18:58:10.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777347135089-8",
+      "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens - Ars Technica",
+      "summary": "Manus burst onto the scene in March 2025 with its “general AI agent,” designed to help users with tasks such as searching real estate sites for a new ...",
+      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-27T18:12:04.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1777260384130-3",
-      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations - TechCrunch",
-      "summary": "Ivan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including ...",
-      "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+      "id": "news-1777347135088-2",
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T15:00:00.000Z",
+      "publishedAt": "2026-04-27T17:40:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1777347135089-6",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
+      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-27T17:24:21.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -127,57 +113,76 @@
       ]
     },
     {
-      "id": "news-1777260384131-8",
-      "title": "Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg",
-      "summary": "Apple:\n\nApple Names New CEO\n\nJohn Ternus\n\nTim Cook’s Legacy\n\nWWDC and Siri\n\n$599 MacBook Neo\n\nFoldable iPhone\n\nNewsletter\n\nPower On\n\n# Apple’s Cook Gi...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
+      "id": "news-1777347135089-11",
+      "title": "Microsoft and OpenAI’s famed AGI agreement is dead - The Verge",
+      "summary": "The pressure is on for OpenAI to get closer to turning a profit, and it and its competitors have been burning a lot of investor cash in their chase to...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T14:00:01.000Z",
+      "publishedAt": "2026-04-27T16:15:47.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1777260384131-12",
-      "title": "Musk Vies to Turn X Into Super App With Banking Tool Near Launch - Bloomberg",
-      "summary": "Terms of ServiceTrademarksPrivacy Policy\n\nCareersAdvertise\n\nAd Choices\n\nHelp©2026 Bloomberg L.P. All Rights Reserved. [...] Elon Musk’s X:\n\nX Money Ba...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-26/musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-26/musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch",
+      "id": "news-1777347135088-0",
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage\n\n  + Dominic-Madori Davis\n Me...",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T12:00:00.000Z",
+      "publishedAt": "2026-04-27T16:13:02.000Z",
       "category": "product",
       "tags": [
-        "AI",
-        "RAG"
+        "OpenAI",
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1777260384131-10",
-      "title": "King Charles relieved Trump and first lady unharmed after shooting - Reuters",
-      "summary": "3 hours agoUnited Kingdom categoryUK says cooperating closely with US on security ahead of King Charles' visit Image 3: Britain's King Charles and Que...",
-      "url": "https://www.reuters.com/world/uk/king-charles-relieved-trump-first-lady-unharmed-after-shooting-2026-04-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/uk/king-charles-relieved-trump-first-lady-unharmed-after-shooting-2026-04-26/",
+      "id": "news-1777347135089-12",
+      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge",
+      "summary": "Image: The Verge\n\n  Elon Musk has revived his complaint against OpenAI after dropping a previous lawsuit, again alleging that the ChatGPT maker and tw...",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T11:37:35.000Z",
+      "publishedAt": "2026-04-27T15:50:29.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777347135089-14",
+      "title": "J&J sees AI halving the time to generate drug development leads - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-sees-ai-halving-time-generate-drug-development-leads-2026-04-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-sees-ai-halving-time-generate-drug-development-leads-2026-04-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-27T15:03:35.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1777260384131-7",
-      "title": "Australia's Wong to visit Japan, China, South Korea to discuss energy security - Reuters",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   China\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Right...",
-      "url": "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/",
+      "id": "news-1777347135088-5",
+      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs - The Verge",
+      "summary": "Advertiser Content From\n\nThis is the title for the native ad\n\n## More in AI\n\nThe AI-designed car is taking shape\n\nHow Project Maven taught the militar...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T11:12:52.000Z",
+      "publishedAt": "2026-04-27T14:29:23.000Z",
       "category": "tech",
       "tags": [
         "DeepSeek",
@@ -185,16 +190,49 @@
       ]
     },
     {
-      "id": "news-1777260384131-9",
-      "title": "Six passengers injured evacuating from Swiss Air flight in India, Economic Times says - Reuters",
-      "summary": "22 hours agoChina categoryIndia rebukes Trump for sharing ‘hellhole’ remarks on birthright citizenship Image 2: U.S. President Trump holds a joint pre...",
-      "url": "https://www.reuters.com/world/india/six-passengers-injured-evacuating-swiss-air-flight-india-economic-times-says-2026-04-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/india/six-passengers-injured-evacuating-swiss-air-flight-india-economic-times-says-2026-04-26/",
+      "id": "news-1777347135088-1",
+      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path - WIRED",
+      "summary": "The limits of the LLM-based approach can be seen, Silver says, with a simple thought experiment. Imagine going back in time and releasing a large lang...",
+      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
       "credibility": "P2",
-      "publishedAt": "2026-04-26T03:52:43.000Z",
+      "publishedAt": "2026-04-27T14:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777347135088-3",
+      "title": "OpenAI could be making a phone with AI agents replacing apps - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-27T13:08:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777347135088-4",
+      "title": "DeepSeek's new AI model does not wow markets in fast-changing industry - Reuters",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n\n## Read Next\n\n   6 mins agoGoogle to build AI cam...",
+      "url": "https://www.reuters.com/world/china/deepseeks-new-ai-model-does-not-wow-markets-fast-changing-industry-2026-04-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/deepseeks-new-ai-model-does-not-wow-markets-fast-changing-industry-2026-04-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-27T07:45:40.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
         "AI"
       ]
     }
@@ -202,7 +240,7 @@
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 14
   },
   "summary": "🔥 官方动态：1条（openai等）"
 }
