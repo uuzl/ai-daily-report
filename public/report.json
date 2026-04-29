@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-28",
-  "generatedAt": "2026-04-28T03:32:15.089Z",
-  "totalItems": 15,
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T03:30:36.917Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1777347135089-10",
-      "title": "The next chapter of the Microsoft–OpenAI partnership - OpenAI",
-      "summary": "Safety\n   Safety Approach\n   Security & Privacy\n   Trust & Transparency\n\nChatGPT\n   Explore ChatGPT(opens in a new window)\n   Business\n   Enterprise\n ...",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "id": "news-1777433436916-2",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
+      "summary": "## Expanding how enterprises can build with AI\n\nOur strategic partnership with Amazon is focused on helping organizations deploy advanced AI at produc...",
+      "url": "https://openai.com/index/openai-on-aws/",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "sourceUrl": "https://openai.com/index/openai-on-aws/",
       "credibility": "P0",
-      "publishedAt": "2026-04-27T13:07:03.000Z",
+      "publishedAt": "2026-04-28T18:02:18.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1777347135089-9",
-      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins - WIRED",
-      "summary": "Maxwell Zeff\n\nOpenAI Buys Some Positive News\n\nOpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continu...",
-      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "id": "news-1777433436916-1",
+      "title": "OpenAI Really Wants Codex to Shut Up About Goblins - WIRED",
+      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevan...",
+      "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "sourceUrl": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T20:08:51.000Z",
+      "publishedAt": "2026-04-28T23:45:05.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,107 +36,14 @@
       ]
     },
     {
-      "id": "news-1777347135089-13",
-      "title": "EU tells Google to open up AI on Android; Google says that’s “unwarranted intervention” - Ars Technica",
-      "summary": "## EU rules could mean more AI, not less\n\nJust because Gemini is preinstalled on virtually every Android phone doesn’t mean you have to use it. You ca...",
-      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T20:03:49.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777347135089-15",
-      "title": "Meta pokes holes in China's great AI firewall - Reuters",
-      "summary": "By continuing to use our services, you acknowledge this use of cookies and other tracking technologies, which may include storing and accessing inform...",
-      "url": "https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T18:58:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777347135089-8",
-      "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens - Ars Technica",
-      "summary": "Manus burst onto the scene in March 2025 with its “general AI agent,” designed to help users with tasks such as searching real estate sites for a new ...",
-      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T18:12:04.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1777347135088-2",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "id": "news-1777433436916-3",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
+      "summary": "You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\n\nView...",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T17:40:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777347135089-6",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
-      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T17:24:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777347135089-11",
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead - The Verge",
-      "summary": "The pressure is on for OpenAI to get closer to turning a profit, and it and its competitors have been burning a lot of investor cash in their chase to...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T16:15:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777347135088-0",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage\n\n  + Dominic-Madori Davis\n Me...",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-27T16:13:02.000Z",
+      "publishedAt": "2026-04-28T18:49:54.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
@@ -145,14 +52,61 @@
       ]
     },
     {
-      "id": "news-1777347135089-12",
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge",
-      "summary": "Image: The Verge\n\n  Elon Musk has revived his complaint against OpenAI after dropping a previous lawsuit, again alleging that the ChatGPT maker and tw...",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "id": "news-1777433436916-7",
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal - TechCrunch",
+      "summary": "+ Kate Park\n\n## Latest in AI\n\n In Brief\n\n  ### Google expands Pentagon’s access to its AI after Anthropic’s refusal\n\n  + Julie Bort\n Apps\n\n  ### Lovab...",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T15:50:29.000Z",
+      "publishedAt": "2026-04-28T18:15:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1777433436916-0",
+      "title": "OpenAI brings latest AI models, Codex coding agent to Amazon Bedrock - Reuters",
+      "summary": "Amazon and OpenAI have been deepening their ties in recent months. While Amazon invested $50 billion in OpenAI, the AI startup committed to spend $100...",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-brings-latest-ai-models-codex-coding-agent-amazon-bedrock-2026-04-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/openai-brings-latest-ai-models-codex-coding-agent-amazon-bedrock-2026-04-28/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-28T17:13:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1777433436916-6",
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
+      "summary": "“Claude can’t replace taste or imagination, but it can open up new ways of working — faster and more ambitious ideation, a more expansive skillset, an...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "credibility": "P2",
+      "publishedAt": "2026-04-28T16:49:08.000Z",
+      "category": "hot",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777433436916-9",
+      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI - Reuters",
+      "summary": "The Week in Breakingviews newsletter offers insights and ideas from Reuters' global financial commentary team. Sign up here.\n\nAdvertisement · Scroll t...",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-targets-mass-hiring-with-agentic-software-goal-humanize-ai-2026-04-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-targets-mass-hiring-with-agentic-software-goal-humanize-ai-2026-04-28/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-28T16:00:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -161,43 +115,78 @@
       ]
     },
     {
-      "id": "news-1777347135089-14",
-      "title": "J&J sees AI halving the time to generate drug development leads - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-sees-ai-halving-time-generate-drug-development-leads-2026-04-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-sees-ai-halving-time-generate-drug-development-leads-2026-04-27/",
+      "id": "news-1777433436916-12",
+      "title": "The end of subscription fatigue: How Picsart is leveling the playing field for creators - TechCrunch",
+      "summary": "### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### YouTube is testing an AI-powered search feature that...",
+      "url": "https://techcrunch.com/sponsor/picsart/the-end-of-subscription-fatigue-how-picsart-is-leveling-the-playing-field-for-creators/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/sponsor/picsart/the-end-of-subscription-fatigue-how-picsart-is-leveling-the-playing-field-for-creators/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T15:03:35.000Z",
+      "publishedAt": "2026-04-28T13:54:06.000Z",
       "category": "tech",
       "tags": [
+        "AI",
+        "OpenCL",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1777433436916-4",
+      "title": "Otter’s new feature lets users search across their enterprise tools - TechCrunch",
+      "summary": "+ Connie Loizos\n Google to invest up to $40B in Anthropic in cash and compute\n\n  + Rebecca Bellan\n OpenAI releases GPT-5.5, bringing company one step ...",
+      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-28T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1777347135088-5",
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs - The Verge",
-      "summary": "Advertiser Content From\n\nThis is the title for the native ad\n\n## More in AI\n\nThe AI-designed car is taking shape\n\nHow Project Maven taught the militar...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "id": "news-1777433436916-5",
+      "title": "AI stocks slide after report sparks OpenAI growth concerns - Reuters",
+      "summary": "SoftBank CEO Masayoshi Son ​has gone all in ⁠on the ChatGPT maker, raising money through selling the Japanese conglomerate's entire $5.8 billion stake...",
+      "url": "https://www.reuters.com/business/media-telecom/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-2026-04-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-2026-04-28/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T14:29:23.000Z",
+      "publishedAt": "2026-04-28T11:56:27.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777433436916-10",
+      "title": "Blocking of Meta's AI startup buy raises risk for cross-border China tech deals - Reuters",
+      "summary": "The biggest point of ⁠contention was that Manus, an AI company built on the work of Chinese engineers and the Chinese infrastructure environment, abru...",
+      "url": "https://www.reuters.com/legal/transactional/blocking-metas-ai-startup-buy-raises-risk-cross-border-china-tech-deals-2026-04-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/blocking-metas-ai-startup-buy-raises-risk-cross-border-china-tech-deals-2026-04-28/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-28T09:45:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1777347135088-1",
-      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path - WIRED",
-      "summary": "The limits of the LLM-based approach can be seen, Silver says, with a simple thought experiment. Imagine going back in time and releasing a large lang...",
-      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+      "id": "news-1777433436916-8",
+      "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption - Reuters",
+      "summary": "Anthropic's annualised revenue run rate has surged past $30 billion by April, one of the fastest growth ​trajectories in tech history. \n   Company has...",
+      "url": "https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T14:00:00.000Z",
+      "publishedAt": "2026-04-28T09:35:26.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -206,14 +195,14 @@
       ]
     },
     {
-      "id": "news-1777347135088-3",
-      "title": "OpenAI could be making a phone with AI agents replacing apps - TechCrunch",
-      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "id": "news-1777433436916-11",
+      "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets - Bloomberg.com",
+      "summary": "SoftBank tumbled as much as 11% in Tokyo, while CoreWeave Inc., Oracle and Advanced Micro Devices Inc. fell by about 3% in US premarket trading. While...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T13:08:59.000Z",
+      "publishedAt": "2026-04-28T08:58:12.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -222,17 +211,16 @@
       ]
     },
     {
-      "id": "news-1777347135088-4",
-      "title": "DeepSeek's new AI model does not wow markets in fast-changing industry - Reuters",
-      "summary": "Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n\n## Read Next\n\n   6 mins agoGoogle to build AI cam...",
-      "url": "https://www.reuters.com/world/china/deepseeks-new-ai-model-does-not-wow-markets-fast-changing-industry-2026-04-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/deepseeks-new-ai-model-does-not-wow-markets-fast-changing-industry-2026-04-27/",
+      "id": "news-1777433436916-13",
+      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not - WIRED",
+      "summary": "We are designing for those power users. They should get even more out of the Terminal. They pride themselves in knowing the path through the Terminal,...",
+      "url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
       "credibility": "P2",
-      "publishedAt": "2026-04-27T07:45:40.000Z",
+      "publishedAt": "2026-04-28T08:30:00.000Z",
       "category": "tech",
       "tags": [
-        "DeepSeek",
         "AI"
       ]
     }
@@ -240,7 +228,7 @@
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
   "summary": "🔥 官方动态：1条（openai等）"
 }
