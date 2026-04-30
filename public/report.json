@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-29",
-  "generatedAt": "2026-04-29T03:30:36.917Z",
-  "totalItems": 14,
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T03:31:39.391Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1777433436916-2",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
-      "summary": "## Expanding how enterprises can build with AI\n\nOur strategic partnership with Amazon is focused on helping organizations deploy advanced AI at produc...",
-      "url": "https://openai.com/index/openai-on-aws/",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/openai-on-aws/",
-      "credibility": "P0",
-      "publishedAt": "2026-04-28T18:02:18.000Z",
+      "id": "news-1777519899390-2",
+      "title": "On the stand, Elon Musk can’t escape his own tweets - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-29T23:58:36.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,46 +20,60 @@
       ]
     },
     {
-      "id": "news-1777433436916-1",
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins - WIRED",
-      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevan...",
-      "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "id": "news-1777519899390-3",
+      "title": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports - Reuters",
+      "summary": "# Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports | Reuters\n\nSkip to main content\n\nExclusive news, data...",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-weighs-new-funding-round-valuation-exceeding-900-billion-bloomberg-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/anthropic-weighs-new-funding-round-valuation-exceeding-900-billion-bloomberg-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T23:45:05.000Z",
+      "publishedAt": "2026-04-29T22:46:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1777433436916-3",
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
-      "summary": "You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\n\nView...",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "id": "news-1777519899391-13",
+      "title": "AIA's new business value climbs in first quarter on strong Hong Kong, China demand - Reuters",
+      "summary": "Reporting by Nikita Maria Jino ​and Nichiket Sunil in Bengaluru; Editing by Sahal Muhammed and Subhranshu Sahu\n\nOur Standards: The Thomson Reuters Tru...",
+      "url": "https://www.reuters.com/legal/litigation/hong-kong-listed-insurer-aia-group-logs-13-rise-first-quarter-new-business-value-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/hong-kong-listed-insurer-aia-group-logs-13-rise-first-quarter-new-business-value-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T18:49:54.000Z",
-      "category": "product",
+      "publishedAt": "2026-04-29T22:16:54.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777519899390-12",
+      "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue - Reuters",
+      "summary": "\"Recruiters told us half their day ​was low-value work, so we made a bet ​on understanding ⁠their pain to get our solution right,\" Dan Shapero, Linked...",
+      "url": "https://www.reuters.com/business/linkedins-ai-hiring-agents-track-450-million-yearly-revenue-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/linkedins-ai-hiring-agents-track-450-million-yearly-revenue-2026-04-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-29T21:46:10.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "AI",
+        "Agent"
       ]
     },
     {
-      "id": "news-1777433436916-7",
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal - TechCrunch",
-      "summary": "+ Kate Park\n\n## Latest in AI\n\n In Brief\n\n  ### Google expands Pentagon’s access to its AI after Anthropic’s refusal\n\n  + Julie Bort\n Apps\n\n  ### Lovab...",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "id": "news-1777519899390-8",
+      "title": "KLA Corp forecasts quarterly revenue above estimates on AI-linked demand - Reuters",
+      "summary": "However, shares of the Milpitas, California-based company fell nearly 9% in extended trading, with some analysts saying the market had expected a ​hig...",
+      "url": "https://www.reuters.com/business/kla-corp-forecasts-strong-quarterly-revenue-ai-linked-demand-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/kla-corp-forecasts-strong-quarterly-revenue-ai-linked-demand-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T18:15:00.000Z",
+      "publishedAt": "2026-04-29T20:40:30.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -67,31 +81,15 @@
       ]
     },
     {
-      "id": "news-1777433436916-0",
-      "title": "OpenAI brings latest AI models, Codex coding agent to Amazon Bedrock - Reuters",
-      "summary": "Amazon and OpenAI have been deepening their ties in recent months. While Amazon invested $50 billion in OpenAI, the AI startup committed to spend $100...",
-      "url": "https://www.reuters.com/business/retail-consumer/openai-brings-latest-ai-models-codex-coding-agent-amazon-bedrock-2026-04-28/",
+      "id": "news-1777519899390-4",
+      "title": "Microsoft's cloud revenue growth disappoints investors, shares drop 2% - Reuters",
+      "summary": "To sharpen its competitive edge, Microsoft has aggressively added Anthropic's technology to its cloud service and products like Copilot amid rising de...",
+      "url": "https://www.reuters.com/business/retail-consumer/microsoft-reports-cloud-growth-line-with-expectations-2026-04-29/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/openai-brings-latest-ai-models-codex-coding-agent-amazon-bedrock-2026-04-28/",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/microsoft-reports-cloud-growth-line-with-expectations-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T17:13:59.000Z",
+      "publishedAt": "2026-04-29T20:08:06.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777433436916-6",
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
-      "summary": "“Claude can’t replace taste or imagination, but it can open up new ways of working — faster and more ambitious ideation, a more expansive skillset, an...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-      "credibility": "P2",
-      "publishedAt": "2026-04-28T16:49:08.000Z",
-      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
@@ -99,14 +97,30 @@
       ]
     },
     {
-      "id": "news-1777433436916-9",
-      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI - Reuters",
-      "summary": "The Week in Breakingviews newsletter offers insights and ideas from Reuters' global financial commentary team. Sign up here.\n\nAdvertisement · Scroll t...",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-targets-mass-hiring-with-agentic-software-goal-humanize-ai-2026-04-28/",
+      "id": "news-1777519899391-14",
+      "title": "Alphabet revenue tops expectations on best-ever quarter for cloud unit - Reuters",
+      "summary": "Alphabet has also gained traction in its in-house AI efforts. ​Its Gemini models, including ⁠newer iterations rolled out this year, have seen rising a...",
+      "url": "https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-targets-mass-hiring-with-agentic-software-goal-humanize-ai-2026-04-28/",
+      "sourceUrl": "https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T16:00:59.000Z",
+      "publishedAt": "2026-04-29T20:07:15.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1777519899390-5",
+      "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\" - Ars Technica",
+      "summary": "OpenAI employee Nick Pash, who works on Codex, insists on social media that this “isn’t a marketing gimmick” to get people talking about GPT-5.5 and C...",
+      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-29T19:00:58.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -115,14 +129,14 @@
       ]
     },
     {
-      "id": "news-1777433436916-12",
-      "title": "The end of subscription fatigue: How Picsart is leveling the playing field for creators - TechCrunch",
-      "summary": "### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### YouTube is testing an AI-powered search feature that...",
-      "url": "https://techcrunch.com/sponsor/picsart/the-end-of-subscription-fatigue-how-picsart-is-leveling-the-playing-field-for-creators/",
+      "id": "news-1777519899390-11",
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise - TechCrunch",
+      "summary": "April 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders from Uber, R...",
+      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/sponsor/picsart/the-end-of-subscription-fatigue-how-picsart-is-leveling-the-playing-field-for-creators/",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T13:54:06.000Z",
+      "publishedAt": "2026-04-29T18:33:05.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -131,14 +145,14 @@
       ]
     },
     {
-      "id": "news-1777433436916-4",
-      "title": "Otter’s new feature lets users search across their enterprise tools - TechCrunch",
-      "summary": "+ Connie Loizos\n Google to invest up to $40B in Anthropic in cash and compute\n\n  + Rebecca Bellan\n OpenAI releases GPT-5.5, bringing company one step ...",
-      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "id": "news-1777519899390-1",
+      "title": "Exclusive: Earth AI is vertically integrating the search for critical minerals - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T12:00:00.000Z",
+      "publishedAt": "2026-04-29T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -147,14 +161,14 @@
       ]
     },
     {
-      "id": "news-1777433436916-5",
-      "title": "AI stocks slide after report sparks OpenAI growth concerns - Reuters",
-      "summary": "SoftBank CEO Masayoshi Son ​has gone all in ⁠on the ChatGPT maker, raising money through selling the Japanese conglomerate's entire $5.8 billion stake...",
-      "url": "https://www.reuters.com/business/media-telecom/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-2026-04-28/",
+      "id": "news-1777519899390-6",
+      "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters",
+      "summary": "Florida Attorney General James Uthmeier ​announced earlier this month a criminal investigation into ChatGPT's role in a 2025 shooting at Florida State...",
+      "url": "https://www.reuters.com/world/families-canadian-mass-shooting-victims-sue-openai-ceo-altman-us-court-2026-04-29/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-2026-04-28/",
+      "sourceUrl": "https://www.reuters.com/world/families-canadian-mass-shooting-victims-sue-openai-ceo-altman-us-court-2026-04-29/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T11:56:27.000Z",
+      "publishedAt": "2026-04-29T13:38:17.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -163,46 +177,14 @@
       ]
     },
     {
-      "id": "news-1777433436916-10",
-      "title": "Blocking of Meta's AI startup buy raises risk for cross-border China tech deals - Reuters",
-      "summary": "The biggest point of ⁠contention was that Manus, an AI company built on the work of Chinese engineers and the Chinese infrastructure environment, abru...",
-      "url": "https://www.reuters.com/legal/transactional/blocking-metas-ai-startup-buy-raises-risk-cross-border-china-tech-deals-2026-04-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/blocking-metas-ai-startup-buy-raises-risk-cross-border-china-tech-deals-2026-04-28/",
+      "id": "news-1777519899390-0",
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats - TechCrunch",
+      "summary": "+ Rebecca Bellan\n OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’\n\n  + Lucas Ropek\n Microsoft offers buyout for up to 7...",
+      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T09:45:11.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777433436916-8",
-      "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption - Reuters",
-      "summary": "Anthropic's annualised revenue run rate has surged past $30 billion by April, one of the fastest growth ​trajectories in tech history. \n   Company has...",
-      "url": "https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-28T09:35:26.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777433436916-11",
-      "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets - Bloomberg.com",
-      "summary": "SoftBank tumbled as much as 11% in Tokyo, while CoreWeave Inc., Oracle and Advanced Micro Devices Inc. fell by about 3% in US premarket trading. While...",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
-      "credibility": "P2",
-      "publishedAt": "2026-04-28T08:58:12.000Z",
+      "publishedAt": "2026-04-29T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -211,24 +193,57 @@
       ]
     },
     {
-      "id": "news-1777433436916-13",
-      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not - WIRED",
-      "summary": "We are designing for those power users. They should get even more out of the Terminal. They pride themselves in knowing the path through the Terminal,...",
-      "url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+      "id": "news-1777519899390-9",
+      "title": "School-shooting lawsuits accuse OpenAI of hiding violent ChatGPT users - Ars Technica",
+      "summary": "According to Edelson and families suing, OpenAI has been hiding violent ChatGPT users for months to protect Altman from public criticism while the AI ...",
+      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
       "credibility": "P2",
-      "publishedAt": "2026-04-28T08:30:00.000Z",
+      "publishedAt": "2026-04-29T12:00:41.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777519899390-10",
+      "title": "Elon Musk testifies Sam Altman was not 'honest' about OpenAI's nonprofit mission - Reuters",
+      "summary": "\"I don't lose my temper. I'm not a yeller. I don't yell at people,\" Musk testified. \"Sometimes you have to use language that gets people out ​of their...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/elon-musk-return-witness-stand-trial-over-openais-future-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/elon-musk-return-witness-stand-trial-over-openais-future-2026-04-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-29T10:08:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777519899390-7",
+      "title": "Hyperscaler results pose major test for AI-driven US stock market - Reuters",
+      "summary": "Options prices on Meta, Microsoft, Amazon, and Alphabet show traders braced for a one-day stock price swing of 4% or more after they report results.\n\n...",
+      "url": "https://www.reuters.com/business/retail-consumer/hyperscaler-results-pose-major-test-ai-driven-us-stock-market-2026-04-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/hyperscaler-results-pose-major-test-ai-driven-us-stock-market-2026-04-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-04-29T10:06:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
