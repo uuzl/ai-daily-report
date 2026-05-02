@@ -1,190 +1,32 @@
 {
-  "date": "2026-05-01",
-  "generatedAt": "2026-05-01T03:41:20.898Z",
-  "totalItems": 13,
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T02:57:27.724Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1777606880897-8",
-      "title": "Introducing Advanced Account Security - OpenAI",
-      "summary": "Privacy and security are foundational to how we build all of our products and we’ll continue investing in protections that give people more control an...",
-      "url": "https://openai.com/index/advanced-account-security/",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/advanced-account-security/",
-      "credibility": "P0",
-      "publishedAt": "2026-04-30T17:26:15.000Z",
-      "category": "tech",
+      "id": "news-1777690647723-0",
+      "title": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
+      "summary": "The researchers then ran the same prompts through the models with appended statements designed to mimic situations where research has suggested that h...",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T22:23:36.000Z",
+      "category": "research",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
+        "AI",
+        "LLM"
       ]
     },
     {
-      "id": "news-1777606880897-4",
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet - TechCrunch",
-      "summary": "With the new ChatGPT Images release, OpenAI is pushing further with improvements such as better rendering of non-Latin text, including Hindi and Benga...",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "id": "news-1777690647724-7",
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T02:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-6",
-      "title": "Anthropic potential $900B+ valuation round could happen within two weeks - TechCrunch",
-      "summary": "#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech ...",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T23:07:56.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-2",
-      "title": "Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter - TechCrunch",
-      "summary": "With plenty of capital to spend on both sides, that battle has moved to mindshare. Not long after Winston Weinberg’s company Harvey signed a brand par...",
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T20:14:47.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-0",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Security\n\n  ### Hackers are actively exploiting ...",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T19:27:41.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-3",
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico - TechCrunch",
-      "summary": "Digital security is also becoming a bigger focus of the AI industry. Several weeks ago, Anthropic announced a new cybersecurity model called Mythos. P...",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T18:20:03.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-7",
-      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok - The Verge",
-      "summary": "Model distillation has been on the rise and has incited more controversy among AI labs, in recent years, since the lines for what’s legal — and what v...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T18:16:57.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-9",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models - TechCrunch",
-      "summary": "Tim Fernholz\n\nOpenAI and Anthropic have been on the warpath lately against third-party efforts to train new AI models by prompting their publicly-acce...",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T18:03:57.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-1",
-      "title": "Here’s how the new Microsoft and OpenAI deal breaks down - The Verge",
-      "summary": "Away from the courtroom antics of Musk and Altman, Microsoft is still quietly trying to build models good enough to replace OpenAI’s. It’s had some im...",
-      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1777606880898-11",
-      "title": "X announces a rebuilt ad platform powered by AI - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n On the stand, Elon Musk can’t escape his own tweets\n\n  + Tim Fernholz\n OpenAI ends Microsoft legal peril over its $50B...",
-      "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T15:14:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-10",
-      "title": "OpenAI talks about not talking about goblins - The Verge",
-      "summary": "The homepage\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nSubscribe\n\nComments Drawer\n\nComments\n\nLoading comments\n\nGetting the conversation read...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T13:42:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777606880897-5",
-      "title": "Meta says its business AI now facilitates 10 million conversations a week - TechCrunch",
-      "summary": "“Business AIs today are currently free for most businesses on our messaging apps, but as we make more progress, we expect that we will also work towar...",
-      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "credibility": "P2",
-      "publishedAt": "2026-04-30T12:08:45.000Z",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -193,25 +35,162 @@
       ]
     },
     {
-      "id": "news-1777606880898-12",
-      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
-      "summary": "Back-to-back deals deepening Amazon's tie-ups with ​OpenAI and Anthropic have also lifted shareholder confidence. The ​company's shares are up roughly...",
-      "url": "https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/",
+      "id": "news-1777690647724-8",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
       "credibility": "P2",
-      "publishedAt": "2026-04-30T10:03:43.000Z",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1777690647723-3",
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic - TechCrunch",
+      "summary": "Skip to content\n\nIn Brief\n\nPosted:\n\n Julie Bort\n\n# Coatue has a plan to buy up land for data centers, possibly for Anthropic\n\nCoatue, one of the bigge...",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T18:23:04.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI"
       ]
+    },
+    {
+      "id": "news-1777690647723-2",
+      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
+      "summary": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic\n\nAmazon’s built-in AI price history expands to show the entir...",
+      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T16:55:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647723-1",
+      "title": "Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks - TechCrunch",
+      "summary": "The Pentagon said more than 1.3 million DoD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides acc...",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T16:02:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1777690647723-6",
+      "title": "People are finally using Reddit’s search - TechCrunch",
+      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
+      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T12:00:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647723-4",
+      "title": "Pentagon reaches agreements with leading AI companies - Reuters",
+      "summary": "The Week in Breakingviews newsletter offers insights and ideas from Reuters' global financial commentary team. Sign up here.\n\nAdvertisement · Scroll t...",
+      "url": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T11:39:47.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647723-5",
+      "title": "Key takeaways from Musk's testimony at OpenAI trial - Reuters",
+      "summary": "# Key takeaways from Musk's testimony at OpenAI trial | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for financ...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T10:03:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647724-10",
+      "title": "The Week in Numbers: big tech spends big on AI, oil marches on - Reuters",
+      "summary": "### 01:59 From cattle to citrus, rising fuel costs squeeze Florida farms\n\n   ### 02:32 Wall Street ends mixed ahead of big tech earnings\n\n   ### 02:36...",
+      "url": "https://www.reuters.com/video/watch/idRW712501052026RP1/?chan=business",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW712501052026RP1/?chan=business",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T09:56:06.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647724-9",
+      "title": "Breakingviews - Fund management’s human factor is here to stay - Reuters",
+      "summary": "At the 2023 Sohn Investment Conference, OpenAI chief Sam Altman memorably predicted, opens new tab) that fund management was the industry most likely ...",
+      "url": "https://www.reuters.com/commentary/breakingviews/fund-managements-human-factor-is-here-stay-2026-05-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/fund-managements-human-factor-is-here-stay-2026-05-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T05:00:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777690647724-11",
+      "title": "Morning Bid: Never mind the oil, feel the earnings! - Reuters",
+      "summary": "A line chart with the title 'The strength of the yen'\n\nWhile ⁠MOF/BOJ selling did initially manage to get the dollar down five big figures to 155.50, ...",
+      "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-01T04:34:18.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
     "p2Count": 12
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
