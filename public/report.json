@@ -1,64 +1,75 @@
 {
-  "date": "2026-05-02",
-  "generatedAt": "2026-05-02T02:57:27.724Z",
-  "totalItems": 12,
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T03:34:16.936Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1777690647723-0",
-      "title": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
-      "summary": "The researchers then ran the same prompts through the models with appended statements designed to mimic situations where research has suggested that h...",
-      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "id": "news-1777779256936-7",
+      "title": "Trump says there is possibility US could restart strikes on Iran - Reuters",
+      "summary": "49 mins agoAsia Pacific categoryIran offers deal on Strait of Hormuz, Trump says he's not satisfied Image 3: Woman walks past anti-U.S. billboard depi...",
+      "url": "https://www.reuters.com/world/trump-says-there-is-possibility-us-could-restart-strikes-iran-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/trump-says-there-is-possibility-us-could-restart-strikes-iran-2026-05-02/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T22:23:36.000Z",
-      "category": "research",
+      "publishedAt": "2026-05-02T22:40:17.000Z",
+      "category": "tech",
       "tags": [
-        "AI",
-        "LLM"
+        "AI"
       ]
     },
     {
-      "id": "news-1777690647724-7",
-      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "id": "news-1777779256936-2",
+      "title": "Mexican governor steps aside after US accusations of cartel ties - Reuters",
+      "summary": "Mexican governor steps aside after US accusations of cartel ties May 2, 2026\n   Greg Abel runs his first Berkshire annual meeting, Buffett attends May...",
+      "url": "https://www.reuters.com/video/watch/idRW738802052026RP1?chan=politics&location=channel-item",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW738802052026RP1?chan=politics&location=channel-item",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "publishedAt": "2026-05-02T22:16:50.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
-        "Agent"
+        "RAG"
       ]
     },
     {
-      "id": "news-1777690647724-8",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions - TechCrunch",
-      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "id": "news-1777779256936-8",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars - TechCrunch",
+      "summary": "Outside Hollywood, at least one novel has been pulled by its publisher due to the apparent use of AI, and other writers’ groups are declaring that AI ...",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "sourceUrl": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "publishedAt": "2026-05-02T21:54:58.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1777690647723-3",
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic - TechCrunch",
-      "summary": "Skip to content\n\nIn Brief\n\nPosted:\n\n Julie Bort\n\n# Coatue has a plan to buy up land for data centers, possibly for Anthropic\n\nCoatue, one of the bigge...",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "id": "news-1777779256936-6",
+      "title": "Greg Abel runs his first Berkshire annual meeting, Buffett attends - Reuters",
+      "summary": "### 00:45 AstraZeneca shares drop after US regulators vote against breast cancer drug\n\n   ### 01:59 Dubai menus shrink as Iran war makes food costs cl...",
+      "url": "https://www.reuters.com/video/watch/idRW737002052026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW737002052026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T18:23:04.000Z",
+      "publishedAt": "2026-05-02T18:55:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777779256936-3",
+      "title": "Danco Laboratories seeks Supreme Court stay of ruling pausing mail-order access to abortion drugs - Reuters",
+      "summary": "15 hours agoSustainability categoryKey takeaways from Musk's testimony at OpenAI trial Image 2: Trial in Elon Musk's lawsuit over OpenAI for-profit co...",
+      "url": "https://www.reuters.com/world/danco-laboratories-seeks-supreme-court-stay-ruling-pausing-mail-order-access-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/danco-laboratories-seeks-supreme-court-stay-ruling-pausing-mail-order-access-2026-05-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T17:31:01.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -66,14 +77,103 @@
       ]
     },
     {
-      "id": "news-1777690647723-2",
-      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
-      "summary": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic\n\nAmazon’s built-in AI price history expands to show the entir...",
-      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+      "id": "news-1777779256935-0",
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch - TechCrunch",
+      "summary": "What it does: Physical AI for factories.\n\nWhy it’s worth watching: Mixing AI and robotics, Inbolt improves and expands automation in manufacturing, fr...",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777779256936-10",
+      "title": "Taiwan's 12 remaining diplomatic allies - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   53 mins agoBusiness categoryChina's Commerce Ministry blocks US sanctions against five refineries , opens ...",
+      "url": "https://www.reuters.com/world/china/taiwans-12-remaining-diplomatic-allies-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/taiwans-12-remaining-diplomatic-allies-2026-05-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T13:05:59.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1777779256936-11",
+      "title": "China's Commerce Ministry blocks US sanctions against five refineries - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T12:24:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1777779256936-5",
+      "title": "The things we’re building now - The Verge",
+      "summary": "Skip to main content\n\nThe homepage\n\nSubscribe\nSign In\n\nThe homepage\n\nNavigation Drawer\n\n Login\n  Sign Up\n\nSubscribe\n\nComments Drawer\n\nComments\n\n# The ...",
+      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+      "sourceUrl": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T16:55:16.000Z",
+      "publishedAt": "2026-05-02T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777779256936-13",
+      "title": "OPEC+ agrees in principle on small oil output quota hike without UAE, sources say - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T10:42:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1777779256936-12",
+      "title": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say - Reuters",
+      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
+      "url": "https://www.reuters.com/world/asia-pacific/air-india-ceo-search-narrows-singapore-air-exec-kannan-insider-aggarwal-sources-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/air-india-ceo-search-narrows-singapore-air-exec-kannan-insider-aggarwal-sources-2026-05-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T09:36:35.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1777779256936-4",
+      "title": "Reuters sees firsthand how reclusive Turkmenistan shows signs of opening up - Reuters",
+      "summary": "# Reuters sees firsthand how reclusive Turkmenistan shows signs of opening up | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data ...",
+      "url": "https://www.reuters.com/video/watch/idRW092508042026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW092508042026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-02T06:45:35.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -81,106 +181,44 @@
       ]
     },
     {
-      "id": "news-1777690647723-1",
-      "title": "Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks - TechCrunch",
-      "summary": "The Pentagon said more than 1.3 million DoD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides acc...",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "id": "news-1777779256936-1",
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies - TechCrunch",
+      "summary": "View Bio\n\nApril 30\n\nSan Francisco, CA\n\nStrictlyVC kicks off the year in SF. Register now for unfiltered fireside chats and VC insights with leaders fr...",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T16:02:36.000Z",
+      "publishedAt": "2026-05-02T06:36:28.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
-        "LLM"
+        "Agent"
       ]
     },
     {
-      "id": "news-1777690647723-6",
-      "title": "People are finally using Reddit’s search - TechCrunch",
-      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nApril 30\n\nSan Fran...",
-      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "id": "news-1777779256936-9",
+      "title": "Mexican governor Ruben Rocha steps down, NYT reports - Reuters",
+      "summary": "April 30, 2026China categoryPanama president says port caught in US-China dispute , opens new tab [...] 11 hours agoAmericas categoryColombia-Ecuador ...",
+      "url": "https://www.reuters.com/world/americas/mexican-governor-ruben-rocha-steps-down-nyt-reports-2026-05-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/mexican-governor-ruben-rocha-steps-down-nyt-reports-2026-05-02/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T12:00:11.000Z",
+      "publishedAt": "2026-05-02T06:22:59.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1777690647723-4",
-      "title": "Pentagon reaches agreements with leading AI companies - Reuters",
-      "summary": "The Week in Breakingviews newsletter offers insights and ideas from Reuters' global financial commentary team. Sign up here.\n\nAdvertisement · Scroll t...",
-      "url": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+      "id": "news-1777779256936-14",
+      "title": "USL, players' union reach tentative CBA deal - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/soccer/usl-players-union-reach-tentative-cba-deal--flm-2026-05-02/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+      "sourceUrl": "https://www.reuters.com/sports/soccer/usl-players-union-reach-tentative-cba-deal--flm-2026-05-02/",
       "credibility": "P2",
-      "publishedAt": "2026-05-01T11:39:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777690647723-5",
-      "title": "Key takeaways from Musk's testimony at OpenAI trial - Reuters",
-      "summary": "# Key takeaways from Musk's testimony at OpenAI trial | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for financ...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-01T10:03:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777690647724-10",
-      "title": "The Week in Numbers: big tech spends big on AI, oil marches on - Reuters",
-      "summary": "### 01:59 From cattle to citrus, rising fuel costs squeeze Florida farms\n\n   ### 02:32 Wall Street ends mixed ahead of big tech earnings\n\n   ### 02:36...",
-      "url": "https://www.reuters.com/video/watch/idRW712501052026RP1/?chan=business",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW712501052026RP1/?chan=business",
-      "credibility": "P2",
-      "publishedAt": "2026-05-01T09:56:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777690647724-9",
-      "title": "Breakingviews - Fund management’s human factor is here to stay - Reuters",
-      "summary": "At the 2023 Sohn Investment Conference, OpenAI chief Sam Altman memorably predicted, opens new tab) that fund management was the industry most likely ...",
-      "url": "https://www.reuters.com/commentary/breakingviews/fund-managements-human-factor-is-here-stay-2026-05-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/fund-managements-human-factor-is-here-stay-2026-05-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-01T05:00:17.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1777690647724-11",
-      "title": "Morning Bid: Never mind the oil, feel the earnings! - Reuters",
-      "summary": "A line chart with the title 'The strength of the yen'\n\nWhile ⁠MOF/BOJ selling did initially manage to get the dollar down five big figures to 155.50, ...",
-      "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-01T04:34:18.000Z",
+      "publishedAt": "2026-05-02T04:19:43.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -190,7 +228,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
