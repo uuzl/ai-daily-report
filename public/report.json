@@ -1,197 +1,222 @@
 {
-  "date": "2026-05-06",
-  "generatedAt": "2026-05-06T03:29:46.670Z",
-  "totalItems": 13,
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T03:30:06.528Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1778038186669-5",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nFor a giant incumbent player like SAP, AI is both a threat and an opportunity. “It’s all about ...",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "id": "news-1778124606527-4",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX - Anthropic",
+      "summary": "Finally, we recently made a commitment to cover any consumer electricity price increases caused by our data centers in the US. As part of our internat...",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/higher-limits-spacex",
+      "credibility": "P0",
+      "publishedAt": "2026-05-06T16:20:59.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1778124606527-2",
+      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX - Ars Technica",
+      "summary": "## Exploding demand amid constrained compute supply\n\nAnthropic has seen a significant increase in demand for Claude Code and other products related to...",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
       "credibility": "P2",
-      "publishedAt": "2026-05-05T23:50:10.000Z",
+      "publishedAt": "2026-05-06T22:09:14.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778038186669-8",
-      "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
-      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Valve just imported 50 tons of game consoles in two days\n2. Apple agrees to pay iPhone owners $250...",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "id": "news-1778124606528-10",
+      "title": "Is xAI a neocloud now? - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n An...",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T21:32:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778124606528-13",
+      "title": "Google shuts down Project Mariner - The Verge",
+      "summary": "Screenshot: The Verge\n\nEarlier this year, Google showed off a new AI-powered feature, called “auto-browse,” that can perform multi-step tasks in Chrom...",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "sourceUrl": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
       "credibility": "P2",
-      "publishedAt": "2026-05-05T21:46:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-6",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
-      "summary": "The new capability will also be available for iPadOS 27 and macOS 27, the outlet writes, adding that models from Google and Anthropic are being tested...",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T20:56:41.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-9",
-      "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar - Reuters",
-      "summary": "The company has started an independent investigation into the case.\n\nSuper Micro posted revenue of $10.24 billion for the third quarter ended ⁠March ​...",
-      "url": "https://www.reuters.com/business/super-micro-misses-quarterly-revenue-estimates-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/super-micro-misses-quarterly-revenue-estimates-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T20:10:39.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-1",
-      "title": "OpenAI provided GPT-5.5 to US for national security testing, executive said - Reuters",
-      "summary": "3 hours agoLegal categoryIndia's markets regulator sets up task force to tackle AI-driven cyber threats , opens new tab [...] # OpenAI provided GPT-5....",
-      "url": "https://www.reuters.com/business/openai-provided-gpt-55-us-national-security-testing-executive-said-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-provided-gpt-55-us-national-security-testing-executive-said-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T18:34:33.000Z",
+      "publishedAt": "2026-05-06T21:21:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-12",
-      "title": "AI errors in US murder case lead to discipline for Georgia prosecutor - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/legal/government/ai-errors-us-murder-case-lead-discipline-georgia-prosecutor-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/ai-errors-us-murder-case-lead-discipline-georgia-prosecutor-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T17:27:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-10",
-      "title": "Apple to Let Users Choose Rival AI Models Across Its iOS 27 Features - Bloomberg.com",
-      "summary": "Users will be able to select from multiple third-party AI models for tasks like generating and editing text and images, according to people with knowl...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ios-27-features-apple-plans-to-let-users-swap-models-across-apple-intelligence",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-05/ios-27-features-apple-plans-to-let-users-swap-models-across-apple-intelligence",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T17:19:16.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI",
-        "Agent"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1778038186669-0",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - TechCrunch",
-      "summary": "The release placed a particular emphasis on context management. GPT-5.5 Instant can use its search tool to refer back to past conversations, files, an...",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "id": "news-1778124606527-7",
+      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird - WIRED",
+      "summary": "Anthropic plans to use its newfound computing power to “directly improve capacity for Claude Pro and Claude Max subscribers,” both companies said. The...",
+      "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
       "credibility": "P2",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
-      "category": "product",
+      "publishedAt": "2026-05-06T18:28:52.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-11",
-      "title": "Exxon using AI for faster analysis of Guyana's oil fields, VP of exploration says - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/energy/exxon-using-ai-faster-analysis-guyanas-oil-fields-vp-exploration-says-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/exxon-using-ai-faster-analysis-guyanas-oil-fields-vp-exploration-says-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T15:45:16.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778038186669-2",
-      "title": "Anthropic deepens finance push with 10 new AI agents for banks, insurers - Reuters",
-      "summary": "Anthropic's drive to automate enterprise work has ‌meanwhile ⁠hammered an array of financial, legal and software stocks, due to anticipation that the ...",
-      "url": "https://www.reuters.com/business/finance/anthropic-deepens-finance-push-with-10-new-ai-agents-banks-insurers-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/anthropic-deepens-finance-push-with-10-new-ai-agents-banks-insurers-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T15:01:57.000Z",
-      "category": "tech",
-      "tags": [
         "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1778038186669-3",
-      "title": "Anthropic Unveils AI Agents to Field Financial Services Tasks - Bloomberg.com",
-      "summary": "The Claude maker is releasing AI agents that it says can draft pitch decks for client meetings, review financial statements and escalate cases for com...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T15:00:18.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1778038186669-7",
-      "title": "Major publishers sue Meta for copyright infringement over AI training - Reuters",
-      "summary": "The publishers, as well as author Scott Turow, alleged in the proposed class action complaint, opens new tab that Meta pirated millions of their works...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/major-publishers-sue-meta-copyright-infringement-over-ai-training-2026-05-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/major-publishers-sue-meta-copyright-infringement-over-ai-training-2026-05-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-05T14:10:14.000Z",
-      "category": "tech",
-      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778038186669-4",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality - TechCrunch",
-      "summary": "The move follows a period of limited public activity from Krutrim, which has not made any significant product announcements in recent months, with its...",
-      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "id": "news-1778124606527-0",
+      "title": "DeepSeek could hit $45B valuation from its first investment round - TechCrunch",
+      "summary": "DeepSeek is in talks to raise its first round of venture capital and, in just a few weeks, its potential valuation has soared from $20 billion to $45 ...",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
       "credibility": "P2",
-      "publishedAt": "2026-05-05T13:18:50.000Z",
+      "publishedAt": "2026-05-06T17:20:34.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778124606527-5",
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes - WIRED",
+      "summary": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good\n\nThe cyber capabilities of AI models have experts rattled. AI’s social skills may be just a...",
+      "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T16:51:12.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778124606527-3",
+      "title": "Anthropic unveils 'dreaming' feature to help its AI agents self-improve - Reuters",
+      "summary": "# Anthropic unveils 'dreaming' feature to help its AI agents self-improve | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and ...",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T16:16:40.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1778124606527-1",
+      "title": "Anthropic’s Claude Managed Agents can now “dream,” sort of - Ars Technica",
+      "summary": "Anthropic describes dreaming as a scheduled process, in which sessions and memory stores are reviewed, and specific memories are curated. This is impo...",
+      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T16:15:27.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1778124606527-6",
+      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums - TechCrunch",
+      "summary": "Google will, at least, add more context to where its AI Overview commentary comes from, which might help users decipher if they’re getting information...",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T15:49:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778124606527-9",
+      "title": "Google’s Gemma 4 open AI models use “speculative decoding” to get up to 3x faster - Ars Technica",
+      "summary": "Gemma allows users to tinker with AI on their hardware rather than sharing all their data with a cloud AI system from Google or someone else. Google a...",
+      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T15:44:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1778124606528-12",
+      "title": "Google’s AI search summaries will now quote Reddit - The Verge",
+      "summary": "The Remarkable Paper Pure is the best digital notepad I’ve ever used\n\nIt’s time to let my iPhone Mini go\n\nApple agrees to pay iPhone owners $250 milli...",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T13:00:30.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778124606527-8",
+      "title": "AI Weekly: Anthropic's Google commitment, a French playwright revival - Reuters",
+      "summary": "'Moon is definitely getting bigger' on third day for Artemis crew April 4, 2026\n   NASA launches first crewed lunar mission in half a century April 2,...",
+      "url": "https://www.reuters.com/video/watch/idRW820206052026RP1",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW820206052026RP1",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T10:46:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778124606528-11",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round - TechCrunch",
+      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
+      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-06T06:47:12.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -200,9 +225,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
     "p2Count": 13
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
