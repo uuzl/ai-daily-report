@@ -1,65 +1,49 @@
 {
-  "date": "2026-05-07",
-  "generatedAt": "2026-05-07T03:30:06.528Z",
-  "totalItems": 14,
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T03:26:19.296Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1778124606527-4",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX - Anthropic",
-      "summary": "Finally, we recently made a commitment to cover any consumer electricity price increases caused by our data centers in the US. As part of our internat...",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/higher-limits-spacex",
-      "credibility": "P0",
-      "publishedAt": "2026-05-06T16:20:59.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1778124606527-2",
-      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX - Ars Technica",
-      "summary": "## Exploding demand amid constrained compute supply\n\nAnthropic has seen a significant increase in demand for Claude Code and other products related to...",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T22:09:14.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606528-10",
-      "title": "Is xAI a neocloud now? - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n An...",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "id": "news-1778210779295-4",
+      "title": "OpenAI launches new voice intelligence features in its API - TechCrunch",
+      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nAll of the new voice models are included in OpenAI’s Realtime API. Translate and Whisper are bi...",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
       "credibility": "P2",
-      "publishedAt": "2026-05-06T21:32:55.000Z",
-      "category": "tech",
+      "publishedAt": "2026-05-07T22:24:50.000Z",
+      "category": "product",
       "tags": [
         "OpenAI",
-        "Claude",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778124606528-13",
-      "title": "Google shuts down Project Mariner - The Verge",
-      "summary": "Screenshot: The Verge\n\nEarlier this year, Google showed off a new AI-powered feature, called “auto-browse,” that can perform multi-step tasks in Chrom...",
-      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "id": "news-1778210779295-5",
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm - TechCrunch",
+      "summary": "#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech ...",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
       "credibility": "P2",
-      "publishedAt": "2026-05-06T21:21:45.000Z",
+      "publishedAt": "2026-05-07T20:20:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-11",
+      "title": "Perplexity’s Personal Computer is now available everyone on Mac - TechCrunch",
+      "summary": "+ Ivan Mehta\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n Anthropic and OpenAI...",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T19:57:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,94 +52,14 @@
       ]
     },
     {
-      "id": "news-1778124606527-7",
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird - WIRED",
-      "summary": "Anthropic plans to use its newfound computing power to “directly improve capacity for Claude Pro and Claude Max subscribers,” both companies said. The...",
-      "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "id": "news-1778210779295-2",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster - The Verge",
+      "summary": "Live updates from Musk v. Altman\n\nOpenClaw and Claude can put your AI-generated podcasts in Spotify\n\nGoogle’s taking a big swing at AI health with the...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
       "credibility": "P2",
-      "publishedAt": "2026-05-06T18:28:52.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606527-0",
-      "title": "DeepSeek could hit $45B valuation from its first investment round - TechCrunch",
-      "summary": "DeepSeek is in talks to raise its first round of venture capital and, in just a few weeks, its potential valuation has soared from $20 billion to $45 ...",
-      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T17:20:34.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606527-5",
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes - WIRED",
-      "summary": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good\n\nThe cyber capabilities of AI models have experts rattled. AI’s social skills may be just a...",
-      "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T16:51:12.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606527-3",
-      "title": "Anthropic unveils 'dreaming' feature to help its AI agents self-improve - Reuters",
-      "summary": "# Anthropic unveils 'dreaming' feature to help its AI agents self-improve | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and ...",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T16:16:40.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1778124606527-1",
-      "title": "Anthropic’s Claude Managed Agents can now “dream,” sort of - Ars Technica",
-      "summary": "Anthropic describes dreaming as a scheduled process, in which sessions and memory stores are reviewed, and specific memories are curated. This is impo...",
-      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T16:15:27.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1778124606527-6",
-      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums - TechCrunch",
-      "summary": "Google will, at least, add more context to where its AI Overview commentary comes from, which might help users decipher if they’re getting information...",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T15:49:39.000Z",
+      "publishedAt": "2026-05-07T19:55:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -164,70 +68,177 @@
       ]
     },
     {
-      "id": "news-1778124606527-9",
-      "title": "Google’s Gemma 4 open AI models use “speculative decoding” to get up to 3x faster - Ars Technica",
-      "summary": "Gemma allows users to tinker with AI on their hardware rather than sharing all their data with a cloud AI system from Google or someone else. Google a...",
-      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T15:44:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1778124606528-12",
-      "title": "Google’s AI search summaries will now quote Reddit - The Verge",
-      "summary": "The Remarkable Paper Pure is the best digital notepad I’ve ever used\n\nIt’s time to let my iPhone Mini go\n\nApple agrees to pay iPhone owners $250 milli...",
-      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T13:00:30.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606527-8",
-      "title": "AI Weekly: Anthropic's Google commitment, a French playwright revival - Reuters",
-      "summary": "'Moon is definitely getting bigger' on third day for Artemis crew April 4, 2026\n   NASA launches first crewed lunar mission in half a century April 2,...",
-      "url": "https://www.reuters.com/video/watch/idRW820206052026RP1",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW820206052026RP1",
-      "credibility": "P2",
-      "publishedAt": "2026-05-06T10:46:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778124606528-11",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round - TechCrunch",
-      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "id": "news-1778210779295-10",
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen\n\n  + Ivan Mehta\n As workers worry abou...",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "credibility": "P2",
-      "publishedAt": "2026-05-06T06:47:12.000Z",
+      "publishedAt": "2026-05-07T19:21:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-3",
+      "title": "OpenAI unveils three audio models for real-time voice tasks - Reuters",
+      "summary": "# OpenAI unveils three audio models for real-time voice tasks | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market...",
+      "url": "https://www.reuters.com/business/media-telecom/openai-unveils-three-audio-models-real-time-voice-tasks-2026-05-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-unveils-three-audio-models-real-time-voice-tasks-2026-05-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T18:09:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-14",
+      "title": "DOJ antitrust head warns dealmakers not to mislead on AI - Reuters",
+      "summary": "# DOJ antitrust head warns dealmakers not to mislead on AI | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market pr...",
+      "url": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T18:05:25.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-7",
+      "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports - Reuters",
+      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nAdvertisement · Scro...",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T18:00:35.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI"
       ]
+    },
+    {
+      "id": "news-1778210779294-0",
+      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily' - WIRED",
+      "summary": "In the meantime, I have bad news for everyone: There might be more AI models racing to catch you when you fall. Lately, Chinese users have posted on s...",
+      "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T16:25:48.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1778210779295-9",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n El...",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T16:05:48.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-13",
+      "title": "The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI - Bloomberg.com",
+      "summary": "By Max Chafkin\n\n## Takeaways by Bloomberg AISubscribe\n\nIn January 2018, Greg Brockman, a co-founder of OpenAI, sent Elon Musk a lengthy memo about the...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T14:30:18.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-6",
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify - The Verge",
+      "summary": "> Now, we’re making it possible to save and play Personal Podcasts on Spotify. Your agent can generate a daily briefing, private to you, and it’s save...",
+      "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T14:15:40.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1778210779295-1",
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets - TechCrunch",
+      "summary": "Some of Moonshot’s rivals have even gone public on the back of demand for their AI models. Zhipu AI, which trades in Hong Kong as Knowledge Atlas Tech...",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T13:44:25.000Z",
+      "category": "hot",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778210779295-12",
+      "title": "Spotify wants to become the home for AI-generated personal audio - TechCrunch",
+      "summary": "Ivan Mehta\n\nFor the last few years, apps like Google’s NotebookLM, Hero, and lately Adobe Acrobat have given users the ability to create podcasts base...",
+      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778210779295-17",
+      "title": "Aumovio explores expansion beyond automotive, eyes defence and robotics - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/aumovio-explores-expansion-beyond-automotive-eyes-defence-robotics-2026-05-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aumovio-explores-expansion-beyond-automotive-eyes-defence-robotics-2026-05-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-07T10:06:44.000Z",
+      "category": "tech",
+      "tags": []
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
