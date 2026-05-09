@@ -1,238 +1,227 @@
 {
-  "date": "2026-05-08",
-  "generatedAt": "2026-05-08T03:26:19.296Z",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T03:25:09.529Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1778210779295-4",
-      "title": "OpenAI launches new voice intelligence features in its API - TechCrunch",
-      "summary": "San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nAll of the new voice models are included in OpenAI’s Realtime API. Translate and Whisper are bi...",
-      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T22:24:50.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-5",
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm - TechCrunch",
-      "summary": "#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech ...",
-      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T20:20:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-11",
-      "title": "Perplexity’s Personal Computer is now available everyone on Mac - TechCrunch",
-      "summary": "+ Ivan Mehta\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n Anthropic and OpenAI...",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T19:57:59.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1778210779295-2",
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster - The Verge",
-      "summary": "Live updates from Musk v. Altman\n\nOpenClaw and Claude can put your AI-generated podcasts in Spotify\n\nGoogle’s taking a big swing at AI health with the...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T19:55:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778210779295-10",
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen\n\n  + Ivan Mehta\n As workers worry abou...",
-      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T19:21:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-3",
-      "title": "OpenAI unveils three audio models for real-time voice tasks - Reuters",
-      "summary": "# OpenAI unveils three audio models for real-time voice tasks | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market...",
-      "url": "https://www.reuters.com/business/media-telecom/openai-unveils-three-audio-models-real-time-voice-tasks-2026-05-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-unveils-three-audio-models-real-time-voice-tasks-2026-05-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T18:09:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-14",
-      "title": "DOJ antitrust head warns dealmakers not to mislead on AI - Reuters",
-      "summary": "# DOJ antitrust head warns dealmakers not to mislead on AI | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market pr...",
-      "url": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T18:05:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-7",
-      "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports - Reuters",
-      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nAdvertisement · Scro...",
-      "url": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T18:00:35.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779294-0",
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily' - WIRED",
-      "summary": "In the meantime, I have bad news for everyone: There might be more AI models racing to catch you when you fall. Lately, Chinese users have posted on s...",
-      "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T16:25:48.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1778210779295-9",
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’\n\n  + Lucas Ropek\n El...",
-      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T16:05:48.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-13",
-      "title": "The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI - Bloomberg.com",
-      "summary": "By Max Chafkin\n\n## Takeaways by Bloomberg AISubscribe\n\nIn January 2018, Greg Brockman, a co-founder of OpenAI, sent Elon Musk a lengthy memo about the...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation",
+      "id": "news-1778297109529-13",
+      "title": "Momentum Trade at New Extremes Is Drawing Wall Street Warnings - Bloomberg.com",
+      "summary": "Technology\n\n# Momentum Trade at New Extremes Is Drawing Wall Street Warnings\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip?...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
       "credibility": "P2",
-      "publishedAt": "2026-05-07T14:30:18.000Z",
+      "publishedAt": "2026-05-08T20:19:34.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778210779295-6",
-      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify - The Verge",
-      "summary": "> Now, we’re making it possible to save and play Personal Podcasts on Spotify. Your agent can generate a daily briefing, private to you, and it’s save...",
-      "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T14:15:40.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI",
-        "OpenCL"
+        "benchmark"
       ]
     },
     {
-      "id": "news-1778210779295-1",
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets - TechCrunch",
-      "summary": "Some of Moonshot’s rivals have even gone public on the back of demand for their AI models. Zhipu AI, which trades in Hong Kong as Knowledge Atlas Tech...",
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "id": "news-1778297109528-7",
+      "title": "Intel’s comeback story is even wilder than it seems - TechCrunch",
+      "summary": "## Related\n\n AI\n\n  ### Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high\n\n  + Julie Bort\n Transportation\n\n  ### Porsche s...",
+      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
       "credibility": "P2",
-      "publishedAt": "2026-05-07T13:44:25.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778210779295-12",
-      "title": "Spotify wants to become the home for AI-generated personal audio - TechCrunch",
-      "summary": "Ivan Mehta\n\nFor the last few years, apps like Google’s NotebookLM, Hero, and lately Adobe Acrobat have given users the ability to create podcasts base...",
-      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "publishedAt": "2026-05-08T20:02:52.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778210779295-17",
-      "title": "Aumovio explores expansion beyond automotive, eyes defence and robotics - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/business/aumovio-explores-expansion-beyond-automotive-eyes-defence-robotics-2026-05-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aumovio-explores-expansion-beyond-automotive-eyes-defence-robotics-2026-05-07/",
+      "id": "news-1778297109529-10",
+      "title": "Google will put more links to websites in AI Overviews - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
       "credibility": "P2",
-      "publishedAt": "2026-05-07T10:06:44.000Z",
+      "publishedAt": "2026-05-08T19:43:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109528-2",
+      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai (AKAM) - Bloomberg.com",
+      "summary": "Anthropic:\n\nWhat Is Mythos?\n\nWhy It’s Risky\n\nFear and Confusion\n\nSpaceX Deal\n\nFinance Agents\n\nFunding Offers\n\nTechnology\n\nAI\n\n# Anthropic Inks $1.8 Bi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T19:35:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1778297109528-1",
+      "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports - Reuters",
+      "summary": "On Wednesday, Anthropic said ​it had reached a deal to ​tap ⁠the computing resources of Elon Musk's SpaceX, marking a rapprochement with a one-time cr...",
+      "url": "https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-2026-05-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-2026-05-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T18:52:02.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109528-6",
+      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules - The Verge",
+      "summary": "Tina Nguyen\n\nGoogle, Microsoft, and xAI will allow the US government to review their new AI models\n\nEmma Roth\n\nNew Mexico has a plan to overhaul Faceb...",
+      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T18:02:44.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109528-5",
+      "title": "Uber partner Avride is under investigation for self-driving crashes - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T17:33:46.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109529-9",
+      "title": "No, Google hasn't changed Chrome's local AI features—it's just as confusing as ever - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T17:17:17.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1778297109529-14",
+      "title": "Schools reach out to Canvas hackers as breach hits US classrooms, source says - Reuters",
+      "summary": "## Notice of Your Privacy Choices\n\nWe, together with our service providers, advertising partners, and IAB partners, use cookies and other tracking tec...",
+      "url": "https://www.reuters.com/legal/litigation/schools-reach-out-hackers-canvas-breach-hits-us-classrooms-source-says-2026-05-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/schools-reach-out-hackers-canvas-breach-hits-us-classrooms-source-says-2026-05-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T16:19:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109528-4",
+      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy - TechCrunch",
+      "summary": "You can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nView Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. H...",
+      "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109528-3",
+      "title": "Airbnb says AI now writes 60% of its new code - TechCrunch",
+      "summary": "+ Lucas Ropek\n Anthropic and OpenAI are both launching joint ventures for enterprise AI services\n\n  + Russell Brandom\n Ouster’s new color lidar is com...",
+      "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T12:49:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109529-11",
+      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand - Bloomberg.com",
+      "summary": "US prosecutors this year outlined a scheme in which Super Micro’s co-founder allegedly worked with an unnamed Southeast Asian company and a “rotating ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T07:56:32.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109529-8",
+      "title": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion, Bloomberg News reports - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/softbank-cuts-target-openai-margin-loan-by-40-6-billion-bloomberg-news-reports-2026-05-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/softbank-cuts-target-openai-margin-loan-by-40-6-billion-bloomberg-news-reports-2026-05-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T07:28:40.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778297109529-12",
+      "title": "Toyota halves quarterly profit as Iran crisis hits - Reuters",
+      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
+      "url": "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T05:08:27.000Z",
       "category": "tech",
       "tags": []
+    },
+    {
+      "id": "news-1778297109528-0",
+      "title": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports - Reuters",
+      "summary": "# Anthropic weighs fundraising for near $1 trillion valuation, FT reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and ...",
+      "url": "https://www.reuters.com/technology/anthropic-weighs-fundraising-near-1-trillion-valuation-ft-reports-2026-05-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/anthropic-weighs-fundraising-near-1-trillion-valuation-ft-reports-2026-05-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-08T04:14:25.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
     }
   ],
   "highlights": {
