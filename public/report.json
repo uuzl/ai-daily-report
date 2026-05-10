@@ -1,105 +1,144 @@
 {
-  "date": "2026-05-09",
-  "generatedAt": "2026-05-09T03:25:09.529Z",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T03:36:57.269Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1778297109529-13",
-      "title": "Momentum Trade at New Extremes Is Drawing Wall Street Warnings - Bloomberg.com",
-      "summary": "Technology\n\n# Momentum Trade at New Extremes Is Drawing Wall Street Warnings\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip?...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T20:19:34.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1778297109528-7",
-      "title": "Intel’s comeback story is even wilder than it seems - TechCrunch",
-      "summary": "## Related\n\n AI\n\n  ### Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high\n\n  + Julie Bort\n Transportation\n\n  ### Porsche s...",
-      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "id": "news-1778384217268-2",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway. - TechCrunch",
+      "summary": "Kothari said Wispr Flow sees strong repeat usage among its users, claiming roughly 70% retention after 12 months globally and in India. Moreover, the ...",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T20:02:52.000Z",
+      "publishedAt": "2026-05-10T02:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778297109529-10",
-      "title": "Google will put more links to websites in AI Overviews - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+      "id": "news-1778384217269-5",
+      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   14 hours agoRescuers locate two missing Singaporeans after Mount Dukono eruption, one Indonesian dead , op...",
+      "url": "https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T19:43:47.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109528-2",
-      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai (AKAM) - Bloomberg.com",
-      "summary": "Anthropic:\n\nWhat Is Mythos?\n\nWhy It’s Risky\n\nFear and Confusion\n\nSpaceX Deal\n\nFinance Agents\n\nFunding Offers\n\nTechnology\n\nAI\n\n# Anthropic Inks $1.8 Bi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T19:35:22.000Z",
-      "category": "tech",
+      "publishedAt": "2026-05-10T01:43:58.000Z",
+      "category": "product",
       "tags": [
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1778297109528-1",
-      "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports - Reuters",
-      "summary": "On Wednesday, Anthropic said ​it had reached a deal to ​tap ⁠the computing resources of Elon Musk's SpaceX, marking a rapprochement with a one-time cr...",
-      "url": "https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-2026-05-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-2026-05-08/",
+      "id": "news-1778384217268-0",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
+      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T18:52:02.000Z",
+      "publishedAt": "2026-05-09T21:45:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109528-6",
-      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules - The Verge",
-      "summary": "Tina Nguyen\n\nGoogle, Microsoft, and xAI will allow the US government to review their new AI models\n\nEmma Roth\n\nNew Mexico has a plan to overhaul Faceb...",
-      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T18:02:44.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
+        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778297109528-5",
-      "title": "Uber partner Avride is under investigation for self-driving crashes - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+      "id": "news-1778384217269-13",
+      "title": "Knicks F OG Anunoby upgraded to questionable for Game 4 - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sports/knicks-f-og-anunoby-upgraded-questionable-game-4--flm-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/knicks-f-og-anunoby-upgraded-questionable-game-4--flm-2026-05-09/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T17:33:46.000Z",
+      "publishedAt": "2026-05-09T21:09:14.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-10",
+      "title": "At least 69 killed in militia attack in Congo, AFP reports - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/africa/least-69-killed-militia-attack-congo-afp-reports-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/least-69-killed-militia-attack-congo-afp-reports-2026-05-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T20:35:22.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1778384217269-4",
+      "title": "Fintech startup Parker files for bankruptcy - TechCrunch",
+      "summary": "+ Connie Loizos\n Hackers deface school login pages after claiming another Instructure hack\n\n  + Lorenzo Franceschi-Bicchierai\n  + Zack Whittaker\n Hack...",
+      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T20:32:17.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-6",
+      "title": "Pentagon's UFO files show no strong evidence of aliens, analyst says - Reuters",
+      "summary": "### Image 11: What happens after the hantavirus-hit cruise ship docks in Spain? 02:10 What happens after the hantavirus-hit cruise ship docks in Spain...",
+      "url": "https://www.reuters.com/video/watch/idRW904808052026RP1/?chan=health",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW904808052026RP1/?chan=health",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T18:40:08.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-7",
+      "title": "Business Lookahead: Trump on Tour - Reuters",
+      "summary": "Adidas shares rise after 'supershoe' helps seal sub-two hour marathon win April 27, 2026\n   Kenya's Sawe shatters elusive two-hour marathon barrier Ap...",
+      "url": "https://www.reuters.com/video/watch/idRW907208052026RP1/?chan=business",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW907208052026RP1/?chan=business",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T16:53:03.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-9",
+      "title": "UK nationals on hantavirus-hit cruise ship to isolate in hospital on return - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/uk-nationals-hantavirus-hit-cruise-ship-isolate-hospital-return-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/uk-nationals-hantavirus-hit-cruise-ship-isolate-hospital-return-2026-05-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T15:37:56.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217268-1",
+      "title": "Nvidia has already committed $40B to equity AI deals this year - TechCrunch",
+      "summary": "The fact that Nvidia has been investing in some of its own customers has led to the recurring criticism that these are circular deals moving money bac...",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T14:43:30.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -107,14 +146,57 @@
       ]
     },
     {
-      "id": "news-1778297109529-9",
-      "title": "No, Google hasn't changed Chrome's local AI features—it's just as confusing as ever - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "id": "news-1778384217269-15",
+      "title": "Magyar sworn in as Hungary's prime minister on promises of change - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-promises-change-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-promises-change-2026-05-09/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T17:17:17.000Z",
+      "publishedAt": "2026-05-09T13:10:57.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-8",
+      "title": "Magyar sworn in as Hungary's prime minister - Reuters",
+      "summary": "2 hours agoChina categoryMore than 300 foreigners arrested in Jakarta raid on online gambling operation , opens new tab [...] 1 hour agoWorld category...",
+      "url": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-2026-05-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T12:44:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217268-3",
+      "title": "RGB LED TVs show color crosstalk issues in Display Week demo - The Verge",
+      "summary": "Let it snow\n\nMicrosoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure\n\nThe future of game consoles is looking bleak\n\nThese great dig...",
+      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778384217269-12",
+      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit - Reuters",
+      "summary": "Reporting by Joe Cash in London and Lewis Jackson and Tina Qiao in Beijing; Editing by Kim Coghill\n\nOur Standards: The Thomson Reuters Trust Principle...",
+      "url": "https://www.reuters.com/world/china/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-trump-visit-2026-05-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-trump-visit-2026-05-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-09T07:28:16.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -122,104 +204,16 @@
       ]
     },
     {
-      "id": "news-1778297109529-14",
-      "title": "Schools reach out to Canvas hackers as breach hits US classrooms, source says - Reuters",
-      "summary": "## Notice of Your Privacy Choices\n\nWe, together with our service providers, advertising partners, and IAB partners, use cookies and other tracking tec...",
-      "url": "https://www.reuters.com/legal/litigation/schools-reach-out-hackers-canvas-breach-hits-us-classrooms-source-says-2026-05-08/",
+      "id": "news-1778384217269-14",
+      "title": "Victor Wembanyama, Spurs start fast, hold off Wolves in Game 3 - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/victor-wembanyama-spurs-start-fast-hold-off-wolves-game-3--flm-2026-05-09/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/schools-reach-out-hackers-canvas-breach-hits-us-classrooms-source-says-2026-05-08/",
+      "sourceUrl": "https://www.reuters.com/sports/victor-wembanyama-spurs-start-fast-hold-off-wolves-game-3--flm-2026-05-09/",
       "credibility": "P2",
-      "publishedAt": "2026-05-08T16:19:16.000Z",
+      "publishedAt": "2026-05-09T06:39:45.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109528-4",
-      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy - TechCrunch",
-      "summary": "You can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nView Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. H...",
-      "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109528-3",
-      "title": "Airbnb says AI now writes 60% of its new code - TechCrunch",
-      "summary": "+ Lucas Ropek\n Anthropic and OpenAI are both launching joint ventures for enterprise AI services\n\n  + Russell Brandom\n Ouster’s new color lidar is com...",
-      "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T12:49:16.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109529-11",
-      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand - Bloomberg.com",
-      "summary": "US prosecutors this year outlined a scheme in which Super Micro’s co-founder allegedly worked with an unnamed Southeast Asian company and a “rotating ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T07:56:32.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109529-8",
-      "title": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion, Bloomberg News reports - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/softbank-cuts-target-openai-margin-loan-by-40-6-billion-bloomberg-news-reports-2026-05-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/softbank-cuts-target-openai-margin-loan-by-40-6-billion-bloomberg-news-reports-2026-05-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T07:28:40.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778297109529-12",
-      "title": "Toyota halves quarterly profit as Iran crisis hits - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T05:08:27.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1778297109528-0",
-      "title": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports - Reuters",
-      "summary": "# Anthropic weighs fundraising for near $1 trillion valuation, FT reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and ...",
-      "url": "https://www.reuters.com/technology/anthropic-weighs-fundraising-near-1-trillion-valuation-ft-reports-2026-05-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/anthropic-weighs-fundraising-near-1-trillion-valuation-ft-reports-2026-05-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-08T04:14:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     }
