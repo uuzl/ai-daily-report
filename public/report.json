@@ -1,202 +1,188 @@
 {
-  "date": "2026-05-10",
-  "generatedAt": "2026-05-10T03:36:57.269Z",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T03:51:07.791Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1778384217268-2",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway. - TechCrunch",
-      "summary": "Kothari said Wispr Flow sees strong repeat usage among its users, claiming roughly 70% retention after 12 months globally and in India. Moreover, the ...",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "id": "news-1778471467790-10",
+      "title": "One US citizen tests mildly positive for hantavirus, another has mild symptoms - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-us-citizen-tests-mildly-positive-hantavirus-another-has-mild-symptoms-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-us-citizen-tests-mildly-positive-hantavirus-another-has-mild-symptoms-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T02:00:00.000Z",
+      "publishedAt": "2026-05-11T02:18:19.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778384217269-5",
-      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   14 hours agoRescuers locate two missing Singaporeans after Mount Dukono eruption, one Indonesian dead , op...",
-      "url": "https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/",
+      "id": "news-1778471467790-12",
+      "title": "China April producer inflation surges to 45-month high - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T01:43:58.000Z",
-      "category": "product",
+      "publishedAt": "2026-05-11T01:46:46.000Z",
+      "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-8",
+      "title": "UK jobs market cools as Iran war hits outlook, REC survey shows - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/world-at-work/uk-jobs-market-cools-iran-war-hits-outlook-rec-survey-shows-2026-05-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/uk-jobs-market-cools-iran-war-hits-outlook-rec-survey-shows-2026-05-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T23:03:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-6",
+      "title": "Share futures ease, dollar gains as Gulf talks teeter - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-05-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-05-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T22:57:46.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-14",
+      "title": "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
+      "summary": "Reporting by ​Christoph Steitz and Tom Kaeckenhoff; Editing by Ros Russell\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Su...",
+      "url": "https://www.reuters.com/business/world-at-work/ig-metall-union-criticises-thyssenkrupp-plan-spin-off-mx-unit-2026-05-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/ig-metall-union-criticises-thyssenkrupp-plan-spin-off-mx-unit-2026-05-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T22:07:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-4",
+      "title": "Exclusive: Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​ - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/legal/transactional/cerebras-raise-ipo-price-range-150-160-demand-surges-sources-say-2026-05-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/cerebras-raise-ipo-price-range-150-160-demand-surges-sources-say-2026-05-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T21:39:54.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-1",
+      "title": "Get ready for the whisper-filled office of the future - TechCrunch",
+      "summary": "+ Anthony Ha\n AI\n\n  ### We’re feeling cynical about xAI’s big deal with Anthropic\n\n  + Anthony Ha [...] May 27\n\nAthens, Greece\n\nStrictlyVC Athens is u...",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T21:15:30.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-0",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
+      "summary": "Last year, the company said that during pre-release tests involving a fictional company, Claude Opus 4 would often try to blackmail engineers to avoid...",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T20:40:41.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1778384217268-0",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
-      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "id": "news-1778471467790-11",
+      "title": "'We all can unite': New York's Japan Parade celebrates cultural ties - Reuters",
+      "summary": "Load More Categories\n\n   1 hour agoShare futures wobble, dollar gains as Gulf talks teeter , opens new tab\n\n### Stay Informed\n\n   Download the App (iO...",
+      "url": "https://www.reuters.com/video/watch/idRW938210052026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW938210052026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T21:45:00.000Z",
+      "publishedAt": "2026-05-10T19:47:08.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778384217269-13",
-      "title": "Knicks F OG Anunoby upgraded to questionable for Game 4 - Reuters",
+      "id": "news-1778471467790-16",
+      "title": "One of repatriated French passengers from hantavirus-hit ship has symptoms, PM says - Reuters",
       "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/knicks-f-og-anunoby-upgraded-questionable-game-4--flm-2026-05-09/",
+      "url": "https://www.reuters.com/world/europe/one-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/knicks-f-og-anunoby-upgraded-questionable-game-4--flm-2026-05-09/",
+      "sourceUrl": "https://www.reuters.com/world/europe/one-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10/",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T21:09:14.000Z",
+      "publishedAt": "2026-05-10T16:30:39.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778384217269-10",
-      "title": "At least 69 killed in militia attack in Congo, AFP reports - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/africa/least-69-killed-militia-attack-congo-afp-reports-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/africa/least-69-killed-militia-attack-congo-afp-reports-2026-05-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T20:35:22.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1778384217269-4",
-      "title": "Fintech startup Parker files for bankruptcy - TechCrunch",
-      "summary": "+ Connie Loizos\n Hackers deface school login pages after claiming another Instructure hack\n\n  + Lorenzo Franceschi-Bicchierai\n  + Zack Whittaker\n Hack...",
-      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "id": "news-1778471467790-3",
+      "title": "TechCrunch Mobility: Lime’s IPO gamble - TechCrunch",
+      "summary": "### This Week Only: Buy one pass, get the second at 50% off\n\n#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrun...",
+      "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T20:32:17.000Z",
+      "publishedAt": "2026-05-10T16:05:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778384217269-6",
-      "title": "Pentagon's UFO files show no strong evidence of aliens, analyst says - Reuters",
-      "summary": "### Image 11: What happens after the hantavirus-hit cruise ship docks in Spain? 02:10 What happens after the hantavirus-hit cruise ship docks in Spain...",
-      "url": "https://www.reuters.com/video/watch/idRW904808052026RP1/?chan=health",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW904808052026RP1/?chan=health",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T18:40:08.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217269-7",
-      "title": "Business Lookahead: Trump on Tour - Reuters",
-      "summary": "Adidas shares rise after 'supershoe' helps seal sub-two hour marathon win April 27, 2026\n   Kenya's Sawe shatters elusive two-hour marathon barrier Ap...",
-      "url": "https://www.reuters.com/video/watch/idRW907208052026RP1/?chan=business",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW907208052026RP1/?chan=business",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T16:53:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217269-9",
-      "title": "UK nationals on hantavirus-hit cruise ship to isolate in hospital on return - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/uk-nationals-hantavirus-hit-cruise-ship-isolate-hospital-return-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/uk-nationals-hantavirus-hit-cruise-ship-isolate-hospital-return-2026-05-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T15:37:56.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217268-1",
-      "title": "Nvidia has already committed $40B to equity AI deals this year - TechCrunch",
-      "summary": "The fact that Nvidia has been investing in some of its own customers has led to the recurring criticism that these are circular deals moving money bac...",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "id": "news-1778471467790-2",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic - TechCrunch",
+      "summary": "Basically, the real version of the deal is that Anthropic’s essentially taking over all of the compute at the data center known as Colossus 1 in Memph...",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T14:43:30.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217269-15",
-      "title": "Magyar sworn in as Hungary's prime minister on promises of change - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-promises-change-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-promises-change-2026-05-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T13:10:57.000Z",
+      "publishedAt": "2026-05-10T15:34:25.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778384217269-8",
-      "title": "Magyar sworn in as Hungary's prime minister - Reuters",
-      "summary": "2 hours agoChina categoryMore than 300 foreigners arrested in Jakarta raid on online gambling operation , opens new tab [...] 1 hour agoWorld category...",
-      "url": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/magyar-sworn-hungarys-prime-minister-2026-05-09/",
+      "id": "news-1778471467790-5",
+      "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
+      "summary": "by Drake Bennett and Will WadeFor a Dying Sport, Bowling Is Wildly Popular\n\nby David Dudley\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nN...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T12:44:07.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217268-3",
-      "title": "RGB LED TVs show color crosstalk issues in Display Week demo - The Verge",
-      "summary": "Let it snow\n\nMicrosoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure\n\nThe future of game consoles is looking bleak\n\nThese great dig...",
-      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778384217269-12",
-      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit - Reuters",
-      "summary": "Reporting by Joe Cash in London and Lewis Jackson and Tina Qiao in Beijing; Editing by Kim Coghill\n\nOur Standards: The Thomson Reuters Trust Principle...",
-      "url": "https://www.reuters.com/world/china/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-trump-visit-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-trump-visit-2026-05-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-09T07:28:16.000Z",
+      "publishedAt": "2026-05-10T14:00:01.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -204,15 +190,29 @@
       ]
     },
     {
-      "id": "news-1778384217269-14",
-      "title": "Victor Wembanyama, Spurs start fast, hold off Wolves in Game 3 - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/victor-wembanyama-spurs-start-fast-hold-off-wolves-game-3--flm-2026-05-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/victor-wembanyama-spurs-start-fast-hold-off-wolves-game-3--flm-2026-05-09/",
+      "id": "news-1778471467790-17",
+      "title": "Microsoft’s African Data Center Falters on Payment Demands - Bloomberg.com",
+      "summary": "Technology\n\n# Microsoft’s African Data Center Falters on Payment Demands\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip?\n\nSe...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/microsoft-s-african-data-center-falters-on-payment-demands",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-10/microsoft-s-african-data-center-falters-on-payment-demands",
       "credibility": "P2",
-      "publishedAt": "2026-05-09T06:39:45.000Z",
+      "publishedAt": "2026-05-10T13:05:48.000Z",
       "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778471467790-15",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock - TechCrunch",
+      "summary": "Dominic-Madori Davis\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in N...",
+      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-10T13:05:00.000Z",
+      "category": "hot",
       "tags": [
         "AI"
       ]
