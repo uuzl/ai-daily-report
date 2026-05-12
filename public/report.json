@@ -1,188 +1,143 @@
 {
-  "date": "2026-05-11",
-  "generatedAt": "2026-05-11T03:51:07.791Z",
-  "totalItems": 15,
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T03:34:31.536Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1778471467790-10",
-      "title": "One US citizen tests mildly positive for hantavirus, another has mild symptoms - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-us-citizen-tests-mildly-positive-hantavirus-another-has-mild-symptoms-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-us-citizen-tests-mildly-positive-hantavirus-another-has-mild-symptoms-2026-05-11/",
+      "id": "news-1778556871535-1",
+      "title": "OpenAI just released its answer to Claude Mythos - The Verge",
+      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Logitech’s tiny folding mouse improves upon the laptop trackpad\n2. Forza Horizon 6 has been leaked...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T02:18:19.000Z",
-      "category": "tech",
+      "publishedAt": "2026-05-11T23:05:01.000Z",
+      "category": "product",
       "tags": [
-        "AI"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1778471467790-12",
-      "title": "China April producer inflation surges to 45-month high - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/",
+      "id": "news-1778556871535-2",
+      "title": "Here’s what Mira Murati’s AI company is up to - The Verge",
+      "summary": "## Top Stories\n\nWho is the Palantir chore coat for?\n\nJoanna Stern is not a robot, but she lived with them﻿\n\nTexas sues Netflix for advertising ‘bait a...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T01:46:46.000Z",
+      "publishedAt": "2026-05-11T22:19:15.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-8",
-      "title": "UK jobs market cools as Iran war hits outlook, REC survey shows - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/business/world-at-work/uk-jobs-market-cools-iran-war-hits-outlook-rec-survey-shows-2026-05-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/uk-jobs-market-cools-iran-war-hits-outlook-rec-survey-shows-2026-05-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T23:03:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-6",
-      "title": "Share futures ease, dollar gains as Gulf talks teeter - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-05-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-05-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T22:57:46.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-14",
-      "title": "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
-      "summary": "Reporting by ​Christoph Steitz and Tom Kaeckenhoff; Editing by Ros Russell\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Su...",
-      "url": "https://www.reuters.com/business/world-at-work/ig-metall-union-criticises-thyssenkrupp-plan-spin-off-mx-unit-2026-05-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/ig-metall-union-criticises-thyssenkrupp-plan-spin-off-mx-unit-2026-05-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T22:07:49.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-4",
-      "title": "Exclusive: Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​ - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/legal/transactional/cerebras-raise-ipo-price-range-150-160-demand-surges-sources-say-2026-05-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/cerebras-raise-ipo-price-range-150-160-demand-surges-sources-say-2026-05-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T21:39:54.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-1",
-      "title": "Get ready for the whisper-filled office of the future - TechCrunch",
-      "summary": "+ Anthony Ha\n AI\n\n  ### We’re feeling cynical about xAI’s big deal with Anthropic\n\n  + Anthony Ha [...] May 27\n\nAthens, Greece\n\nStrictlyVC Athens is u...",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T21:15:30.000Z",
-      "category": "tech",
-      "tags": [
+        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778471467790-0",
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
-      "summary": "Last year, the company said that during pre-release tests involving a fictional company, Claude Opus 4 would often try to blackmail engineers to avoid...",
-      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "id": "news-1778556871535-7",
+      "title": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm - Reuters",
+      "summary": "## SUTSKEVER CONFIRMS 2023 OPENAI-ANTHROPIC MERGER TALKS\n\nSutskever disclosed on Monday that his ownership stake ​in OpenAI was worth about $5 ​billio...",
+      "url": "https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T20:40:41.000Z",
+      "publishedAt": "2026-05-11T19:49:48.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
-        "AI",
-        "Agent"
+        "GPT"
       ]
     },
     {
-      "id": "news-1778471467790-11",
-      "title": "'We all can unite': New York's Japan Parade celebrates cultural ties - Reuters",
-      "summary": "Load More Categories\n\n   1 hour agoShare futures wobble, dollar gains as Gulf talks teeter , opens new tab\n\n### Stay Informed\n\n   Download the App (iO...",
-      "url": "https://www.reuters.com/video/watch/idRW938210052026RP1/",
+      "id": "news-1778556871535-10",
+      "title": "Microsoft, Google, xAI security test details deleted from US government website - Reuters",
+      "summary": "Concern is growing in the U.S. government over the national security risks posed by ​powerful AI ​systems, including ⁠Anthropic's Mythos. By securing ...",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-google-xai-security-test-details-deleted-us-government-website-2026-05-11/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW938210052026RP1/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/microsoft-google-xai-security-test-details-deleted-us-government-website-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T19:47:08.000Z",
+      "publishedAt": "2026-05-11T19:38:06.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778471467790-16",
-      "title": "One of repatriated French passengers from hantavirus-hit ship has symptoms, PM says - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/europe/one-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/europe/one-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T16:30:39.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-3",
-      "title": "TechCrunch Mobility: Lime’s IPO gamble - TechCrunch",
-      "summary": "### This Week Only: Buy one pass, get the second at 50% off\n\n#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrun...",
-      "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T16:05:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-2",
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic - TechCrunch",
-      "summary": "Basically, the real version of the deal is that Anthropic’s essentially taking over all of the compute at the data center known as Colossus 1 in Memph...",
-      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-10T15:34:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778471467790-5",
-      "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
-      "summary": "by Drake Bennett and Will WadeFor a Dying Sport, Bowling Is Wildly Popular\n\nby David Dudley\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nN...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
+      "id": "news-1778556871535-8",
+      "title": "Ilya Sutskever Says His OpenAI Stake Worth About $7 Billion - Bloomberg.com",
+      "summary": "Musk vs. Altman Trial:\n\nReputational Risk\n\nJury\n\nJudge’s Social Media Warning\n\nTech’s Biggest Feud\n\nTechnology\n\nAI\n\n# Sutskever Says His OpenAI Stake ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T14:00:01.000Z",
+      "publishedAt": "2026-05-11T19:04:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778556871535-9",
+      "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
+      "summary": "OpenAI has said it trains its models ​to refuse requests ⁠that could \"meaningfully enable violence,\" and notifies law enforcement when conversations s...",
+      "url": "https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T16:42:24.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778556871535-4",
+      "title": "Google stopped a zero-day hack that it says was developed with AI - The Verge",
+      "summary": "Google’s researchers found hints in the Python script used for the exploit that indicated help from AI, like a “hallucinated CVSS score” and “structur...",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T16:09:42.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1778556871535-6",
+      "title": "OpenAI to Buy Consulting Firm for Private Equity Joint Venture - Bloomberg.com",
+      "summary": "OpenAI:\n\nGrowth Fears\n\nAmazon Deal\n\nMythos Competition\n\n$852 Billion Valuation\n\nPentagon Deal\n\nDeepSeek Rivalry\n\nTechnology\n\nAI\n\n# OpenAI to Buy Consu...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T13:23:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1778556871535-12",
+      "title": "Stock market concentration - a feature, not a bug - Reuters",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n\nOpinions expressed are those of the author. They do not reflect the views of Reuters News, which, under ...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/stock-market-concentration-feature-not-bug-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/stock-market-concentration-feature-not-bug-2026-05-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T13:09:23.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -190,30 +145,77 @@
       ]
     },
     {
-      "id": "news-1778471467790-17",
-      "title": "Microsoft’s African Data Center Falters on Payment Demands - Bloomberg.com",
-      "summary": "Technology\n\n# Microsoft’s African Data Center Falters on Payment Demands\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip?\n\nSe...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-10/microsoft-s-african-data-center-falters-on-payment-demands",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-10/microsoft-s-african-data-center-falters-on-payment-demands",
+      "id": "news-1778556871535-13",
+      "title": "Hackers pushing innovation in AI-enabled hacking operations, Google says - Reuters",
+      "summary": "# Hackers pushing innovation in AI-enabled hacking operations, Google says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and...",
+      "url": "https://www.reuters.com/legal/litigation/hackers-pushing-innovation-ai-enabled-hacking-operations-google-says-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/hackers-pushing-innovation-ai-enabled-hacking-operations-google-says-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T13:05:48.000Z",
+      "publishedAt": "2026-05-11T13:04:15.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778471467790-15",
-      "title": "The hottest place for startups to strike a deal? The F1 paddock - TechCrunch",
-      "summary": "Dominic-Madori Davis\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in N...",
-      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "id": "news-1778556871535-0",
+      "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
+      "url": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
       "credibility": "P2",
-      "publishedAt": "2026-05-10T13:05:00.000Z",
-      "category": "hot",
+      "publishedAt": "2026-05-11T13:01:11.000Z",
+      "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778556871535-11",
+      "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push - Reuters",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n   Finance & Banking\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   19 mins agoLe...",
+      "url": "https://www.reuters.com/business/finance/alphabet-considers-first-yen-bond-sale-fund-ai-goals-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/alphabet-considers-first-yen-bond-sale-fund-ai-goals-2026-05-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T11:27:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778556871535-3",
+      "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T10:49:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778556871535-5",
+      "title": "AI labs should pass safety review to get US government contracts, group says - Reuters",
+      "summary": "# AI labs should pass safety review to get US government contracts, group says | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for...",
+      "url": "https://www.reuters.com/legal/litigation/ai-labs-should-pass-safety-review-get-us-government-contracts-group-says-2026-05-11/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-labs-should-pass-safety-review-get-us-government-contracts-group-says-2026-05-11/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-11T10:04:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI"
       ]
     }
@@ -221,7 +223,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
