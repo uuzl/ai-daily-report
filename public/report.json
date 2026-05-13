@@ -1,229 +1,193 @@
 {
-  "date": "2026-05-12",
-  "generatedAt": "2026-05-12T03:34:31.536Z",
-  "totalItems": 14,
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T03:42:04.988Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1778556871535-1",
-      "title": "OpenAI just released its answer to Claude Mythos - The Verge",
-      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Logitech’s tiny folding mouse improves upon the laptop trackpad\n2. Forza Horizon 6 has been leaked...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "id": "news-1778643724987-5",
+      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says - Ars Technica",
+      "summary": "OpenAI does not seem to accept that ChatGPT is responsible for Nelson’s death. In a statement provided to Ars, their spokesperson, Drew Pusateri, desc...",
+      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T23:05:01.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778556871535-2",
-      "title": "Here’s what Mira Murati’s AI company is up to - The Verge",
-      "summary": "## Top Stories\n\nWho is the Palantir chore coat for?\n\nJoanna Stern is not a robot, but she lived with them﻿\n\nTexas sues Netflix for advertising ‘bait a...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T22:19:15.000Z",
+      "publishedAt": "2026-05-12T19:00:25.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778556871535-7",
-      "title": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm - Reuters",
-      "summary": "## SUTSKEVER CONFIRMS 2023 OPENAI-ANTHROPIC MERGER TALKS\n\nSutskever disclosed on Monday that his ownership stake ​in OpenAI was worth about $5 ​billio...",
-      "url": "https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/",
+      "id": "news-1778643724988-9",
+      "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots - Reuters",
+      "summary": "Regulatory news website MLex was the first to report on Meta's ​move.\n\nReporting by Foo Yun Chee in Brussels; Editing by Nia Williams and Matthew Lewi...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-offers-rival-ai-chatbots-free-access-whatsapp-month-2026-05-12/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/",
+      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-offers-rival-ai-chatbots-free-access-whatsapp-month-2026-05-12/",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T19:49:48.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778556871535-10",
-      "title": "Microsoft, Google, xAI security test details deleted from US government website - Reuters",
-      "summary": "Concern is growing in the U.S. government over the national security risks posed by ​powerful AI ​systems, including ⁠Anthropic's Mythos. By securing ...",
-      "url": "https://www.reuters.com/legal/litigation/microsoft-google-xai-security-test-details-deleted-us-government-website-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/microsoft-google-xai-security-test-details-deleted-us-government-website-2026-05-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T19:38:06.000Z",
+      "publishedAt": "2026-05-12T18:43:55.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778556871535-8",
-      "title": "Ilya Sutskever Says His OpenAI Stake Worth About $7 Billion - Bloomberg.com",
-      "summary": "Musk vs. Altman Trial:\n\nReputational Risk\n\nJury\n\nJudge’s Social Media Warning\n\nTech’s Biggest Feud\n\nTechnology\n\nAI\n\n# Sutskever Says His OpenAI Stake ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
+      "id": "news-1778643724987-1",
+      "title": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose - Reuters",
+      "summary": "The lawsuit is ​the latest wrongful death action to be brought against an AI company and comes a little more than a day after the family of a man kill...",
+      "url": "https://www.reuters.com/legal/litigation/openai-faces-lawsuit-california-court-claiming-chatbot-gave-advice-that-led-2026-05-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-faces-lawsuit-california-court-claiming-chatbot-gave-advice-that-led-2026-05-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-12T18:01:24.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778643724987-6",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares - TechCrunch",
+      "summary": "The update comes alongside a rise in the number of investment platforms offering exposure to AI companies’ shares (and thus their growth) via secondar...",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-12T17:36:34.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778643724987-0",
+      "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-expands-claudes-ai-tools-law-firms-lawyers-2026-05-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-expands-claudes-ai-tools-law-firms-lawyers-2026-05-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-12T17:02:01.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778643724988-10",
+      "title": "Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com",
+      "summary": "The Android updates, announced Tuesday in addition to a new “Googlebook” laptop platform, include advancedcapabilities for the company’s Gemini AI ass...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T19:04:00.000Z",
+      "publishedAt": "2026-05-12T17:00:07.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778556871535-9",
-      "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
-      "summary": "OpenAI has said it trains its models ​to refuse requests ⁠that could \"meaningfully enable violence,\" and notifies law enforcement when conversations s...",
-      "url": "https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/family-florida-mass-shooting-victim-sues-openai-us-court-2026-05-11/",
+      "id": "news-1778643724987-2",
+      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action. - TechCrunch",
+      "summary": "Anthropic is also offering a number of model context protocol connectors. MCPs connect specific data sources and third-party systems to AI models, all...",
+      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T16:42:24.000Z",
+      "publishedAt": "2026-05-12T17:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778556871535-4",
-      "title": "Google stopped a zero-day hack that it says was developed with AI - The Verge",
-      "summary": "Google’s researchers found hints in the Python script used for the exploit that indicated help from AI, like a “hallucinated CVSS score” and “structur...",
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "id": "news-1778643724988-8",
+      "title": "Threads tests a Meta AI integration that works similarly to Grok - TechCrunch",
+      "summary": "+ Connie Loizos\n reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen\n\n  + Ivan Mehta\n\nLoading the next article\n\nError load...",
+      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-12T16:34:36.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778643724987-3",
+      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs - The Verge",
+      "summary": "Several other wrongful death lawsuits filed against OpenAI mention GPT-4o, which OpenAI has since removed from its roster of models. Last April, OpenA...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T16:09:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1778556871535-6",
-      "title": "OpenAI to Buy Consulting Firm for Private Equity Joint Venture - Bloomberg.com",
-      "summary": "OpenAI:\n\nGrowth Fears\n\nAmazon Deal\n\nMythos Competition\n\n$852 Billion Valuation\n\nPentagon Deal\n\nDeepSeek Rivalry\n\nTechnology\n\nAI\n\n# OpenAI to Buy Consu...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T13:23:04.000Z",
+      "publishedAt": "2026-05-12T16:30:33.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "DeepSeek"
+        "AI"
       ]
     },
     {
-      "id": "news-1778556871535-12",
-      "title": "Stock market concentration - a feature, not a bug - Reuters",
-      "summary": "Suggested Topics:\n   Artificial Intelligence\n\nOpinions expressed are those of the author. They do not reflect the views of Reuters News, which, under ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/stock-market-concentration-feature-not-bug-2026-05-11/",
+      "id": "news-1778643724987-4",
+      "title": "Anthropic's Mythos sends US banks rushing to plug cyber holes - Reuters",
+      "summary": "Anthropic, however, has said it would provide $100 million worth of credits to Glasswing partners and other Mythos customers, saying this would \"cover...",
+      "url": "https://www.reuters.com/business/finance/anthropics-mythos-sends-us-banks-rushing-plug-cyber-holes-2026-05-12/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/stock-market-concentration-feature-not-bug-2026-05-11/",
+      "sourceUrl": "https://www.reuters.com/business/finance/anthropics-mythos-sends-us-banks-rushing-plug-cyber-holes-2026-05-12/",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T13:09:23.000Z",
+      "publishedAt": "2026-05-12T15:20:42.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1778556871535-13",
-      "title": "Hackers pushing innovation in AI-enabled hacking operations, Google says - Reuters",
-      "summary": "# Hackers pushing innovation in AI-enabled hacking operations, Google says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and...",
-      "url": "https://www.reuters.com/legal/litigation/hackers-pushing-innovation-ai-enabled-hacking-operations-google-says-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/hackers-pushing-innovation-ai-enabled-hacking-operations-google-says-2026-05-11/",
+      "id": "news-1778643724988-11",
+      "title": "CME to Create Futures Market for Computing Power Backing AI - Bloomberg.com",
+      "summary": "Industries\n\nTechnology\n\n# CME to Create Futures Market for Computing Power Backing AI\n\nLarry Fink Says Futures of Compute Will Be New Asset Class\n\nVid...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T13:04:15.000Z",
+      "publishedAt": "2026-05-12T13:54:24.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778556871535-0",
-      "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
-      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
-      "url": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
+      "id": "news-1778643724987-7",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
+      "summary": "The technical term for this is “full duplex,” and the company claims its model, TML-Interaction-Small, responds in 0.40 seconds, which is roughly the ...",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
       "credibility": "P2",
-      "publishedAt": "2026-05-11T13:01:11.000Z",
+      "publishedAt": "2026-05-12T04:52:35.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778556871535-11",
-      "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push - Reuters",
-      "summary": "Suggested Topics:\n   Artificial Intelligence\n   Finance & Banking\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   19 mins agoLe...",
-      "url": "https://www.reuters.com/business/finance/alphabet-considers-first-yen-bond-sale-fund-ai-goals-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/alphabet-considers-first-yen-bond-sale-fund-ai-goals-2026-05-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T11:27:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778556871535-3",
-      "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T10:49:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778556871535-5",
-      "title": "AI labs should pass safety review to get US government contracts, group says - Reuters",
-      "summary": "# AI labs should pass safety review to get US government contracts, group says | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for...",
-      "url": "https://www.reuters.com/legal/litigation/ai-labs-should-pass-safety-review-get-us-government-contracts-group-says-2026-05-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-labs-should-pass-safety-review-get-us-government-contracts-group-says-2026-05-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-11T10:04:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
+        "AI",
+        "benchmark"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 12
   },
   "summary": ""
 }
