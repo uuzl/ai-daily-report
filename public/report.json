@@ -1,186 +1,186 @@
 {
-  "date": "2026-05-13",
-  "generatedAt": "2026-05-13T03:42:04.988Z",
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T03:41:21.638Z",
   "totalItems": 12,
   "items": [
     {
-      "id": "news-1778643724987-5",
-      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says - Ars Technica",
-      "summary": "OpenAI does not seem to accept that ChatGPT is responsible for Nelson’s death. In a statement provided to Ars, their spokesperson, Drew Pusateri, desc...",
-      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "id": "news-1778730081637-0",
+      "title": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are - TechCrunch",
+      "summary": "The company may soon pull ahead of its main competitor, as it looks to raise tens of billions of dollars in a funding round that would put its valuati...",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
       "credibility": "P2",
-      "publishedAt": "2026-05-12T19:00:25.000Z",
+      "publishedAt": "2026-05-13T19:28:06.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1778643724988-9",
-      "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots - Reuters",
-      "summary": "Regulatory news website MLex was the first to report on Meta's ​move.\n\nReporting by Foo Yun Chee in Brussels; Editing by Nia Williams and Matthew Lewi...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-offers-rival-ai-chatbots-free-access-whatsapp-month-2026-05-12/",
+      "id": "news-1778730081638-4",
+      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows - Reuters",
+      "summary": "All quotes delayed a minimum of 15 minutes. See here for a list of exchanges and delays.\n\n   Cookies, opens new tab\n   Terms & Conditions\n   Privacy, ...",
+      "url": "https://www.reuters.com/legal/government/openai-chief-altman-has-over-2-billion-stake-companies-that-dealt-with-openai-2026-05-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-offers-rival-ai-chatbots-free-access-whatsapp-month-2026-05-12/",
+      "sourceUrl": "https://www.reuters.com/legal/government/openai-chief-altman-has-over-2-billion-stake-companies-that-dealt-with-openai-2026-05-13/",
       "credibility": "P2",
-      "publishedAt": "2026-05-12T18:43:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724987-1",
-      "title": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose - Reuters",
-      "summary": "The lawsuit is ​the latest wrongful death action to be brought against an AI company and comes a little more than a day after the family of a man kill...",
-      "url": "https://www.reuters.com/legal/litigation/openai-faces-lawsuit-california-court-claiming-chatbot-gave-advice-that-led-2026-05-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-faces-lawsuit-california-court-claiming-chatbot-gave-advice-that-led-2026-05-12/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T18:01:24.000Z",
+      "publishedAt": "2026-05-13T19:24:05.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778643724987-6",
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares - TechCrunch",
-      "summary": "The update comes alongside a rise in the number of investment platforms offering exposure to AI companies’ shares (and thus their growth) via secondar...",
-      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T17:36:34.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724987-0",
-      "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
-      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
-      "url": "https://www.reuters.com/legal/litigation/anthropic-expands-claudes-ai-tools-law-firms-lawyers-2026-05-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-expands-claudes-ai-tools-law-firms-lawyers-2026-05-12/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T17:02:01.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724988-10",
-      "title": "Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com",
-      "summary": "The Android updates, announced Tuesday in addition to a new “Googlebook” laptop platform, include advancedcapabilities for the company’s Gemini AI ass...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T17:00:07.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724987-2",
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action. - TechCrunch",
-      "summary": "Anthropic is also offering a number of model context protocol connectors. MCPs connect specific data sources and third-party systems to AI models, all...",
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724988-8",
-      "title": "Threads tests a Meta AI integration that works similarly to Grok - TechCrunch",
-      "summary": "+ Connie Loizos\n reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen\n\n  + Ivan Mehta\n\nLoading the next article\n\nError load...",
-      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T16:34:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778643724987-3",
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs - The Verge",
-      "summary": "Several other wrongful death lawsuits filed against OpenAI mention GPT-4o, which OpenAI has since removed from its roster of models. Last April, OpenA...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+      "id": "news-1778730081638-3",
+      "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge",
+      "summary": "Google says it keeps data from temporary chats in Gemini for up to 72 hours. Temporary chats in ChatGPT can be stored for up to 30 days, while incogni...",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+      "sourceUrl": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
       "credibility": "P2",
-      "publishedAt": "2026-05-12T16:30:33.000Z",
+      "publishedAt": "2026-05-13T16:45:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778730081638-9",
+      "title": "Who trusts Sam Altman? - TechCrunch",
+      "summary": "Contact Us\n\nAI\n\n# Who trusts Sam Altman?\n\nTim Fernholz\n\nIn May 2023, OpenAI CEO Sam Altman was sworn in and testifying before Congress about the regul...",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T16:31:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778730081638-11",
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders - TechCrunch",
+      "summary": "Origin’s success in fundraising is a sign of a growing market — not just for training data, but for startups that can serve as essential suppliers to ...",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T16:22:01.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778730081637-1",
+      "title": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
+      "summary": "“Small businesses account for 44% of U.S. GDP and employ nearly half the private-sector workforce, but their adoption of AI has lagged behind larger e...",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778730081638-8",
+      "title": "Meta to launch 'Incognito Chat' for private AI conversations on WhatsApp - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/legal/litigation/meta-launch-incognito-chat-private-ai-conversations-whatsapp-2026-05-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/meta-launch-incognito-chat-private-ai-conversations-whatsapp-2026-05-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T14:01:36.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778730081638-2",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data - TechCrunch",
+      "summary": "More importantly, the general trend can be seen across the industry. On OpenRouter’s leaderboard, which samples a different portion of users, OpenAI l...",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778730081638-5",
+      "title": "WhatsApp adds an incognito mode in Meta AI chats - TechCrunch",
+      "summary": "+ Aisha Malik\n Five architects of the AI economy explain where the wheels are coming off\n\n  + Connie Loizos\n\nLoading the next article\n\nError loading t...",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778643724987-4",
-      "title": "Anthropic's Mythos sends US banks rushing to plug cyber holes - Reuters",
-      "summary": "Anthropic, however, has said it would provide $100 million worth of credits to Glasswing partners and other Mythos customers, saying this would \"cover...",
-      "url": "https://www.reuters.com/business/finance/anthropics-mythos-sends-us-banks-rushing-plug-cyber-holes-2026-05-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/anthropics-mythos-sends-us-banks-rushing-plug-cyber-holes-2026-05-12/",
+      "id": "news-1778730081638-10",
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves - TechCrunch",
+      "summary": "According to co-founder and CEO Sara Hooker, who previously worked as VP of AI research at Cohere, AutoScientist represents a new way to approach the ...",
+      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
       "credibility": "P2",
-      "publishedAt": "2026-05-12T15:20:42.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1778643724988-11",
-      "title": "CME to Create Futures Market for Computing Power Backing AI - Bloomberg.com",
-      "summary": "Industries\n\nTechnology\n\n# CME to Create Futures Market for Computing Power Backing AI\n\nLarry Fink Says Futures of Compute Will Be New Asset Class\n\nVid...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-05-12T13:54:24.000Z",
+      "publishedAt": "2026-05-13T12:11:33.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778643724987-7",
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
-      "summary": "The technical term for this is “full duplex,” and the company claims its model, TML-Interaction-Small, responds in 0.40 seconds, which is roughly the ...",
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "id": "news-1778730081638-6",
+      "title": "Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says - Reuters",
+      "summary": "# Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive ne...",
+      "url": "https://www.reuters.com/technology/japan-megabanks-gain-access-anthropics-mythos-about-two-weeks-source-says-2026-05-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/japan-megabanks-gain-access-anthropics-mythos-about-two-weeks-source-says-2026-05-13/",
       "credibility": "P2",
-      "publishedAt": "2026-05-12T04:52:35.000Z",
+      "publishedAt": "2026-05-13T05:18:01.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "benchmark"
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778730081638-7",
+      "title": "Japan's megabanks set to access Anthropic's Mythos as soon as this month, Nikkei says - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-megabanks-set-access-anthropics-mythos-soon-this-month-nikkei-says-2026-05-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japans-megabanks-set-access-anthropics-mythos-soon-this-month-nikkei-says-2026-05-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-13T04:09:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
