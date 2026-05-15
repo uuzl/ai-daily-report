@@ -1,193 +1,216 @@
 {
-  "date": "2026-05-14",
-  "generatedAt": "2026-05-14T03:41:21.638Z",
-  "totalItems": 12,
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-15T03:45:46.143Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1778730081637-0",
-      "title": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are - TechCrunch",
-      "summary": "The company may soon pull ahead of its main competitor, as it looks to raise tens of billions of dollars in a funding round that would put its valuati...",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T19:28:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778730081638-4",
-      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows - Reuters",
-      "summary": "All quotes delayed a minimum of 15 minutes. See here for a list of exchanges and delays.\n\n   Cookies, opens new tab\n   Terms & Conditions\n   Privacy, ...",
-      "url": "https://www.reuters.com/legal/government/openai-chief-altman-has-over-2-billion-stake-companies-that-dealt-with-openai-2026-05-13/",
+      "id": "news-1778816746142-4",
+      "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit - Reuters",
+      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
+      "url": "https://www.reuters.com/legal/government/us-judge-considers-anthropics-15-billion-settlement-authors-lawsuit-2026-05-14/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/openai-chief-altman-has-over-2-billion-stake-companies-that-dealt-with-openai-2026-05-13/",
+      "sourceUrl": "https://www.reuters.com/legal/government/us-judge-considers-anthropics-15-billion-settlement-authors-lawsuit-2026-05-14/",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T19:24:05.000Z",
+      "publishedAt": "2026-05-14T23:42:08.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778730081638-3",
-      "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge",
-      "summary": "Google says it keeps data from temporary chats in Gemini for up to 72 hours. Temporary chats in ChatGPT can be stored for up to 30 days, while incogni...",
-      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T16:45:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778730081638-9",
-      "title": "Who trusts Sam Altman? - TechCrunch",
-      "summary": "Contact Us\n\nAI\n\n# Who trusts Sam Altman?\n\nTim Fernholz\n\nIn May 2023, OpenAI CEO Sam Altman was sworn in and testifying before Congress about the regul...",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T16:31:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1778730081638-11",
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders - TechCrunch",
-      "summary": "Origin’s success in fundraising is a sign of a growing market — not just for training data, but for startups that can serve as essential suppliers to ...",
-      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T16:22:01.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778730081637-1",
-      "title": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
-      "summary": "“Small businesses account for 44% of U.S. GDP and employ nearly half the private-sector workforce, but their adoption of AI has lagged behind larger e...",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778730081638-8",
-      "title": "Meta to launch 'Incognito Chat' for private AI conversations on WhatsApp - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/legal/litigation/meta-launch-incognito-chat-private-ai-conversations-whatsapp-2026-05-13/",
+      "id": "news-1778816746142-3",
+      "title": "OpenAI brings Codex coding tool to ChatGPT mobile app - Reuters",
+      "summary": "# OpenAI brings Codex coding tool to ChatGPT mobile app | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for fina...",
+      "url": "https://www.reuters.com/business/media-telecom/openai-brings-codex-coding-tool-chatgpt-mobile-app-2026-05-14/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/meta-launch-incognito-chat-private-ai-conversations-whatsapp-2026-05-13/",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-brings-codex-coding-tool-chatgpt-mobile-app-2026-05-14/",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T14:01:36.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778730081638-2",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data - TechCrunch",
-      "summary": "More importantly, the general trend can be seen across the industry. On OpenRouter’s leaderboard, which samples a different portion of users, OpenAI l...",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "publishedAt": "2026-05-14T21:15:39.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1778730081638-5",
-      "title": "WhatsApp adds an incognito mode in Meta AI chats - TechCrunch",
-      "summary": "+ Aisha Malik\n Five architects of the AI economy explain where the wheels are coming off\n\n  + Connie Loizos\n\nLoading the next article\n\nError loading t...",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "id": "news-1778816746142-0",
+      "title": "OpenAI says Codex is coming to your phone - TechCrunch",
+      "summary": "In February, Anthropic released a similar feature — Remote Control — which allows users to remotely monitor Claude Code’s work from afar.\n\nThe flurry ...",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T14:00:00.000Z",
+      "publishedAt": "2026-05-14T20:58:55.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778816746143-10",
+      "title": "What happens when AI starts building itself? - TechCrunch",
+      "summary": "In biological evolution, animals adapt to the environment, and then others counter-adapt to those adaptations. It's just a process that can evolve for...",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T19:57:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1778816746142-9",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
+      "summary": "Connie Loizos\n\nOpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that th...",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T19:12:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778730081638-10",
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves - TechCrunch",
-      "summary": "According to co-founder and CEO Sara Hooker, who previously worked as VP of AI research at Cohere, AutoScientist represents a new way to approach the ...",
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "id": "news-1778816746142-8",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard - TechCrunch",
+      "summary": "“There’s a kind of nostalgia for when you used to have a hardware device for everything — like a Walkman to play music, or an iPod,” says Haraldsson. ...",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T12:11:33.000Z",
+      "publishedAt": "2026-05-14T19:05:01.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778730081638-6",
-      "title": "Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says - Reuters",
-      "summary": "# Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive ne...",
-      "url": "https://www.reuters.com/technology/japan-megabanks-gain-access-anthropics-mythos-about-two-weeks-source-says-2026-05-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/japan-megabanks-gain-access-anthropics-mythos-about-two-weeks-source-says-2026-05-13/",
+      "id": "news-1778816746142-6",
+      "title": "Microsoft starts canceling Claude Code licenses - The Verge",
+      "summary": "Anthropic’s models will remain accessible through Copilot CLI, along with internal-only Microsoft models and OpenAI’s range of models. I understand th...",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T05:18:01.000Z",
+      "publishedAt": "2026-05-14T19:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1778730081638-7",
-      "title": "Japan's megabanks set to access Anthropic's Mythos as soon as this month, Nikkei says - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-megabanks-set-access-anthropics-mythos-soon-this-month-nikkei-says-2026-05-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japans-megabanks-set-access-anthropics-mythos-soon-this-month-nikkei-says-2026-05-13/",
+      "id": "news-1778816746143-12",
+      "title": "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight - Bloomberg.com",
+      "summary": "OpenAI lawyers are actively working with an outside legal firm on a range of options that could be formally executed in the near future, said the peop...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
       "credibility": "P2",
-      "publishedAt": "2026-05-13T04:09:55.000Z",
+      "publishedAt": "2026-05-14T18:15:58.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1778816746142-2",
+      "title": "OpenAI explores legal options against Apple, Bloomberg News reports - Reuters",
+      "summary": "OpenAI believed that ​the deal would boost ChatGPT subscriptions and lead to deeper integration across Apple ​apps, but the relationship has deteriora...",
+      "url": "https://www.reuters.com/business/openai-explores-legal-options-against-apple-bloomberg-news-reports-2026-05-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-explores-legal-options-against-apple-bloomberg-news-reports-2026-05-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T16:58:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778816746143-11",
+      "title": "OpenAI says hackers stole some data after latest code security issue - TechCrunch",
+      "summary": "You can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb...",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T16:25:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778816746142-5",
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
+      "summary": "One initiative will equip research centers to use Claude to predict drug candidates for treating ​HPV and preeclampsia, diseases that have been less c...",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-gates-foundation-launch-200-million-partnership-ai-health-education-2026-05-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/anthropic-gates-foundation-launch-200-million-partnership-ai-health-education-2026-05-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T15:02:15.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778816746142-7",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts - TechCrunch",
+      "summary": "Brown traces the origin of Forum AI, founded 17 months ago in New York, to specific moment. “I was at Meta when ChatGPT was first released publicly,” ...",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T06:05:31.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778816746142-1",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante - TechCrunch",
+      "summary": "Although the legal tech community's definition of ARR has been under scrutiny recently, the opportunity to apply AI to law makes clear sense, given th...",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-14T05:24:39.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "LLM"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 13
   },
   "summary": ""
 }
