@@ -1,64 +1,63 @@
 {
-  "date": "2026-05-15",
-  "generatedAt": "2026-05-15T03:45:46.143Z",
-  "totalItems": 13,
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T03:29:24.902Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1778816746142-4",
-      "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit - Reuters",
-      "summary": "Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.\n\nAdvertisement · Sc...",
-      "url": "https://www.reuters.com/legal/government/us-judge-considers-anthropics-15-billion-settlement-authors-lawsuit-2026-05-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/us-judge-considers-anthropics-15-billion-settlement-authors-lawsuit-2026-05-14/",
+      "id": "news-1778902164901-4",
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
       "credibility": "P2",
-      "publishedAt": "2026-05-14T23:42:08.000Z",
+      "publishedAt": "2026-05-15T20:25:35.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1778902164900-1",
+      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say - Ars Technica",
+      "summary": "Increasingly problematic for Musk, the looming fallout between OpenAI and Apple suggests their allegiance is not that deep. Bloomberg’s sources sugges...",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T18:13:33.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778902164901-7",
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T17:13:26.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1778816746142-3",
-      "title": "OpenAI brings Codex coding tool to ChatGPT mobile app - Reuters",
-      "summary": "# OpenAI brings Codex coding tool to ChatGPT mobile app | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for fina...",
-      "url": "https://www.reuters.com/business/media-telecom/openai-brings-codex-coding-tool-chatgpt-mobile-app-2026-05-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-brings-codex-coding-tool-chatgpt-mobile-app-2026-05-14/",
+      "id": "news-1778902164901-6",
+      "title": "Pershing Square Has Taken New Stake in Microsoft, Ackman Says - Bloomberg.com",
+      "summary": "The hedge fund has made Microsoft a core holding, Ackman said in a post on X on Friday, calling its 365 suite of products including Word and Excel and...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/pershing-square-has-taken-new-stake-in-microsoft-ackman-says",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/pershing-square-has-taken-new-stake-in-microsoft-ackman-says",
       "credibility": "P2",
-      "publishedAt": "2026-05-14T21:15:39.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778816746142-0",
-      "title": "OpenAI says Codex is coming to your phone - TechCrunch",
-      "summary": "In February, Anthropic released a similar feature — Remote Control — which allows users to remotely monitor Claude Code’s work from afar.\n\nThe flurry ...",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T20:58:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778816746143-10",
-      "title": "What happens when AI starts building itself? - TechCrunch",
-      "summary": "In biological evolution, animals adapt to the environment, and then others counter-adapt to those adaptations. It's just a process that can evolve for...",
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T19:57:20.000Z",
+      "publishedAt": "2026-05-15T16:32:04.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -67,150 +66,156 @@
       ]
     },
     {
-      "id": "news-1778816746142-9",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
-      "summary": "Connie Loizos\n\nOpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that th...",
-      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "id": "news-1778902164900-0",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
+      "summary": "According to OpenAI, more than 200 million users already ask financial questions to ChatGPT every month. The company also noted that the new GPT-5.5 m...",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "credibility": "P2",
-      "publishedAt": "2026-05-14T19:12:03.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746142-8",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard - TechCrunch",
-      "summary": "“There’s a kind of nostalgia for when you used to have a hardware device for everything — like a Walkman to play music, or an iPod,” says Haraldsson. ...",
-      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T19:05:01.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746142-6",
-      "title": "Microsoft starts canceling Claude Code licenses - The Verge",
-      "summary": "Anthropic’s models will remain accessible through Copilot CLI, along with internal-only Microsoft models and OpenAI’s range of models. I understand th...",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746143-12",
-      "title": "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight - Bloomberg.com",
-      "summary": "OpenAI lawyers are actively working with an outside legal firm on a range of options that could be formally executed in the near future, said the peop...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T18:15:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746142-2",
-      "title": "OpenAI explores legal options against Apple, Bloomberg News reports - Reuters",
-      "summary": "OpenAI believed that ​the deal would boost ChatGPT subscriptions and lead to deeper integration across Apple ​apps, but the relationship has deteriora...",
-      "url": "https://www.reuters.com/business/openai-explores-legal-options-against-apple-bloomberg-news-reports-2026-05-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-explores-legal-options-against-apple-bloomberg-news-reports-2026-05-14/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T16:58:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778816746143-11",
-      "title": "OpenAI says hackers stole some data after latest code security issue - TechCrunch",
-      "summary": "You can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb...",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T16:25:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746142-5",
-      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
-      "summary": "One initiative will equip research centers to use Claude to predict drug candidates for treating ​HPV and preeclampsia, diseases that have been less c...",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-gates-foundation-launch-200-million-partnership-ai-health-education-2026-05-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/anthropic-gates-foundation-launch-200-million-partnership-ai-health-education-2026-05-14/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T15:02:15.000Z",
+      "publishedAt": "2026-05-15T16:00:00.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778816746142-7",
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts - TechCrunch",
-      "summary": "Brown traces the origin of Forum AI, founded 17 months ago in New York, to specific moment. “I was at Meta when ChatGPT was first released publicly,” ...",
-      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-14T06:05:31.000Z",
-      "category": "tech",
-      "tags": [
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778816746142-1",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante - TechCrunch",
-      "summary": "Although the legal tech community's definition of ARR has been under scrutiny recently, the opportunity to apply AI to law makes clear sense, given th...",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "id": "news-1778902164901-9",
+      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers - TechCrunch",
+      "summary": "You can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nView Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. H...",
+      "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
       "credibility": "P2",
-      "publishedAt": "2026-05-14T05:24:39.000Z",
+      "publishedAt": "2026-05-15T15:45:53.000Z",
       "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164901-12",
+      "title": "Chinese automakers gain ground in South Africa as competitive pricing spurs demand - Reuters",
+      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
+      "url": "https://www.reuters.com/business/autos-transportation/chinese-automakers-gain-ground-south-africa-competitive-pricing-spurs-demand-2026-05-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/chinese-automakers-gain-ground-south-africa-competitive-pricing-spurs-demand-2026-05-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T14:48:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164901-13",
+      "title": "Rocket Report: Cowboy up for data centers in LEO; Russia’s new ICBM actually works - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T14:24:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164901-3",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI. - TechCrunch",
+      "summary": "Rebecca Bellan\n\nAI video generation startup Runway doesn’t have the typical Silicon Valley pedigree. No Stanford founders, no ex-Google founders, no n...",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "Claude",
-        "AI",
-        "LLM"
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1778902164901-11",
+      "title": "The promises and pitfalls of personalized health - The Verge",
+      "summary": "All I’m saying is that health tech companies are going to start pitching this concept as it’s possible now. As if it’s just as simple as wearing a dev...",
+      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164901-5",
+      "title": "Tech CEOs summoned to Capitol for June hearing, Axios reports - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/tech-ceos-summoned-capitol-june-hearing-axios-reports-2026-05-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/tech-ceos-summoned-capitol-june-hearing-axios-reports-2026-05-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T13:23:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164901-10",
+      "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T13:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778902164900-2",
+      "title": "Osaurus brings both local and cloud AI models to your Mac - TechCrunch",
+      "summary": "Osaurus today can run MiniMax M2.5, Gemma 4, Qwen3.6, GPT-OSS, Llama, DeepSeek V4, and other models. It also supports Apple’s on-device foundation mod...",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T12:19:48.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1778902164901-8",
+      "title": "Exclusive: At Samsung, the global AI boom spurred a looming strike and deep divisions - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-15T10:14:29.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 14
   },
   "summary": ""
 }
