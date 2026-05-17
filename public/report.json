@@ -1,211 +1,213 @@
 {
-  "date": "2026-05-16",
-  "generatedAt": "2026-05-16T03:29:24.902Z",
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-17T03:44:58.971Z",
   "totalItems": 14,
   "items": [
     {
-      "id": "news-1778902164901-4",
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "id": "news-1778989498971-10",
+      "title": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency - Reuters",
+      "summary": "Reporting by Disha ​Mishra in Bengaluru; Editing by William Mallard\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
       "credibility": "P2",
-      "publishedAt": "2026-05-15T20:25:35.000Z",
+      "publishedAt": "2026-05-17T00:10:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498970-8",
+      "title": "Runners tackle 'brutal' marathon along the Great Wall of China - Reuters",
+      "summary": "### 00:36 Banksy's child with flare visible again in Venice after restoration\n\n   ### 01:21 Got good news? An Atlanta woman wants to hear it\n\n   ### 0...",
+      "url": "https://www.reuters.com/video/watch/idRW118316052026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW118316052026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T21:05:44.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498970-5",
+      "title": "The haves and have nots of the AI gold rush - TechCrunch",
+      "summary": "Das described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.”\n\nUsing a “back of the envelope AI...",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T20:17:16.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1778989498970-6",
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo - TechCrunch",
+      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\n...",
+      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T19:26:14.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1778989498970-2",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work - TechCrunch",
+      "summary": "In its latest move, Thomas Dietterich — the chair of arXiv’s computer science section — posted Thursday that “if a submission contains incontrovertibl...",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T18:54:28.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498971-13",
+      "title": "Narvaez strikes again with solo victory in gruelling Giro stage eight - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/narvaez-strikes-again-with-solo-victory-gruelling-giro-stage-eight-2026-05-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/narvaez-strikes-again-with-solo-victory-gruelling-giro-stage-eight-2026-05-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T15:57:19.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498970-1",
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy - TechCrunch",
+      "summary": "This is just the latest OpenAI shakeup since CEO Sam Altman declared a “code red” at the end of last year and said the company needs to refocus on the...",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T15:33:33.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498970-4",
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498970-7",
+      "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers - Bloomberg.com",
+      "summary": "The AI Race:\n\nThe Iran War and AI\n\nHeavy Job Losses\n\nAltman Versus Musk\n\nBonanza or Bubble?\n\nHistoric RAM Shortages\n\nOpenClaw Mania\n\nTechnology\n\nAI\n\n#...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL",
         "RAG"
       ]
     },
     {
-      "id": "news-1778902164900-1",
-      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say - Ars Technica",
-      "summary": "Increasingly problematic for Musk, the looming fallout between OpenAI and Apple suggests their allegiance is not that deep. Bloomberg’s sources sugges...",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T18:13:33.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778902164901-7",
-      "title": "Tesla reveals two Robotaxi crashes involving teleoperators - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T17:13:26.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-6",
-      "title": "Pershing Square Has Taken New Stake in Microsoft, Ackman Says - Bloomberg.com",
-      "summary": "The hedge fund has made Microsoft a core holding, Ackman said in a post on X on Friday, calling its 365 suite of products including Word and Excel and...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/pershing-square-has-taken-new-stake-in-microsoft-ackman-says",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/pershing-square-has-taken-new-stake-in-microsoft-ackman-says",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T16:32:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1778902164900-0",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
-      "summary": "According to OpenAI, more than 200 million users already ask financial questions to ChatGPT every month. The company also noted that the new GPT-5.5 m...",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T16:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-9",
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers - TechCrunch",
-      "summary": "You can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nView Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. H...",
-      "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T15:45:53.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-12",
-      "title": "Chinese automakers gain ground in South Africa as competitive pricing spurs demand - Reuters",
-      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
-      "url": "https://www.reuters.com/business/autos-transportation/chinese-automakers-gain-ground-south-africa-competitive-pricing-spurs-demand-2026-05-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/chinese-automakers-gain-ground-south-africa-competitive-pricing-spurs-demand-2026-05-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T14:48:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-13",
-      "title": "Rocket Report: Cowboy up for data centers in LEO; Russia’s new ICBM actually works - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T14:24:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-3",
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI. - TechCrunch",
-      "summary": "Rebecca Bellan\n\nAI video generation startup Runway doesn’t have the typical Silicon Valley pedigree. No Stanford founders, no ex-Google founders, no n...",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1778902164901-11",
-      "title": "The promises and pitfalls of personalized health - The Verge",
-      "summary": "All I’m saying is that health tech companies are going to start pitching this concept as it’s possible now. As if it’s just as simple as wearing a dev...",
-      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "id": "news-1778989498970-3",
+      "title": "The app you need to clean up your computer - The Verge",
+      "summary": "Joanna spent the last year of her life trying to use AI for absolutely everything, in an effort to figure out where AI might actually be useful. (If y...",
+      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "sourceUrl": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
       "credibility": "P2",
-      "publishedAt": "2026-05-15T14:00:00.000Z",
+      "publishedAt": "2026-05-16T12:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1778902164901-5",
-      "title": "Tech CEOs summoned to Capitol for June hearing, Axios reports - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/tech-ceos-summoned-capitol-june-hearing-axios-reports-2026-05-15/",
+      "id": "news-1778989498970-0",
+      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   May 12, 2026Business categoryAnthropic's Mythos sends US banks rushing to plug cyber holes , opens new tab...",
+      "url": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/tech-ceos-summoned-capitol-june-hearing-axios-reports-2026-05-15/",
+      "sourceUrl": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
       "credibility": "P2",
-      "publishedAt": "2026-05-15T13:23:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164901-10",
-      "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T13:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1778902164900-2",
-      "title": "Osaurus brings both local and cloud AI models to your Mac - TechCrunch",
-      "summary": "Osaurus today can run MiniMax M2.5, Gemma 4, Qwen3.6, GPT-OSS, Llama, DeepSeek V4, and other models. It also supports Apple’s on-device foundation mod...",
-      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-15T12:19:48.000Z",
+      "publishedAt": "2026-05-16T10:31:34.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "DeepSeek"
+        "AI"
       ]
     },
     {
-      "id": "news-1778902164901-8",
-      "title": "Exclusive: At Samsung, the global AI boom spurred a looming strike and deep divisions - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+      "id": "news-1778989498970-9",
+      "title": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move - Reuters",
+      "summary": "13 hours agoOil prices climb more than 3% on fears of new US-Iran combat Image 3: Oil pump jacks outside Almetyevsk, Russia \n   13 hours agoEnergy cat...",
+      "url": "https://www.reuters.com/business/energy/uae-says-opec-opec-exit-was-sovereign-strategic-decision-not-political-move-2026-05-16/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+      "sourceUrl": "https://www.reuters.com/business/energy/uae-says-opec-opec-exit-was-sovereign-strategic-decision-not-political-move-2026-05-16/",
       "credibility": "P2",
-      "publishedAt": "2026-05-15T10:14:29.000Z",
+      "publishedAt": "2026-05-16T09:08:46.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1778989498971-12",
+      "title": "BOJ's Himino calls for 'holistic approach' on global monetary system - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour agoBusiness categoryUK to set out looser bank ring-fencing rules next week, Sky News says , opens n...",
+      "url": "https://www.reuters.com/world/asia-pacific/bojs-himino-calls-holistic-approach-global-monetary-system-2026-05-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/bojs-himino-calls-holistic-approach-global-monetary-system-2026-05-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T08:36:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1778989498971-11",
+      "title": "Trump says ISIS second in command Abu-Bilal al-Minuki eliminated - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-isis-second-command-abu-bilal-al-minuki-eliminated-2026-05-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/trump-says-isis-second-command-abu-bilal-al-minuki-eliminated-2026-05-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-16T04:03:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
