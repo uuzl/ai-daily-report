@@ -1,62 +1,31 @@
 {
-  "date": "2026-05-21",
-  "generatedAt": "2026-05-21T04:02:14.097Z",
-  "totalItems": 15,
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T03:57:22.292Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1779336134095-0",
-      "title": "Anthropic says it’s about to have its first profitable quarter - TechCrunch",
-      "summary": "Interestingly, this info about Anthropic’s alleged profitability dropped the same day as news broke about OpenAI likely filing for its IPO soon. Anthr...",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-21T00:21:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-10",
-      "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power - Reuters",
-      "summary": "One such expense, in ‌the ⁠form of AI's voracious demand for computing power, was also disclosed on Wednesday in the IPO filing of SpaceX, Elon Musk's...",
-      "url": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-21T00:04:37.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-15",
-      "title": "One in three Japan firms using or considering AI robots: Reuters poll - Reuters",
+      "id": "news-1779422242291-9",
+      "title": "Lam Research focused on adding AI to chipmaking tools as it eyes US expansion, CEO says - Reuters",
       "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurcha...",
-      "url": "https://www.reuters.com/business/autos-transportation/one-three-japan-firms-using-or-considering-ai-robots-2026-05-20/",
+      "url": "https://www.reuters.com/business/lam-research-focused-adding-ai-chipmaking-tools-it-eyes-us-expansion-ceo-says-2026-05-21/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/one-three-japan-firms-using-or-considering-ai-robots-2026-05-20/",
+      "sourceUrl": "https://www.reuters.com/business/lam-research-focused-adding-ai-chipmaking-tools-it-eyes-us-expansion-ceo-says-2026-05-21/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T23:02:54.000Z",
-      "category": "tech",
+      "publishedAt": "2026-05-21T23:49:28.000Z",
+      "category": "research",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779336134096-8",
-      "title": "Clouted wants to take the guesswork out of making short videos go viral - TechCrunch",
-      "summary": "## Most Popular\n\n Google Search as you know it is over\n\n  + Sarah Perez\n Elon Musk has lost his lawsuit against Sam Altman and OpenAI\n\n  + Tim Fernhol...",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "id": "news-1779422242291-7",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore - TechCrunch",
+      "summary": "+ Lauren Forristal\n OpenAI launches ChatGPT for personal finance, will let you connect bank accounts\n\n  + Ivan Mehta\n US orders travelers on Air Force...",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T22:30:45.000Z",
+      "publishedAt": "2026-05-21T19:19:05.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -65,61 +34,76 @@
       ]
     },
     {
-      "id": "news-1779336134096-6",
-      "title": "Anthropic will pay xAI $1.25 billion per month for compute - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Space\n\n  ### The SpaceX IPO filing has arrived\n\n...",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "id": "news-1779422242291-2",
+      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’ - TechCrunch",
+      "summary": "The anticipated executive order would have tasked the Office of the National Cyber Director and other agencies with developing a process to evaluate A...",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T21:29:22.000Z",
+      "publishedAt": "2026-05-21T17:30:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1779336134096-9",
-      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup - TechCrunch",
-      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
-      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "id": "news-1779422242291-4",
+      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me - WIRED",
+      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?\n\nReece Rogers\n\nThe Chinese App That P...",
+      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T21:23:02.000Z",
+      "publishedAt": "2026-05-21T15:48:24.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1779336134096-12",
-      "title": "‘Solve all diseases,’ you say? - The Verge",
-      "summary": "This is the title for the native ad\n\n## More in Column\n\nAnthropic and OpenAI take their beef to the midterm elections\n\nOddity is masterfully tense hor...",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "id": "news-1779422242291-8",
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nConcerns are growing ⁠across the U.S. government and in the private sector about the cybersecurity risks posed by ...",
+      "url": "https://www.reuters.com/business/retail-consumer/white-house-postpones-trumps-ai-signing-ceremony-says-axios-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/white-house-postpones-trumps-ai-signing-ceremony-says-axios-2026-05-21/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T21:06:35.000Z",
+      "publishedAt": "2026-05-21T15:44:08.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779422242291-10",
+      "title": "Texas Residents Hate AI Data Centers So Much They Are Asking Jesus for Help - Bloomberg.com",
+      "summary": "The AI Race:\n\nStanChart CEO Comments\n\nHeavy Job Losses\n\nAI Drug Development\n\nThe Iran War and AI\n\nBonanza or Bubble?\n\nOpenClaw Mania\n\nTechnology\n\nPoli...",
+      "url": "https://www.bloomberg.com/news/features/2026-05-21/small-town-texas-rebels-against-data-centers-in-growing-backlash",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-05-21/small-town-texas-rebels-against-data-centers-in-growing-backlash",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T14:10:54.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "OpenCL"
+        "OpenCL",
+        "benchmark"
       ]
     },
     {
-      "id": "news-1779336134095-1",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time - TechCrunch",
-      "summary": "If this sounds familiar to you, it’s because this isn’t the first time OpenAI has made such a bold claim. Seven months ago, the AI giant’s former VP K...",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "id": "news-1779422242291-5",
+      "title": "Hark raises $700M Series A for its secretive \"universal\" AI interface - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia\n\n  + Julie Bort\n Sam Altman makes ‘mic drop’ offer ...",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T20:28:27.000Z",
+      "publishedAt": "2026-05-21T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -128,120 +112,116 @@
       ]
     },
     {
-      "id": "news-1779336134095-4",
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed - TechCrunch",
+      "id": "news-1779422242291-6",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it - TechCrunch",
+      "summary": "+ Julie Bort\n Sam Altman makes ‘mic drop’ offer to every Y Combinator startup\n\n  + Julie Bort\n Google Search as you know it is over\n\n  + Sarah Perez\n ...",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T13:52:23.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779422242292-13",
+      "title": "Major takeaways from Magnificent Seven's AI-fueled earnings - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/major-takeaways-magnificent-sevens-ai-fueled-earnings-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/major-takeaways-magnificent-sevens-ai-fueled-earnings-2026-05-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T13:01:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779422242292-12",
+      "title": "India hiring tilts toward contracts as AI prompts workforce rethink, TeamLease says - Reuters",
+      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nAdvertisement · Scro...",
+      "url": "https://www.reuters.com/business/world-at-work/india-hiring-tilts-toward-contracts-ai-prompts-workforce-rethink-teamlease-says-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/india-hiring-tilts-toward-contracts-ai-prompts-workforce-rethink-teamlease-says-2026-05-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T10:34:25.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779422242291-1",
+      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
+      "summary": "The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up here.\n\nThe 2025 consolidate...",
+      "url": "https://www.reuters.com/world/grok-falls-flat-washington-undercutting-spacexs-ai-growth-story-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/grok-falls-flat-washington-undercutting-spacexs-ai-growth-story-2026-05-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T10:02:50.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1779422242291-11",
+      "title": "AI supply chain, Gen Z spending among hedge fund picks at Sohn Hong Kong - Reuters",
+      "summary": "By continuing to use our services, you acknowledge this use of cookies and other tracking technologies, which may include storing and accessing inform...",
+      "url": "https://www.reuters.com/world/china/ai-supply-chain-gen-z-spending-among-hedge-fund-picks-sohn-hong-kong-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/ai-supply-chain-gen-z-spending-among-hedge-fund-picks-sohn-hong-kong-2026-05-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T06:32:04.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779422242290-0",
+      "title": "Breakingviews - OpenAI’s IPO has a Sam Altman problem - Reuters",
+      "summary": "Now, Musk is also tilting the scales in the battle with Anthropic. Earlier this month, SpaceX announced a deal granting Amodei’s company ​use of its C...",
+      "url": "https://www.reuters.com/commentary/breakingviews/openais-ipo-has-sam-altman-problem-2026-05-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/openais-ipo-has-sam-altman-problem-2026-05-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-21T05:00:47.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1779422242291-3",
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering - TechCrunch",
       "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
       "credibility": "P2",
-      "publishedAt": "2026-05-20T19:47:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1779336134095-3",
-      "title": "OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filing - Reuters",
-      "summary": "OpenAI is aiming ​to go public as early as September and is working with Goldman Sachs and Morgan Stanley on a draft IPO prospectus ​that it plans to ...",
-      "url": "https://www.reuters.com/business/openai-preparing-file-ipo-soon-wsj-reports-2026-05-20/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-preparing-file-ipo-soon-wsj-reports-2026-05-20/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T16:36:21.000Z",
+      "publishedAt": "2026-05-21T04:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
         "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-13",
-      "title": "AI search startups are blowing up - TechCrunch",
-      "summary": "At the same time, we’re also seeing conventional tech platforms like Amazon, LinkedIn and Reddit looking to AI to revamp their search and discoverabil...",
-      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T15:04:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134095-2",
-      "title": "It’s make or break time for AI labeling systems - The Verge",
-      "summary": "OpenAI is also getting involved with this expansion, announcing yesterday that it will now embed SynthID into images generated by ChatGPT, Codex, and ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T14:12:54.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-5",
-      "title": "If Google can’t make AI agents useful, maybe no one can - The Verge",
-      "summary": "All this will be underpinned by a new model series: Gemini 3.5, whose initial entry Gemini 3.5 Flash should be available next month. The model is supp...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T13:24:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-17",
-      "title": "Exclusive: ASML CEO sees tight supply in booming chip market as AI demand soars - Reuters",
-      "summary": "# Exclusive: ASML CEO sees tight supply in booming chip market as AI demand soars | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics ...",
-      "url": "https://www.reuters.com/business/autos-transportation/asml-ceo-sees-tight-supply-booming-chip-market-ai-demand-soars-2026-05-20/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/asml-ceo-sees-tight-supply-booming-chip-market-ai-demand-soars-2026-05-20/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T13:03:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779336134096-7",
-      "title": "Figma adds an AI assistant to its collaborative canvas - TechCrunch",
-      "summary": "You can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nView Bio\n\nMay 27\n\nAthens, Gr...",
-      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-20T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
