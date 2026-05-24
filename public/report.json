@@ -1,87 +1,57 @@
 {
-  "date": "2026-05-23",
-  "generatedAt": "2026-05-23T03:34:02.883Z",
-  "totalItems": 14,
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T03:55:52.251Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1779507242882-7",
-      "title": "AI is being used to resurrect the voices of dead pilots - TechCrunch",
-      "summary": "May 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the people shaping...",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-22T23:03:33.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779507242883-13",
-      "title": "SpaceX's upgraded Starship V3 completes debut test flight from Texas - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/business/aerospace-defense/spacexs-upgraded-starship-v3-blasts-off-debut-test-flight-texas-2026-05-22/",
+      "id": "news-1779594952250-1",
+      "title": "Liberty G Sabrina Ionescu to make season debut vs. Wings - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/sports/liberty-g-sabrina-ionescu-make-season-debut-vs-wings--flm-2026-05-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/spacexs-upgraded-starship-v3-blasts-off-debut-test-flight-texas-2026-05-22/",
+      "sourceUrl": "https://www.reuters.com/sports/liberty-g-sabrina-ionescu-make-season-debut-vs-wings--flm-2026-05-23/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T22:35:49.000Z",
+      "publishedAt": "2026-05-23T19:57:34.000Z",
       "category": "tech",
       "tags": []
     },
     {
-      "id": "news-1779507242883-11",
-      "title": "AI dominance of stock market is concerning, says market expert - Reuters",
-      "summary": "Load More Categories\n\n   5 hours agoWall Street rises, Dow hits record high as Middle East hopes lift sentiment , opens new tab\n\n### Stay Informed\n\n  ...",
-      "url": "https://www.reuters.com/video/watch/idRW294422052026RP1/",
+      "id": "news-1779594952251-8",
+      "title": "WTA roundup: Emma Navarro jolts Victoria Mboko in Strasbourg final - Reuters",
+      "summary": "# WTA roundup: Emma Navarro jolts Victoria Mboko in Strasbourg final | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial...",
+      "url": "https://www.reuters.com/sports/tennis/wta-roundup-emma-navarro-jolts-victoria-mboko-strasbourg-final--flm-2026-05-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW294422052026RP1/",
+      "sourceUrl": "https://www.reuters.com/sports/tennis/wta-roundup-emma-navarro-jolts-victoria-mboko-strasbourg-final--flm-2026-05-23/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T21:01:21.000Z",
+      "publishedAt": "2026-05-23T18:28:41.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-5",
-      "title": "How VCs and founders use inflated ‘ARR’ to kingmake AI startups - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "id": "news-1779594952251-7",
+      "title": "SpaceX’s Starship V3—still a work in progress—mostly successful on first flight - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T20:40:48.000Z",
+      "publishedAt": "2026-05-23T17:54:54.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-4",
-      "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview - The Verge",
-      "summary": "Meta communications manager Feryal Hemamda confirmed Forum’s launch in a statement to The Verge: “We test lots of new products publicly to see what pe...",
-      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+      "id": "news-1779594952250-3",
+      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab - The Verge",
+      "summary": "Elon, stop trying to make Grok happen\n\nHere are 38 Memorial Day deals we recommend for $50 or less\n\nGoogle Discover’s headline rewrites strike again.\n...",
+      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+      "sourceUrl": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T17:27:08.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779507242882-9",
-      "title": "Spotify’s AI bet: more of everything, less of what you want - TechCrunch",
-      "summary": "Ivan Mehta\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including ...",
-      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-22T16:18:10.000Z",
+      "publishedAt": "2026-05-23T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -89,120 +59,115 @@
       ]
     },
     {
-      "id": "news-1779507242882-1",
-      "title": "You can no longer Google the word ‘disregard’ - TechCrunch",
-      "summary": "I have been a professional tech journalist for nearly fifteen years, and before today, I cannot think of a single time when a Bing search result was m...",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "id": "news-1779594952250-0",
+      "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model - Reuters",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next [...] # China's DeepSeek to make perma...",
+      "url": "https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T16:16:48.000Z",
+      "publishedAt": "2026-05-23T13:33:22.000Z",
       "category": "tech",
       "tags": [
+        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1779507242883-12",
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for - The Verge",
-      "summary": "Google didn’t immediately reply to a request for comment about what’s going on. However, this is almost certainly just some kind of funny bug. Maybe G...",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "id": "news-1779594952250-4",
+      "title": "I have a new go-to browser - The Verge",
+      "summary": "Anyway, the guys got back together for one more episode to celebrate Colbert’s run (plus a long hang on Colbert’s show), and it is predictably delight...",
+      "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "sourceUrl": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T16:01:17.000Z",
+      "publishedAt": "2026-05-23T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779594952251-9",
+      "title": "Nvidia says its forecast for $200 billion CPU market includes China - Reuters",
+      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
+      "url": "https://www.reuters.com/world/china/nvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/nvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-23T10:09:40.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-0",
-      "title": "Even If You Hate AI, You Will Use Google AI Search - WIRED",
-      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.\n\nZeyi Yang\n\nThe Bloomberg Terminal Is Getting an AI Makeover,...",
-      "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "id": "news-1779594952251-6",
+      "title": "Climate change threatens global plant species as habitats shrink - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/business/environment/climate-change-threatens-global-plant-species-habitats-shrink-2026-05-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/environment/climate-change-threatens-global-plant-species-habitats-shrink-2026-05-23/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-23T10:02:34.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779594952251-10",
+      "title": "The Emptiest Places in the Universe Might Contain Its Best Secrets - WIRED",
+      "summary": "Whether or not we live in some kind of forbidden cosmic hollow, we are now peering deeper into these sparse regions than ever before. These vast chasm...",
+      "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "sourceUrl": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T15:00:00.000Z",
+      "publishedAt": "2026-05-23T10:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-3",
-      "title": "BofA’s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring ‘20s - Bloomberg.com",
-      "summary": "Elon Musk’s SpaceX has set out plans for the world’s biggest initial public offering, while ChatGPT maker OpenAI aims to beat rival Anthropic to the m...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/bofa-s-hartnett-warns-mega-ipos-risk-bubble-like-roaring-20s",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/bofa-s-hartnett-warns-mega-ipos-risk-bubble-like-roaring-20s",
-      "credibility": "P2",
-      "publishedAt": "2026-05-22T12:41:37.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779507242882-8",
-      "title": "AI driving productivity gains with steady headcount, Epsilon India head says - Reuters",
-      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
-      "url": "https://www.reuters.com/business/media-telecom/ai-driving-productivity-gains-with-steady-headcount-epsilon-india-head-says-2026-05-22/",
+      "id": "news-1779594952250-5",
+      "title": "Drone games put Ukraine's best military pilots to the test - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/drone-games-put-ukraines-best-military-pilots-test-2026-05-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-driving-productivity-gains-with-steady-headcount-epsilon-india-head-says-2026-05-22/",
+      "sourceUrl": "https://www.reuters.com/world/drone-games-put-ukraines-best-military-pilots-test-2026-05-23/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T11:46:28.000Z",
+      "publishedAt": "2026-05-23T07:08:19.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1779507242883-10",
-      "title": "Morning Bid: Brittle bonds and AI boom face off - Reuters",
-      "summary": "There’s more excitement to come where tech is concerned as Elon Musk’s SpaceX filed on Wednesday for its long-awaited IPO, which could be the largest ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-05-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-05-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-22T10:41:56.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-2",
-      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market - TechCrunch",
-      "summary": "+ Tim Fernholz\n Users turn to jailbreaking their older Kindles as Amazon ends support\n\n  + Lauren Forristal\n OpenAI launches ChatGPT for personal fina...",
-      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "id": "news-1779594952250-2",
+      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say - TechCrunch",
+      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
+      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T06:41:28.000Z",
+      "publishedAt": "2026-05-23T07:01:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1779507242882-6",
-      "title": "Europe's AI stocks shine through gloom of Iran war - Reuters",
-      "summary": "European tech stocks shine, while broader markets lags\n\nReporting by Dhara Ranasinghe; additional reporting by Lucy Raitano; Editing by Alun John and ...",
-      "url": "https://www.reuters.com/world/china/europes-ai-stocks-shine-through-gloom-iran-war-2026-05-22/",
+      "id": "news-1779594952251-11",
+      "title": "Who will win the 2026 Cannes Film Festival's top prize? - Reuters",
+      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
+      "url": "https://www.reuters.com/business/media-telecom/who-will-win-2026-cannes-film-festivals-top-prize-2026-05-23/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/europes-ai-stocks-shine-through-gloom-iran-war-2026-05-22/",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/who-will-win-2026-cannes-film-festivals-top-prize-2026-05-23/",
       "credibility": "P2",
-      "publishedAt": "2026-05-22T05:06:18.000Z",
+      "publishedAt": "2026-05-23T06:05:20.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -212,7 +177,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 12
   },
   "summary": ""
 }
