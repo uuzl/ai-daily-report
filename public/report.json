@@ -1,17 +1,60 @@
 {
-  "date": "2026-05-25",
-  "generatedAt": "2026-05-25T04:07:31.044Z",
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T03:53:13.027Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1779682051044-15",
-      "title": "McLaren rue failed tyre gamble on day to forget in Canada - Reuters",
-      "summary": "Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n\n# McLaren rue failed tyre gamble on day to ...",
-      "url": "https://www.reuters.com/sports/formula1/mclaren-rue-failed-tyre-gamble-day-forget-canada-2026-05-25/",
+      "id": "news-1779767593026-1",
+      "title": "Pope Leo urges world to 'slow down' on AI in fervent first manifesto - Reuters",
+      "summary": "\"Certainly, not everyone has the same power to make a difference,\" Leo said. \"Yet, no one is without responsibility. We all have our own areas for act...",
+      "url": "https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/formula1/mclaren-rue-failed-tyre-gamble-day-forget-canada-2026-05-25/",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-25T01:48:00.000Z",
+      "publishedAt": "2026-05-25T09:42:18.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779767593027-5",
+      "title": "Schneider Electric sees India data center business outpacing core growth on AI boom - Reuters",
+      "summary": "Purchase Licensing Rights\n\nAbhinav Parmar\n\nThomson Reuters\n\nAbhinav writes stories across the U.S. Manufacturing file with a focus on the Transportati...",
+      "url": "https://www.reuters.com/world/india/schneider-electric-sees-india-data-center-business-outpacing-core-growth-ai-boom-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/schneider-electric-sees-india-data-center-business-outpacing-core-growth-ai-boom-2026-05-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-25T08:00:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779767593027-10",
+      "title": "Iran says conclusions reached on many topics in potential U.S. memorandum but no deal imminent - Reuters",
+      "summary": "Sign uphere.\n\nReporting ​by Elwely ​Elwelly and Tala Ramadan; ​Editing by Andrew Cawthorne\n\nOur Standards: The Thomson Reuters Trust Principles., open...",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-conclusions-reached-many-topics-potential-us-memorandum-no-deal-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/iran-says-conclusions-reached-many-topics-potential-us-memorandum-no-deal-2026-05-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-25T07:47:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1779767593027-13",
+      "title": "AfDB meets under Ebola's cloud as Africa hunts for development cash at home - Reuters",
+      "summary": "\"Focus should be on leveraging domestic capital to ​catalyse foreign capital inflows (and) ... Derisking projects by providing some forms of guarantee...",
+      "url": "https://www.reuters.com/world/africa/afdb-meets-under-ebolas-cloud-africa-hunts-development-cash-home-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/afdb-meets-under-ebolas-cloud-africa-hunts-development-cash-home-2026-05-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-25T07:45:43.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -19,205 +62,150 @@
       ]
     },
     {
-      "id": "news-1779682051043-6",
-      "title": "Jardine Matheson to acquire Australia's I-MED Radiology in $2.4 billion deal - Reuters",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n Businesscategory\n\n  Go...",
-      "url": "https://www.reuters.com/legal/transactional/jardine-matheson-acquire-australias-i-med-radiology-24-billion-deal-2026-05-25/",
+      "id": "news-1779767593027-12",
+      "title": "European shares climb to over two-month highs on Iran-US peace optimism - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n## Read Next\n\n Morning Bid: Will they or won't they?\n ...",
+      "url": "https://www.reuters.com/markets/europe/european-shares-climb-over-two-month-highs-iran-us-peace-optimism-2026-05-25/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/jardine-matheson-acquire-australias-i-med-radiology-24-billion-deal-2026-05-25/",
+      "sourceUrl": "https://www.reuters.com/markets/europe/european-shares-climb-over-two-month-highs-iran-us-peace-optimism-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-25T01:39:00.000Z",
+      "publishedAt": "2026-05-25T07:42:10.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779682051044-12",
-      "title": "Huawei proposes new path for chip development amid US sanctions - Reuters",
-      "summary": "Three people killed, one injured in accident at Petronas floating vessel off Malaysia\n Asia Pacificcategory\n\n  Singapore economy grows 6% y/y in Q1, a...",
-      "url": "https://www.reuters.com/world/asia-pacific/huawei-proposes-new-path-chip-development-amid-us-sanctions-2026-05-25/",
+      "id": "news-1779767593027-6",
+      "title": "Most Gulf markets advance on US-Iran peace hopes - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n## Read Next\n\n Middle Eastcategory\n\n  Rubio says US wi...",
+      "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-advance-us-iran-peace-hopes-2026-05-25/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/huawei-proposes-new-path-chip-development-amid-us-sanctions-2026-05-25/",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/most-gulf-markets-advance-us-iran-peace-hopes-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-25T01:32:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1779682051043-8",
-      "title": "Asia thermal coal imports, prices lift amid Iran war, China output drop - Reuters",
-      "summary": "Morning Bid: Brittle bonds and AI boom face off\n ROI: Reuters Open Interestcategory\n\n  Trading Day: IPO, IPO, it's off to work we go\n ROI: Reuters Ope...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/asia-thermal-coal-imports-prices-lift-amid-iran-war-china-output-drop-2026-05-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asia-thermal-coal-imports-prices-lift-amid-iran-war-china-output-drop-2026-05-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-25T01:17:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1779682051044-10",
-      "title": "Singapore economy grows 6% y/y in Q1, above advance estimate - Reuters",
-      "summary": "Oil slips to 2-week low as US-Iran seen moving closer to peace deal\n\n## World\n\n ### Colombian presidential candidates wrap up campaigns with big ralli...",
-      "url": "https://www.reuters.com/world/asia-pacific/singapore-economy-grows-6-yy-q1-above-advance-estimate-2026-05-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/singapore-economy-grows-6-yy-q1-above-advance-estimate-2026-05-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-25T00:02:00.000Z",
+      "publishedAt": "2026-05-25T07:39:43.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779682051044-14",
-      "title": "Stocks rise, oil and dollar slide on Middle East peace hopes - Reuters",
-      "summary": "Yacht maker Italian Sea Group plunges as losses breach legal capital threshold\n Global equity fund investors halt eight-week buying streak as bond yie...",
-      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-05-24/",
+      "id": "news-1779767593027-11",
+      "title": "India turns net importer of finished steel in April, data shows - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Indonesia to revise state budget law but deficit ceiling not the focus, lawmaker says\n Worldcategory\n\n  Huaw...",
+      "url": "https://www.reuters.com/world/china/india-turns-net-importer-finished-steel-april-data-shows-2026-05-25/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-05-24/",
+      "sourceUrl": "https://www.reuters.com/world/china/india-turns-net-importer-finished-steel-april-data-shows-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T23:37:28.000Z",
+      "publishedAt": "2026-05-25T07:35:43.000Z",
       "category": "tech",
-      "tags": [
-        "AI"
-      ]
+      "tags": []
     },
     {
-      "id": "news-1779682051044-9",
-      "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns - Bloomberg.com",
-      "summary": "Bullion rose to around $4,575 an ounce, erasing a moderate loss from last week. Negotiations on the precise language of the deal were ongoing and it m...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
+      "id": "news-1779767593027-14",
+      "title": "Adnoc’s Tankers Are Slipping Oil, Gas and Fuel Through Hormuz - Bloomberg.com",
+      "summary": "War With Iran:\n\nLatest\n\nGlobal Growth Worries\n\nEnvironmental Disaster Risk\n\nWorld’s Oil Buffer\n\nHormuz Chaos\n\nIsrael, Lebanon Ceasefire\n\nMarkets\n\n# Ab...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/adnoc-s-tankers-are-slipping-oil-gas-and-fuel-through-hormuz",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/adnoc-s-tankers-are-slipping-oil-gas-and-fuel-through-hormuz",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T22:53:34.000Z",
+      "publishedAt": "2026-05-25T06:59:15.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779682051043-3",
-      "title": "Everyone is navigating AI security in real time — even Google - TechCrunch",
-      "summary": "+ Tim Fernholz\n\nLoading the next article\n\nError loading the next article [...] View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear un...",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-24T21:39:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1779682051044-11",
-      "title": "More than 900 suspected Ebola cases identified in DRC, WHO chief says - Reuters",
-      "summary": "Businesscategory · · ago\n\n  Uber’s board met on Saturday to discuss raising ​its offer for Delivery Hero after a major shareholder ‌rebuffed Uber's bi...",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-900-suspected-ebola-cases-identified-drc-who-chief-says-2026-05-24/",
+      "id": "news-1779767593027-9",
+      "title": "Hong Kong locals race up tower of buns at annual festival - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\n# Reuters Video\n\n## Up next in Lifestyle(25 videos) [....",
+      "url": "https://www.reuters.com/video/watch/idRW332325052026RP1/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-900-suspected-ebola-cases-identified-drc-who-chief-says-2026-05-24/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW332325052026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T21:20:09.000Z",
+      "publishedAt": "2026-05-25T06:43:37.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1779767593027-3",
+      "title": "Australia's Guzman y Gomez sued in US over alleged failure to notify staff of closure - Reuters",
+      "summary": "US regulators sign off on large bank 'living wills'\n BP's Whiting Refinery offers revised proposal to union in ongoing talks\n Legalcategory\n\n  Google ...",
+      "url": "https://www.reuters.com/world/asia-pacific/australias-guzman-y-gomez-sued-us-over-alleged-failure-notify-staff-closure-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/australias-guzman-y-gomez-sued-us-over-alleged-failure-notify-staff-closure-2026-05-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-25T05:27:44.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1779682051043-5",
-      "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "id": "news-1779767593026-2",
+      "title": "South Africa's Pick n Pay narrows headline loss as Boxer boosts performance - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n## Read Next\n\n Africacategory\n\n  Benin's Wadagni takes...",
+      "url": "https://www.reuters.com/world/africa/south-africas-pick-n-pay-narrows-headline-loss-boxer-boosts-performance-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/south-africas-pick-n-pay-narrows-headline-loss-boxer-boosts-performance-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T19:00:00.000Z",
+      "publishedAt": "2026-05-25T05:26:22.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1779682051043-1",
-      "title": "6 kitchen gadgets that make adulting feel easier - TechCrunch",
-      "summary": "+ Julie Bort\n Intuit to lay off over 3,000 employees to refocus on AI\n\n  + Ram Iyer\n Google Search as you know it is over\n\n  + Sarah Perez\n Elon Musk ...",
-      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "id": "news-1779767593026-0",
+      "title": "Huawei's 'chip queen' etches her name in China's tech folklore - Reuters",
+      "summary": "Eduardo Baptista\n\nThomson Reuters\n\nEduardo Baptista is a Senior Correspondent for Reuters based in Beijing, covering China’s technology, space, and au...",
+      "url": "https://www.reuters.com/world/china/huaweis-chip-queen-etches-her-name-chinas-tech-folklore-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/huaweis-chip-queen-etches-her-name-chinas-tech-folklore-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T17:00:00.000Z",
+      "publishedAt": "2026-05-25T05:20:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1779682051043-4",
-      "title": "TechCrunch Mobility: Robotaxi reality check - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "id": "news-1779767593027-4",
+      "title": "Australia's spy chief says antisemitism was left unchecked after Gaza war - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n## Read Next\n\n Asia Pacificcategory\n\n  Pakistan Shi'it...",
+      "url": "https://www.reuters.com/world/asia-pacific/australias-spy-chief-says-antisemitism-was-left-unchecked-after-gaza-war-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/australias-spy-chief-says-antisemitism-was-left-unchecked-after-gaza-war-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T16:05:00.000Z",
+      "publishedAt": "2026-05-25T05:11:44.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1779682051043-2",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out - TechCrunch",
-      "summary": "View Bio\n\nMay 27\n\nAthens, Greece\n\nStrictlyVC Athens is up next. Hear unfiltered insights straight from Europe’s tech leaders and connect with the peop...",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-24T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1779682051043-0",
-      "title": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables - Bloomberg.com",
-      "summary": "Last week in Power On: Apple’s new ChatGPT-style Siri app in iOS 27 will have an auto-deleting chats feature.\n\nBefore it's here, it's on the Bloomberg...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-24/apple-watch-needs-shake-up-amid-whoop-oura-google-fitbit-air-airpods-ios-27-mpjuh7ln",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-24/apple-watch-needs-shake-up-amid-whoop-oura-google-fitbit-air-airpods-ios-27-mpjuh7ln",
+      "id": "news-1779767593027-8",
+      "title": "Will they or won't they? - Reuters",
+      "summary": "Still, the reality is that ​a resolution won't ​push oil prices ⁠back to the levels they were before the war and the energy supply chain will take tim...",
+      "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-view-europe-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T14:00:01.000Z",
+      "publishedAt": "2026-05-25T04:33:50.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1779682051044-13",
-      "title": "Philippine Building Collapses, Trapping at Least 30 People - Bloomberg.com",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nMarketsEconomicsTechnologyPoliti...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-24/at-least-30-people-feared-trapped-after-philippine-building-collapses",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/at-least-30-people-feared-trapped-after-philippine-building-collapses",
+      "id": "news-1779767593027-7",
+      "title": "German industry keeps cutting jobs despite first sales rise in three years, EY says - Reuters",
+      "summary": "Reporting by Rene ​Wagner, writing by Maria Martinez; editing by Matthias Williams\n\nOur Standards: The Thomson Reuters Trust Principles., opens new ta...",
+      "url": "https://www.reuters.com/business/german-industry-keeps-cutting-jobs-despite-first-sales-rise-three-years-ey-says-2026-05-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/german-industry-keeps-cutting-jobs-despite-first-sales-rise-three-years-ey-says-2026-05-25/",
       "credibility": "P2",
-      "publishedAt": "2026-05-24T13:05:02.000Z",
+      "publishedAt": "2026-05-25T04:12:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
