@@ -1,204 +1,32 @@
 {
-  "date": "2026-05-29",
-  "generatedAt": "2026-05-29T03:57:00.302Z",
-  "totalItems": 15,
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T03:41:53.027Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1780027020301-2",
-      "title": "Introducing Claude Opus 4.8 - Anthropic",
-      "summary": "> Claude Opus 4.8 is the strongest computer-use and browser-agent model we’ve tested, scoring 84% on Online-Mind2Web, which is a meaningful jump over ...",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8",
-      "credibility": "P0",
-      "publishedAt": "2026-05-28T16:51:43.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020302-15",
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point - TechCrunch",
-      "summary": "View Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unpara...",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "id": "news-1780112513026-1",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "credibility": "P2",
-      "publishedAt": "2026-05-29T00:44:37.000Z",
+      "publishedAt": "2026-05-29T22:14:22.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020301-6",
-      "title": "LLMs believe false statements even after explicit warnings that they’re false - Ars Technica",
-      "summary": "The new study reinforces and builds on previous research showing how LLMs can be resistant to correction on “implanted facts” derived from their train...",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T21:29:43.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1780027020301-0",
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO - TechCrunch",
-      "summary": "“Claude’s latest advancements have driven large-scale adoption among the world’s most demanding organizations. This momentum positions Anthropic to le...",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T18:52:51.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020301-4",
-      "title": "Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI - Bloomberg.com",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE [...] Anthropic:\n\nNew Flagship Model\n\n$965 Billion Valuation\n\nJobs at Anthropic\n\nAndrej K...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T18:36:53.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1780027020301-11",
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures - TechCrunch",
-      "summary": "View Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unpara...",
-      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T18:32:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1780027020301-7",
-      "title": "Anthropic secures $965 billion valuation after raising $65 billion - Reuters",
-      "summary": "# Anthropic secures $965 billion valuation after raising $65 billion | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial...",
-      "url": "https://www.reuters.com/business/anthropic-raises-65-billion-now-valued-965-billion-2026-05-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-raises-65-billion-now-valued-965-billion-2026-05-28/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T18:16:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020301-9",
-      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment - TechCrunch",
-      "summary": "“I don’t worry about Claude ever doing what we do,” Katz said, referring to Anthropic’s popular AI model. He thinks that the data H1 collects on physi...",
-      "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T18:08:37.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020302-14",
-      "title": "Why Paris may be the most important AI city outside Silicon Valley - TechCrunch",
-      "summary": "Chris Pullam\n\nView Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech lea...",
-      "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T17:35:30.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020301-3",
-      "title": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 - Reuters",
-      "summary": "# Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data and a...",
-      "url": "https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T17:00:46.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1780027020301-1",
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool - TechCrunch",
-      "summary": "Russell Brandom\n\nOn Thursday, Anthropic released Opus 4.8, the newest version of its most advanced publicly available model. The model is available ev...",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T17:00:09.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780027020301-13",
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans\n\n  + Sarah Perez\n...",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-28T15:35:43.000Z",
-      "category": "product",
-      "tags": [
-        "GPT",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1780027020301-8",
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch",
-      "summary": "Sarah Perez\n\nJust ahead of Apple’s Worldwide Developers Conference (WWDC) in June, Bloomberg has published leaked renders of what Apple’s planned AI u...",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "id": "news-1780112513025-0",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
+      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "credibility": "P2",
-      "publishedAt": "2026-05-28T14:45:13.000Z",
+      "publishedAt": "2026-05-29T18:49:19.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -207,14 +35,144 @@
       ]
     },
     {
-      "id": "news-1780027020301-5",
-      "title": "RSI is the new AGI — and it’s just as hard to pin down - TechCrunch",
-      "summary": "One of the most prominent is Alex Karpathy, a legendary figure from Tesla and OpenAI, who is using agent swarms to train LLMs on simple tasks for a pr...",
-      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "id": "news-1780112513026-5",
+      "title": "What happens when companies become too AI-pilled? - TechCrunch",
+      "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\n\nView Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird tick...",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "sourceUrl": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
       "credibility": "P2",
-      "publishedAt": "2026-05-28T14:30:17.000Z",
+      "publishedAt": "2026-05-29T17:57:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-9",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M - TechCrunch",
+      "summary": "October 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unparalleled net...",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T17:27:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-6",
+      "title": "Exclusive: Meta tool to track employee mouse clicks on collision course with EU privacy rules - Reuters",
+      "summary": "## EMPLOYEE BACKLASH OVER DATA SCOPE\n\nThe MCI project is part of a far-reaching restructuring at Meta aimed at handing large swaths of work over to AI...",
+      "url": "https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T16:31:44.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1780112513026-3",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans - TechCrunch",
+      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T16:13:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1780112513026-12",
+      "title": "US senator presses TikTok US joint venture and Oracle on user data safeguards - Reuters",
+      "summary": "Video 3\n\nVideo 4\n\nVideo 5\n\nVideo 6\n\nVideo 7\n\nVideo 8\n\nReporting by David Shepardson; Editing by Sanjeev Miglani\n\nOur Standards: The Thomson Reuters Tr...",
+      "url": "https://www.reuters.com/world/democratic-senator-wants-tiktok-us-jv-oracle-answer-questions-platform-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/democratic-senator-wants-tiktok-us-jv-oracle-answer-questions-platform-2026-05-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T14:43:19.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-7",
+      "title": "OpenAI gives Japan banks access to latest model, finance minister says - Reuters",
+      "summary": "### Image 6: Rescuers find five trapped in Laos cave in ongoing search 01:02 Rescuers find five trapped in Laos cave in ongoing search\n\n   ### Image 7...",
+      "url": "https://www.reuters.com/video/watch/idRW450329052026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW450329052026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T12:52:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-8",
+      "title": "Lawyers, meet your AI 'twin' - Reuters",
+      "summary": "The 375-attorney firm is rolling out one of the more eye-catching uses of legal AI that I’ve heard about recently.\n\nJumpstart your morning with the la...",
+      "url": "https://www.reuters.com/legal/litigation/lawyers-meet-your-ai-twin-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/lawyers-meet-your-ai-twin-2026-05-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T10:09:04.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-10",
+      "title": "The Nightmare of Finding a Summer Internship in the Age of AI - Bloomberg.com",
+      "summary": "The AI Race:\n\nAI Billionaires\n\nHeavy Job Losses\n\nStanChart CEO Apology\n\nChina’s AI Talent Travel Curbs\n\nAI Drug Development\n\nBonanza or Bubble?\n\nBusin...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-both-friend-and-foe-to-college-students-seeking-summer-internships",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-both-friend-and-foe-to-college-students-seeking-summer-internships",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T10:00:04.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-11",
+      "title": "Dell rallies about 40% on strong Nvidia‑powered AI server demand - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Retail & Consumer\n\n    \n    \n    \n    \n    \n\nPurchase Lic...",
+      "url": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T09:07:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780112513026-2",
+      "title": "OpenAI gives Japan banks access to latest model, Japan's finance minister says - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nOne defence for the banks and ⁠other companies at risk of being destablilised is early access to ​the new models t...",
+      "url": "https://www.reuters.com/world/asia-pacific/openai-gives-japan-banks-access-latest-model-japans-finance-minister-says-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/openai-gives-japan-banks-access-latest-model-japans-finance-minister-says-2026-05-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-29T07:44:38.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -223,26 +181,25 @@
       ]
     },
     {
-      "id": "news-1780027020301-12",
-      "title": "Has the hunt for AI compute uncovered the next Cerebras? - TechCrunch",
-      "summary": "Speed matters in that calculation, for price, and for capability. Puklowski wants to turn hour-long workloads for coding agents into five- or ten-minu...",
-      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "id": "news-1780112513026-4",
+      "title": "What if the AI boom goes into reverse? - Reuters",
+      "summary": "# What if the AI boom goes into reverse? | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn ...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
       "credibility": "P2",
-      "publishedAt": "2026-05-28T13:00:00.000Z",
+      "publishedAt": "2026-05-29T07:10:02.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
-        "AI",
-        "RAG"
+        "OpenAI",
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
