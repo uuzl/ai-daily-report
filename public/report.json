@@ -1,205 +1,190 @@
 {
-  "date": "2026-05-30",
-  "generatedAt": "2026-05-30T03:41:53.027Z",
-  "totalItems": 13,
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T04:08:34.706Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1780112513026-1",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "id": "news-1780200514706-8",
+      "title": "China's factory activity flat in May, PMI shows - Reuters",
+      "summary": "Reporting by ⁠Ethan ​Wang, Yukun ​Zhang and Ryan Woo; ​Editing by Sonali Paul\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPu...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
       "credibility": "P2",
-      "publishedAt": "2026-05-29T22:14:22.000Z",
+      "publishedAt": "2026-05-31T01:39:50.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514706-11",
+      "title": "Grit and patience pay off as PSG find another way to triumph - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/soccer/grit-patience-pay-off-psg-find-another-way-triumph-2026-05-30/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/soccer/grit-patience-pay-off-psg-find-another-way-triumph-2026-05-30/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T20:43:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514706-6",
+      "title": "SoftBank to build up AI data centres in France with major investment - Reuters",
+      "summary": "The French commitment adds to a ​global AI infrastructure spending spree by SoftBank. ​Its ⁠investments in AI also include over $30 billion invested i...",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T19:02:10.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514705-4",
+      "title": "Snap alums unveil Ghost Angels fund - TechCrunch",
+      "summary": "You can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nView ...",
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514706-5",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs - TechCrunch",
+      "summary": "Lucas Ropek\n\nSenior Writer, TechCrunch\n\nLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. ...",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T16:30:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
+        "RAG",
         "Agent"
       ]
     },
     {
-      "id": "news-1780112513025-0",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
-      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "id": "news-1780200514706-7",
+      "title": "Meta is reportedly developing an AI pendant - TechCrunch",
+      "summary": "Anthony Ha\n\n# Meta is reportedly developing an AI pendant\n\nMeta is developing an AI-powered pendant that it plans to start testing in the next year, a...",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "credibility": "P2",
-      "publishedAt": "2026-05-29T18:49:19.000Z",
+      "publishedAt": "2026-05-30T15:59:58.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514705-0",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T15:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514705-2",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy - TechCrunch",
+      "summary": "View Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unpara...",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T14:49:27.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1780112513026-5",
-      "title": "What happens when companies become too AI-pilled? - TechCrunch",
-      "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\n\nView Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird tick...",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "id": "news-1780200514705-1",
+      "title": "How one founder’s bet on ‘the old school web’ is paying off - The Verge",
+      "summary": "Campbell is also using AI to help build an OCR tool — Optical Character Recognition — that will work with old maps. “Cartographers are assholes,” Camp...",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
       "credibility": "P2",
-      "publishedAt": "2026-05-29T17:57:05.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-9",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M - TechCrunch",
-      "summary": "October 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unparalleled net...",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T17:27:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-6",
-      "title": "Exclusive: Meta tool to track employee mouse clicks on collision course with EU privacy rules - Reuters",
-      "summary": "## EMPLOYEE BACKLASH OVER DATA SCOPE\n\nThe MCI project is part of a far-reaching restructuring at Meta aimed at handing large swaths of work over to AI...",
-      "url": "https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T16:31:44.000Z",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "Agent"
+        "LLM"
       ]
     },
     {
-      "id": "news-1780112513026-3",
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans - TechCrunch",
-      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "id": "news-1780200514705-3",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 - TechCrunch",
+      "summary": "+ Sean O'Kane\n Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool\n\n  + Russell Brandom\n Meta launches Instagram, Facebook, and WhatsApp subs...",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "credibility": "P2",
-      "publishedAt": "2026-05-29T16:13:47.000Z",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "category": "hot",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780200514706-9",
+      "title": "AUKUS to develop unmanned undersea vehicles, Pentagon chief says - Reuters",
+      "summary": "11 hours agoAsia Pacific categoryRescuers pull first trapped person from flooded Laos cave , opens new tab [...] ### Stay Informed\n\n   Download the Ap...",
+      "url": "https://www.reuters.com/world/asia-pacific/aukus-develop-unmanned-undersea-vehicles-pentagon-chief-says-2026-05-30/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/aukus-develop-unmanned-undersea-vehicles-pentagon-chief-says-2026-05-30/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T08:57:05.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1780200514706-10",
+      "title": "'Where is China' ask delegates at Asian defence forum - Reuters",
+      "summary": "Worldcategory · · 1 hour ago\n\n  Voting in parliamentary elections opened in Malta on Saturday, with opinion polls showing the ruling Labour Party on c...",
+      "url": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-30T06:31:43.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780112513026-12",
-      "title": "US senator presses TikTok US joint venture and Oracle on user data safeguards - Reuters",
-      "summary": "Video 3\n\nVideo 4\n\nVideo 5\n\nVideo 6\n\nVideo 7\n\nVideo 8\n\nReporting by David Shepardson; Editing by Sanjeev Miglani\n\nOur Standards: The Thomson Reuters Tr...",
-      "url": "https://www.reuters.com/world/democratic-senator-wants-tiktok-us-jv-oracle-answer-questions-platform-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/democratic-senator-wants-tiktok-us-jv-oracle-answer-questions-platform-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T14:43:19.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-7",
-      "title": "OpenAI gives Japan banks access to latest model, finance minister says - Reuters",
-      "summary": "### Image 6: Rescuers find five trapped in Laos cave in ongoing search 01:02 Rescuers find five trapped in Laos cave in ongoing search\n\n   ### Image 7...",
-      "url": "https://www.reuters.com/video/watch/idRW450329052026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW450329052026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T12:52:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-8",
-      "title": "Lawyers, meet your AI 'twin' - Reuters",
-      "summary": "The 375-attorney firm is rolling out one of the more eye-catching uses of legal AI that I’ve heard about recently.\n\nJumpstart your morning with the la...",
-      "url": "https://www.reuters.com/legal/litigation/lawyers-meet-your-ai-twin-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/lawyers-meet-your-ai-twin-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T10:09:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-10",
-      "title": "The Nightmare of Finding a Summer Internship in the Age of AI - Bloomberg.com",
-      "summary": "The AI Race:\n\nAI Billionaires\n\nHeavy Job Losses\n\nStanChart CEO Apology\n\nChina’s AI Talent Travel Curbs\n\nAI Drug Development\n\nBonanza or Bubble?\n\nBusin...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-both-friend-and-foe-to-college-students-seeking-summer-internships",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-both-friend-and-foe-to-college-students-seeking-summer-internships",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T10:00:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-11",
-      "title": "Dell rallies about 40% on strong Nvidia‑powered AI server demand - Reuters",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Retail & Consumer\n\n    \n    \n    \n    \n    \n\nPurchase Lic...",
-      "url": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T09:07:37.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780112513026-2",
-      "title": "OpenAI gives Japan banks access to latest model, Japan's finance minister says - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nOne defence for the banks and ⁠other companies at risk of being destablilised is early access to ​the new models t...",
-      "url": "https://www.reuters.com/world/asia-pacific/openai-gives-japan-banks-access-latest-model-japans-finance-minister-says-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/openai-gives-japan-banks-access-latest-model-japans-finance-minister-says-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T07:44:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1780112513026-4",
-      "title": "What if the AI boom goes into reverse? - Reuters",
-      "summary": "# What if the AI boom goes into reverse? | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-29T07:10:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 12
   },
   "summary": ""
 }
