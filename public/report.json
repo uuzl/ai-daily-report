@@ -1,45 +1,17 @@
 {
-  "date": "2026-05-31",
-  "generatedAt": "2026-05-31T04:08:34.706Z",
-  "totalItems": 12,
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T04:22:52.348Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1780200514706-8",
-      "title": "China's factory activity flat in May, PMI shows - Reuters",
-      "summary": "Reporting by ⁠Ethan ​Wang, Yukun ​Zhang and Ryan Woo; ​Editing by Sonali Paul\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPu...",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
+      "id": "news-1780287772347-11",
+      "title": "AI boom drives South Korean export growth to four-decade high - Reuters",
+      "summary": "### Image 6: OpenAI gives Japan banks access to latest model, finance minister says 00:59 OpenAI gives Japan banks access to latest model, finance min...",
+      "url": "https://www.reuters.com/video/watch/idRW495601062026RP1",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW495601062026RP1",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T01:39:50.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514706-11",
-      "title": "Grit and patience pay off as PSG find another way to triumph - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/soccer/grit-patience-pay-off-psg-find-another-way-triumph-2026-05-30/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/soccer/grit-patience-pay-off-psg-find-another-way-triumph-2026-05-30/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T20:43:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514706-6",
-      "title": "SoftBank to build up AI data centres in France with major investment - Reuters",
-      "summary": "The French commitment adds to a ​global AI infrastructure spending spree by SoftBank. ​Its ⁠investments in AI also include over $30 billion invested i...",
-      "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T19:02:10.000Z",
+      "publishedAt": "2026-06-01T03:49:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -47,144 +19,208 @@
       ]
     },
     {
-      "id": "news-1780200514705-4",
-      "title": "Snap alums unveil Ghost Angels fund - TechCrunch",
-      "summary": "You can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nView ...",
-      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514706-5",
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs - TechCrunch",
-      "summary": "Lucas Ropek\n\nSenior Writer, TechCrunch\n\nLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. ...",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T16:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780200514706-7",
-      "title": "Meta is reportedly developing an AI pendant - TechCrunch",
-      "summary": "Anthony Ha\n\n# Meta is reportedly developing an AI pendant\n\nMeta is developing an AI-powered pendant that it plans to start testing in the next year, a...",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T15:59:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514705-0",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T15:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514705-2",
-      "title": "The groupthink boom: what three top VCs really think about the AI frenzy - TechCrunch",
-      "summary": "View Bio\n\nOctober 13-15\n\nSan Francisco\n\nEarly Bird ticket savings of up to $410 end May 29, 11:59 p.m. PT. Connect with 10,000+ tech leaders in unpara...",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T14:49:27.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514705-1",
-      "title": "How one founder’s bet on ‘the old school web’ is paying off - The Verge",
-      "summary": "Campbell is also using AI to help build an OCR tool — Optical Character Recognition — that will work with old maps. “Cartographers are assholes,” Camp...",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1780200514705-3",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 - TechCrunch",
-      "summary": "+ Sean O'Kane\n Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool\n\n  + Russell Brandom\n Meta launches Instagram, Facebook, and WhatsApp subs...",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780200514706-9",
-      "title": "AUKUS to develop unmanned undersea vehicles, Pentagon chief says - Reuters",
-      "summary": "11 hours agoAsia Pacific categoryRescuers pull first trapped person from flooded Laos cave , opens new tab [...] ### Stay Informed\n\n   Download the Ap...",
-      "url": "https://www.reuters.com/world/asia-pacific/aukus-develop-unmanned-undersea-vehicles-pentagon-chief-says-2026-05-30/",
+      "id": "news-1780287772347-6",
+      "title": "Japan's Nikkei tops 67,000 for first time on AI boost; SoftBank becomes Japan's most valuable firm - Reuters",
+      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-nikkei-tops-67000-first-time-ai-boost-softbank-becomes-japans-most-2026-06-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/aukus-develop-unmanned-undersea-vehicles-pentagon-chief-says-2026-05-30/",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japans-nikkei-tops-67000-first-time-ai-boost-softbank-becomes-japans-most-2026-06-01/",
       "credibility": "P2",
-      "publishedAt": "2026-05-30T08:57:05.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1780200514706-10",
-      "title": "'Where is China' ask delegates at Asian defence forum - Reuters",
-      "summary": "Worldcategory · · 1 hour ago\n\n  Voting in parliamentary elections opened in Malta on Saturday, with opinion polls showing the ruling Labour Party on c...",
-      "url": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-30T06:31:43.000Z",
+      "publishedAt": "2026-06-01T03:29:12.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "RAG"
+      ]
+    },
+    {
+      "id": "news-1780287772347-9",
+      "title": "China toughens rules on outbound investment after Meta-Manus contention - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-01T02:34:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-13",
+      "title": "Asia stocks count on AI boom to offset Gulf risks - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-01T00:55:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-10",
+      "title": "Nvidia CEO to kick off and dominate Computex gathering in Taipei - Reuters",
+      "summary": "Purchase Licensing Rights\n\n\n   , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new t...",
+      "url": "https://www.reuters.com/world/china/nvidia-ceo-kick-off-dominate-computex-gathering-taipei-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/nvidia-ceo-kick-off-dominate-computex-gathering-taipei-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T23:05:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-7",
+      "title": "Asia’s AI chip boom could spark regional economic renaissance - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/asias-ai-chip-boom-could-spark-regional-economic-renaissance-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-ai-chip-boom-could-spark-regional-economic-renaissance-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T23:04:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-4",
+      "title": "The Week in Breakingviews: The AI backlash arrives - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T22:45:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-1",
+      "title": "Erin Brockovich takes aim at data center secrecy - TechCrunch",
+      "summary": "June 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Th...",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T21:05:14.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-5",
+      "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters",
+      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
+      "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T20:09:53.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-12",
+      "title": "Stablecoin demand may soon fade, BoE's Greene says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Financecategory\n\n  Inflation fight again putting central bank independence under strain, policymakers say\n F...",
+      "url": "https://www.reuters.com/business/finance/stablecoin-demand-may-soon-fade-boes-greene-says-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/stablecoin-demand-may-soon-fade-boes-greene-says-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T15:30:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-2",
+      "title": "Making sense of the debate over AI psychosis - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T15:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-0",
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch - TechCrunch",
+      "summary": "Dominic-Madori Davis\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in N...",
+      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772347-3",
+      "title": "Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches - Bloomberg.com",
+      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\n### More From Bloomberg\n\nUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedS...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T14:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780287772348-14",
+      "title": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic - Bloomberg.com",
+      "summary": "The AI Race:\n\nAI Billionaires\n\nHeavy Job Losses\n\nStanChart CEO Apology\n\nChina’s AI Talent Travel Curbs\n\nAI Drug Development\n\nBonanza or Bubble?\n\nMarke...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T13:00:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1780287772347-8",
+      "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/world/china/great-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/great-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31/",
+      "credibility": "P2",
+      "publishedAt": "2026-05-31T07:34:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
