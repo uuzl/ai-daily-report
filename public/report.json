@@ -1,32 +1,49 @@
 {
-  "date": "2026-06-01",
-  "generatedAt": "2026-06-01T04:22:52.348Z",
-  "totalItems": 15,
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T04:16:09.483Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1780287772347-11",
-      "title": "AI boom drives South Korean export growth to four-decade high - Reuters",
-      "summary": "### Image 6: OpenAI gives Japan banks access to latest model, finance minister says 00:59 OpenAI gives Japan banks access to latest model, finance min...",
-      "url": "https://www.reuters.com/video/watch/idRW495601062026RP1",
+      "id": "news-1780373769483-7",
+      "title": "VIEW Anthropic IPO filing ratifies Wall Street's AI obsession - Reuters",
+      "summary": "\"We're about to find out whether the market thinks AI is a consumer story or an enterprise story. Because while Claude has built a solid enterprise us...",
+      "url": "https://www.reuters.com/legal/transactional/view-anthropic-ipo-filing-ratifies-wall-streets-ai-obsession-2026-06-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW495601062026RP1",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/view-anthropic-ipo-filing-ratifies-wall-streets-ai-obsession-2026-06-01/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T03:49:59.000Z",
+      "publishedAt": "2026-06-01T20:13:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1780373769482-5",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents - TechCrunch",
+      "summary": "+ Sean O'Kane\n Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool\n\n  + Russell Brandom\n Google engineer charged with insider trading after m...",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-01T20:03:40.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-6",
-      "title": "Japan's Nikkei tops 67,000 for first time on AI boost; SoftBank becomes Japan's most valuable firm - Reuters",
-      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-nikkei-tops-67000-first-time-ai-boost-softbank-becomes-japans-most-2026-06-01/",
+      "id": "news-1780373769483-11",
+      "title": "AI-driven labor displacement risks to remain low in near term, Bridgewater says - Reuters",
+      "summary": "Reporting by Ragini ​Mathur in Bengaluru; Editing by Shilpi Majumdar\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Li...",
+      "url": "https://www.reuters.com/business/world-at-work/ai-driven-labor-displacement-risks-remain-low-near-term-bridgewater-says-2026-06-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japans-nikkei-tops-67000-first-time-ai-boost-softbank-becomes-japans-most-2026-06-01/",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/ai-driven-labor-displacement-risks-remain-low-near-term-bridgewater-says-2026-06-01/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T03:29:12.000Z",
+      "publishedAt": "2026-06-01T19:55:36.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -34,168 +51,124 @@
       ]
     },
     {
-      "id": "news-1780287772347-9",
-      "title": "China toughens rules on outbound investment after Meta-Manus contention - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "id": "news-1780373769483-8",
+      "title": "Florida becomes first state to sue OpenAI over child safety risks - Reuters",
+      "summary": "OpenAI has said it trains its models to refuse requests that could \"meaningfully enable violence,\" and notifies ‌law ⁠enforcement when conversations s...",
+      "url": "https://www.reuters.com/legal/litigation/florida-becomes-first-state-sue-openai-over-child-safety-risks-2026-06-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/florida-becomes-first-state-sue-openai-over-child-safety-risks-2026-06-01/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T02:34:05.000Z",
+      "publishedAt": "2026-06-01T19:47:26.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-13",
-      "title": "Asia stocks count on AI boom to offset Gulf risks - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-01/",
+      "id": "news-1780373769482-3",
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders - Ars Technica",
+      "summary": "“As these examples show, ChatGPT proactively aids, abets, and promotes dangerous activities and is a threat to the public safety of Floridians,” the l...",
+      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T00:55:22.000Z",
+      "publishedAt": "2026-06-01T18:52:19.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-10",
-      "title": "Nvidia CEO to kick off and dominate Computex gathering in Taipei - Reuters",
-      "summary": "Purchase Licensing Rights\n\n\n   , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new t...",
-      "url": "https://www.reuters.com/world/china/nvidia-ceo-kick-off-dominate-computex-gathering-taipei-2026-05-31/",
+      "id": "news-1780373769482-1",
+      "title": "Anthropic confidentially files for US IPO, beating OpenAI - Reuters",
+      "summary": "The move sets up a high-stakes test of whether investor appetite for the AI revolution that has reshaped white-collar work around the world can match ...",
+      "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/nvidia-ceo-kick-off-dominate-computex-gathering-taipei-2026-05-31/",
+      "sourceUrl": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T23:05:43.000Z",
+      "publishedAt": "2026-06-01T17:24:48.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-7",
-      "title": "Asia’s AI chip boom could spark regional economic renaissance - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/asias-ai-chip-boom-could-spark-regional-economic-renaissance-2026-05-31/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/asias-ai-chip-boom-could-spark-regional-economic-renaissance-2026-05-31/",
+      "id": "news-1780373769482-2",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever - WIRED",
+      "summary": "Anthropic, led by CEO Dario Amodei, joins a crowded space. OpenAI is rumored to be targeting its own public offering as soon as September. SpaceX, whi...",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T23:04:55.000Z",
+      "publishedAt": "2026-06-01T17:17:58.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-4",
-      "title": "The Week in Breakingviews: The AI backlash arrives - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-31T22:45:22.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780287772347-1",
-      "title": "Erin Brockovich takes aim at data center secrecy - TechCrunch",
-      "summary": "June 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Th...",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "id": "news-1780373769482-0",
+      "title": "Anthropic files to go public - TechCrunch",
+      "summary": "It also comes as its rival OpenAI continues to raise funding, notably a $122 billion round in March at an $852 billion post-money valuation. OpenAI is...",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T21:05:14.000Z",
+      "publishedAt": "2026-06-01T16:36:55.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1780287772347-5",
-      "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters",
-      "summary": "### Follow Us\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news an...",
-      "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-31T20:09:53.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780287772347-12",
-      "title": "Stablecoin demand may soon fade, BoE's Greene says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Financecategory\n\n  Inflation fight again putting central bank independence under strain, policymakers say\n F...",
-      "url": "https://www.reuters.com/business/finance/stablecoin-demand-may-soon-fade-boes-greene-says-2026-05-31/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/stablecoin-demand-may-soon-fade-boes-greene-says-2026-05-31/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-31T15:30:09.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780287772347-2",
-      "title": "Making sense of the debate over AI psychosis - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with n...",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-31T15:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780287772347-0",
-      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch - TechCrunch",
-      "summary": "Dominic-Madori Davis\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in N...",
-      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-      "credibility": "P2",
-      "publishedAt": "2026-05-31T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780287772347-3",
-      "title": "Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches - Bloomberg.com",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\n### More From Bloomberg\n\nUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedS...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+      "id": "news-1780373769482-4",
+      "title": "Anthropic Files Confidentially for IPO As Claude Demand Surges - Bloomberg.com",
+      "summary": "Anthropic:\n\nIPO Filing\n\nBillionaire Founders\n\nNew Mythos-Level Models\n\nWhat Is Mythos?\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\nAI\n\n# Anthropi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-files-confidentially-for-ipo-as-claude-demand-surges",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-files-confidentially-for-ipo-as-claude-demand-surges",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T14:00:01.000Z",
+      "publishedAt": "2026-06-01T16:23:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780373769483-9",
+      "title": "This AI weather startup is out-forecasting government agencies - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-01T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780287772348-14",
-      "title": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic - Bloomberg.com",
-      "summary": "The AI Race:\n\nAI Billionaires\n\nHeavy Job Losses\n\nStanChart CEO Apology\n\nChina’s AI Talent Travel Curbs\n\nAI Drug Development\n\nBonanza or Bubble?\n\nMarke...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic",
+      "id": "news-1780373769483-10",
+      "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos - Bloomberg.com",
+      "summary": "The generative AI company is going to let ENISA join Project Glasswing, an initiative to let key organizations test Mythos capabilities before it’s re...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T13:00:07.000Z",
+      "publishedAt": "2026-06-01T12:00:04.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -203,16 +176,17 @@
       ]
     },
     {
-      "id": "news-1780287772347-8",
-      "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/world/china/great-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/great-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31/",
+      "id": "news-1780373769483-6",
+      "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip - Bloomberg.com",
+      "summary": "Company co-founder and Chief Executive Officer Jensen Huang name-dropped the artificial intelligence developers in a presentation at the Computex conf...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
       "credibility": "P2",
-      "publishedAt": "2026-05-31T07:34:37.000Z",
+      "publishedAt": "2026-06-01T04:56:10.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     }
@@ -220,7 +194,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 12
   },
   "summary": ""
 }
