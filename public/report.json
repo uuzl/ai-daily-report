@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-02",
-  "generatedAt": "2026-06-02T04:16:09.483Z",
-  "totalItems": 12,
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T04:25:45.122Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1780373769483-7",
-      "title": "VIEW Anthropic IPO filing ratifies Wall Street's AI obsession - Reuters",
-      "summary": "\"We're about to find out whether the market thinks AI is a consumer story or an enterprise story. Because while Claude has built a solid enterprise us...",
-      "url": "https://www.reuters.com/legal/transactional/view-anthropic-ipo-filing-ratifies-wall-streets-ai-obsession-2026-06-01/",
+      "id": "news-1780460745120-0",
+      "title": "ChatGPT app hits 1 billion monthly active users in record time, data shows - Reuters",
+      "summary": "ChatGPT ⁠reached 1 billion MAUs in May, roughly ​three years after launch, surpassing the pace ​set by apps including Google Maps, TikTok, Instagram a...",
+      "url": "https://www.reuters.com/technology/chatgpt-app-hits-1-billion-monthly-active-users-record-time-data-shows-2026-06-02/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/view-anthropic-ipo-filing-ratifies-wall-streets-ai-obsession-2026-06-01/",
+      "sourceUrl": "https://www.reuters.com/technology/chatgpt-app-hits-1-billion-monthly-active-users-record-time-data-shows-2026-06-02/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T20:13:11.000Z",
+      "publishedAt": "2026-06-02T22:22:03.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,155 +20,14 @@
       ]
     },
     {
-      "id": "news-1780373769482-5",
-      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents - TechCrunch",
-      "summary": "+ Sean O'Kane\n Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool\n\n  + Russell Brandom\n Google engineer charged with insider trading after m...",
-      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "id": "news-1780460745121-6",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions - TechCrunch",
+      "summary": "You can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\n\nView Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes ...",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T20:03:40.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769483-11",
-      "title": "AI-driven labor displacement risks to remain low in near term, Bridgewater says - Reuters",
-      "summary": "Reporting by Ragini ​Mathur in Bengaluru; Editing by Shilpi Majumdar\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Li...",
-      "url": "https://www.reuters.com/business/world-at-work/ai-driven-labor-displacement-risks-remain-low-near-term-bridgewater-says-2026-06-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/ai-driven-labor-displacement-risks-remain-low-near-term-bridgewater-says-2026-06-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T19:55:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1780373769483-8",
-      "title": "Florida becomes first state to sue OpenAI over child safety risks - Reuters",
-      "summary": "OpenAI has said it trains its models to refuse requests that could \"meaningfully enable violence,\" and notifies ‌law ⁠enforcement when conversations s...",
-      "url": "https://www.reuters.com/legal/litigation/florida-becomes-first-state-sue-openai-over-child-safety-risks-2026-06-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/florida-becomes-first-state-sue-openai-over-child-safety-risks-2026-06-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T19:47:26.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769482-3",
-      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders - Ars Technica",
-      "summary": "“As these examples show, ChatGPT proactively aids, abets, and promotes dangerous activities and is a threat to the public safety of Floridians,” the l...",
-      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T18:52:19.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769482-1",
-      "title": "Anthropic confidentially files for US IPO, beating OpenAI - Reuters",
-      "summary": "The move sets up a high-stakes test of whether investor appetite for the AI revolution that has reshaped white-collar work around the world can match ...",
-      "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T17:24:48.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769482-2",
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever - WIRED",
-      "summary": "Anthropic, led by CEO Dario Amodei, joins a crowded space. OpenAI is rumored to be targeting its own public offering as soon as September. SpaceX, whi...",
-      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T17:17:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769482-0",
-      "title": "Anthropic files to go public - TechCrunch",
-      "summary": "It also comes as its rival OpenAI continues to raise funding, notably a $122 billion round in March at an $852 billion post-money valuation. OpenAI is...",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T16:36:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769482-4",
-      "title": "Anthropic Files Confidentially for IPO As Claude Demand Surges - Bloomberg.com",
-      "summary": "Anthropic:\n\nIPO Filing\n\nBillionaire Founders\n\nNew Mythos-Level Models\n\nWhat Is Mythos?\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\nAI\n\n# Anthropi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-files-confidentially-for-ipo-as-claude-demand-surges",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-files-confidentially-for-ipo-as-claude-demand-surges",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T16:23:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769483-9",
-      "title": "This AI weather startup is out-forecasting government agencies - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780373769483-10",
-      "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos - Bloomberg.com",
-      "summary": "The generative AI company is going to let ENISA join Project Glasswing, an initiative to let key organizations test Mythos capabilities before it’s re...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-      "credibility": "P2",
-      "publishedAt": "2026-06-01T12:00:04.000Z",
+      "publishedAt": "2026-06-02T19:02:21.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -176,25 +35,209 @@
       ]
     },
     {
-      "id": "news-1780373769483-6",
-      "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip - Bloomberg.com",
-      "summary": "Company co-founder and Chief Executive Officer Jensen Huang name-dropped the artificial intelligence developers in a presentation at the Computex conf...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+      "id": "news-1780460745121-13",
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI - TechCrunch",
+      "summary": "+ Lucas Ropek\n AI\n\n  ### New Microsoft tool lets devs spin up AI behavior tests using text descriptions\n\n  + Ram Iyer\n In Brief\n\n  ### Martin Scorsese...",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-06-01T04:56:10.000Z",
+      "publishedAt": "2026-06-02T18:16:53.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780460745121-10",
+      "title": "Microsoft’s first advanced reasoning AI is here - The Verge",
+      "summary": "MAI-Image 2.5 and the flash version can do text-to-image and image editing. MAI-Transcribe-1.5 is “five times faster than competing models.” MAI-Voice...",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T18:12:44.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780460745121-8",
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T18:02:44.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780460745121-11",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### OpenAI launches new Codex tools for wh...",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T16:23:08.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1780460745121-2",
+      "title": "OpenAI launches new Codex tools for white-collar work - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n ‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs\n\n  + Lucas Ropek\n I put Google’...",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T16:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1780460745121-5",
+      "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape - TechCrunch",
+      "summary": "+ Sarah Perez\n Blue Origin’s New Glenn rocket explodes during testing in Florida\n\n  + Sean O'Kane\n Anthropic releases Opus 4.8 with new ‘dynamic workf...",
+      "url": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T15:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780460745121-7",
+      "title": "How Europe’s AI strategy diverges from Silicon Valley’s - TechCrunch",
+      "summary": "Chris Pullam\n\nView Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund,...",
+      "url": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T15:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780460745121-14",
+      "title": "AI demand, earnings optimism lift tech giants' market value in May - Reuters",
+      "summary": "Video 2\n\nVideo 3\n\nVideo 4\n\nVideo 5\n\nVideo 6\n\nVideo 7\n\nVideo 8\n\nReporting ​by Gaurav Dogra in Bengaluru; Editing by Emelia Sithole-Matarise\n\nOur Standa...",
+      "url": "https://www.reuters.com/business/global-markets-marketcap-graphics-2026-06-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/global-markets-marketcap-graphics-2026-06-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T14:58:59.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780460745121-1",
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n ‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs\n\n  + Lucas Ropek\n I put Google’...",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T14:44:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1780460745121-3",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves - TechCrunch",
+      "summary": "+ Lucas Ropek\n I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful\n\n  + Sarah Perez\n Blue Origin’s New Glenn rocket...",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T12:32:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1780460745121-12",
+      "title": "Microsoft teases new era of AI-driven devices at software developer conference - Reuters",
+      "summary": "\"It's a new ​platform, but perhaps more importantly, it's a set of new platform rules that don't, in some sense, hem in what you can imagine,\" ​Micros...",
+      "url": "https://www.reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T10:06:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1780460745121-4",
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation - WIRED",
+      "summary": "Maxwell Zeff\n\nThe Real Losers of the Musk v. Altman Trial\n\nA federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sa...",
+      "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T09:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1780460745121-9",
+      "title": "Australia's CBA flags surging AI costs as tasks grow complex, slams 'work slop' - Reuters",
+      "summary": "Reporting by Byron Kaye\nEditing by Shri Navaratnam\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n##...",
+      "url": "https://www.reuters.com/business/finance/australias-cba-flags-surging-ai-costs-tasks-grow-complex-slams-work-slop-2026-06-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/australias-cba-flags-surging-ai-costs-tasks-grow-complex-slams-work-slop-2026-06-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-02T04:28:37.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "TPU"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
