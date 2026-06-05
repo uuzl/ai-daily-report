@@ -1,142 +1,17 @@
 {
-  "date": "2026-06-04",
-  "generatedAt": "2026-06-04T04:20:37.161Z",
-  "totalItems": 15,
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T04:04:07.891Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1780546837160-16",
-      "title": "Bank of America to hire interns, campus recruits despite AI threat - Reuters",
-      "summary": "### LSEG Products\n\n   #### Workspace, opens new tab\nAccess unmatched financial data, news and content in a highly-customised workflow experience on de...",
-      "url": "https://www.reuters.com/business/finance/bank-america-hire-interns-campus-recruits-despite-ai-threat-2026-06-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/bank-america-hire-interns-campus-recruits-despite-ai-threat-2026-06-03/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T19:52:15.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780546837160-5",
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal - TechCrunch",
-      "summary": "The timing matters beyond Alphabet itself. As Anthropic gets ready to go public, this enormously successful stock sale is a very good sign for the bro...",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T19:38:32.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780546837160-7",
-      "title": "Google's new Gemma 4 open AI model is sized for your laptop - Ars Technica",
-      "summary": "With the new mid-weight model, Google has implemented a streamlined embedding module for vision, featuring single-matrix multiplication and positional...",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T19:10:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780546837160-8",
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Anthropic files to go public\n\n...",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T19:07:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780546837160-14",
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity - WIRED",
-      "summary": "## Comments\n\nBack to top\n\n## You Might Also Like\n\n In your inbox: Maxwell Zeff's dispatch on the business of AI\n Amazon thinks the future of data cent...",
-      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T18:49:32.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780546837160-0",
-      "title": "OpenAI's Altman to urge US lawmakers not to require AI model approvals - Reuters",
-      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
-      "url": "https://www.reuters.com/business/openais-altman-urge-us-lawmakers-not-require-ai-model-approvals-2026-06-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openais-altman-urge-us-lawmakers-not-require-ai-model-approvals-2026-06-03/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T18:28:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780546837160-10",
-      "title": "Meta enters enterprise AI race with new business agent - Reuters",
-      "summary": "Car supplier Valeo shares soar on bets over data centre growth\n Businesscategory\n\n  EU targets Big Tech dependence with 'made-in-Europe' drive\n Busine...",
-      "url": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T15:20:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1780546837160-4",
-      "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T14:59:30.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780546837160-3",
-      "title": "Microsoft AI chief Mustafa Suleyman says there are three labs that matter — and he wants Microsoft to be the fourth. - The Verge",
-      "summary": "“The goal is to prove that we can become one of the top four labs in the world,” Suleyman said. “There’s three labs that matter, Google DeepMind, Open...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "credibility": "P2",
-      "publishedAt": "2026-06-03T14:04:00.000Z",
+      "id": "news-1780632247890-0",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT - OpenAI",
+      "summary": "Saved memories were only written during the conversation and relied on strong cues to decide when to trigger memory, such as an instruction to \"rememb...",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "credibility": "P0",
+      "publishedAt": "2026-06-04T16:07:30.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -145,99 +20,204 @@
       ]
     },
     {
-      "id": "news-1780546837160-6",
-      "title": "The worst hacks and breaches of 2026 (so far) - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Anthropic files to go public\n\n  + Kirsten Korosec\n ‘What a joke’: GitHub Copilot’s new token-based billing spurs const...",
-      "url": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "id": "news-1780632247890-3",
+      "title": "Anthropic says AI labs need coordinated plan to halt development if risks rise - Reuters",
+      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
+      "url": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04/",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T14:02:45.000Z",
+      "publishedAt": "2026-06-04T23:28:48.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780632247891-4",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch",
+      "summary": "“Anthropic’s view has always been wanting to plan for the best outcome but not overextend ourselves such that we’re buying more compute than we could ...",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780632247890-2",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab - TechCrunch",
+      "summary": "# Airbnb’s Brian Chesky plans to launch a new AI lab\n\nAirbnb CEO Brian Chesky has had enough of merely being an artificial intelligence kingmaker. He ...",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T22:29:50.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1780632247891-5",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram acc...",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T19:20:58.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1780632247891-12",
+      "title": "Fed's Daly says AI is not for now driving inflation up or down - Reuters",
+      "summary": "Reporting by Ann Saphir, ​Editing by Franklin Paul\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n##...",
+      "url": "https://www.reuters.com/business/feds-daly-says-ai-is-not-now-driving-inflation-up-or-down-2026-06-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/feds-daly-says-ai-is-not-now-driving-inflation-up-or-down-2026-06-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T17:47:43.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780546837160-1",
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally - TechCrunch",
+      "id": "news-1780632247891-7",
+      "title": "Meta rolls out a new AI creator assistant on Facebook - TechCrunch",
       "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T13:40:00.000Z",
+      "publishedAt": "2026-06-04T16:32:48.000Z",
       "category": "tech",
       "tags": [
+        "GPT",
         "AI",
-        "Agent"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1780546837160-2",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "id": "news-1780632247891-8",
+      "title": "US House lawmakers release draft bill to regulate AI - Reuters",
+      "summary": "Skip to main content\n\n# US House lawmakers release draft bill to regulate AI\n\nBy Courtney Rozen\n\nWASHINGTON, June 4 (Reuters) - A bipartisan ‌pair of ...",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T13:02:51.000Z",
-      "category": "tech",
+      "publishedAt": "2026-06-04T16:31:53.000Z",
+      "category": "product",
       "tags": [
-        "AI",
-        "LLM",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1780546837160-13",
-      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption - WIRED",
-      "summary": "## The Fake AI PC\n\nMicrosoft has been talking up the idea of “AI PCs” since 2024, but it has never felt real. Sure, its Copilot+ PCs had built-in neur...",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+      "id": "news-1780632247890-1",
+      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
+      "summary": "## Siri’s big AI makeover\n\nThe most anticipated announcement is a major AI upgrade to Siri, transforming it into a more conversational assistant capab...",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T11:00:00.000Z",
+      "publishedAt": "2026-06-04T16:31:12.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780632247891-6",
+      "title": "Windows is back on the Microsoft menu - The Verge",
+      "summary": "That power is really on display with Nvidia’s new RTX Spark chips, which will come to a variety of creator-focused laptops and miniature PCs later thi...",
+      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780632247891-10",
+      "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3% - Reuters",
+      "summary": "($1 = 1.3887 ​Canadian dollars)\n\nReporting by Nivedita Balu in Toronto; Editing by Paul Simao\n\nOur Standards: The Thomson Reuters Trust Principles., o...",
+      "url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T15:24:51.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780546837160-11",
-      "title": "Software stocks bounce back - now comes the hard part - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Businesscategory\n\n  EU targets Big Tech dependence with 'made-in-Europe' drive\n Businesscategory\n\n  Russia's...",
-      "url": "https://www.reuters.com/business/software-stocks-bounce-back-now-comes-hard-part-2026-06-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/software-stocks-bounce-back-now-comes-hard-part-2026-06-03/",
+      "id": "news-1780632247891-9",
+      "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion - Bloomberg.com",
+      "summary": "Technology\n\nAI\n\n# Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion\n\nThe company raised $400 million in a funding round led by Radical...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T10:51:22.000Z",
+      "publishedAt": "2026-06-04T12:30:05.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "RAG"
+        "AI"
       ]
     },
     {
-      "id": "news-1780546837160-15",
-      "title": "Russia's Sberbank offers AI model to Global South states keen to bridge digital divide - Reuters",
-      "summary": "Vedyakhin said that AI was developing towards more compact, specialized models that do not waste resources. He added that a model for credit ​scoring ...",
-      "url": "https://www.reuters.com/business/finance/russias-sberbank-offers-ai-model-global-south-states-keen-bridge-digital-divide-2026-06-03/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/russias-sberbank-offers-ai-model-global-south-states-keen-bridge-digital-divide-2026-06-03/",
+      "id": "news-1780632247891-11",
+      "title": "US Tech Sector Announces Most Job Cuts in Nearly Two Years - Bloomberg.com",
+      "summary": "US Jobs Report:\n\nApril Report\n\nKey Takeaways\n\nLabor’s Share of GDP\n\nSahm Rule, Explained\n\nTechnology\n\nAI\n\n# US Tech Sector Announces Most Job Cuts in ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
       "credibility": "P2",
-      "publishedAt": "2026-06-03T10:33:21.000Z",
+      "publishedAt": "2026-06-04T09:30:00.000Z",
       "category": "tech",
       "tags": [
-        "DeepSeek",
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1780632247891-13",
+      "title": "Europe's tech 'liberation day'? Computer says not yet - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Litigation\n   Data Privacy\n\n    \n    \n    \n    \n    \n\nPur...",
+      "url": "https://www.reuters.com/legal/litigation/europes-tech-liberation-day-computer-says-not-yet-2026-06-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/europes-tech-liberation-day-computer-says-not-yet-2026-06-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-04T05:01:59.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 13
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（openai等）"
 }
