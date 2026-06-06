@@ -1,33 +1,17 @@
 {
-  "date": "2026-06-05",
-  "generatedAt": "2026-06-05T04:04:07.891Z",
-  "totalItems": 14,
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T03:47:59.616Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1780632247890-0",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT - OpenAI",
-      "summary": "Saved memories were only written during the conversation and relied on strong cues to decide when to trigger memory, such as an instruction to \"rememb...",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
-      "credibility": "P0",
-      "publishedAt": "2026-06-04T16:07:30.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780632247890-3",
-      "title": "Anthropic says AI labs need coordinated plan to halt development if risks rise - Reuters",
-      "summary": "Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. Sign up here.\n\nAdvertisement · Scroll to con...",
-      "url": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04/",
+      "id": "news-1780717679615-2",
+      "title": "US says it will speed development and use of AI for national security - Reuters",
+      "summary": "The Pentagon slapped a formal supply-chain risk ​designation on Anthropic in March ​after it refused ⁠to back down on bans for its Claude AI to power ...",
+      "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04/",
+      "sourceUrl": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T23:28:48.000Z",
+      "publishedAt": "2026-06-05T21:10:26.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -35,164 +19,60 @@
       ]
     },
     {
-      "id": "news-1780632247891-4",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch",
-      "summary": "“Anthropic’s view has always been wanting to plan for the best outcome but not overextend ourselves such that we’re buying more compute than we could ...",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T22:43:26.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780632247890-2",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab - TechCrunch",
-      "summary": "# Airbnb’s Brian Chesky plans to launch a new AI lab\n\nAirbnb CEO Brian Chesky has had enough of merely being an artificial intelligence kingmaker. He ...",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T22:29:50.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1780632247891-5",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram acc...",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T19:20:58.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1780632247891-12",
-      "title": "Fed's Daly says AI is not for now driving inflation up or down - Reuters",
-      "summary": "Reporting by Ann Saphir, ​Editing by Franklin Paul\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rights\n\n##...",
-      "url": "https://www.reuters.com/business/feds-daly-says-ai-is-not-now-driving-inflation-up-or-down-2026-06-04/",
+      "id": "news-1780717679615-4",
+      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO - Reuters",
+      "summary": "The compute capacity provided includes about 110,000 ⁠Nvidia (NVDA.O), opens new tab GPUs, CPUs, memory and other related components.\n\nThe pact brings...",
+      "url": "https://www.reuters.com/business/media-telecom/spacex-signs-cloud-deal-with-google-2026-06-05/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/feds-daly-says-ai-is-not-now-driving-inflation-up-or-down-2026-06-04/",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/spacex-signs-cloud-deal-with-google-2026-06-05/",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T17:47:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780632247891-7",
-      "title": "Meta rolls out a new AI creator assistant on Facebook - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T16:32:48.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780632247891-8",
-      "title": "US House lawmakers release draft bill to regulate AI - Reuters",
-      "summary": "Skip to main content\n\n# US House lawmakers release draft bill to regulate AI\n\nBy Courtney Rozen\n\nWASHINGTON, June 4 (Reuters) - A bipartisan ‌pair of ...",
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T16:31:53.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780632247890-1",
-      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
-      "summary": "## Siri’s big AI makeover\n\nThe most anticipated announcement is a major AI upgrade to Siri, transforming it into a more conversational assistant capab...",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T16:31:12.000Z",
+      "publishedAt": "2026-06-05T20:04:54.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "GPT",
-        "AI"
+        "AI",
+        "benchmark"
       ]
     },
     {
-      "id": "news-1780632247891-6",
-      "title": "Windows is back on the Microsoft menu - The Verge",
-      "summary": "That power is really on display with Nvidia’s new RTX Spark chips, which will come to a variety of creator-focused laptops and miniature PCs later thi...",
-      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "id": "news-1780717679615-0",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs - TechCrunch",
+      "summary": "The cries heard round the tech world followed fervent demands from CEOs pushing their teams to use the best models and move fast, costs be damned. New...",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T16:00:00.000Z",
+      "publishedAt": "2026-06-05T14:49:12.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1780632247891-10",
-      "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3% - Reuters",
-      "summary": "($1 = 1.3887 ​Canadian dollars)\n\nReporting by Nivedita Balu in Toronto; Editing by Paul Simao\n\nOur Standards: The Thomson Reuters Trust Principles., o...",
-      "url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+      "id": "news-1780717679615-3",
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations - TechCrunch",
+      "summary": "The FT’s report adds to earlier news from Axios, which reported in April that the NSA was using Mythos despite a federal ban on using Anthropic’s tech...",
+      "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T15:24:51.000Z",
+      "publishedAt": "2026-06-05T14:32:57.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780632247891-9",
-      "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion - Bloomberg.com",
-      "summary": "Technology\n\nAI\n\n# Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion\n\nThe company raised $400 million in a funding round led by Radical...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
+      "id": "news-1780717679615-1",
+      "title": "Anthropic Calls for AI Pause Button to Let Humans Take Stock - Bloomberg",
+      "summary": "Anthropic:\n\nIPO Filing\n\nBillionaire Founders\n\nNew Mythos-Level Models\n\nWhat Is Mythos?\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\nAI\n\n# Anthropi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T12:30:05.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780632247891-11",
-      "title": "US Tech Sector Announces Most Job Cuts in Nearly Two Years - Bloomberg.com",
-      "summary": "US Jobs Report:\n\nApril Report\n\nKey Takeaways\n\nLabor’s Share of GDP\n\nSahm Rule, Explained\n\nTechnology\n\nAI\n\n# US Tech Sector Announces Most Job Cuts in ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
-      "credibility": "P2",
-      "publishedAt": "2026-06-04T09:30:00.000Z",
+      "publishedAt": "2026-06-05T11:34:42.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -200,24 +80,109 @@
       ]
     },
     {
-      "id": "news-1780632247891-13",
-      "title": "Europe's tech 'liberation day'? Computer says not yet - Reuters",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Litigation\n   Data Privacy\n\n    \n    \n    \n    \n    \n\nPur...",
-      "url": "https://www.reuters.com/legal/litigation/europes-tech-liberation-day-computer-says-not-yet-2026-06-04/",
+      "id": "news-1780717679616-7",
+      "title": "Market Talk: AI trade is ‘still intact’ - Reuters",
+      "summary": "### 00:57 SK Hynix tells investors US listing plan wins their strong backing, source says\n\n   ### 02:22 AI Weekly: Jensen Huang's star turn, Anthropic...",
+      "url": "https://www.reuters.com/video/watch/idRW631805062026RP1/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/europes-tech-liberation-day-computer-says-not-yet-2026-06-04/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW631805062026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-06-04T05:01:59.000Z",
+      "publishedAt": "2026-06-05T10:52:14.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
+    },
+    {
+      "id": "news-1780717679616-6",
+      "title": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters",
+      "summary": "Trump signed the order on Tuesday; Anthropic in a statement posted on ​X said it looked forward to \"collaborating\" with the White House on implementin...",
+      "url": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T10:10:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780717679616-11",
+      "title": "ASML CEO says EU Commission should not try to direct 'strategic projects' - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   35 mins agoMorning Bid: Missing the mark , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), op...",
+      "url": "https://www.reuters.com/business/asml-ceo-says-eu-commission-should-not-try-direct-strategic-projects-2026-06-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/asml-ceo-says-eu-commission-should-not-try-direct-strategic-projects-2026-06-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T10:09:55.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1780717679616-8",
+      "title": "What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC - Bloomberg",
+      "summary": "Apple:\n\nSiri Overhaul, AI Features\n\nCamera-Equipped AirPods\n\nIntel, Samsung Chips\n\nJohn Ternus\n\nTim Cook’s Legacy\n\nTechnology\n\nConsumer Tech\n\n# What t...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T09:30:32.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780717679616-10",
+      "title": "China bets on AI to promote President Xi Jinping's thinking - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   18 hours agoMedia & Telecom categoryUniversal Music buys back part of Ackman's Pershing stake after $64 bi...",
+      "url": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T07:32:14.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1780717679616-9",
+      "title": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises' - Reuters",
+      "summary": "## Business\n\n ### Apollo backs out of $2 billion takeover pursuit of UK's Bodycote\n\n  Legalcategory · · 16 mins ago\n\n  U.S.-based Apollo Global Manage...",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T06:31:24.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780717679616-5",
+      "title": "Mira Murati steps back into the spotlight, carefully - TechCrunch",
+      "summary": "In the meantime, the companies competing for the same talent, customers, and headlines have only grown more omnipresent. OpenAI, where Murati spent si...",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-05T05:06:37.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 12
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
