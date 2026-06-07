@@ -1,78 +1,77 @@
 {
-  "date": "2026-06-06",
-  "generatedAt": "2026-06-06T03:47:59.616Z",
-  "totalItems": 12,
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T04:14:06.123Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1780717679615-2",
-      "title": "US says it will speed development and use of AI for national security - Reuters",
-      "summary": "The Pentagon slapped a formal supply-chain risk ​designation on Anthropic in March ​after it refused ⁠to back down on bans for its Claude AI to power ...",
-      "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
+      "id": "news-1780805646122-11",
+      "title": "Armenians vote with peace efforts and Russia in focus - Reuters",
+      "summary": "Reporting by Lucy Papachristou; Editing by Andrew Heavens\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rig...",
+      "url": "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
+      "sourceUrl": "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T21:10:26.000Z",
+      "publishedAt": "2026-06-07T04:05:43.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1780805646122-15",
+      "title": "Ethiopia Airlines set to decide on regional jet order in next three months - Reuters",
+      "summary": "“We have addressed the supply issue. It is okay now,” he added on the sidelines of the ⁠International ​Air Transport Association's (IATA) annual summi...",
+      "url": "https://www.reuters.com/world/africa/ethiopia-airlines-set-decide-regional-jet-order-next-three-months-2026-06-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/ethiopia-airlines-set-decide-regional-jet-order-next-three-months-2026-06-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-07T03:10:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1780805646122-14",
+      "title": "Southwest eyes deeper revamp; MAX 7 service seen in 2027 - Reuters",
+      "summary": "Tony Roach, Southwest's chief customer and brand officer, said the carrier has ​not ​ruled out ⁠using Amazon's Leo satellite network even as ​it begin...",
+      "url": "https://www.reuters.com/business/aerospace-defense/southwest-eyes-deeper-revamp-max-7-service-seen-2027-2026-06-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/southwest-eyes-deeper-revamp-max-7-service-seen-2027-2026-06-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T21:17:43.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780717679615-4",
-      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO - Reuters",
-      "summary": "The compute capacity provided includes about 110,000 ⁠Nvidia (NVDA.O), opens new tab GPUs, CPUs, memory and other related components.\n\nThe pact brings...",
-      "url": "https://www.reuters.com/business/media-telecom/spacex-signs-cloud-deal-with-google-2026-06-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/spacex-signs-cloud-deal-with-google-2026-06-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-05T20:04:54.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1780717679615-0",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs - TechCrunch",
-      "summary": "The cries heard round the tech world followed fervent demands from CEOs pushing their teams to use the best models and move fast, costs be damned. New...",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "id": "news-1780805646121-0",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks - TechCrunch",
+      "summary": "The company says it’s currently rolling Lockdown Mode out to self-serve ChatGPT Business accounts, as well as eligible personal accounts.\n\nTopics\n\nAI,...",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T14:49:12.000Z",
+      "publishedAt": "2026-06-06T20:32:24.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1780717679615-3",
-      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations - TechCrunch",
-      "summary": "The FT’s report adds to earlier news from Axios, which reported in April that the NSA was using Mythos despite a federal ban on using Anthropic’s tech...",
-      "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-05T14:32:57.000Z",
-      "category": "tech",
-      "tags": [
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1780717679615-1",
-      "title": "Anthropic Calls for AI Pause Button to Let Humans Take Stock - Bloomberg",
-      "summary": "Anthropic:\n\nIPO Filing\n\nBillionaire Founders\n\nNew Mythos-Level Models\n\nWhat Is Mythos?\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\nAI\n\n# Anthropi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
+      "id": "news-1780805646122-10",
+      "title": "DoubleLine, Oaktree Brace for Potential AI Pain - Bloomberg.com",
+      "summary": "HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweek...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T11:34:42.000Z",
+      "publishedAt": "2026-06-06T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -80,109 +79,155 @@
       ]
     },
     {
-      "id": "news-1780717679616-7",
-      "title": "Market Talk: AI trade is ‘still intact’ - Reuters",
-      "summary": "### 00:57 SK Hynix tells investors US listing plan wins their strong backing, source says\n\n   ### 02:22 AI Weekly: Jensen Huang's star turn, Anthropic...",
-      "url": "https://www.reuters.com/video/watch/idRW631805062026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW631805062026RP1/",
+      "id": "news-1780805646121-3",
+      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T10:52:14.000Z",
+      "publishedAt": "2026-06-06T18:13:36.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780805646121-4",
+      "title": "The first Story-Rich showcase was packed with narrative-driven games - The Verge",
+      "summary": "Control Resonant is a sequel — and also a starting point\n\n82-0 is the best basketball game, to hell with NBA 2K\n\nTerrence O'Brien\n\nKabuto Park capture...",
+      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T18:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780717679616-6",
-      "title": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters",
-      "summary": "Trump signed the order on Tuesday; Anthropic in a statement posted on ​X said it looked forward to \"collaborating\" with the White House on implementin...",
-      "url": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/",
+      "id": "news-1780805646122-9",
+      "title": "GOG apologizes for emailing people Nazi symbols - The Verge",
+      "summary": "This is the title for the native ad\n\n## Top Stories\n\nSummer Game Fest 2026: All the news from gaming’s busiest week\n\nHere comes new Siri again\n\nMeta m...",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T10:10:55.000Z",
+      "publishedAt": "2026-06-06T17:59:37.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780717679616-11",
-      "title": "ASML CEO says EU Commission should not try to direct 'strategic projects' - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   35 mins agoMorning Bid: Missing the mark , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), op...",
-      "url": "https://www.reuters.com/business/asml-ceo-says-eu-commission-should-not-try-direct-strategic-projects-2026-06-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/asml-ceo-says-eu-commission-should-not-try-direct-strategic-projects-2026-06-05/",
+      "id": "news-1780805646121-5",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor - TechCrunch",
+      "summary": "+ Connie Loizos\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram accounts by tricki...",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T10:09:55.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1780717679616-8",
-      "title": "What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC - Bloomberg",
-      "summary": "Apple:\n\nSiri Overhaul, AI Features\n\nCamera-Equipped AirPods\n\nIntel, Samsung Chips\n\nJohn Ternus\n\nTim Cook’s Legacy\n\nTechnology\n\nConsumer Tech\n\n# What t...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
-      "credibility": "P2",
-      "publishedAt": "2026-06-05T09:30:32.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780717679616-10",
-      "title": "China bets on AI to promote President Xi Jinping's thinking - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   18 hours agoMedia & Telecom categoryUniversal Music buys back part of Ackman's Pershing stake after $64 bi...",
-      "url": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-05T07:32:14.000Z",
+      "publishedAt": "2026-06-06T17:42:15.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "Agent"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1780717679616-9",
-      "title": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises' - Reuters",
-      "summary": "## Business\n\n ### Apollo backs out of $2 billion takeover pursuit of UK's Bodycote\n\n  Legalcategory · · 16 mins ago\n\n  U.S.-based Apollo Global Manage...",
-      "url": "https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-05T06:31:24.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780717679616-5",
-      "title": "Mira Murati steps back into the spotlight, carefully - TechCrunch",
-      "summary": "In the meantime, the companies competing for the same talent, customers, and headlines have only grown more omnipresent. OpenAI, where Murati spent si...",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "id": "news-1780805646121-1",
+      "title": "The Trump administration might take an equity stake in OpenAI - TechCrunch",
+      "summary": "+ Connie Loizos\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram accounts by tricki...",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
       "credibility": "P2",
-      "publishedAt": "2026-06-05T05:06:37.000Z",
+      "publishedAt": "2026-06-06T16:17:21.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
         "OpenCL"
       ]
+    },
+    {
+      "id": "news-1780805646121-2",
+      "title": "Beyond Instagram: Introducing the next generation of social apps - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780805646122-7",
+      "title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Energycategory\n\n  Airline chiefs grapple with fuel shock, fare test at Rio summit\n World at Workcategory\n\n  ...",
+      "url": "https://www.reuters.com/business/aerospace-defense/airbus-closing-widebody-order-scandinavian-airline-bloomberg-news-reports-2026-06-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/airbus-closing-widebody-order-scandinavian-airline-bloomberg-news-reports-2026-06-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T13:52:19.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780805646122-8",
+      "title": "Pfizer's monthly obesity shot has side-effect profile similar to Wegovy in midstage trial - Reuters",
+      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
+      "url": "https://www.reuters.com/legal/litigation/pfizers-monthly-obesity-shot-has-side-effect-profile-similar-wegovy-midstage-2026-06-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/pfizers-monthly-obesity-shot-has-side-effect-profile-similar-wegovy-midstage-2026-06-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T13:06:33.000Z",
+      "category": "hot",
+      "tags": []
+    },
+    {
+      "id": "news-1780805646122-12",
+      "title": "Why Oil’s Not at $200 After the Biggest Supply Shock in History - Bloomberg.com",
+      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\n### More From Bloomberg\n\nTrump’s Arctic Refuge Auction to Test Oil Industry’s AppetiteTr...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/why-oil-s-not-at-200-after-the-biggest-supply-shock-in-history",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/why-oil-s-not-at-200-after-the-biggest-supply-shock-in-history",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1780805646122-13",
+      "title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
+      "summary": "Load More Categories\n\n   54 mins agoMusk's SpaceX IPO jolts life back into European retail investing , opens new tab\n\n### Stay Informed\n\n   Download t...",
+      "url": "https://www.reuters.com/video/watch/idRW656106062026RP1/?chan=politics&location=channel-item",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW656106062026RP1/?chan=politics&location=channel-item",
+      "credibility": "P2",
+      "publishedAt": "2026-06-06T09:59:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
