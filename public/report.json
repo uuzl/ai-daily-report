@@ -1,61 +1,17 @@
 {
-  "date": "2026-06-07",
-  "generatedAt": "2026-06-07T04:14:06.123Z",
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T03:49:51.818Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1780805646122-11",
-      "title": "Armenians vote with peace efforts and Russia in focus - Reuters",
-      "summary": "Reporting by Lucy Papachristou; Editing by Andrew Heavens\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Licensing Rig...",
-      "url": "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-07T04:05:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1780805646122-15",
-      "title": "Ethiopia Airlines set to decide on regional jet order in next three months - Reuters",
-      "summary": "“We have addressed the supply issue. It is okay now,” he added on the sidelines of the ⁠International ​Air Transport Association's (IATA) annual summi...",
-      "url": "https://www.reuters.com/world/africa/ethiopia-airlines-set-decide-regional-jet-order-next-three-months-2026-06-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/africa/ethiopia-airlines-set-decide-regional-jet-order-next-three-months-2026-06-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-07T03:10:09.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1780805646122-14",
-      "title": "Southwest eyes deeper revamp; MAX 7 service seen in 2027 - Reuters",
-      "summary": "Tony Roach, Southwest's chief customer and brand officer, said the carrier has ​not ​ruled out ⁠using Amazon's Leo satellite network even as ​it begin...",
-      "url": "https://www.reuters.com/business/aerospace-defense/southwest-eyes-deeper-revamp-max-7-service-seen-2027-2026-06-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/southwest-eyes-deeper-revamp-max-7-service-seen-2027-2026-06-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T21:17:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780805646121-0",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks - TechCrunch",
-      "summary": "The company says it’s currently rolling Lockdown Mode out to self-serve ChatGPT Business accounts, as well as eligible personal accounts.\n\nTopics\n\nAI,...",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T20:32:24.000Z",
+      "id": "news-1780976991816-5",
+      "title": "Built to benefit everyone: our plan - OpenAI",
+      "summary": "Image 2: dell\n\nOpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments Company May 18, 2026\n\nImage 3: Fr...",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan/",
+      "credibility": "P0",
+      "publishedAt": "2026-06-08T21:11:15.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -64,29 +20,153 @@
       ]
     },
     {
-      "id": "news-1780805646122-10",
-      "title": "DoubleLine, Oaktree Brace for Potential AI Pain - Bloomberg.com",
-      "summary": "HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweek...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
+      "id": "news-1780976991817-9",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart - TechCrunch",
+      "summary": "The contrast with its competitors is instructive and maybe the most important signal in Monday’s announcements for anyone watching where the AI indust...",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T19:00:00.000Z",
+      "publishedAt": "2026-06-09T01:56:48.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI",
-        "benchmark"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1780805646121-3",
-      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "id": "news-1780976991816-8",
+      "title": "Perplexity planning IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - Reuters",
+      "summary": "Reporting by Natalia Bueno ​Rebolledo in Mexico City; Editing by Rashmi Aich\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPur...",
+      "url": "https://www.reuters.com/business/perplexity-planning-ipo-2028-regardless-what-happens-anthropic-or-openai-ceo-2026-06-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/perplexity-planning-ipo-2028-regardless-what-happens-anthropic-or-openai-ceo-2026-06-09/",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T18:13:36.000Z",
+      "publishedAt": "2026-06-09T01:51:18.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780976991816-6",
+      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology - Reuters",
+      "summary": "The orbital computing initiative forms part ​of a broader strategy to position SpaceX not only as a launch and satellite communications company but al...",
+      "url": "https://www.reuters.com/business/media-telecom/ahead-spacex-ipo-musk-says-ai-satellites-will-use-mostly-existing-technology-2026-06-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/ahead-spacex-ipo-musk-says-ai-satellites-will-use-mostly-existing-technology-2026-06-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-09T01:15:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1780976991816-0",
+      "title": "Following Anthropic, OpenAI files confidentially for IPO - TechCrunch",
+      "summary": "OpenAI, which was founded in 2015 as a nonprofit research lab, disrupted the world of AI when it released ChatGPT in 2022, sparking a wave of large la...",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T21:29:57.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780976991816-2",
+      "title": "OpenAI Filed Confidentially for IPO as Rivals Race to Market - Bloomberg.com",
+      "summary": "OpenAI:\n\nIPO Filing\n\nGrowth Fears\n\nMicrosoft’s Partnership Spend\n\nAmazon Deal\n\nMythos Competition\n\nPentagon Deal\n\nMarkets\n\n# OpenAI Filed Confidential...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T21:19:23.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780976991816-1",
+      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
+      "summary": "# OpenAI files for US IPO after Anthropic as AI giants head to public markets | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data ...",
+      "url": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T21:17:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780976991817-13",
+      "title": "From Siri AI to child safety tools: Key takeaways from Apple's WWDC - Reuters",
+      "summary": "Apple Intelligence is also being added to the Home and Shortcuts apps, enabling AI-generated summaries of security ‌camera footage, ⁠natural-language ...",
+      "url": "https://www.reuters.com/business/siri-ai-child-safety-tools-key-takeaways-apples-wwdc-2026-06-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/siri-ai-child-safety-tools-key-takeaways-apples-wwdc-2026-06-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T19:45:04.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1780976991816-7",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Is this the dawn of the Tokenpocalypse?\n\n  + Anthony Ha\n Founders share VC horror stories, and some are naming names\n\n...",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T18:48:45.000Z",
+      "category": "hot",
+      "tags": [
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780976991817-10",
+      "title": "Apple’s Image Playground doesn’t suck anymore - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T18:38:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1780976991816-4",
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence - The Verge",
+      "summary": "Siri is also getting its own app, which looks similar to existing AI chatbot apps for ChatGPT, Claude, and Gemini. There’s a conversational interface ...",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "credibility": "P2",
+      "publishedAt": "2026-06-08T17:34:24.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -95,73 +175,14 @@
       ]
     },
     {
-      "id": "news-1780805646121-4",
-      "title": "The first Story-Rich showcase was packed with narrative-driven games - The Verge",
-      "summary": "Control Resonant is a sequel — and also a starting point\n\n82-0 is the best basketball game, to hell with NBA 2K\n\nTerrence O'Brien\n\nKabuto Park capture...",
-      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780805646122-9",
-      "title": "GOG apologizes for emailing people Nazi symbols - The Verge",
-      "summary": "This is the title for the native ad\n\n## Top Stories\n\nSummer Game Fest 2026: All the news from gaming’s busiest week\n\nHere comes new Siri again\n\nMeta m...",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T17:59:37.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1780805646121-5",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor - TechCrunch",
-      "summary": "+ Connie Loizos\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram accounts by tricki...",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T17:42:15.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780805646121-1",
-      "title": "The Trump administration might take an equity stake in OpenAI - TechCrunch",
-      "summary": "+ Connie Loizos\n Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n  + Russell Brandom\n Hackers hijacked Instagram accounts by tricki...",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T16:17:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1780805646121-2",
-      "title": "Beyond Instagram: Introducing the next generation of social apps - TechCrunch",
+      "id": "news-1780976991816-3",
+      "title": "NotebookLM’s new update will help you build source repository from chat - TechCrunch",
       "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T15:00:00.000Z",
+      "publishedAt": "2026-06-08T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -169,55 +190,42 @@
       ]
     },
     {
-      "id": "news-1780805646122-7",
-      "title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Energycategory\n\n  Airline chiefs grapple with fuel shock, fare test at Rio summit\n World at Workcategory\n\n  ...",
-      "url": "https://www.reuters.com/business/aerospace-defense/airbus-closing-widebody-order-scandinavian-airline-bloomberg-news-reports-2026-06-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/airbus-closing-widebody-order-scandinavian-airline-bloomberg-news-reports-2026-06-06/",
+      "id": "news-1780976991817-11",
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources - The Verge",
+      "summary": "Xbox exclusives are back and more complicated than ever\n\nWWDC 2026: How to watch and what to expect\n\nNASA will wear high-tech Prada long johns to the ...",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T13:52:19.000Z",
+      "publishedAt": "2026-06-08T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1780805646122-8",
-      "title": "Pfizer's monthly obesity shot has side-effect profile similar to Wegovy in midstage trial - Reuters",
-      "summary": "### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching bill...",
-      "url": "https://www.reuters.com/legal/litigation/pfizers-monthly-obesity-shot-has-side-effect-profile-similar-wegovy-midstage-2026-06-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/pfizers-monthly-obesity-shot-has-side-effect-profile-similar-wegovy-midstage-2026-06-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-06T13:06:33.000Z",
-      "category": "hot",
-      "tags": []
-    },
-    {
-      "id": "news-1780805646122-12",
-      "title": "Why Oil’s Not at $200 After the Biggest Supply Shock in History - Bloomberg.com",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\n### More From Bloomberg\n\nTrump’s Arctic Refuge Auction to Test Oil Industry’s AppetiteTr...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/why-oil-s-not-at-200-after-the-biggest-supply-shock-in-history",
+      "id": "news-1780976991817-12",
+      "title": "Apple Investors Look for AI Overhaul to Power Next Leg of Gains - Bloomberg.com",
+      "summary": "Save\n\nTranslate\n\n## Takeaways by Bloomberg AISubscribe\n\nApple Inc. investors have spent nearly two years clamoring for the iPhone maker to make a big ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/apple-investors-look-for-ai-overhaul-to-power-next-leg-of-gains",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/why-oil-s-not-at-200-after-the-biggest-supply-shock-in-history",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/apple-investors-look-for-ai-overhaul-to-power-next-leg-of-gains",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T12:00:00.000Z",
+      "publishedAt": "2026-06-08T11:06:02.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "benchmark"
+        "AI"
       ]
     },
     {
-      "id": "news-1780805646122-13",
-      "title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
-      "summary": "Load More Categories\n\n   54 mins agoMusk's SpaceX IPO jolts life back into European retail investing , opens new tab\n\n### Stay Informed\n\n   Download t...",
-      "url": "https://www.reuters.com/video/watch/idRW656106062026RP1/?chan=politics&location=channel-item",
+      "id": "news-1780976991817-14",
+      "title": "Breakingviews - AI could tarnish Ireland’s low-risk sheen - Reuters",
+      "summary": "A fiscal or banking crisis like 2010 looks unlikely. However, the AI revolution will likely result in ​higher unemployment and falling incomes, which ...",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-could-tarnish-irelands-low-risk-sheen-2026-06-08/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW656106062026RP1/?chan=politics&location=channel-item",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/ai-could-tarnish-irelands-low-risk-sheen-2026-06-08/",
       "credibility": "P2",
-      "publishedAt": "2026-06-06T09:59:31.000Z",
+      "publishedAt": "2026-06-08T09:11:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -225,9 +233,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（openai等）"
 }
