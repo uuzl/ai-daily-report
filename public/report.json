@@ -1,110 +1,64 @@
 {
-  "date": "2026-06-12",
-  "generatedAt": "2026-06-12T04:16:44.429Z",
-  "totalItems": 13,
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T04:05:08.067Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1781237804429-8",
-      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world - TechCrunch",
-      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "id": "news-1781323508066-4",
+      "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI - TechCrunch",
+      "summary": "+ Morgan Little\n  + Aisha Malik\n Anthropic’s Claude Fable 5 is a version of Mythos the public can access today\n\n  + Rebecca Bellan\n It’s not FAANG any...",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T01:04:38.000Z",
+      "publishedAt": "2026-06-13T02:26:30.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI"
+        "AI",
+        "benchmark"
       ]
     },
     {
-      "id": "news-1781237804429-10",
-      "title": "Adobe raises annual forecasts, CFO exit fans uncertainty over growth strategy - Reuters",
-      "summary": "Separately on Thursday, custom AI chip maker Marvell Technology (MRVL.O), opens new tab, appointed Durn as ​its CFO.\n\nReporting by Zaheer Kachwala in ...",
-      "url": "https://www.reuters.com/business/adobe-raises-annual-revenue-forecast-cfo-exit-2026-06-11/",
+      "id": "news-1781323508066-5",
+      "title": "OpenAI under investigation by group of state attorneys general, source says - Reuters",
+      "summary": "The subpoena, sent by New York's ⁠attorney general, also seeks information on activities related to minors and ​seniors, deep learning models and inte...",
+      "url": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/adobe-raises-annual-revenue-forecast-cfo-exit-2026-06-11/",
+      "sourceUrl": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T20:12:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781237804428-1",
-      "title": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
-      "summary": "Strong demand for its Claude family of AI models has prompted Anthropic to sign several ​major deals to expand ​computing capacity, ⁠as it gears up fo...",
-      "url": "https://www.reuters.com/business/anthropic-pursues-data-center-leases-seeks-financial-backing-google-information-2026-06-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-pursues-data-center-leases-seeks-financial-backing-google-information-2026-06-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T17:52:09.000Z",
+      "publishedAt": "2026-06-12T23:30:28.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781237804429-3",
-      "title": "Meta’s Edits app is getting an AI assistant and a desktop version - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Ever...",
-      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T17:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1781237804429-4",
-      "title": "Coinbase’s new tool can help agents trade and pay for premium research - TechCrunch",
-      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Eve...",
-      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "id": "news-1781323508066-3",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - TechCrunch",
+      "summary": "+ Morgan Little\n  + Aisha Malik\n Anthropic’s Claude Fable 5 is a version of Mythos the public can access today\n\n  + Rebecca Bellan\n It’s not FAANG any...",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T17:00:00.000Z",
-      "category": "research",
+      "publishedAt": "2026-06-12T23:00:54.000Z",
+      "category": "tech",
       "tags": [
         "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1781237804429-5",
-      "title": "Coinbase debuts AI agent that can trade and pay for premium research - TechCrunch",
-      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
-      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T17:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1781237804429-9",
-      "title": "Oracle shares slide as hefty AI spending, debt plans spook investors - Reuters",
-      "summary": "\"It is hard to know ‌if Oracle ⁠can stick to this capex plan if incremental business arises from the likes of OpenAI and Anthropic. Also, its competit...",
-      "url": "https://www.reuters.com/business/retail-consumer/oracle-shares-slide-hefty-ai-spending-debt-plans-spook-investors-2026-06-11/",
+      "id": "news-1781323508066-6",
+      "title": "Meta's Zuckerberg admits 'mistakes' made on AI transformation - Reuters",
+      "summary": "Legalcategory · · 32 mins ago\n\n  A collective sigh of relief swept across Wall Street after trading ​for SpaceX’s landmark Nasdaq launch went smoothly...",
+      "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/oracle-shares-slide-hefty-ai-spending-debt-plans-spook-investors-2026-06-11/",
+      "sourceUrl": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T15:25:47.000Z",
+      "publishedAt": "2026-06-12T22:22:39.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -112,30 +66,14 @@
       ]
     },
     {
-      "id": "news-1781237804429-2",
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments - TechCrunch",
-      "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic’s AI models to its customers. TCS will also gain early access to ...",
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "id": "news-1781323508066-2",
+      "title": "Chinese cybercrime operation that used AI to scam 'hundreds of thousands of victims' sued by Google - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n G...",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T11:48:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781237804429-6",
-      "title": "Anthropic backpedals on Fable safety measure - The Verge",
-      "summary": "In Fable’s system card — a public document AI developers release to explain how a system works — Anthropic said it would handle queries it believed we...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T11:40:43.000Z",
+      "publishedAt": "2026-06-12T20:38:09.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -143,68 +81,145 @@
       ]
     },
     {
-      "id": "news-1781237804429-12",
-      "title": "Five things I like (and one thing I still want) in the macOS 27 Golden Gate beta - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "id": "news-1781323508067-11",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do - Ars Technica",
+      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nIn November, Jeff Bezos announced that he would become co-CEO of a new startup called Prometheus. At t...",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T11:00:32.000Z",
+      "publishedAt": "2026-06-12T18:45:40.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1781237804429-7",
-      "title": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters",
-      "summary": "How a British startup is drawing electricity from bacteria June 10, 2026\n   How a smart fridge can help you harvest at home June 2, 2026\n   Underwater...",
-      "url": "https://www.reuters.com/video/watch/idRW765010062026RP1/?chan=technology",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW765010062026RP1/?chan=technology",
+      "id": "news-1781323508067-8",
+      "title": "Mistral is rumored to be raising €3B at €20 valuation - TechCrunch",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double the €11.7 billion valuation it received in a Ser...",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "credibility": "P2",
-      "publishedAt": "2026-06-11T10:16:53.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781237804429-11",
-      "title": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows - Reuters",
-      "summary": "Faced with public backlash, fourteen ​states have considered or are considering a moratorium on new data center projects.\n\nReporting by Valerie Volcov...",
-      "url": "https://www.reuters.com/world/us/americans-wary-ai-driven-data-center-boom-reutersipsos-poll-shows-2026-06-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/americans-wary-ai-driven-data-center-boom-reutersipsos-poll-shows-2026-06-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T10:07:28.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781237804428-0",
-      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI - Reuters",
-      "summary": "At one point, OpenAI officials considered launching the chat-based assistant tool in March 2023, alongside the release of its GPT-4 large language mod...",
-      "url": "https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-11T10:02:08.000Z",
+      "publishedAt": "2026-06-12T17:38:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508067-12",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts - TechCrunch",
+      "summary": "June 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Th...",
+      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T17:26:08.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508067-7",
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines - Ars Technica",
+      "summary": "OpenAI has previously said it has “deep responsibility to help those who need it most.” The company did not immediately respond to Ars’ request for co...",
+      "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T15:03:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508067-13",
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses - Ars Technica",
+      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. \"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand\n2. 2. No...",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T11:15:41.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508067-9",
+      "title": "Canada's move to rein in AI chatbots, spurred by school shooting, faces doubts over loopholes - Reuters",
+      "summary": "OTTAWA, June 12 (Reuters) - Canadian legislation to regulate AI chatbots, introduced this week after national outrage over a school shooting ​that lef...",
+      "url": "https://www.reuters.com/legal/litigation/canadas-move-rein-ai-chatbots-spurred-by-school-shooting-faces-doubts-over-2026-06-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/canadas-move-rein-ai-chatbots-spurred-by-school-shooting-faces-doubts-over-2026-06-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T10:03:51.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508067-10",
+      "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
+      "summary": "Regulators are trying to assess how banks are grappling with fast‑evolving systems such as Anthropic’s frontier AI model Mythos. Cybersecurity experts...",
+      "url": "https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T09:05:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508066-0",
+      "title": "Tribeca Festival premieres AI-generated film 'Dreams of Violets' - Reuters",
+      "summary": "### 02:13 Oppenheimer launches first coverage of SpaceX with bullish outlook\n\n   ### 02:20 AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South...",
+      "url": "https://www.reuters.com/video/watch/idRW824012062026RP1/?chan=technology",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW824012062026RP1/?chan=technology",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T08:02:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781323508066-1",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n G...",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-12T04:30:00.000Z",
+      "category": "tech",
+      "tags": [
         "Claude",
-        "GPT"
+        "AI",
+        "TPU"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 14
   },
   "summary": ""
 }
