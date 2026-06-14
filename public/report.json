@@ -1,49 +1,33 @@
 {
-  "date": "2026-06-13",
-  "generatedAt": "2026-06-13T04:05:08.067Z",
-  "totalItems": 14,
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T04:22:57.866Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1781323508066-4",
-      "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI - TechCrunch",
-      "summary": "+ Morgan Little\n  + Aisha Malik\n Anthropic’s Claude Fable 5 is a version of Mythos the public can access today\n\n  + Rebecca Bellan\n It’s not FAANG any...",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "id": "news-1781410977865-0",
+      "title": "As Anthropic suspends access to new models, India debates its AI future - TechCrunch",
+      "summary": "He told TechCrunch that the move was likely to provoke a significant nationalist backlash in India and described it as a poorly considered decision by...",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "credibility": "P2",
-      "publishedAt": "2026-06-13T02:26:30.000Z",
+      "publishedAt": "2026-06-14T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "benchmark"
+        "LLM"
       ]
     },
     {
-      "id": "news-1781323508066-5",
-      "title": "OpenAI under investigation by group of state attorneys general, source says - Reuters",
-      "summary": "The subpoena, sent by New York's ⁠attorney general, also seeks information on activities related to minors and ​seniors, deep learning models and inte...",
-      "url": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T23:30:28.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508066-3",
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - TechCrunch",
+      "id": "news-1781410977865-4",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand - TechCrunch",
       "summary": "+ Morgan Little\n  + Aisha Malik\n Anthropic’s Claude Fable 5 is a version of Mythos the public can access today\n\n  + Rebecca Bellan\n It’s not FAANG any...",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T23:00:54.000Z",
+      "publishedAt": "2026-06-14T00:03:49.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -51,87 +35,28 @@
       ]
     },
     {
-      "id": "news-1781323508066-6",
-      "title": "Meta's Zuckerberg admits 'mistakes' made on AI transformation - Reuters",
-      "summary": "Legalcategory · · 32 mins ago\n\n  A collective sigh of relief swept across Wall Street after trading ​for SpaceX’s landmark Nasdaq launch went smoothly...",
-      "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
+      "id": "news-1781410977865-7",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. The world’s first trillionaire is a killer\n2. Valve just imported 13 tons of VR headsets in one da...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T22:22:39.000Z",
-      "category": "tech",
+      "publishedAt": "2026-06-13T21:39:26.000Z",
+      "category": "research",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1781323508066-2",
-      "title": "Chinese cybercrime operation that used AI to scam 'hundreds of thousands of victims' sued by Google - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n G...",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "id": "news-1781410977865-8",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations - TechCrunch",
+      "summary": "+ Zack Whittaker\n\n## Latest in AI\n\n In Brief\n\n  ### KPMG pulls report on AI usage due to apparent hallucinations\n\n  + Anthony Ha\n In Brief\n\n  ### Amaz...",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T20:38:09.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508067-11",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nIn November, Jeff Bezos announced that he would become co-CEO of a new startup called Prometheus. At t...",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T18:45:40.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508067-8",
-      "title": "Mistral is rumored to be raising €3B at €20 valuation - TechCrunch",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double the €11.7 billion valuation it received in a Ser...",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T17:38:11.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508067-12",
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts - TechCrunch",
-      "summary": "June 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Th...",
-      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T17:26:08.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508067-7",
-      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines - Ars Technica",
-      "summary": "OpenAI has previously said it has “deep responsibility to help those who need it most.” The company did not immediately respond to Ars’ request for co...",
-      "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T15:03:52.000Z",
+      "publishedAt": "2026-06-13T20:42:31.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -140,86 +65,141 @@
       ]
     },
     {
-      "id": "news-1781323508067-13",
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. \"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand\n2. 2. No...",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "id": "news-1781410977865-6",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown - TechCrunch",
+      "summary": "The Wall Street Journal reports that Jassy told Treasury Secretary Scott Bessent and other government officials that Amazon researchers used Anthropic...",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T11:15:41.000Z",
+      "publishedAt": "2026-06-13T19:11:41.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781410977865-5",
+      "title": "Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says - Reuters",
+      "summary": "Citing national security concerns, the Trump administration ​on Friday directed Anthropic to block any foreign nationals, whether ⁠inside or outside t...",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-13T18:13:14.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1781323508067-9",
-      "title": "Canada's move to rein in AI chatbots, spurred by school shooting, faces doubts over loopholes - Reuters",
-      "summary": "OTTAWA, June 12 (Reuters) - Canadian legislation to regulate AI chatbots, introduced this week after national outrage over a school shooting ​that lef...",
-      "url": "https://www.reuters.com/legal/litigation/canadas-move-rein-ai-chatbots-spurred-by-school-shooting-faces-doubts-over-2026-06-12/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/canadas-move-rein-ai-chatbots-spurred-by-school-shooting-faces-doubts-over-2026-06-12/",
+      "id": "news-1781410977865-2",
+      "title": "OpenAI faces investigation from state attorneys general - TechCrunch",
+      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T10:03:51.000Z",
+      "publishedAt": "2026-06-13T16:47:18.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1781410977866-12",
+      "title": "How LinkedIn led Lopes on World Cup adventure with Cape Verde - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/sports/soccer/how-linkedin-led-lopes-world-cup-adventure-with-cape-verde-2026-06-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/soccer/how-linkedin-led-lopes-world-cup-adventure-with-cape-verde-2026-06-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-13T15:39:45.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1781410977865-10",
+      "title": "My first 24 hours with Siri AI on the Mac - The Verge",
+      "summary": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models\n\nNothing CEO says phone prices are going to keep going up\n\nThe world’s first ...",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "credibility": "P2",
+      "publishedAt": "2026-06-13T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781410977865-3",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. The world’s first trillionaire is a killer\n2. I held the Trump phone\n3. Valve just imported 13 ton...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "credibility": "P2",
+      "publishedAt": "2026-06-13T12:55:49.000Z",
+      "category": "tech",
+      "tags": [
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1781323508067-10",
-      "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
-      "summary": "Regulators are trying to assess how banks are grappling with fast‑evolving systems such as Anthropic’s frontier AI model Mythos. Cybersecurity experts...",
-      "url": "https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/",
+      "id": "news-1781410977865-9",
+      "title": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker - Reuters",
+      "summary": "The IPO, the biggest in U.S. history, vaulted SpaceX's value above two Mag 7 members: CEO Elon Musk's other company, Tesla (TSLA.O), opens new tab, an...",
+      "url": "https://www.reuters.com/legal/transactional/mag-7-mangos-spacex-forces-name-rethink-wall-streets-tech-stock-moniker-2026-06-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/mag-7-mangos-spacex-forces-name-rethink-wall-streets-tech-stock-moniker-2026-06-13/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T09:05:05.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781323508066-0",
-      "title": "Tribeca Festival premieres AI-generated film 'Dreams of Violets' - Reuters",
-      "summary": "### 02:13 Oppenheimer launches first coverage of SpaceX with bullish outlook\n\n   ### 02:20 AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South...",
-      "url": "https://www.reuters.com/video/watch/idRW824012062026RP1/?chan=technology",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW824012062026RP1/?chan=technology",
-      "credibility": "P2",
-      "publishedAt": "2026-06-12T08:02:56.000Z",
+      "publishedAt": "2026-06-13T10:03:44.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1781323508066-1",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n G...",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "id": "news-1781410977866-11",
+      "title": "Two phones and an app: How Russians skirt Putin's digital iron curtain - Reuters",
+      "summary": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction\n Financecategory\n\n  Exclusive: U.S. bank regulators ramp up scrutiny of AI use at fina...",
+      "url": "https://www.reuters.com/world/europe/two-phones-an-app-how-russians-skirt-putins-digital-iron-curtain-2026-06-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/europe/two-phones-an-app-how-russians-skirt-putins-digital-iron-curtain-2026-06-13/",
       "credibility": "P2",
-      "publishedAt": "2026-06-12T04:30:00.000Z",
+      "publishedAt": "2026-06-13T09:05:44.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "AI",
-        "TPU"
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781410977865-1",
+      "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg.com",
+      "summary": "The AI Race:\n\nOpenAI Files for IPO\n\nAnthropic IPO\n\nBoom Stokes Inflation\n\nChina’s AI Buildout\n\nDisappointing ROI\n\nRethinking Data Centers\n\nBusiness\n\n#...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "credibility": "P2",
+      "publishedAt": "2026-06-13T07:14:27.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
   "summary": ""
 }
