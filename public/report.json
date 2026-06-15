@@ -1,108 +1,164 @@
 {
-  "date": "2026-06-14",
-  "generatedAt": "2026-06-14T04:22:57.866Z",
-  "totalItems": 13,
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T04:46:01.836Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1781410977865-0",
-      "title": "As Anthropic suspends access to new models, India debates its AI future - TechCrunch",
-      "summary": "He told TechCrunch that the move was likely to provoke a significant nationalist backlash in India and described it as a poorly considered decision by...",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "id": "news-1781498761835-3",
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers - TechCrunch",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
+      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
       "credibility": "P2",
-      "publishedAt": "2026-06-14T03:00:00.000Z",
+      "publishedAt": "2026-06-15T04:01:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "LLM"
+        "Agent"
       ]
     },
     {
-      "id": "news-1781410977865-4",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand - TechCrunch",
-      "summary": "+ Morgan Little\n  + Aisha Malik\n Anthropic’s Claude Fable 5 is a version of Mythos the public can access today\n\n  + Rebecca Bellan\n It’s not FAANG any...",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T00:03:49.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-7",
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban - The Verge",
-      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. The world’s first trillionaire is a killer\n2. Valve just imported 13 tons of VR headsets in one da...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T21:39:26.000Z",
-      "category": "research",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-8",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations - TechCrunch",
-      "summary": "+ Zack Whittaker\n\n## Latest in AI\n\n In Brief\n\n  ### KPMG pulls report on AI usage due to apparent hallucinations\n\n  + Anthony Ha\n In Brief\n\n  ### Amaz...",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T20:42:31.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-6",
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown - TechCrunch",
-      "summary": "The Wall Street Journal reports that Jassy told Treasury Secretary Scott Bessent and other government officials that Amazon researchers used Anthropic...",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T19:11:41.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-5",
-      "title": "Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says - Reuters",
-      "summary": "Citing national security concerns, the Trump administration ​on Friday directed Anthropic to block any foreign nationals, whether ⁠inside or outside t...",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/",
+      "id": "news-1781498761836-9",
+      "title": "China's regulator summons Walmart over food safety issues - Reuters",
+      "summary": "category · · 13 mins ago\n\n  Sydney's Coogee Beach reopened on Monday under the watchful ​eyes of lifeguards and jet ski patrols, after a shark attack ...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-regulator-summons-walmart-over-food-safety-issues-2026-06-15/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-regulator-summons-walmart-over-food-safety-issues-2026-06-15/",
       "credibility": "P2",
-      "publishedAt": "2026-06-13T18:13:14.000Z",
+      "publishedAt": "2026-06-15T03:23:31.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1781410977865-2",
-      "title": "OpenAI faces investigation from state attorneys general - TechCrunch",
-      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "id": "news-1781498761836-7",
+      "title": "Asia hedge funds notch triple-digit gains in AI-led rally - Reuters",
+      "summary": "# Asia hedge funds notch triple-digit gains in AI-led rally | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market p...",
+      "url": "https://www.reuters.com/world/china/asia-hedge-funds-notch-triple-digit-gains-ai-led-rally-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/asia-hedge-funds-notch-triple-digit-gains-ai-led-rally-2026-06-15/",
       "credibility": "P2",
-      "publishedAt": "2026-06-13T16:47:18.000Z",
+      "publishedAt": "2026-06-15T03:14:19.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-10",
+      "title": "Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI chips, sources say - Reuters",
+      "summary": "Iluvatar CoreX, one of China's leading GPU startups, is expected to ship at least 50,000 ‌chips ⁠to ByteDance this year and most of them will be used ...",
+      "url": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T03:13:18.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-8",
+      "title": "SpaceX and OpenAI Are Ending Wall Street’s Era of Stock Scarcity - Bloomberg.com",
+      "summary": "Confidential tip?\n\nSend a tip to our reporters\n\nSite feedback:\n\nTake our Survey\n\nBefore it's here, it's on the Bloomberg Terminal\n\nLEARN MORE [...] Sp...",
+      "url": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T19:00:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-5",
+      "title": "Anthropic staff to meet White House officials next week, Axios reports - Reuters",
+      "summary": "Skip to main content\n\n# Anthropic staff to meet White House officials next week, Axios reports\n\nBy \nReuters\n\nJune 14 (Reuters) - Senior Anthropic tech...",
+      "url": "https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T18:29:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761835-2",
+      "title": "As AI companies race to go public, who else is along for the ride? - TechCrunch",
+      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T16:38:09.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761835-1",
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla - TechCrunch",
+      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T16:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-12",
+      "title": "Lazard bids to replace Centerview as Venezuela financial advisor, Bloomberg News reports - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   June 13, 2026Legal categoryFirst Brands moves ahead with liquidation plan , opens new tab\n\n### Stay Inform...",
+      "url": "https://www.reuters.com/world/americas/lazard-bids-replace-centerview-venezuela-financial-advisor-bloomberg-news-2026-06-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/lazard-bids-replace-centerview-venezuela-financial-advisor-bloomberg-news-2026-06-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T15:47:56.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-6",
+      "title": "UK, Japan set to agree $24 billion investment, tech partnerships - Reuters",
+      "summary": "Anthropic disables top-tier AI models after US order limiting foreign access\n Businesscategory\n\n  OpenAI under investigation by group of state attorne...",
+      "url": "https://www.reuters.com/world/asia-pacific/uk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/uk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T14:23:30.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761835-0",
+      "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com",
+      "summary": "The new Siri can handle many of the tasks an everyday consumer would throw at OpenAI’s ChatGPT, Google Gemini or Anthropic’s Claude. That includes AI-...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T14:00:01.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -111,55 +167,14 @@
       ]
     },
     {
-      "id": "news-1781410977866-12",
-      "title": "How LinkedIn led Lopes on World Cup adventure with Cape Verde - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/sports/soccer/how-linkedin-led-lopes-world-cup-adventure-with-cape-verde-2026-06-13/",
+      "id": "news-1781498761835-4",
+      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n UK, Japan set to agree $24 billion investment, tech partnerships\n Businesscategory\n\n  Amazo...",
+      "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/soccer/how-linkedin-led-lopes-world-cup-adventure-with-cape-verde-2026-06-13/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
       "credibility": "P2",
-      "publishedAt": "2026-06-13T15:39:45.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1781410977865-10",
-      "title": "My first 24 hours with Siri AI on the Mac - The Verge",
-      "summary": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models\n\nNothing CEO says phone prices are going to keep going up\n\nThe world’s first ...",
-      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-3",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order - The Verge",
-      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. The world’s first trillionaire is a killer\n2. I held the Trump phone\n3. Valve just imported 13 ton...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T12:55:49.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-9",
-      "title": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker - Reuters",
-      "summary": "The IPO, the biggest in U.S. history, vaulted SpaceX's value above two Mag 7 members: CEO Elon Musk's other company, Tesla (TSLA.O), opens new tab, an...",
-      "url": "https://www.reuters.com/legal/transactional/mag-7-mangos-spacex-forces-name-rethink-wall-streets-tech-stock-moniker-2026-06-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/mag-7-mangos-spacex-forces-name-rethink-wall-streets-tech-stock-moniker-2026-06-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T10:03:44.000Z",
+      "publishedAt": "2026-06-14T13:47:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -167,39 +182,39 @@
       ]
     },
     {
-      "id": "news-1781410977866-11",
-      "title": "Two phones and an app: How Russians skirt Putin's digital iron curtain - Reuters",
-      "summary": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction\n Financecategory\n\n  Exclusive: U.S. bank regulators ramp up scrutiny of AI use at fina...",
-      "url": "https://www.reuters.com/world/europe/two-phones-an-app-how-russians-skirt-putins-digital-iron-curtain-2026-06-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/europe/two-phones-an-app-how-russians-skirt-putins-digital-iron-curtain-2026-06-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-13T09:05:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781410977865-1",
-      "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg.com",
-      "summary": "The AI Race:\n\nOpenAI Files for IPO\n\nAnthropic IPO\n\nBoom Stokes Inflation\n\nChina’s AI Buildout\n\nDisappointing ROI\n\nRethinking Data Centers\n\nBusiness\n\n#...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "id": "news-1781498761836-13",
+      "title": "Lazard Undercuts Rival Centerview in Battle for Venezuela Deal - Bloomberg",
+      "summary": "# Lazard Undercuts Rival Centerview in Battle for Venezuela Deal - Bloomberg\n\nSkip to content\n\nBloomberg the Company & Its Products The Company & its ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/lazard-offers-to-undercut-rival-investment-bank-for-historic-venezuela-deal",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-14/lazard-offers-to-undercut-rival-investment-bank-for-historic-venezuela-deal",
       "credibility": "P2",
-      "publishedAt": "2026-06-13T07:14:27.000Z",
+      "publishedAt": "2026-06-14T13:30:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1781498761836-11",
+      "title": "Japan to send delegation to Greenland to evaluate rare earth extraction, Nikkei says - Reuters",
+      "summary": "Chinacategory · · 1 hour ago\n\n  Taiwan's government launched a website on Sunday to ​encourage Chinese nationals to report intelligence tips, saying i...",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-14T04:53:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 14
   },
   "summary": ""
 }
