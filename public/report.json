@@ -1,120 +1,17 @@
 {
-  "date": "2026-06-15",
-  "generatedAt": "2026-06-15T04:46:01.836Z",
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T04:43:13.807Z",
   "totalItems": 14,
   "items": [
     {
-      "id": "news-1781498761835-3",
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers - TechCrunch",
-      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
-      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "id": "news-1781584993806-2",
+      "title": "Inside the fight over Claude Mythos 5 - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Xbox is closing down Hellblade creator Ninja Theory\n2. Google Earth’s flight simulator is now avai...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
       "credibility": "P2",
-      "publishedAt": "2026-06-15T04:01:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1781498761836-9",
-      "title": "China's regulator summons Walmart over food safety issues - Reuters",
-      "summary": "category · · 13 mins ago\n\n  Sydney's Coogee Beach reopened on Monday under the watchful ​eyes of lifeguards and jet ski patrols, after a shark attack ...",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-regulator-summons-walmart-over-food-safety-issues-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-regulator-summons-walmart-over-food-safety-issues-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T03:23:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761836-7",
-      "title": "Asia hedge funds notch triple-digit gains in AI-led rally - Reuters",
-      "summary": "# Asia hedge funds notch triple-digit gains in AI-led rally | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market p...",
-      "url": "https://www.reuters.com/world/china/asia-hedge-funds-notch-triple-digit-gains-ai-led-rally-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/asia-hedge-funds-notch-triple-digit-gains-ai-led-rally-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T03:14:19.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761836-10",
-      "title": "Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI chips, sources say - Reuters",
-      "summary": "Iluvatar CoreX, one of China's leading GPU startups, is expected to ship at least 50,000 ‌chips ⁠to ByteDance this year and most of them will be used ...",
-      "url": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T03:13:18.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761836-8",
-      "title": "SpaceX and OpenAI Are Ending Wall Street’s Era of Stock Scarcity - Bloomberg.com",
-      "summary": "Confidential tip?\n\nSend a tip to our reporters\n\nSite feedback:\n\nTake our Survey\n\nBefore it's here, it's on the Bloomberg Terminal\n\nLEARN MORE [...] Sp...",
-      "url": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T19:00:17.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761836-5",
-      "title": "Anthropic staff to meet White House officials next week, Axios reports - Reuters",
-      "summary": "Skip to main content\n\n# Anthropic staff to meet White House officials next week, Axios reports\n\nBy \nReuters\n\nJune 14 (Reuters) - Senior Anthropic tech...",
-      "url": "https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T18:29:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761835-2",
-      "title": "As AI companies race to go public, who else is along for the ride? - TechCrunch",
-      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T16:38:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761835-1",
-      "title": "TechCrunch Mobility: SpaceX rockets past Tesla - TechCrunch",
-      "summary": "+ Lucas Ropek\n  + Connie Loizos\n WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more\n\n  + Morgan Little\n  + Aisha Malik\n ...",
-      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T16:05:00.000Z",
+      "publishedAt": "2026-06-16T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -122,43 +19,14 @@
       ]
     },
     {
-      "id": "news-1781498761836-12",
-      "title": "Lazard bids to replace Centerview as Venezuela financial advisor, Bloomberg News reports - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   June 13, 2026Legal categoryFirst Brands moves ahead with liquidation plan , opens new tab\n\n### Stay Inform...",
-      "url": "https://www.reuters.com/world/americas/lazard-bids-replace-centerview-venezuela-financial-advisor-bloomberg-news-2026-06-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/americas/lazard-bids-replace-centerview-venezuela-financial-advisor-bloomberg-news-2026-06-14/",
+      "id": "news-1781584993806-1",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED",
+      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.\n\nParesh Dave\n\nOpenAI and Anthro...",
+      "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
       "credibility": "P2",
-      "publishedAt": "2026-06-14T15:47:56.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761836-6",
-      "title": "UK, Japan set to agree $24 billion investment, tech partnerships - Reuters",
-      "summary": "Anthropic disables top-tier AI models after US order limiting foreign access\n Businesscategory\n\n  OpenAI under investigation by group of state attorne...",
-      "url": "https://www.reuters.com/world/asia-pacific/uk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/uk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T14:23:30.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781498761835-0",
-      "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com",
-      "summary": "The new Siri can handle many of the tasks an everyday consumer would throw at OpenAI’s ChatGPT, Google Gemini or Anthropic’s Claude. That includes AI-...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
-      "credibility": "P2",
-      "publishedAt": "2026-06-14T14:00:01.000Z",
+      "publishedAt": "2026-06-16T00:53:46.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -167,14 +35,138 @@
       ]
     },
     {
-      "id": "news-1781498761835-4",
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n UK, Japan set to agree $24 billion investment, tech partnerships\n Businesscategory\n\n  Amazo...",
-      "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
+      "id": "news-1781584993806-9",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch",
+      "summary": "+ Marina Temkin\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n Google just fire...",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
       "credibility": "P2",
-      "publishedAt": "2026-06-14T13:47:43.000Z",
+      "publishedAt": "2026-06-15T21:50:21.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-8",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms - TechCrunch",
+      "summary": "+ Marina Temkin\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n Google just fire...",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-5",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI - The Verge",
+      "summary": "Robert Hart\n\n## More in: All the news about Anthropic’s new AI fight with the White House\n\nChina may have accessed Mythos\n\nTerrence O'Brien\n\nAmazon se...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T18:10:27.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-12",
+      "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
+      "summary": "Lawyers for xAI did not immediately respond to requests for comment. OpenAI ‌and ⁠its lawyers did not immediately respond to similar requests.\n\n## TAL...",
+      "url": "https://www.reuters.com/legal/litigation/openai-wins-dismissal-trade-secret-lawsuit-by-musks-xai-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-wins-dismissal-trade-secret-lawsuit-by-musks-xai-2026-06-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T15:55:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-3",
+      "title": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models - TechCrunch",
+      "summary": "Moussouris’ critique was echoed in the open letter, which also said that the group of experts believe the method in the Amazon paper “can be replicate...",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T15:29:51.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1781584993806-0",
+      "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
+      "summary": "# AI-referred US shoppers browse longer, spend more per visit, data shows | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for fina...",
+      "url": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T15:03:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-4",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n The FBI built its own replica small town to simulate real-world cyberattacks\n\n  + Zack Whittaker\n Meta’s months-old AI...",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T13:46:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-6",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n The FBI built its own replica small town to simulate real-world cyberattacks\n\n  + Zack Whittaker\n Meta’s months-old AI...",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993806-11",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n Chinacategory\n\n  Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI c...",
+      "url": "https://www.reuters.com/legal/litigation/cyber-leaders-urge-us-lift-curbs-anthropics-security-models-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/cyber-leaders-urge-us-lift-curbs-anthropics-security-models-2026-06-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T12:09:18.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -182,32 +174,48 @@
       ]
     },
     {
-      "id": "news-1781498761836-13",
-      "title": "Lazard Undercuts Rival Centerview in Battle for Venezuela Deal - Bloomberg",
-      "summary": "# Lazard Undercuts Rival Centerview in Battle for Venezuela Deal - Bloomberg\n\nSkip to content\n\nBloomberg the Company & Its Products The Company & its ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-14/lazard-offers-to-undercut-rival-investment-bank-for-historic-venezuela-deal",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-14/lazard-offers-to-undercut-rival-investment-bank-for-historic-venezuela-deal",
+      "id": "news-1781584993806-10",
+      "title": "A satellite just learned to find things on its own — here’s what that means - TechCrunch",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
       "credibility": "P2",
-      "publishedAt": "2026-06-14T13:30:00.000Z",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1781498761836-11",
-      "title": "Japan to send delegation to Greenland to evaluate rare earth extraction, Nikkei says - Reuters",
-      "summary": "Chinacategory · · 1 hour ago\n\n  Taiwan's government launched a website on Sunday to ​encourage Chinese nationals to report intelligence tips, saying i...",
-      "url": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/",
+      "id": "news-1781584993806-7",
+      "title": "The AI layoff wave is becoming a powder keg - TechCrunch",
+      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
       "credibility": "P2",
-      "publishedAt": "2026-06-14T04:53:43.000Z",
+      "publishedAt": "2026-06-15T07:25:41.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "RAG"
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781584993807-13",
+      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure - Reuters",
+      "summary": "Europecategory · · 19 mins ago\n\n  U.S. ‌President Donald Trump ​has ​landed in ⁠Evian-les-Bains ​to ​attend the G7 summit ​held ​in the ‌French ⁠town,...",
+      "url": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-15T05:21:54.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
