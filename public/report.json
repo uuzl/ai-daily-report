@@ -1,92 +1,122 @@
 {
-  "date": "2026-06-16",
-  "generatedAt": "2026-06-16T04:43:13.807Z",
-  "totalItems": 14,
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T04:23:57.792Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1781584993806-2",
-      "title": "Inside the fight over Claude Mythos 5 - The Verge",
-      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Xbox is closing down Hellblade creator Ninja Theory\n2. Google Earth’s flight simulator is now avai...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "id": "news-1781670237791-11",
+      "title": "OpenAI burned $3.7 billion in first quarter of 2026, The Information reports - Reuters",
+      "summary": "# OpenAI burned $3.7 billion in first quarter of 2026, The Information reports | Reuters\n\nSkip to main content\n\nReport AdImage 1\n\nExclusive news, data...",
+      "url": "https://www.reuters.com/business/openai-burned-37-billion-first-quarter-2026-information-reports-2026-06-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-burned-37-billion-first-quarter-2026-information-reports-2026-06-16/",
       "credibility": "P2",
-      "publishedAt": "2026-06-16T03:00:00.000Z",
+      "publishedAt": "2026-06-16T23:43:14.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-1",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests - TechCrunch",
+      "summary": "Julie Bort\n\nAnthropic is having a month.\n\nThe AI lab finished May by surpassing OpenAI in market share of business spending for the first time, Ramp j...",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T22:34:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1781584993806-1",
-      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED",
-      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.\n\nParesh Dave\n\nOpenAI and Anthro...",
-      "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "id": "news-1781670237791-8",
+      "title": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say - Reuters",
+      "summary": "Cybersecurity experts believe Anthropic's Mythos, a model designed to find flaws in computer code, may turbocharge attacks on banks' technology system...",
+      "url": "https://www.reuters.com/legal/government/g7-leaders-discuss-trusted-partners-access-cutting-edge-us-ai-models-sources-say-2026-06-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/g7-leaders-discuss-trusted-partners-access-cutting-edge-us-ai-models-sources-say-2026-06-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T18:49:23.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-7",
+      "title": "Lutnick’s Letter to Anthropic Warned of Curbs on Top AI Models - Bloomberg.com",
+      "summary": "Anthropic:\n\nMythos Access Shut Down\n\nLutnick’s Letter\n\nWhat Is Mythos?\n\nIPO Filing\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\n# Lutnick’s Letter...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T18:47:25.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-3",
+      "title": "Read the Lutnick Letter That Led Anthropic to Disable Mythos - Bloomberg.com",
+      "summary": "Lutnick threatened Anthropic with criminal and civil penalties if it failed to comply, according to a copy of the directive obtained by Bloomberg News...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/read-the-lutnick-letter-that-led-anthropic-to-disable-mythos",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/read-the-lutnick-letter-that-led-anthropic-to-disable-mythos",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T18:46:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1781670237791-6",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO\n\n  + Sean O'Kane\n The AI layoff wave is becomin...",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-2",
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What - WIRED",
+      "summary": "Lily Hay Newman is a senior writer at WIRED focused on information security, digital privacy, and hacking. She previously worked as a technology repor...",
+      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "sourceUrl": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
       "credibility": "P2",
-      "publishedAt": "2026-06-16T00:53:46.000Z",
+      "publishedAt": "2026-06-16T17:50:52.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1781584993806-9",
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch",
-      "summary": "+ Marina Temkin\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n Google just fire...",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T21:50:21.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1781584993806-8",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms - TechCrunch",
-      "summary": "+ Marina Temkin\n Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable\n\n  + Lorenzo Franceschi-Bicchierai\n Google just fire...",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "id": "news-1781670237791-10",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year - Ars Technica",
+      "summary": "As OpenAI tries to shift all these losses to eventual profits, it will have to start reining in its costs, especially the massive (and growing) R&D co...",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
       "credibility": "P2",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-5",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI - The Verge",
-      "summary": "Robert Hart\n\n## More in: All the news about Anthropic’s new AI fight with the White House\n\nChina may have accessed Mythos\n\nTerrence O'Brien\n\nAmazon se...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T18:10:27.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-12",
-      "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
-      "summary": "Lawyers for xAI did not immediately respond to requests for comment. OpenAI ‌and ⁠its lawyers did not immediately respond to similar requests.\n\n## TAL...",
-      "url": "https://www.reuters.com/legal/litigation/openai-wins-dismissal-trade-secret-lawsuit-by-musks-xai-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-wins-dismissal-trade-secret-lawsuit-by-musks-xai-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T15:55:43.000Z",
+      "publishedAt": "2026-06-16T16:18:07.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -95,134 +125,85 @@
       ]
     },
     {
-      "id": "news-1781584993806-3",
-      "title": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models - TechCrunch",
-      "summary": "Moussouris’ critique was echoed in the open letter, which also said that the group of experts believe the method in the Amazon paper “can be replicate...",
-      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "id": "news-1781670237791-12",
+      "title": "Trump administration backs Musk’s xAI in NAACP data center lawsuit - Reuters",
+      "summary": "# Trump administration backs Musk’s xAI in NAACP data center lawsuit | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial...",
+      "url": "https://www.reuters.com/legal/government/trump-administration-backs-musks-xai-naacp-data-center-lawsuit-2026-06-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/trump-administration-backs-musks-xai-naacp-data-center-lawsuit-2026-06-16/",
       "credibility": "P2",
-      "publishedAt": "2026-06-15T15:29:51.000Z",
+      "publishedAt": "2026-06-16T15:38:12.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-9",
+      "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
+      "summary": "EU Commission keeps contact with Anthropic over decision to disable models in EU\n Financecategory\n\n  Exclusive: Ukraine aims to align banks, insurers ...",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-launches-cybersecurity-product-based-openai-models-2026-06-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/softbank-launches-cybersecurity-product-based-openai-models-2026-06-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T15:30:34.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1781670237791-5",
+      "title": "Probably raises $9M to build a more reliable kind of AI - TechCrunch",
+      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\n...",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T13:15:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1781670237791-4",
+      "title": "EU Commission keeps contact with Anthropic over decision to disable models in EU - Reuters",
+      "summary": "Learn about the latest breakthroughs in AI and tech with the Reuters Artificial Intelligencer newsletter. Sign up here.\n\nReporting by Makini Brice ​an...",
+      "url": "https://www.reuters.com/technology/eu-commission-keeps-contact-with-anthropic-over-decision-disable-models-eu-2026-06-16/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/eu-commission-keeps-contact-with-anthropic-over-decision-disable-models-eu-2026-06-16/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T10:35:20.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1781670237791-0",
+      "title": "ChatGPT’s market share slips below 50% for first time - TechCrunch",
+      "summary": "Ivan Mehta\n\nMore than three and a half years after ChatGPT’s initial release, AI assistants are now used by millions of people worldwide, and the comp...",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-16T10:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
-      ]
-    },
-    {
-      "id": "news-1781584993806-0",
-      "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
-      "summary": "# AI-referred US shoppers browse longer, spend more per visit, data shows | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for fina...",
-      "url": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T15:03:16.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-4",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n The FBI built its own replica small town to simulate real-world cyberattacks\n\n  + Zack Whittaker\n Meta’s months-old AI...",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T13:46:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-6",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n The FBI built its own replica small town to simulate real-world cyberattacks\n\n  + Zack Whittaker\n Meta’s months-old AI...",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-11",
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n Chinacategory\n\n  Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI c...",
-      "url": "https://www.reuters.com/legal/litigation/cyber-leaders-urge-us-lift-curbs-anthropics-security-models-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/cyber-leaders-urge-us-lift-curbs-anthropics-security-models-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T12:09:18.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-10",
-      "title": "A satellite just learned to find things on its own — here’s what that means - TechCrunch",
-      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993806-7",
-      "title": "The AI layoff wave is becoming a powder keg - TechCrunch",
-      "summary": "+ Lorenzo Franceschi-Bicchierai\n Google just fired a warning shot in the AI subscription price wars\n\n  + Lucas Ropek\n  + Connie Loizos\n Anthropic’s Cl...",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T07:25:41.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781584993807-13",
-      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure - Reuters",
-      "summary": "Europecategory · · 19 mins ago\n\n  U.S. ‌President Donald Trump ​has ​landed in ⁠Evian-les-Bains ​to ​attend the G7 summit ​held ​in the ‌French ⁠town,...",
-      "url": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-15T05:21:54.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
   "summary": ""
 }
