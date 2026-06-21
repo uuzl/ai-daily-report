@@ -1,17 +1,89 @@
 {
-  "date": "2026-06-20",
-  "generatedAt": "2026-06-20T03:58:41.695Z",
-  "totalItems": 13,
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T04:40:40.276Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1781927921694-1",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots. - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX\n\n  + Tim Fernholz\n ##...",
-      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "id": "news-1782016840275-14",
+      "title": "Jake McCarthy, Tomoyuki Sugano help Rockies eke out win vs. Pirates - Reuters",
+      "summary": "© 2026 Reuters. All rights reserved\n\nReport AdImage 40\n\nImage 41Image 42Image 43Image 44Image 45Image 46Image 47Image 48Image 49Image 50Image 51Image ...",
+      "url": "https://www.reuters.com/sports/baseball/jake-mccarthy-tomoyuki-sugano-help-rockies-eke-out-win-vs-pirates--flm-2026-06-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/baseball/jake-mccarthy-tomoyuki-sugano-help-rockies-eke-out-win-vs-pirates--flm-2026-06-21/",
       "credibility": "P2",
-      "publishedAt": "2026-06-20T00:47:44.000Z",
+      "publishedAt": "2026-06-21T04:05:22.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1782016840275-11",
+      "title": "A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’ - Bloomberg.com",
+      "summary": "News\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work\n\nMarket Data\n\nSto...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
+      "credibility": "P2",
+      "publishedAt": "2026-06-21T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782016840275-9",
+      "title": "Congo says confirmed Ebola cases rise to 956, including 247 deaths - Reuters",
+      "summary": "Experimental first-in-class heart drug may also help heal kidneys\n Healthcare & Pharmaceuticalscategory\n\n  Australia vows to rein in any H5N1 birdflu ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-confirmed-ebola-cases-rise-956-including-247-deaths-2026-06-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-confirmed-ebola-cases-rise-956-including-247-deaths-2026-06-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T20:59:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782016840275-0",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’ - TechCrunch",
+      "summary": "Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends. T...",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T20:32:29.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782016840275-3",
+      "title": "In the Weights is your new AI-centric vanity search - TechCrunch",
+      "summary": "View Bio\n\nJune 18\n\nLos Angeles\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei S...",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T19:41:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1782016840275-6",
+      "title": "Founders Fund’s outlier bet on humanely killed fish - TechCrunch",
+      "summary": "+ Zack Whittaker\n The AI layoff wave is becoming a powder keg\n\n  + Connie Loizos\n As Anthropic suspends access to new models, India debates its AI fut...",
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T18:26:02.000Z",
       "category": "tech",
       "tags": [
         "GPT",
@@ -19,42 +91,14 @@
       ]
     },
     {
-      "id": "news-1781927921694-8",
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work - TechCrunch",
-      "summary": "+ Zack Whittaker\n The AI layoff wave is becoming a powder keg\n\n  + Connie Loizos\n As Anthropic suspends access to new models, India debates its AI fut...",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "id": "news-1782016840275-4",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic - TechCrunch",
+      "summary": "+ Anna Heim\n Security\n\n  ### From PGP to Mythos: a brief history of export controls that didn’t stop anyone\n\n  + Lorenzo Franceschi-Bicchierai\n\n## Lat...",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T22:40:14.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781927921694-4",
-      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
-      "summary": "Reporting by Ryan Patrick Jones in Toronto; Editing by Nia Williams\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nPurchase Lic...",
-      "url": "https://www.reuters.com/world/us/trump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/trump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T19:56:03.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781927921694-7",
-      "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Access Shut Down\n\nLutnick’s Letter\n\nWhat Is Mythos?\n\nIPO Filing\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\nAI\n\n# Nobel Winner...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T18:43:36.000Z",
+      "publishedAt": "2026-06-20T16:39:57.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -62,131 +106,115 @@
       ]
     },
     {
-      "id": "news-1781927921694-3",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand? - TechCrunch",
-      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\n...",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "id": "news-1782016840275-1",
+      "title": "Every new iOS 27 feature that’s worth knowing about - TechCrunch",
+      "summary": "+ Marina Temkin\n  + Dominic-Madori Davis\n NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX\n\n  + Tim Fernholz\n ...",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T16:08:17.000Z",
+      "publishedAt": "2026-06-20T15:00:00.000Z",
       "category": "tech",
       "tags": [
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1781927921694-5",
-      "title": "Norway imposes near ban on AI in elementary school - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Worldcategory\n\n  Trump tells Axios he no longer views Anthropic as national security threat\n Legalcategory\n\n...",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "id": "news-1782016840275-12",
+      "title": "Clark looks to build halfway lead in promising US Open campaign - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/golf/clark-looks-build-halfway-lead-promising-us-open-campaign-2026-06-20/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "sourceUrl": "https://www.reuters.com/sports/golf/clark-looks-build-halfway-lead-promising-us-open-campaign-2026-06-20/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T15:41:56.000Z",
+      "publishedAt": "2026-06-20T14:30:27.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1781927921694-6",
-      "title": "Billionaire Ambani wants AI in every call, app, and home - TechCrunch",
-      "summary": "+ Sean O'Kane\n The US government’s Anthropic models ban was never about an AI jailbreak\n\n  + Zack Whittaker\n The AI layoff wave is becoming a powder k...",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "id": "news-1782016840275-8",
+      "title": "Sun Pharma to acquire Innovcare Lifesciences for $28.7 million - Reuters",
+      "summary": "## Read Next / Editor's Picks\n\n Legalcategory\n\n  PE firm Pollen Street to acquire Finastra's core banking software unit\n Legalcategory\n\n  Canada's MDA...",
+      "url": "https://www.reuters.com/legal/transactional/sun-pharma-acquire-innovcare-lifesciences-287-million-2026-06-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/sun-pharma-acquire-innovcare-lifesciences-287-million-2026-06-20/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T15:23:28.000Z",
+      "publishedAt": "2026-06-20T12:19:45.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782016840275-7",
+      "title": "Toy Story has the right take on tech - The Verge",
+      "summary": "See you next week!\n\nFollow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n...",
+      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1782016840275-2",
+      "title": "Suspected hacker sends unauthorized alert across Brazil - Reuters",
+      "summary": "June 19, 2026World categoryEXCLUSIVE  White House delays release of US voting machine study Image 1: People vote during the primary election for U.S. ...",
+      "url": "https://www.reuters.com/world/americas/suspected-hacker-sends-unauthorized-alert-across-brazil-2026-06-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/suspected-hacker-sends-unauthorized-alert-across-brazil-2026-06-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T11:43:20.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1781927921694-0",
-      "title": "Early users of Anthropic's Mythos still have access after US order, Bloomberg News reports - Reuters",
-      "summary": "Skip to main content\n\n# Early users of Anthropic's Mythos still have access after US order, Bloomberg News reports\n\nBy \nReuters\n\nJune 19 (Reuters) - S...",
-      "url": "https://www.reuters.com/business/early-users-anthropics-mythos-still-have-access-after-us-order-bloomberg-news-2026-06-19/",
+      "id": "news-1782016840275-10",
+      "title": "Russia says it repelled drone attack on oil refinery in Tyumen region - Reuters",
+      "summary": "3 hours agoEnergy categoryChina's May refined oil exports rise from April under restrictions, Australia receives agreed volume , opens new tab [...] L...",
+      "url": "https://www.reuters.com/business/energy/russia-says-it-repelled-drone-attack-oil-refinery-tyumen-region-2026-06-20/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/early-users-anthropics-mythos-still-have-access-after-us-order-bloomberg-news-2026-06-19/",
+      "sourceUrl": "https://www.reuters.com/business/energy/russia-says-it-repelled-drone-attack-oil-refinery-tyumen-region-2026-06-20/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T14:53:20.000Z",
+      "publishedAt": "2026-06-20T11:42:17.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1782016840275-5",
+      "title": "I Let Siri AI Show Me Around San Francisco - WIRED",
+      "summary": "Apple’s vision for Siri places it at the center of your smartphone experience, though it’s not limited to mobile. Siri AI will be integrated with most...",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-20T10:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1781927921694-9",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM - The Verge",
-      "summary": "Who decides when AI is too dangerous?\n\nAdobe’s redesigned AI studio remembers what your creations look like\n\nPhotoshop and Premiere now have AI assist...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T14:15:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1781927921694-2",
-      "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Access Shut Down\n\nLutnick’s Letter\n\nWhat Is Mythos?\n\nIPO Filing\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\n# Lutnick’s Anthro...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1781927921695-10",
-      "title": "Wall St Week Ahead Investors see Micron earnings as pulse check of AI rally momentum - Reuters",
-      "summary": "## Read Next\n\n Financecategory\n\n  EXCLUSIVE\n\n  UniCredit turned to CEO Orcel's brother to broker Russia sale\n Financecategory\n\n  KPMG Australia scanda...",
-      "url": "https://www.reuters.com/business/finance/wall-st-week-ahead-investors-see-micron-earnings-pulse-check-ai-rally-momentum-2026-06-19/",
+      "id": "news-1782016840275-13",
+      "title": "Porsche CEO aims to finalise new cost-cutting package by July, FAS reports - Reuters",
+      "summary": "Suggested Topics:\n   Business\n   Workforce\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   19 hours agoBusiness categoryWarsh b...",
+      "url": "https://www.reuters.com/business/porsche-ceo-aims-finalise-new-cost-cutting-package-by-july-fas-reports-2026-06-20/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/wall-st-week-ahead-investors-see-micron-earnings-pulse-check-ai-rally-momentum-2026-06-19/",
+      "sourceUrl": "https://www.reuters.com/business/porsche-ceo-aims-finalise-new-cost-cutting-package-by-july-fas-reports-2026-06-20/",
       "credibility": "P2",
-      "publishedAt": "2026-06-19T10:03:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781927921695-11",
-      "title": "AI-generated ads should be exempt from EU transparency rules, retail association says - Reuters",
-      "summary": "Video 1Ad Break Coming UpImage 2: Next VideoNEXT Stay Next Off English 180p 288p 360p 480p 540p 576p 720p HD 1080p HD Auto (180p)About Connatix V46451...",
-      "url": "https://www.reuters.com/legal/litigation/ai-generated-ads-should-be-exempt-eu-transparency-rules-retail-association-says-2026-06-19/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-generated-ads-should-be-exempt-eu-transparency-rules-retail-association-says-2026-06-19/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T09:23:32.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1781927921695-12",
-      "title": "Goldman Sachs Lops $500 Off Gold Target on No Fed Cuts This Year - Bloomberg",
-      "summary": "Gold:\n\nFlawed Safe-Haven\n\nModi’s Gold Fight\n\nTokenized Gold\n\n‘Debasement’ Trade\n\nTether’s Metal Hoard\n\nBest Year Ever\n\nMarkets\n\n# Goldman Axes $500 Fr...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-19/goldman-sachs-lops-500-off-gold-target-on-no-fed-cuts-this-year",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/goldman-sachs-lops-500-off-gold-target-on-no-fed-cuts-this-year",
-      "credibility": "P2",
-      "publishedAt": "2026-06-19T09:18:53.000Z",
+      "publishedAt": "2026-06-20T05:06:38.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -196,7 +224,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
