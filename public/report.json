@@ -1,74 +1,80 @@
 {
-  "date": "2026-06-22",
-  "generatedAt": "2026-06-22T04:45:55.895Z",
-  "totalItems": 13,
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T03:51:18.152Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1782103555894-4",
-      "title": "Abaxx Calls for Probe, Hires Paul Weiss After Short Seller’s Attack - Bloomberg",
-      "summary": "### Top Reads\n\nBlack-Market Peptides Fuel a Multibillion-Dollar Gold Rush\n\nby Amanda Mull , Madison Muller and Ashleigh FurlongSignal's Meredith Whitt...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/abaxx-calls-for-probe-hires-paul-weiss-after-short-seller-s-attack",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-22/abaxx-calls-for-probe-hires-paul-weiss-after-short-seller-s-attack",
-      "credibility": "P2",
-      "publishedAt": "2026-06-22T00:00:17.000Z",
+      "id": "news-1782186678151-2",
+      "title": "Daybreak: Tools for securing every organization in the world - OpenAI",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world/",
+      "credibility": "P0",
+      "publishedAt": "2026-06-22T17:06:04.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1782103555894-12",
-      "title": "Own goals surge at expanded World Cup threatens tournament record - Reuters",
-      "summary": "Video 3\n\nVideo 4\n\nVideo 5\n\nVideo 6\n\nVideo 7\n\nVideo 8\n\nUnfortunately, Mexico have scored the most own goals down the years with four, while France have...",
-      "url": "https://www.reuters.com/sports/soccer/own-goals-surge-expanded-world-cup-threatens-tournament-record-2026-06-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/soccer/own-goals-surge-expanded-world-cup-threatens-tournament-record-2026-06-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-21T17:05:41.000Z",
-      "category": "tech",
-      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1782103555894-1",
-      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets - TechCrunch",
-      "summary": "Subscribe for the industry’s biggest tech news\n\n## Related\n\n Transportation\n\n  ### TechCrunch Mobility: A new robotaxi scorecard shows China’s dominan...",
-      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "id": "news-1782186678151-4",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers - OpenAI",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/index/patch-the-planet/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/patch-the-planet/",
+      "credibility": "P0",
+      "publishedAt": "2026-06-22T17:06:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782186678151-8",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs - TechCrunch",
+      "summary": "Much of the concern surrounding tools like Mythos (Anthropic’s highly publicized security tool) seems to stem from the fact that AI can now automatica...",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T16:35:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-06-23T00:11:31.000Z",
+      "category": "product",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1782103555894-9",
-      "title": "Sooryavanshi hits record fifty, says pressure not a factor - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/cricket/sooryavanshi-hits-record-fifty-says-pressure-not-factor-2026-06-21/",
+      "id": "news-1782186678151-5",
+      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
+      "summary": "Earlier this month, ​Anthropic was forced to ​disable a ⁠version of Mythos after the U.S. government ordered it to suspend access to the ​models for f...",
+      "url": "https://www.reuters.com/world/asia-pacific/five-eyes-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk-2026-06-22/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/cricket/sooryavanshi-hits-record-fifty-says-pressure-not-factor-2026-06-21/",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/five-eyes-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk-2026-06-22/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T15:33:16.000Z",
+      "publishedAt": "2026-06-22T23:17:24.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1782103555894-0",
-      "title": "When the Trump administration cracks down on Anthropic, who benefits? - TechCrunch",
-      "summary": "And I do wonder — it does seem like Anthropic is not happy about this. I want to be careful about not overstating how this could be beneficial to them...",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "id": "news-1782186678151-7",
+      "title": "The AI world is getting ‘loopy’ - TechCrunch",
+      "summary": "### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\n...",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T15:28:17.000Z",
+      "publishedAt": "2026-06-22T20:53:11.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -77,28 +83,14 @@
       ]
     },
     {
-      "id": "news-1782103555894-8",
-      "title": "Ethiopian prime minister's party wins parliamentary majority, election results show - Reuters",
-      "summary": "African, Caribbean states back slavery reparations plan at Ghana meeting\n Congo says confirmed Ebola cases rise to 956, including 247 deaths\n More tha...",
-      "url": "https://www.reuters.com/world/africa/ethiopian-prime-ministers-party-wins-parliamentary-majority-election-results-2026-06-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/africa/ethiopian-prime-ministers-party-wins-parliamentary-majority-election-results-2026-06-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-21T14:48:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782103555894-2",
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 - TechCrunch",
-      "summary": "+ Ivan Mehta\n The US government’s Anthropic models ban was never about an AI jailbreak\n\n  + Zack Whittaker\n The AI layoff wave is becoming a powder ke...",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "id": "news-1782186678151-9",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal - TechCrunch",
+      "summary": "Every new iOS 27 feature that’s worth knowing about\n\n  + Lauren Forristal\n The US says ASML’s top chip tool may be in China, but how?\n\n  + Connie Loiz...",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T14:40:28.000Z",
+      "publishedAt": "2026-06-22T20:13:58.000Z",
       "category": "tech",
       "tags": [
         "GPT",
@@ -106,94 +98,101 @@
       ]
     },
     {
-      "id": "news-1782103555894-5",
-      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets - The Verge",
-      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Our long national sunscreen nightmare is almost over\n2. The Atlantic created a searchable database...",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "id": "news-1782186678151-6",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Security\n\n  ### A new unpatchable flaw in Apple ...",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T14:19:46.000Z",
+      "publishedAt": "2026-06-22T18:49:44.000Z",
       "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782186678151-3",
+      "title": "Anthropic says Claude may want to see your ID - TechCrunch",
+      "summary": "+ Marina Temkin\n  + Dominic-Madori Davis\n NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX\n\n  + Tim Fernholz\n ...",
+      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-22T18:05:13.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782186678151-10",
+      "title": "Google DeepMind signs AI research deal with film studio A24 - Reuters",
+      "summary": "Reporting by Anhata Rooprai in Bengaluru and Dawn ​Chmielewski in Los Angeles; Editing by Tasim Zahid\n\nOur Standards: The Thomson Reuters Trust Princi...",
+      "url": "https://www.reuters.com/business/media-telecom/google-deepmind-signs-ai-research-deal-with-film-studio-a24-2026-06-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/google-deepmind-signs-ai-research-deal-with-film-studio-a24-2026-06-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-22T17:52:31.000Z",
+      "category": "research",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1782103555894-6",
-      "title": "Apple’s New CEO Must Rebuild a Design Team That Lost Its Way - Bloomberg",
-      "summary": "News\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work\n\nStocksCommoditie...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26",
+      "id": "news-1782186678151-0",
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos - WIRED",
+      "summary": "Andy Greenberg\n\nAnthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n\nThe company changed course after researchers spok...",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T14:00:01.000Z",
+      "publishedAt": "2026-06-22T17:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1782186678151-1",
+      "title": "How Anthropic may have talked itself into an AI export ban - Ars Technica",
+      "summary": "Overall, the data showed that while Anthropic’s public communications were largely positive in tone, they were less so than OpenAI’s.\n\nAnthropic has b...",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-22T13:45:24.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1782103555894-11",
-      "title": "Soaring Profits in EM Build the Case for a Raging Bull Market - Bloomberg.com",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents [...] Markets\n\n# Soaring Profits ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/soaring-profits-in-em-build-the-case-for-a-raging-bull-market",
+      "id": "news-1782186678151-11",
+      "title": "Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans - Bloomberg",
+      "summary": "Nvidia:\n\nWindows Laptop Chip\n\nHuang Sees China Opening\n\nChinese Labs With Military Ties\n\nCEO Pay Package\n\nFirst $5 Trillion Firm\n\nEarnings\n\nTechnology...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-21/soaring-profits-in-em-build-the-case-for-a-raging-bull-market",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
       "credibility": "P2",
-      "publishedAt": "2026-06-21T12:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782103555894-10",
-      "title": "Erdogan orders talks to reopen Orthodox Christian seminary in Turkey, a focus for Trump - Reuters",
-      "summary": "Suggested Topics:\n   Middle East\n   Human Rights\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   14 hours agoMiddle East catego...",
-      "url": "https://www.reuters.com/world/middle-east/erdogan-orders-talks-reopen-orthodox-christian-seminary-turkey-focus-trump-2026-06-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/middle-east/erdogan-orders-talks-reopen-orthodox-christian-seminary-turkey-focus-trump-2026-06-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-21T12:16:24.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1782103555894-7",
-      "title": "'Impending human rights disaster': UN fears for Sudan’s al-Obeid - Reuters",
-      "summary": "Infrared satellite aims to take Earth's temperature March 26, 2026\n   Could a tiny 'kettle' herald a new age of steam in space? March 19, 2026\n   Gian...",
-      "url": "https://www.reuters.com/video/watch/idRW102321062026RP1/?chan=world-news",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW102321062026RP1/?chan=world-news",
-      "credibility": "P2",
-      "publishedAt": "2026-06-21T12:03:51.000Z",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "news-1782103555894-3",
-      "title": "The ‘Mass Affluent’ Are Losing Their Allure for Wealth Managers Navigating AI - Bloomberg",
-      "summary": "Before it's here, it's on the Bloomberg Terminal\n\nLEARN MORE\n\n### More From Bloomberg\n\nTech Workers Who Don’t Embrace AI Face Triple the Layoff Risk, ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-06-21T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 10
   },
-  "summary": ""
+  "summary": "🔥 官方动态：2条（openai等）"
 }
