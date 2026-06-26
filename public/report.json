@@ -1,171 +1,49 @@
 {
-  "date": "2026-06-25",
-  "generatedAt": "2026-06-25T03:53:32.491Z",
-  "totalItems": 15,
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T04:00:05.003Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1782359612490-9",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world - TechCrunch",
-      "summary": "Hang Ten enters a market where IT services firms, including Infosys, are racing to adapt to AI through partnerships with companies like Anthropic and ...",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "id": "news-1782446405002-4",
+      "title": "OpenAI may delay IPO until next year: NYT - Reuters",
+      "summary": "### 01:14 EasyJet knocks back $6.5 billion Castlelake bid but deal hopes rise\n\n   ### 01:07 H&M reports Q2 profit miss as tighter inventory hit sales\n...",
+      "url": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T23:26:52.000Z",
+      "publishedAt": "2026-06-26T03:08:57.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782359612490-0",
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nOpenAI, the company behind ChatGPT and Codex and the models those tools utilize, and Broadcom, an esta...",
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T22:28:18.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782359612490-10",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient - TechCrunch",
-      "summary": "If AI were truly substituting for engineering talent, Bantock argued, engineering hiring would be the first to fall amid the current tech hiring contr...",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T21:56:41.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1782359612490-5",
-      "title": "AI researchers continue to leave Google for its rivals - TechCrunch",
-      "summary": "In Brief\n\nPosted:\n\n Amanda Silberling\n Lucas Ropek\n\n# AI researchers continue to leave Google for its rivals\n\nTop AI researchers Jonas Adler and Alexa...",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T21:42:07.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782359612490-12",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks - TechCrunch",
-      "summary": "+ Tim De Chant\n Apps\n\n  ### Facebook rolls out an AI companion app for creators\n\n  + Aisha Malik\n Apps\n\n  ### Deezer says its new feature lets fans re...",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T20:09:45.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782359612490-4",
-      "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing Its AI Models - Bloomberg.com",
-      "summary": "Anthropic:\n\nMythos Access Shut Down\n\nLutnick’s Letter\n\nWhat Is Mythos?\n\nIPO Filing\n\nJobs at Anthropic\n\nAndrej Karpathy\n\nTechnology\n\n# Anthropic Accuse...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T19:36:41.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1782359612490-11",
-      "title": "Facebook rolls out an AI companion app for creators - TechCrunch",
-      "summary": "Aisha Malik\n\nFacebook announced on Wednesday that it’s reimagining its Creator Studio tool as a standalone AI companion app designed to help creators ...",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T17:16:24.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782359612490-6",
-      "title": "Figma adds code layers, support for animations, more AI features in new update - TechCrunch",
-      "summary": "Ivan Mehta\n\nFigma on Wednesday showed off an update that adds a new code layer, support for motion and shaders, and the ability to create custom plug-...",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T16:15:00.000Z",
-      "category": "tech",
-      "tags": [
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1782359612490-3",
-      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei - WIRED",
-      "summary": "We're Tracking Amazon Prime Day Live\n\nShop Now\n\nHugo Lowell\n\nPolitics\n\n# The Trump White House Is Over Anthropic CEO Dario Amodei\n\nAt high-stakes meet...",
-      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-24T15:15:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782359612490-8",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom - TechCrunch",
-      "summary": "Optimizing that inference system may prove to be a crucial factor in the economics of AI going forward — and it’s likely to take place at every level ...",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "id": "news-1782446405002-1",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns - TechCrunch",
+      "summary": "Earlier this year, Anthropic sparked no small amount of controversy when it announced that its new frontier cyber model, Claude Mythos, would only be ...",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T14:54:46.000Z",
-      "category": "tech",
+      "publishedAt": "2026-06-25T23:34:39.000Z",
+      "category": "product",
       "tags": [
         "OpenAI",
-        "AI",
-        "Agent"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1782359612490-2",
-      "title": "OpenAI reveals its first AI processor: Jalapeño - The Verge",
-      "summary": "OpenAI has just revealed a new “intelligence processor” chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "id": "news-1782446405002-3",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request - The Verge",
+      "summary": "It’s a more favorable deal than the Trump administration gave OpenAI rival Anthropic, which earlier this month received an ultimatum requiring it to s...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T14:36:47.000Z",
+      "publishedAt": "2026-06-25T21:57:06.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -174,14 +52,14 @@
       ]
     },
     {
-      "id": "news-1782359612490-7",
-      "title": "Cerebras sinks 14% as full-year margin forecast disappoints - Reuters",
-      "summary": "The projection is far below those of rivals such as Nvidia's (NVDA.O), opens new tab mid-70% ​range and Advanced Micro Devices' (AMD.O), opens new tab...",
-      "url": "https://www.reuters.com/business/cerebras-sinks-14-full-year-margin-forecast-disappoints-2026-06-24/",
+      "id": "news-1782446405002-2",
+      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports - Reuters",
+      "summary": "OpenAI's advisers presented company executives ​with the option of waiting until 2027 to go public with a $1 trillion valuation, or lower the targeted...",
+      "url": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/cerebras-sinks-14-full-year-margin-forecast-disappoints-2026-06-24/",
+      "sourceUrl": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T14:15:00.000Z",
+      "publishedAt": "2026-06-25T21:44:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -190,14 +68,46 @@
       ]
     },
     {
-      "id": "news-1782359612490-1",
-      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters",
-      "summary": "OpenAI's ​engineers designed the chip, called Jalapeño, together with Broadcom to perform a specific AI task ⁠known as inference, during which data is...",
-      "url": "https://www.reuters.com/world/asia-pacific/openai-unveils-custom-chip-it-designed-with-broadcom-boost-its-ai-infrastructure-2026-06-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/openai-unveils-custom-chip-it-designed-with-broadcom-boost-its-ai-infrastructure-2026-06-24/",
+      "id": "news-1782446405002-11",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T13:22:09.000Z",
+      "publishedAt": "2026-06-25T20:19:25.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1782446405002-5",
+      "title": "Anthropic claims Alibaba defied Trump to attack Claude and steal capabilities - Ars Technica",
+      "summary": "Importantly, Anthropic said, the Alibaba campaign occurred after Donald Trump took steps to curb such illicit distillation attacks and defend US natio...",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-25T18:01:48.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1782446405002-0",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT - TechCrunch",
+      "summary": "It’s especially unclear what impact Anthropic’s latest battle with the U.S. government will have on its business. Earlier this month, the government b...",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-25T17:38:27.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -206,30 +116,80 @@
       ]
     },
     {
-      "id": "news-1782359612490-13",
-      "title": "Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters - Bloomberg.com",
-      "summary": "Markets\n\n# Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip?\n...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
+      "id": "news-1782446405002-10",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world - TechCrunch",
+      "summary": "“If you look at LLMs, when reasoning emerged, it was a quantum leap,” Khosla told me in a phone interview. “In world models, I think the quantum leap ...",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T08:56:06.000Z",
+      "publishedAt": "2026-06-25T16:55:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1782446405002-7",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x - TechCrunch",
+      "summary": "The output from the new Un-0 model is similar to that of image-generation models like Stable Diffusion or OpenAI’s GPT Image 1. The impressive part is...",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-25T16:48:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1782359612490-14",
-      "title": "Taiwan's ASE says it is expanding capacity to support AI demand - Reuters",
-      "summary": "Reporting by Wen-Yee Lee; Writing by ​Ben Blanchard; Editing by Kate Mayberry and Ronojoy Mazumdar\n\nOur Standards: The Thomson Reuters Trust Principle...",
-      "url": "https://www.reuters.com/world/asia-pacific/taiwans-ase-says-it-is-expanding-capacity-support-ai-demand-2026-06-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/taiwans-ase-says-it-is-expanding-capacity-support-ai-demand-2026-06-24/",
+      "id": "news-1782446405002-8",
+      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too - TechCrunch",
+      "summary": "As for which AI models are actually powering Rippling’s growing AI suite, Conrad says the company has a new favorite at the moment. “We’ve actually mo...",
+      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
       "credibility": "P2",
-      "publishedAt": "2026-06-24T04:51:53.000Z",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782446405002-9",
+      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world - TechCrunch",
+      "summary": "“If you look at LLMs, when reasoning emerged, it was a quantum leap,” Khosla told me in a phone interview. “In world models, I think the quantum leap ...",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1782446405002-6",
+      "title": "Anthropic hires Orange's AI chief amid Europe push - Reuters",
+      "summary": "Steve Jarrett, Orange's ​Chief AI officer, said he ​has accepted a job at ⁠Anthropic, without disclosing his new ​title\n Jarrett had been with the ​Eu...",
+      "url": "https://www.reuters.com/business/media-telecom/anthropic-hires-oranges-ai-chief-amid-europe-push-2026-06-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-hires-oranges-ai-chief-amid-europe-push-2026-06-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-25T11:34:13.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI"
       ]
     }
@@ -237,7 +197,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 12
   },
   "summary": ""
 }
