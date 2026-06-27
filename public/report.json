@@ -1,33 +1,17 @@
 {
-  "date": "2026-06-26",
-  "generatedAt": "2026-06-26T04:00:05.003Z",
-  "totalItems": 12,
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T03:42:34.988Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1782446405002-4",
-      "title": "OpenAI may delay IPO until next year: NYT - Reuters",
-      "summary": "### 01:14 EasyJet knocks back $6.5 billion Castlelake bid but deal hopes rise\n\n   ### 01:07 H&M reports Q2 profit miss as tighter inventory hit sales\n...",
-      "url": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T03:08:57.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782446405002-1",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns - TechCrunch",
-      "summary": "Earlier this year, Anthropic sparked no small amount of controversy when it announced that its new frontier cyber model, Claude Mythos, would only be ...",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "id": "news-1782531754987-1",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies - TechCrunch",
+      "summary": "Topics\n\nAI, ai labs, Anthropic, TC\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at a...",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T23:34:39.000Z",
+      "publishedAt": "2026-06-27T01:01:37.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
@@ -36,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1782446405002-3",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request - The Verge",
-      "summary": "It’s a more favorable deal than the Trump administration gave OpenAI rival Anthropic, which earlier this month received an ultimatum requiring it to s...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "id": "news-1782531754987-5",
+      "title": "Anthropic’s Mythos 5 is back - The Verge",
+      "summary": "Congresswoman denies staff used AI to write defense funding amendment\n\nOpenAI unveils GPT-5.6 amid US AI regulatory drama\n\nHayden Field\n\nAnthropic’s M...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T21:57:06.000Z",
+      "publishedAt": "2026-06-27T00:33:44.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,62 +36,30 @@
       ]
     },
     {
-      "id": "news-1782446405002-2",
-      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports - Reuters",
-      "summary": "OpenAI's advisers presented company executives ​with the option of waiting until 2027 to go public with a $1 trillion valuation, or lower the targeted...",
-      "url": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
+      "id": "news-1782531754987-2",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners' - Reuters",
+      "summary": "Skip to main content\n\n# US allows Anthropic to release Mythos to 'trusted partners'\n\nBy \nDavid Shepardson\n and \nChris Thomas\n\nWASHINGTON, June 26 (Reu...",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
+      "sourceUrl": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T21:44:37.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782446405002-11",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-25T20:19:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1782446405002-5",
-      "title": "Anthropic claims Alibaba defied Trump to attack Claude and steal capabilities - Ars Technica",
-      "summary": "Importantly, Anthropic said, the Alibaba campaign occurred after Donald Trump took steps to curb such illicit distillation attacks and defend US natio...",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-25T18:01:48.000Z",
-      "category": "tech",
+      "publishedAt": "2026-06-26T23:38:26.000Z",
+      "category": "product",
       "tags": [
         "OpenAI",
         "Claude",
-        "DeepSeek"
+        "GPT"
       ]
     },
     {
-      "id": "news-1782446405002-0",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT - TechCrunch",
-      "summary": "It’s especially unclear what impact Anthropic’s latest battle with the U.S. government will have on its business. Earlier this month, the government b...",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "id": "news-1782531754987-8",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI - Ars Technica",
+      "summary": "“Microsoft specifically designed it for the purpose of using essentially the whole Internet—curated to disproportionately feature Times Works—to train...",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T17:38:27.000Z",
+      "publishedAt": "2026-06-26T20:04:55.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -116,30 +68,30 @@
       ]
     },
     {
-      "id": "news-1782446405002-10",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world - TechCrunch",
-      "summary": "“If you look at LLMs, when reasoning emerged, it was a quantum leap,” Khosla told me in a phone interview. “In world models, I think the quantum leap ...",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "id": "news-1782531754987-6",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm - TechCrunch",
+      "summary": "The administration’s request comes as the US government puts new pressure on AI companies to restrict their most advanced systems. After Anthropic rel...",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T16:55:00.000Z",
+      "publishedAt": "2026-06-26T18:32:14.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "LLM"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1782446405002-7",
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x - TechCrunch",
-      "summary": "The output from the new Un-0 model is similar to that of image-generation models like Stable Diffusion or OpenAI’s GPT Image 1. The impressive part is...",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "id": "news-1782531754987-9",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S. - TechCrunch",
+      "summary": "India has emerged as one of the key battlegrounds for U.S. AI companies, driven by its vast developer base, more than a billion internet users, and su...",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T16:48:11.000Z",
+      "publishedAt": "2026-06-26T18:19:36.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -148,48 +100,124 @@
       ]
     },
     {
-      "id": "news-1782446405002-8",
-      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too - TechCrunch",
-      "summary": "As for which AI models are actually powering Rippling’s growing AI suite, Conrad says the company has a new favorite at the moment. “We’ve actually mo...",
-      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "id": "news-1782531754988-11",
+      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs - Ars Technica",
+      "summary": "Beth Mole  Senior Health Reporter\n\nBeth is Ars Technica’s Senior Health Reporter. Beth has a Ph.D. in microbiology from the University of North Caroli...",
+      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "publishedAt": "2026-06-26T17:46:07.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1782446405002-9",
-      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world - TechCrunch",
-      "summary": "“If you look at LLMs, when reasoning emerged, it was a quantum leap,” Khosla told me in a phone interview. “In world models, I think the quantum leap ...",
-      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "id": "news-1782531754987-3",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama - The Verge",
+      "summary": "The $27 million Al proxy war over Alex Bores ends in a draw\n\nAnthropic’s Mythos mess is only getting worse\n\nHayden Field\n\nOpenAI will delay GPT-5.6 af...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "LLM"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1782446405002-6",
-      "title": "Anthropic hires Orange's AI chief amid Europe push - Reuters",
-      "summary": "Steve Jarrett, Orange's ​Chief AI officer, said he ​has accepted a job at ⁠Anthropic, without disclosing his new ​title\n Jarrett had been with the ​Eu...",
-      "url": "https://www.reuters.com/business/media-telecom/anthropic-hires-oranges-ai-chief-amid-europe-push-2026-06-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-hires-oranges-ai-chief-amid-europe-push-2026-06-25/",
+      "id": "news-1782531754987-0",
+      "title": "It’s not about Anthropic vs. OpenAI anymore - TechCrunch",
+      "summary": "Russell Brandom\n\nThe U.S. government is set to take an awful lot of control over which AI models get released.\n\nTwo weeks after the U.S. government pu...",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
       "credibility": "P2",
-      "publishedAt": "2026-06-25T11:34:13.000Z",
+      "publishedAt": "2026-06-26T16:24:47.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782531754987-7",
+      "title": "Of course Meta thinks gambling is the future - The Verge",
+      "summary": "David Pierce\n\n## Most Popular\n\nMost Popular\n\n1. OpenAI will delay GPT-5.6 after Trump administration request\n2. RAMageddon just got extremely real\n3. ...",
+      "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+      "credibility": "P2",
+      "publishedAt": "2026-06-26T14:16:29.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782531754987-4",
+      "title": "Anthropic’s Mythos mess is only getting worse - The Verge",
+      "summary": "As the days wear on, the situation only worsens for these companies. Their models inch closer to Mythos-level capabilities that could trigger an expor...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "credibility": "P2",
+      "publishedAt": "2026-06-26T14:07:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782531754988-12",
+      "title": "The AI Trade Still Works, But It’s Getting Harder: Taking Stock - Bloomberg.com",
+      "summary": "### Top Reads\n\nAI Is Already Reshaping US Politics at Every Level\n\nby Emily Birnbaum and Bill AllisonThe Growing Crisis for America's Child Abuse Inve...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+      "credibility": "P2",
+      "publishedAt": "2026-06-26T13:08:56.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1782531754988-10",
+      "title": "Financial regulators scramble to counter AI rise with own tools - Reuters",
+      "summary": "Around 100 ‌policy ⁠and technology specialists met this week for a hackathon, aiming to jointly build tools for crypto-market supervision, Amstad said...",
+      "url": "https://www.reuters.com/business/finance/financial-regulators-scramble-counter-ai-rise-with-own-tools-2026-06-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/financial-regulators-scramble-counter-ai-rise-with-own-tools-2026-06-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-26T11:34:36.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782531754988-13",
+      "title": "Apple Price Hikes Spark Asia Tech Selloff on Memory Cost Concern - Bloomberg.com",
+      "summary": "Apple:\n\nPrice Hikes\n\nWWDC 2026 Recap\n\nNext-Gen AI Platform\n\nPrivacy Concerns\n\nFoldable iPhone Hints\n\nCamera-Equipped AirPods\n\nTechnology\n\nAI\n\n# AI Cos...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
+      "credibility": "P2",
+      "publishedAt": "2026-06-26T07:53:45.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     }
@@ -197,7 +225,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 14
   },
   "summary": ""
 }
