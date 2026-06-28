@@ -1,223 +1,207 @@
 {
-  "date": "2026-06-27",
-  "generatedAt": "2026-06-27T03:42:34.988Z",
-  "totalItems": 14,
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-28T04:07:04.241Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1782531754987-1",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies - TechCrunch",
-      "summary": "Topics\n\nAI, ai labs, Anthropic, TC\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at a...",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-27T01:01:37.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782531754987-5",
-      "title": "Anthropic’s Mythos 5 is back - The Verge",
-      "summary": "Congresswoman denies staff used AI to write defense funding amendment\n\nOpenAI unveils GPT-5.6 amid US AI regulatory drama\n\nHayden Field\n\nAnthropic’s M...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "credibility": "P2",
-      "publishedAt": "2026-06-27T00:33:44.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754987-2",
-      "title": "US allows Anthropic to release Mythos to 'trusted partners' - Reuters",
-      "summary": "Skip to main content\n\n# US allows Anthropic to release Mythos to 'trusted partners'\n\nBy \nDavid Shepardson\n and \nChris Thomas\n\nWASHINGTON, June 26 (Reu...",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "id": "news-1782619624240-12",
+      "title": "Following protests, Serbian president says he will resign within weeks - Reuters",
+      "summary": "Infrared satellite aims to take Earth's temperature March 26, 2026\n   Could a tiny 'kettle' herald a new age of steam in space? March 19, 2026\n   Gian...",
+      "url": "https://www.reuters.com/video/watch/idRW313527062026RP1?chan=politics&location=channel-item",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW313527062026RP1?chan=politics&location=channel-item",
       "credibility": "P2",
-      "publishedAt": "2026-06-26T23:38:26.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782531754987-8",
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI - Ars Technica",
-      "summary": "“Microsoft specifically designed it for the purpose of using essentially the whole Internet—curated to disproportionately feature Times Works—to train...",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T20:04:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782531754987-6",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm - TechCrunch",
-      "summary": "The administration’s request comes as the US government puts new pressure on AI companies to restrict their most advanced systems. After Anthropic rel...",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T18:32:14.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782531754987-9",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S. - TechCrunch",
-      "summary": "India has emerged as one of the key battlegrounds for U.S. AI companies, driven by its vast developer base, more than a billion internet users, and su...",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T18:19:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754988-11",
-      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs - Ars Technica",
-      "summary": "Beth Mole  Senior Health Reporter\n\nBeth is Ars Technica’s Senior Health Reporter. Beth has a Ph.D. in microbiology from the University of North Caroli...",
-      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T17:46:07.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754987-3",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama - The Verge",
-      "summary": "The $27 million Al proxy war over Alex Bores ends in a draw\n\nAnthropic’s Mythos mess is only getting worse\n\nHayden Field\n\nOpenAI will delay GPT-5.6 af...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782531754987-0",
-      "title": "It’s not about Anthropic vs. OpenAI anymore - TechCrunch",
-      "summary": "Russell Brandom\n\nThe U.S. government is set to take an awful lot of control over which AI models get released.\n\nTwo weeks after the U.S. government pu...",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T16:24:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754987-7",
-      "title": "Of course Meta thinks gambling is the future - The Verge",
-      "summary": "David Pierce\n\n## Most Popular\n\nMost Popular\n\n1. OpenAI will delay GPT-5.6 after Trump administration request\n2. RAMageddon just got extremely real\n3. ...",
-      "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T14:16:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754987-4",
-      "title": "Anthropic’s Mythos mess is only getting worse - The Verge",
-      "summary": "As the days wear on, the situation only worsens for these companies. Their models inch closer to Mythos-level capabilities that could trigger an expor...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T14:07:03.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782531754988-12",
-      "title": "The AI Trade Still Works, But It’s Getting Harder: Taking Stock - Bloomberg.com",
-      "summary": "### Top Reads\n\nAI Is Already Reshaping US Politics at Every Level\n\nby Emily Birnbaum and Bill AllisonThe Growing Crisis for America's Child Abuse Inve...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
-      "credibility": "P2",
-      "publishedAt": "2026-06-26T13:08:56.000Z",
+      "publishedAt": "2026-06-27T21:48:04.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "benchmark"
+        "RAG"
       ]
     },
     {
-      "id": "news-1782531754988-10",
-      "title": "Financial regulators scramble to counter AI rise with own tools - Reuters",
-      "summary": "Around 100 ‌policy ⁠and technology specialists met this week for a hackathon, aiming to jointly build tools for crypto-market supervision, Amstad said...",
-      "url": "https://www.reuters.com/business/finance/financial-regulators-scramble-counter-ai-rise-with-own-tools-2026-06-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/financial-regulators-scramble-counter-ai-rise-with-own-tools-2026-06-26/",
+      "id": "news-1782619624240-7",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’ - TechCrunch",
+      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### SoftBank’s CEO isn’t the only one with...",
+      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
       "credibility": "P2",
-      "publishedAt": "2026-06-26T11:34:36.000Z",
+      "publishedAt": "2026-06-27T21:27:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782619624240-10",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Anthropic’s Mythos 5 is back\n2. Why is Apple asking me to pay more for Big Tech’s AI obsession?\n3....",
+      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T21:20:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1782531754988-13",
-      "title": "Apple Price Hikes Spark Asia Tech Selloff on Memory Cost Concern - Bloomberg.com",
-      "summary": "Apple:\n\nPrice Hikes\n\nWWDC 2026 Recap\n\nNext-Gen AI Platform\n\nPrivacy Concerns\n\nFoldable iPhone Hints\n\nCamera-Equipped AirPods\n\nTechnology\n\nAI\n\n# AI Cos...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
+      "id": "news-1782619624240-11",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla\n\n  + Sean O'Kane\n Former Info...",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
       "credibility": "P2",
-      "publishedAt": "2026-06-26T07:53:45.000Z",
+      "publishedAt": "2026-06-27T20:42:36.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782619624240-8",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI - TechCrunch",
+      "summary": "## Related\n\n AI\n\n  ### The fittest founder in the room got cancer. Here’s how he used AI to fight back.\n\n  + Connie Loizos\n AI\n\n  ### Asian AI startup...",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T16:45:09.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782619624240-6",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back. - TechCrunch",
+      "summary": "He fed all of it — blood results, scan data, wearable output, journal entries — into Claude. He’s far form alone in turning to chatbots for medical gu...",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1782619624240-0",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession? - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Anthropic’s Mythos mess is only getting worse\n2. It’s the last day of Prime Day — here are over 14...",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T13:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782619624240-4",
+      "title": "Inside the room where the smart home industry is still betting on Matter - The Verge",
+      "summary": "Jennifer Pattison Tuohy\n\nHue’s wired wall modules bring non-smart lights into its ecosystem\n\nJennifer Pattison Tuohy\n\nGoogle’s first smart speaker in ...",
+      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782619624240-2",
+      "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports - Reuters",
+      "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models\n Businesscategory\n\n  Ukraine plans domestic AI computing capaci...",
+      "url": "https://www.reuters.com/business/us-close-allowing-anthropic-restore-fable-5-model-axios-reports-2026-06-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-close-allowing-anthropic-restore-fable-5-model-axios-reports-2026-06-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T12:57:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782619624240-3",
+      "title": "Australia toughens kids' social media ban, doubles potential penalties for tech firms - Reuters",
+      "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models\n Worldcategory\n\n  Trump threatens 100% tariff on any country th...",
+      "url": "https://www.reuters.com/business/media-telecom/australia-toughens-kids-social-media-ban-doubles-potential-penalties-tech-firms-2026-06-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/australia-toughens-kids-social-media-ban-doubles-potential-penalties-tech-firms-2026-06-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T12:35:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782619624240-1",
+      "title": "This might be the new best smart speaker - The Verge",
+      "summary": "David Pierce\n\n## Most Popular\n\nMost Popular\n\n1. Anthropic’s Mythos mess is only getting worse\n2. It’s the last day of Prime Day — here are over 140 gr...",
+      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1782619624240-5",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
+      "summary": "But in the weeks since the export order took effect, at least two companies, one in Tokyo, one in Beijing, have stepped into the space it left behind....",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782619624240-9",
+      "title": "LVMH and Accor's Orient Express sets its sights on new tech billionaire class - Reuters",
+      "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models\n Worldcategory\n\n  Trump threatens 100% tariff on any country th...",
+      "url": "https://www.reuters.com/business/lvmh-accors-orient-express-sets-its-sights-new-tech-billionaire-class-2026-06-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/lvmh-accors-orient-express-sets-its-sights-new-tech-billionaire-class-2026-06-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-27T07:05:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     }
@@ -225,7 +209,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
   "summary": ""
 }
