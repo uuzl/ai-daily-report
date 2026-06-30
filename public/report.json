@@ -1,32 +1,17 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-29T04:13:57.369Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T03:55:40.472Z",
   "totalItems": 13,
   "items": [
     {
-      "id": "news-1782706437368-12",
-      "title": "China's Momenta seeks up to $751 million in Hong Kong IPO to boost autonomous driving R&D - Reuters",
-      "summary": "category · · 8 mins ago\n\n  The U.S. dollar was on the defensive on Monday ​but remained on track for its biggest monthly gain in nearly a year, due to...",
-      "url": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-29T01:45:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782706437367-1",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
-      "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n Terrence O'Brien\n\n#...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T21:42:51.000Z",
+      "id": "news-1782791740470-6",
+      "title": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
+      "summary": "Research\n   Research Index\n   Research Overview\n   Economic Research\n\nLatest Advancements\n   GPT-5.5\n   GPT-5.4\n   GPT-5.3 Instant\n\nSafety\n   Safety A...",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu/",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu/",
+      "credibility": "P0",
+      "publishedAt": "2026-06-29T10:26:23.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -35,177 +20,194 @@
       ]
     },
     {
-      "id": "news-1782706437368-8",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short - TechCrunch",
-      "summary": "+ Anthony Ha\n AI\n\n  ### Why Wall Street thinks US memory maker Micron is the next Nvidia\n\n  + Kirsten Korosec\n AI\n\n  ### SoftBank’s CEO isn’t the only...",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "id": "news-1782791740469-4",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility - TechCrunch",
+      "summary": "Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel like a luxury\n\n  ...",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T19:05:39.000Z",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1782791740470-12",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T21:09:43.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1782706437368-10",
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD - TechCrunch",
+      "id": "news-1782791740470-10",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role - TechCrunch",
+      "summary": "Subscribe for the industry’s biggest tech news\n\n## Related\n\n Apps\n\n  ### Gemini’s personalized AI image generation is now free for US users\n\n  + Laure...",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T20:55:50.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782791740470-7",
+      "title": "Gemini’s personalized AI image generation is now free for US users - TechCrunch",
       "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T16:05:00.000Z",
+      "publishedAt": "2026-06-29T20:12:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782706437368-7",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia - TechCrunch",
-      "summary": "The historic problem for memory chip makers like Micron and Samsung is that building out manufacturing facilities to increase capacity is a time-consu...",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782706437367-0",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial - The Verge",
-      "summary": "## Most Popular\n\nMost Popular\n\n1. Why is Apple asking me to pay more for Big Tech’s AI obsession?\n2. Meta launches cheaper smart glasses without Ray-B...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T14:12:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782706437368-9",
-      "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia - Reuters",
-      "summary": "Reporting by Scott Murdoch; Editing by Kate Mayberry\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Art...",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T14:03:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782706437367-2",
-      "title": "Austria lobbies EU to host Anthropic AI after US curbs, Bloomberg News reports - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n Businesscategory\n\n  Google limits Meta’s use of its Gemini AI models, FT reports\n Businesscategory\n\n  US clo...",
-      "url": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/austria-lobbies-eu-host-anthropic-ai-after-us-curbs-bloomberg-news-reports-2026-06-28/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T12:59:12.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782706437367-4",
-      "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs - Bloomberg.com",
-      "summary": "LEARN MORE\n\n### More From Bloomberg\n\nAnthropic’s Mythos 5 AI Model Cleared by US for Wider UseNLB Chief Touts 40% Premium, Heritage in Bidding War for...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "credibility": "P2",
-      "publishedAt": "2026-06-28T12:29:42.000Z",
-      "category": "tech",
-      "tags": [
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1782706437368-6",
-      "title": "This Is the Most Detailed Image Yet of the Milky Way’s Center - WIRED",
-      "summary": "Here’s How AI Agents Can Protect EV Chargers\n\nAn AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV ch...",
-      "url": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+      "id": "news-1782791740470-9",
+      "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns - Reuters",
+      "summary": "© 2026 Reuters. All rights reserved\n\nImage 15Image 16Image 17Image 18Image 19Image 20Image 21Image 22Image 23Image 24Image 25Image 26Image 27Image 28I...",
+      "url": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T09:30:00.000Z",
+      "publishedAt": "2026-06-29T18:52:50.000Z",
       "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782791740469-1",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price - TechCrunch",
+      "summary": "TechCrunch Brand Studio\n\nCrunchboard\n\nContact Us\n\nAI\n\n# Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half pric...",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T18:10:26.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782791740469-2",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go - TechCrunch",
+      "summary": "+ Ivan Mehta\n\n## Latest in AI\n\n Apps\n\n  ### Gemini’s personalized AI image generation is now free for U.S. users\n\n  + Lauren Forristal\n AI\n\n  ### Anth...",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T17:03:50.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1782706437368-11",
-      "title": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
-      "summary": "Take Five: Time to keep your cool\n Legalcategory\n\n  ECB softens governance expectations for banks to ease burden\n\n## Business\n\n ### Uganda's military ...",
-      "url": "https://www.reuters.com/business/finance/global-markets-bis-pix-2026-06-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/global-markets-bis-pix-2026-06-28/",
+      "id": "news-1782791740469-3",
+      "title": "TIDAL cracks down on AI music by cutting off monetization - TechCrunch",
+      "summary": "Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel like a luxury\n\n  ...",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T09:03:46.000Z",
+      "publishedAt": "2026-06-29T16:29:04.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1782706437367-3",
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
-      "summary": "Revenue at Google Cloud grew to $20 billion in the first quarter ended March, but CEO Sundar Pichai said computing ⁠power ​constraints prevented even ...",
-      "url": "https://www.reuters.com/business/google-limits-metas-use-its-gemini-ai-models-ft-reports-2026-06-28/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-limits-metas-use-its-gemini-ai-models-ft-reports-2026-06-28/",
+      "id": "news-1782791740470-8",
+      "title": "Omen AI’s plan to optimize data centers is all wet - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T05:23:43.000Z",
+      "publishedAt": "2026-06-29T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782791740470-5",
+      "title": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
+      "summary": "\"If you want to win enterprise, you should be forward ‌pricing tokens,\" ⁠Palo Alto Network's Arora wrote on X last week, urging AI labs to charge cust...",
+      "url": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T10:16:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1782791740470-11",
+      "title": "Focus: Banks get creative and look further afield as AI-fueled debt soars - Reuters",
+      "summary": "($1 = 0.8757 euro)\n\nReporting by Tatiana Bautzer and Gertrude Chavez-Dreyfuss in New York; Editing by Megan Davies and Matthew Lewis\n\nOur Standards: T...",
+      "url": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
+      "credibility": "P2",
+      "publishedAt": "2026-06-29T09:06:13.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1782706437368-5",
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth - TechCrunch",
-      "summary": "## AI in finance and regulations\n\nIn the U.S., startups and public companies are racing to add AI to finance. Coinbase and Robinhood now allow agents ...",
-      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "id": "news-1782791740469-0",
+      "title": "Breakingviews - Junior bankers will survive the AI onslaught - Reuters",
+      "summary": "One reason is that AI-generated models and slides ​are not reliable enough for MDs to ditch the juniors. Everyone fears presenting a hallucinated earn...",
+      "url": "https://www.reuters.com/commentary/breakingviews/junior-bankers-will-survive-ai-onslaught-2026-06-29/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/junior-bankers-will-survive-ai-onslaught-2026-06-29/",
       "credibility": "P2",
-      "publishedAt": "2026-06-28T05:00:00.000Z",
+      "publishedAt": "2026-06-29T05:00:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 12
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（openai等）"
 }
