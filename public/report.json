@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-07-01T04:10:36.798Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T03:51:37.895Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1782879036797-2",
-      "title": "Introducing Claude Sonnet 5 - Anthropic",
-      "summary": "Skip to footer\n\nTry Claude\n\n# Introducing Claude Sonnet 5\n\nJun 30, 2026\n\nClaude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make...",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
-      "credibility": "P0",
-      "publishedAt": "2026-06-30T17:58:16.000Z",
+      "id": "news-1782964297893-0",
+      "title": "US in talks with AI companies for voluntary model standards, FT reports - Reuters",
+      "summary": "Google (GOOGL.O), opens new tab has ‌been ⁠in talks with the government ahead of the release of advanced coding models with more sophisticated capabil...",
+      "url": "https://www.reuters.com/business/retail-consumer/us-talks-with-ai-companies-voluntary-model-standards-ft-reports-2026-07-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/us-talks-with-ai-companies-voluntary-model-standards-ft-reports-2026-07-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T00:50:14.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "AI",
-        "Agent"
+        "OpenAI",
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1782879036797-4",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models - TechCrunch",
-      "summary": "However, with Asian AI companies beginning to release their own AI models approaching Mythos-level capabilities — among them Fugu and Tulonfeng — the ...",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "id": "news-1782964297894-6",
+      "title": "US FTC says AI bias safeguards may run afoul of consumer law - Reuters",
+      "summary": "The FTC will accept public comment on the proposed ​policy until July ​31.\n\nFTC Chairman ⁠Andrew Ferguson has used the FTC's authority to police unfai...",
+      "url": "https://www.reuters.com/legal/government/us-ftc-says-ai-bias-safeguards-may-run-afoul-consumer-law-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/us-ftc-says-ai-bias-safeguards-may-run-afoul-consumer-law-2026-07-01/",
       "credibility": "P2",
-      "publishedAt": "2026-07-01T02:16:06.000Z",
+      "publishedAt": "2026-07-01T19:08:31.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -35,216 +35,207 @@
       ]
     },
     {
-      "id": "news-1782879036797-1",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models - WIRED",
-      "summary": "Maxwell Zeff\n\nThis Is How Trump Finally Signed the AI Executive Order\n\nAfter shelving the original executive order last month, Donald Trump finally go...",
-      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "id": "news-1782964297894-5",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
+      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T18:29:14.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782964297894-13",
+      "title": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters",
+      "summary": "Legalcategory · · 33 mins ago\n\n  The Federal Trade Commission on Wednesday said AI ​companies whose chatbots produce responses that ‌reflect \"ideologi...",
+      "url": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T18:03:11.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782964297894-9",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T17:48:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782964297894-2",
+      "title": "California man with bipolar disorder says ChatGPT fueled delusions, led to self-harm in new lawsuit - Reuters",
+      "summary": "OpenAI has said it trains its models to ⁠direct people ​who express intent to harm themselves to seek help and connect with real-world resources.\n\nIts...",
+      "url": "https://www.reuters.com/legal/government/california-man-with-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/california-man-with-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-2026-07-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T17:36:01.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782964297893-1",
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T16:44:18.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782964297894-4",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T14:25:23.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782964297894-8",
+      "title": "Breakingviews - Stock market boom runs on a 'large deficit model' - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Conventio...",
+      "url": "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T14:04:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782964297894-10",
+      "title": "Builders Stage agenda revealed for Disrupt 2026 - TechCrunch",
+      "summary": "+ Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel like a luxury\n\n  + Aisha Malik\n Asian AI startups launch Mythos-like models a...",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782964297894-7",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
+      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T13:43:07.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1782964297894-11",
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
+      "summary": "But analysts said it also ​deepened doubts about the social media giant's efforts to catch up with leading AI labs such as Anthropic, an ​effort that ...",
+      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T12:52:10.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1782964297894-12",
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
+      "summary": "GENEVA, July 1 (Reuters) - Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no...",
+      "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-01T10:15:40.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1782964297894-3",
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival - WIRED",
+      "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypt...",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "sourceUrl": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "credibility": "P2",
-      "publishedAt": "2026-06-30T23:23:04.000Z",
+      "publishedAt": "2026-07-01T10:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782879036797-5",
-      "title": "OpenClaw is finally available on Android and iOS - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n AI\n\n  ### Anthropic launches Claude Sonnet 5 as ...",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T21:53:28.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1782879036797-16",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip - The Verge",
-      "summary": "Google’s NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro s...",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "id": "news-1782964297894-14",
+      "title": "Youth, task forces and AI debt - notes from the week - Reuters",
+      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/youth-task-forces-ai-debt-notes-week-2026-07-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/youth-task-forces-ai-debt-notes-week-2026-07-01/",
       "credibility": "P2",
-      "publishedAt": "2026-06-30T19:24:51.000Z",
-      "category": "research",
+      "publishedAt": "2026-07-01T06:11:16.000Z",
+      "category": "tech",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "news-1782879036797-10",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T19:02:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782879036797-12",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip - TechCrunch",
-      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T18:13:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782879036796-0",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents - TechCrunch",
-      "summary": "That framing mirrors what OpenAI and Google have said about their own recent releases. OpenAI’s GPT-5.6 Sol was launched in preview last week, and it ...",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T18:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782879036797-7",
-      "title": "Acti puts AI agents directly into your smartphone keyboard - TechCrunch",
-      "summary": "Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel like a luxury\n\n  ...",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T17:52:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1782879036797-13",
-      "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion - Bloomberg.com",
-      "summary": "The AI Race:\n\nOpenAI Files for IPO\n\nAnthropic IPO\n\nInflation Risks\n\nAI Distillation Worries\n\nChina’s AI Buildout\n\nCalifornia AI Job Loss Tracker\n\nTech...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T17:05:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1782879036797-3",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists - TechCrunch",
-      "summary": "Another way Claude Science can save scientists time is by running on the lab’s own infrastructure setup rather than sending data off to Anthropic’s se...",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1782879036797-11",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T15:08:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782879036797-6",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every i...",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T15:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782879036797-8",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1782879036797-17",
-      "title": "Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings - Bloomberg",
-      "summary": "“The story of the past six months is the market going all-in on AI infrastructure, but now people are asking if this is sustainable and if we should b...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/chip-stocks-best-quarter-ever-is-ending-with-some-wild-swings",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/chip-stocks-best-quarter-ever-is-ending-with-some-wild-swings",
-      "credibility": "P2",
-      "publishedAt": "2026-06-30T13:35:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "benchmark"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
