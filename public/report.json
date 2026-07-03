@@ -1,201 +1,17 @@
 {
-  "date": "2026-07-02",
-  "generatedAt": "2026-07-02T03:51:37.895Z",
-  "totalItems": 15,
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T03:32:58.816Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1782964297893-0",
-      "title": "US in talks with AI companies for voluntary model standards, FT reports - Reuters",
-      "summary": "Google (GOOGL.O), opens new tab has ‌been ⁠in talks with the government ahead of the release of advanced coding models with more sophisticated capabil...",
-      "url": "https://www.reuters.com/business/retail-consumer/us-talks-with-ai-companies-voluntary-model-standards-ft-reports-2026-07-02/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/us-talks-with-ai-companies-voluntary-model-standards-ft-reports-2026-07-02/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T00:50:14.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-6",
-      "title": "US FTC says AI bias safeguards may run afoul of consumer law - Reuters",
-      "summary": "The FTC will accept public comment on the proposed ​policy until July ​31.\n\nFTC Chairman ⁠Andrew Ferguson has used the FTC's authority to police unfai...",
-      "url": "https://www.reuters.com/legal/government/us-ftc-says-ai-bias-safeguards-may-run-afoul-consumer-law-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/us-ftc-says-ai-bias-safeguards-may-run-afoul-consumer-law-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T19:08:31.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-5",
-      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
-      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
-      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "id": "news-1783049578815-13",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped - TechCrunch",
+      "summary": "+ Anna Heim\n\n## Latest in AI\n\n In Brief\n\n  ### Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped\n\n  + Lucas Ropek...",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "credibility": "P2",
-      "publishedAt": "2026-07-01T18:29:14.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782964297894-13",
-      "title": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters",
-      "summary": "Legalcategory · · 33 mins ago\n\n  The Federal Trade Commission on Wednesday said AI ​companies whose chatbots produce responses that ‌reflect \"ideologi...",
-      "url": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T18:03:11.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-9",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T17:48:37.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782964297894-2",
-      "title": "California man with bipolar disorder says ChatGPT fueled delusions, led to self-harm in new lawsuit - Reuters",
-      "summary": "OpenAI has said it trains its models to ⁠direct people ​who express intent to harm themselves to seek help and connect with real-world resources.\n\nIts...",
-      "url": "https://www.reuters.com/legal/government/california-man-with-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/california-man-with-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T17:36:01.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297893-1",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T16:44:18.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-4",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T14:25:23.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-8",
-      "title": "Breakingviews - Stock market boom runs on a 'large deficit model' - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 1\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Conventio...",
-      "url": "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T14:04:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782964297894-10",
-      "title": "Builders Stage agenda revealed for Disrupt 2026 - TechCrunch",
-      "summary": "+ Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel like a luxury\n\n  + Aisha Malik\n Asian AI startups launch Mythos-like models a...",
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782964297894-7",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
-      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T13:43:07.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1782964297894-11",
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "summary": "But analysts said it also ​deepened doubts about the social media giant's efforts to catch up with leading AI labs such as Anthropic, an ​effort that ...",
-      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T12:52:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1782964297894-12",
-      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
-      "summary": "GENEVA, July 1 (Reuters) - Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no...",
-      "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-01T10:15:40.000Z",
+      "publishedAt": "2026-07-02T23:38:10.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -203,31 +19,204 @@
       ]
     },
     {
-      "id": "news-1782964297894-3",
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival - WIRED",
-      "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypt...",
-      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "id": "news-1783049578815-5",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
+      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
       "credibility": "P2",
-      "publishedAt": "2026-07-01T10:00:00.000Z",
+      "publishedAt": "2026-07-02T20:11:59.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-10",
+      "title": "EXCLUSIVE: Zuckerberg says AI agent development going slower than expected - Reuters",
+      "summary": "2 hours agoBusiness categoryTrump administration and Anthropic have not discussed the government taking a stake in it, source says Image 2: Illustrati...",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T20:11:33.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1783049578815-8",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T18:44:02.000Z",
+      "category": "product",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-2",
+      "title": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
+      "summary": "Samsung is already embedded in the AI industry, and acts as a major partner of Nvidia, producing chips that the company needs to train or run its AI m...",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T18:31:09.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-6",
+      "title": "CoreWeave Junk Bonds Slide Further as Investors Question AI Boom - Bloomberg.com",
+      "summary": "The AI Race:\n\nCarbon Emissions Spike\n\nTrillion-Dollar Debt Binge\n\nOpenAI IPO\n\nAnthropic IPO\n\nInflation Risks\n\nChina’s AI Buildout\n\nMarkets\n\n# Meta and...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T16:24:58.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-4",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund - TechCrunch",
+      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T15:20:51.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-7",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n The ‘Father of the Internet’ is finally retiring\n\n  + Tim Fernholz\n Flipper Device’s new Busy Bar is a customizable di...",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T13:53:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-1",
+      "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nMicrosoft partly owns ChatGPT-maker OpenAI and had added Anthropic's models to its Copilot AI assistant earlier th...",
+      "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T13:01:09.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1783049578815-11",
+      "title": "Yep, we’re using OpenClaw to date now - TechCrunch",
+      "summary": "+ Aisha Malik\n Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on\n\n  + Kate Park\n FTC gives Musk the OK to acquire SpaceX ...",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1783049578815-3",
+      "title": "AI Weekly: Anthropic controls lifted, Meta in the clouds - Reuters",
+      "summary": "### 01:15 Kroger to buy grocer Giant Eagle as competition heats up\n\n   ### 01:02 BYD's sales rise for second month, buoyed by exports\n\n   ### 01:37 Eu...",
+      "url": "https://www.reuters.com/video/watch/idRW414601072026RP1",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW414601072026RP1",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T10:24:32.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1782964297894-14",
-      "title": "Youth, task forces and AI debt - notes from the week - Reuters",
-      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/youth-task-forces-ai-debt-notes-week-2026-07-01/",
+      "id": "news-1783049578815-0",
+      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
+      "summary": "GLM-5.2 currently holds fifth place on Artificial Analysis' large language model (LLM) intelligence leaderboard, which ranks performance across a rang...",
+      "url": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/youth-task-forces-ai-debt-notes-week-2026-07-01/",
+      "sourceUrl": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
       "credibility": "P2",
-      "publishedAt": "2026-07-01T06:11:16.000Z",
+      "publishedAt": "2026-07-02T07:40:09.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783049578815-9",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T05:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783049578815-12",
+      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports - Reuters",
+      "summary": "1 min agoBusiness categorySoftBank's LY, Bain raise Kakaku bid again with $4.1 bln valuation Image 2: Illustration shows Bain Capital logo \n   3 hours...",
+      "url": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-02T04:27:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI"
       ]
     }
@@ -235,7 +224,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
