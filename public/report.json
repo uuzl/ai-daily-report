@@ -1,219 +1,201 @@
 {
-  "date": "2026-07-03",
-  "generatedAt": "2026-07-03T03:32:58.816Z",
-  "totalItems": 14,
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-04T03:25:53.277Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1783049578815-13",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped - TechCrunch",
-      "summary": "+ Anna Heim\n\n## Latest in AI\n\n In Brief\n\n  ### Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped\n\n  + Lucas Ropek...",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "id": "news-1783135553275-0",
+      "title": "The only AI glossary you’ll need this year - TechCrunch",
+      "summary": "See: [Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "credibility": "P2",
-      "publishedAt": "2026-07-02T23:38:10.000Z",
+      "publishedAt": "2026-07-03T21:20:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "Claude",
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1783049578815-5",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
-      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "id": "news-1783135553276-7",
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari - TechCrunch",
+      "summary": "+ Tim Fernholz\n OpenClaw is finally available on Android and iOS\n\n  + Lucas Ropek\n Flipper Device’s new Busy Bar is a customizable display for product...",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "credibility": "P2",
-      "publishedAt": "2026-07-02T20:11:59.000Z",
+      "publishedAt": "2026-07-03T18:43:00.000Z",
       "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-10",
-      "title": "EXCLUSIVE: Zuckerberg says AI agent development going slower than expected - Reuters",
-      "summary": "2 hours agoBusiness categoryTrump administration and Anthropic have not discussed the government taking a stake in it, source says Image 2: Illustrati...",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T20:11:33.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1783049578815-8",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T18:44:02.000Z",
-      "category": "product",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-2",
-      "title": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
-      "summary": "Samsung is already embedded in the AI industry, and acts as a major partner of Nvidia, producing chips that the company needs to train or run its AI m...",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T18:31:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-6",
-      "title": "CoreWeave Junk Bonds Slide Further as Investors Question AI Boom - Bloomberg.com",
-      "summary": "The AI Race:\n\nCarbon Emissions Spike\n\nTrillion-Dollar Debt Binge\n\nOpenAI IPO\n\nAnthropic IPO\n\nInflation Risks\n\nChina’s AI Buildout\n\nMarkets\n\n# Meta and...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T16:24:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-4",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund - TechCrunch",
-      "summary": "+ Ivan Mehta\n Ford rehires ‘gray beard’ engineers after AI falls short\n\n  + Anthony Ha\n Govee’s smart nugget ice maker makes every iced drink feel lik...",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T15:20:51.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-7",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n The ‘Father of the Internet’ is finally retiring\n\n  + Tim Fernholz\n Flipper Device’s new Busy Bar is a customizable di...",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T13:53:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-1",
-      "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nMicrosoft partly owns ChatGPT-maker OpenAI and had added Anthropic's models to its Copilot AI assistant earlier th...",
-      "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T13:01:09.000Z",
-      "category": "product",
       "tags": [
         "OpenAI",
         "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-12",
+      "title": "Space startup Katalyst launches orbital rescue mission for aging NASA observatory - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Space\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Right...",
+      "url": "https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T14:15:59.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-2",
+      "title": "Anthropic wants to develop its own drugs - The Verge",
+      "summary": "At the event “The Briefing: AI for Science” earlier this week, Anthropic announced Claude Science, a new “AI workbench for scientists” that pulls frag...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T13:56:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-8",
+      "title": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nLast July, the ​firm cut more than 12,000 jobs, while ​headcount fell ⁠by more than 23,000 on a net basis in the f...",
+      "url": "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T12:16:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-10",
+      "title": "Argentina's plan for AI-run companies can't avoid humans - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n letters and robot hand miniat...",
+      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T10:02:10.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-4",
+      "title": "Tesla posts record Q2 deliveries, boosting growth hopes - Reuters",
+      "summary": "### 01:30 Jobs report doesn't signal a 'healthy' labor market,expert says\n\n   ### 01:59 AI-fueled leverage is increasing market risk, expert cautions\n...",
+      "url": "https://www.reuters.com/video/watch/idRW471703072026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW471703072026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T08:39:22.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783135553276-3",
+      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n in Beijing, China, September ...",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T06:50:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
         "DeepSeek"
       ]
     },
     {
-      "id": "news-1783049578815-11",
-      "title": "Yep, we’re using OpenClaw to date now - TechCrunch",
-      "summary": "+ Aisha Malik\n Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on\n\n  + Kate Park\n FTC gives Musk the OK to acquire SpaceX ...",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "id": "news-1783135553276-5",
+      "title": "The AI Trade Is Losing One of Its Key Signals - Bloomberg.com",
+      "summary": "The AI Race:\n\nCarbon Emissions Spike\n\nTrillion-Dollar Debt Binge\n\nOpenAI IPO\n\nAnthropic IPO\n\nInflation Risks\n\nChina’s AI Buildout\n\nTechnology\n\n# The A...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
       "credibility": "P2",
-      "publishedAt": "2026-07-02T12:00:00.000Z",
+      "publishedAt": "2026-07-03T06:13:43.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
         "AI",
-        "OpenCL"
+        "LLM"
       ]
     },
     {
-      "id": "news-1783049578815-3",
-      "title": "AI Weekly: Anthropic controls lifted, Meta in the clouds - Reuters",
-      "summary": "### 01:15 Kroger to buy grocer Giant Eagle as competition heats up\n\n   ### 01:02 BYD's sales rise for second month, buoyed by exports\n\n   ### 01:37 Eu...",
-      "url": "https://www.reuters.com/video/watch/idRW414601072026RP1",
+      "id": "news-1783135553276-9",
+      "title": "Man admits sending fake ransom notes in Nancy Guthrie abduction - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n\n\n   ### Now Playing Man admit...",
+      "url": "https://www.reuters.com/video/watch/idRW468803072026RP1/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW414601072026RP1",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW468803072026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-07-02T10:24:32.000Z",
+      "publishedAt": "2026-07-03T05:21:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-1",
+      "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
+      "summary": "Large language models are mimesis in action: they don’t originate ​but are brilliant at copying. The ⁠people running these companies are locked in as ...",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T05:00:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783135553276-11",
+      "title": "Breakingviews - China chips away at iron ore miners' power - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/commentary/breakingviews/china-chips-away-iron-ore-miners-power-2026-07-03/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/china-chips-away-iron-ore-miners-power-2026-07-03/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-03T04:50:44.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1783049578815-0",
-      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
-      "summary": "GLM-5.2 currently holds fifth place on Artificial Analysis' large language model (LLM) intelligence leaderboard, which ranks performance across a rang...",
-      "url": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
+      "id": "news-1783135553276-6",
+      "title": "India's HCLTech wins $1.14 billion deal with European firm - Reuters",
+      "summary": "Reporting by Haripriya Suresh in Bengaluru; ​Editing by Janane Venkatraman and Rashmi Aich\n\nOur Standards: The Thomson Reuters Trust Principles., open...",
+      "url": "https://www.reuters.com/business/indias-hcltech-wins-114-billion-deal-with-european-firm-2026-07-03/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
+      "sourceUrl": "https://www.reuters.com/business/indias-hcltech-wins-114-billion-deal-with-european-firm-2026-07-03/",
       "credibility": "P2",
-      "publishedAt": "2026-07-02T07:40:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783049578815-9",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Flipper Device’s new Busy Bar is a customizable display for productivity\n\n  + Ivan Mehta\n Ford rehires ‘gray beard’ en...",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T05:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783049578815-12",
-      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports - Reuters",
-      "summary": "1 min agoBusiness categorySoftBank's LY, Bain raise Kakaku bid again with $4.1 bln valuation Image 2: Illustration shows Bain Capital logo \n   3 hours...",
-      "url": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-02T04:27:42.000Z",
+      "publishedAt": "2026-07-03T04:13:27.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -224,7 +206,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 13
   },
   "summary": ""
 }
