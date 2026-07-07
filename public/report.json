@@ -1,227 +1,199 @@
 {
-  "date": "2026-07-06",
-  "generatedAt": "2026-07-06T03:51:08.711Z",
-  "totalItems": 15,
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T03:40:57.641Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1783309868710-14",
-      "title": "Breakingviews - Chinese robotaxi IPO comes with airbag - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/commentary/breakingviews/chinese-robotaxi-ipo-comes-with-airbag-2026-07-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/chinese-robotaxi-ipo-comes-with-airbag-2026-07-06/",
+      "id": "news-1783395657640-2",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human - TechCrunch",
+      "summary": "One detail that initially seemed to muddy the picture has since been clarified. Clark had told CyberScoop that Sysdig found “multiple models were used...",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T02:12:06.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783309868710-13",
-      "title": "Shares edge higher in Asia as oil dips, earnings loom - Reuters",
-      "summary": "Suggested Topics:\n   Asian Markets\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   14 mins agoIndian rupee to track merchant fl...",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T00:59:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783309868710-10",
-      "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave - Reuters",
-      "summary": "By continuing to use our services, you acknowledge this use of cookies and other tracking technologies, which may include storing and accessing inform...",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T00:18:30.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783309868710-8",
-      "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nUnlike earlier AI applications focused mainly ​on training large models, agentic AI systems perform more complex, ...",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-likely-post-18-fold-jump-profit-surging-ai-demand-memory-2026-07-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/samsung-likely-post-18-fold-jump-profit-surging-ai-demand-memory-2026-07-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T23:07:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1783309868709-2",
-      "title": "Some of the nation’s rich are letting AI teach their kids - The Verge",
-      "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n Terrence O'Brien\n\n#...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T22:30:54.000Z",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1783309868710-15",
-      "title": "Death toll from Venezuela quakes rises to 3,342 - Reuters",
-      "summary": "By continuing to use our services, you acknowledge this use of cookies and other tracking technologies, which may include storing and accessing inform...",
-      "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3342-2026-07-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3342-2026-07-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T21:15:48.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783309868710-6",
-      "title": "Excommunicated priest says future pope will welcome group back - Reuters",
-      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
-      "url": "https://www.reuters.com/video/watch/idRW532505072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW532505072026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T19:36:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783309868710-3",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk - TechCrunch",
-      "summary": "Less overtly, Mechanical Turk has also been described as the hidden enabler for companies taking a fake-it-till-you-make-it approach to AI, where prod...",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "id": "news-1783395657640-0",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents - TechCrunch",
+      "summary": "Last year there were a lot of people picking one lab partner — saying they would build everything on OpenAI or Anthropic. Now they’re saying, I unders...",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
       "credibility": "P2",
-      "publishedAt": "2026-07-05T17:43:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1783309868710-7",
-      "title": "Nolan says adapting 'The Odyssey' for the big screen was 'challenging' - Reuters",
-      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
-      "url": "https://www.reuters.com/video/watch/idRW531505072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW531505072026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T17:24:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783309868711-17",
-      "title": "Paraguay's World Cup dream dies hard as gritty underdogs ruffle France's feathers - Reuters",
-      "summary": ", opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n...",
-      "url": "https://www.reuters.com/sports/soccer/paraguays-world-cup-dream-dies-hard-gritty-underdogs-ruffle-frances-feathers-2026-07-05/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/soccer/paraguays-world-cup-dream-dies-hard-gritty-underdogs-ruffle-frances-feathers-2026-07-05/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T15:55:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783309868709-1",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI - The Verge",
-      "summary": "OpenAI floats giving Trump administration 5 percent cut of AI boom\n\n6\n\nVerge Score\n\nGoogle built a great smart speaker, but Gemini isn’t ready for it\n...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T14:23:11.000Z",
+      "publishedAt": "2026-07-06T19:49:10.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "GPT",
+        "DeepSeek"
       ]
     },
     {
-      "id": "news-1783309868710-5",
-      "title": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing - Bloomberg.com",
-      "summary": "### Top Reads\n\nOne Leveraged ETF Is Reshaping Trading in World's Top AI Memory Stock\n\nby Charlotte Yang and Sangmi ChaNvidia Stock, Gold, and Oil: Whe...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
-      "credibility": "P2",
-      "publishedAt": "2026-07-05T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1783309868710-4",
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are - TechCrunch",
-      "summary": "OpenRouter — $1.3 billion.This startup, founded in 2023, has created a platform offers software called an AI gateway that let’s an AI app use a variet...",
-      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "id": "news-1783395657641-10",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch",
+      "summary": "+ Tim Fernholz\n OpenClaw is finally available on Android and iOS\n\n  + Lucas Ropek\n\nLoading the next article\n\nError loading the next article [...] Topi...",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-07-05T12:47:39.000Z",
+      "publishedAt": "2026-07-06T18:35:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM",
         "OpenCL"
       ]
     },
     {
-      "id": "news-1783309868710-9",
-      "title": "Three sons of Iran's slain leader appear at funeral, not his successor - Reuters",
-      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
-      "url": "https://www.reuters.com/video/watch/idRW514604072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW514604072026RP1/",
+      "id": "news-1783395657641-7",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out. - TechCrunch",
+      "summary": "+ Anthony Ha\n Chevy built an all-American EV truck — why is nobody buying it?\n\n  + Tim De Chant\n Mark Zuckerberg tells staff that AI agents haven’t pr...",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "credibility": "P2",
-      "publishedAt": "2026-07-05T11:20:56.000Z",
+      "publishedAt": "2026-07-06T17:04:58.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "TPU",
+        "OpenCL",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1783395657640-1",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance - Ars Technica",
+      "summary": "## Secret code triggers Alibaba Claude ban\n\nIt’s clear that Chinese firms are distilling US models, the Post reported. In February, Chinese researcher...",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T16:44:18.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783395657641-4",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created - TechCrunch",
+      "summary": "It’s easier than ever for bad actors to spew spam across the internet as powerful large language models (LLMs) become effortlessly accessible. If you’...",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T15:22:08.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1783395657640-3",
+      "title": "Sectors Up Close: Could industrials steal the AI spotlight? - Reuters",
+      "summary": "### 01:20 US job growth slows to 57,000 after a strong run\n\n   ### 01:23 OpenAI proposes handing Trump administration 5% stake, FT reports\n\n   ### 04:...",
+      "url": "https://www.reuters.com/video/watch/idRW551506072026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW551506072026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T14:25:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1783309868710-11",
-      "title": "ومضات برق تضيء السماء خلال عرض الألعاب النارية في الذكرى 250 لتأسيس أمريكا - Reuters",
-      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
-      "url": "https://www.reuters.com/video/watch/idRW525805072026RP1/",
+      "id": "news-1783395657641-11",
+      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
+      "summary": "Subscribe\n\nBEST VALUE\n\nFinal price$45 per year \nPlus applicable taxes. Charged as $45 in advance annually.\n\nSubscribe\n\nUnlimited access to Reuters.com...",
+      "url": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW525805072026RP1/",
+      "sourceUrl": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
       "credibility": "P2",
-      "publishedAt": "2026-07-05T10:54:38.000Z",
+      "publishedAt": "2026-07-06T13:30:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1783395657641-5",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups - TechCrunch",
+      "summary": "The first cohort of F/ai’s program was backed by a long list of significant tech companies — AMD, Anthropic, AWS, Clay, Google, G42, Hugging Face, Lov...",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T13:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1783395657641-9",
+      "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off - Reuters",
+      "summary": "Reporting by Nell Mackenzie; Editing by Amanda Cooper\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Fi...",
+      "url": "https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T11:15:25.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783395657641-6",
+      "title": "UN chief warns AI is developing faster than rules can keep up - Reuters",
+      "summary": "The independent report ⁠of scientific ​experts found that AI development is even more concentrated, with the U.S. ​accounting for 75% of the computing...",
+      "url": "https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T07:25:20.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783395657641-12",
+      "title": "Momentum crash warnings flash red. Here’s how you might survive - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nTo see why, consider the market weakness in semiconductor and other AI stocks in early June. While this was not a ...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T06:10:46.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783395657641-8",
+      "title": "From shampoo to cookies, consumer products get an AI makeover - Reuters",
+      "summary": "Video 1Ad Break Coming UpImage 4: Next VideoNEXT Stay Next Off English 180p 288p 360p 480p 540p 576p 720p HD 1080p HD Auto (180p)About Connatix V50237...",
+      "url": "https://www.reuters.com/business/shampoo-cookies-consumer-products-get-an-ai-makeover-2026-07-06/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/shampoo-cookies-consumer-products-get-an-ai-makeover-2026-07-06/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-06T06:03:37.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -231,7 +203,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 13
   },
   "summary": ""
 }
