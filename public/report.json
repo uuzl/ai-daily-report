@@ -1,17 +1,96 @@
 {
-  "date": "2026-07-07",
-  "generatedAt": "2026-07-07T03:40:57.641Z",
-  "totalItems": 13,
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T02:55:34.091Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1783395657640-2",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human - TechCrunch",
-      "summary": "One detail that initially seemed to muddy the picture has since been clarified. Clark had told CyberScoop that Sysdig found “multiple models were used...",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "id": "news-1783479334091-11",
+      "title": "Meta rolls out Muse, a new AI image generator - TechCrunch",
+      "summary": "+ Tim De Chant\n Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped\n\n  + Lucas Ropek\n Jersey Mike’s IPO illustrates...",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "publishedAt": "2026-07-07T22:18:10.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1783479334090-1",
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
+      "summary": "Read More\n\nOpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic\n\nThe ChatGPT-maker announced it has filed paperwork to go public, ...",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T21:28:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783479334091-10",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos - The Verge",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making to...",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T20:31:58.000Z",
+      "category": "hot",
+      "tags": [
+        "AI",
+        "RAG",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1783479334090-5",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
+      "summary": "Zhang doesn’t give much data to support the point, but the data isn’t hard to find. Vercel’s AI gateway dashboard shows that, in just the past week, D...",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T20:04:32.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783479334090-7",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models - TechCrunch",
+      "summary": "The immense cost of providing and buying AI services has become a controversial part of the industry. The sticker shock has gotten so bad in some part...",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T19:58:20.000Z",
+      "category": "hot",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783479334091-9",
+      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
+      "summary": "\"Vera really stood out to us as just ​like ⁠a dead-on fit for a lot of the core workloads that we have,\" Kupp said in an interview.\n\nAdvertisement · S...",
+      "url": "https://www.reuters.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-2026-07-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-2026-07-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T19:03:55.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,190 +99,147 @@
       ]
     },
     {
-      "id": "news-1783395657640-0",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents - TechCrunch",
-      "summary": "Last year there were a lot of people picking one lab partner — saying they would build everything on OpenAI or Anthropic. Now they’re saying, I unders...",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "id": "news-1783479334090-4",
+      "title": "Anthropic is launching Claude Cowork on mobile and web - The Verge",
+      "summary": "Starting Tuesday, Anthropic’s Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out fir...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T19:49:10.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1783395657641-10",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch",
-      "summary": "+ Tim Fernholz\n OpenClaw is finally available on Android and iOS\n\n  + Lucas Ropek\n\nLoading the next article\n\nError loading the next article [...] Topi...",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T18:35:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1783395657641-7",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out. - TechCrunch",
-      "summary": "+ Anthony Ha\n Chevy built an all-American EV truck — why is nobody buying it?\n\n  + Tim De Chant\n Mark Zuckerberg tells staff that AI agents haven’t pr...",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T17:04:58.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "OpenCL",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1783395657640-1",
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance - Ars Technica",
-      "summary": "## Secret code triggers Alibaba Claude ban\n\nIt’s clear that Chinese firms are distilling US models, the Post reported. In February, Chinese researcher...",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T16:44:18.000Z",
-      "category": "tech",
+      "publishedAt": "2026-07-07T17:46:59.000Z",
+      "category": "product",
       "tags": [
         "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1783395657641-4",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created - TechCrunch",
-      "summary": "It’s easier than ever for bad actors to spew spam across the internet as powerful large language models (LLMs) become effortlessly accessible. If you’...",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "id": "news-1783479334090-3",
+      "title": "Claude Cowork expands to mobile and web - TechCrunch",
+      "summary": "The move comes as AI firms try to push their products beyond chatbots into the everyday surfaces where work actually happens. OpenAI has made a simila...",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T15:22:08.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1783395657640-3",
-      "title": "Sectors Up Close: Could industrials steal the AI spotlight? - Reuters",
-      "summary": "### 01:20 US job growth slows to 57,000 after a strong run\n\n   ### 01:23 OpenAI proposes handing Trump administration 5% stake, FT reports\n\n   ### 04:...",
-      "url": "https://www.reuters.com/video/watch/idRW551506072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW551506072026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T14:25:42.000Z",
+      "publishedAt": "2026-07-07T16:27:18.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "RAG"
+        "Claude",
+        "AI"
       ]
     },
     {
-      "id": "news-1783395657641-11",
-      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
-      "summary": "Subscribe\n\nBEST VALUE\n\nFinal price$45 per year \nPlus applicable taxes. Charged as $45 in advance annually.\n\nSubscribe\n\nUnlimited access to Reuters.com...",
-      "url": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
+      "id": "news-1783479334090-0",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone - WIRED",
+      "summary": "Both OpenAI and Anthropic are exploring ways to weave their popular chatbots and agents together into a unified, smartphone-centric user experience. O...",
+      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T13:30:38.000Z",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
       "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1783395657641-5",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups - TechCrunch",
-      "summary": "The first cohort of F/ai’s program was backed by a long list of significant tech companies — AMD, Anthropic, AWS, Clay, Google, G42, Hugging Face, Lov...",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T13:00:00.000Z",
-      "category": "product",
       "tags": [
         "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783479334091-12",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation - TechCrunch",
+      "summary": "Norm has built an AI-native law firm, called Norm Law, that uses the company’s own AI agents, employs human attorneys to supervise them, and offers le...",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T14:35:42.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "OpenCL"
+        "Agent"
       ]
     },
     {
-      "id": "news-1783395657641-9",
-      "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off - Reuters",
-      "summary": "Reporting by Nell Mackenzie; Editing by Amanda Cooper\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Fi...",
-      "url": "https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/",
+      "id": "news-1783479334091-13",
+      "title": "Morning Bid: Chip dip - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-07-07/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-07-07/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T11:15:25.000Z",
+      "publishedAt": "2026-07-07T10:38:09.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1783395657641-6",
-      "title": "UN chief warns AI is developing faster than rules can keep up - Reuters",
-      "summary": "The independent report ⁠of scientific ​experts found that AI development is even more concentrated, with the U.S. ​accounting for 75% of the computing...",
-      "url": "https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/",
+      "id": "news-1783479334090-2",
+      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
+      "summary": "All three people declined to be identified because the ​information is not public. Despite becoming a standard-bearer of China's AI ambitions, DeepSee...",
+      "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/",
+      "sourceUrl": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T07:25:20.000Z",
+      "publishedAt": "2026-07-07T10:34:05.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783479334090-6",
+      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   22 mins agoWorld categoryEXCLUSIVE  China's DeepSeek developing its own AI chip, sources say , opens new t...",
+      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T10:17:00.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783479334091-14",
+      "title": "Envirotech Vehicles (NASDAQ: EVTV) closes merger with Azio AI ahead of schedule, positioning combined company to capture $487 Billion 2026 AI infrastructure opportunity - TechCrunch",
+      "summary": "Envirotech Vehicles, Inc. (NASDAQ: EVTV) (“EVTV” or the “Company”) today announced the successful completion of its merger with Azio AI Corporation (“...",
+      "url": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-07T10:02:28.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1783395657641-12",
-      "title": "Momentum crash warnings flash red. Here’s how you might survive - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nTo see why, consider the market weakness in semiconductor and other AI stocks in early June. While this was not a ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/",
+      "id": "news-1783479334091-8",
+      "title": "Bank of England sees growing risks to financial stability from AI - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\n\"A ​reassessment of these prospects could trigger a fall in equity prices that might be amplified by ​high concent...",
+      "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-risks-financial-stability-ai-2026-07-07/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/",
+      "sourceUrl": "https://www.reuters.com/business/finance/bank-england-sees-growing-risks-financial-stability-ai-2026-07-07/",
       "credibility": "P2",
-      "publishedAt": "2026-07-06T06:10:46.000Z",
+      "publishedAt": "2026-07-07T09:38:29.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783395657641-8",
-      "title": "From shampoo to cookies, consumer products get an AI makeover - Reuters",
-      "summary": "Video 1Ad Break Coming UpImage 4: Next VideoNEXT Stay Next Off English 180p 288p 360p 480p 540p 576p 720p HD 1080p HD Auto (180p)About Connatix V50237...",
-      "url": "https://www.reuters.com/business/shampoo-cookies-consumer-products-get-an-ai-makeover-2026-07-06/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/shampoo-cookies-consumer-products-get-an-ai-makeover-2026-07-06/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-06T06:03:37.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
+        "AI",
+        "RAG",
+        "Agent"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 15
   },
   "summary": ""
 }
