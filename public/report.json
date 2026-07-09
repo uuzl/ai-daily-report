@@ -1,32 +1,31 @@
 {
-  "date": "2026-07-08",
-  "generatedAt": "2026-07-08T02:55:34.091Z",
-  "totalItems": 15,
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T03:34:24.678Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1783479334091-11",
-      "title": "Meta rolls out Muse, a new AI image generator - TechCrunch",
-      "summary": "+ Tim De Chant\n Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped\n\n  + Lucas Ropek\n Jersey Mike’s IPO illustrates...",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "id": "news-1783568064677-11",
+      "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com",
+      "summary": "Meta:\n\nCloud Business\n\nJob Cuts\n\nEU Addictive Design Probe\n\nAI Robotics Company Acquisition\n\nChina Blocks Manus Takeover\n\nEarnings\n\nTechnology\n\nAI\n\n# ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T22:18:10.000Z",
+      "publishedAt": "2026-07-08T22:08:44.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1783479334090-1",
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
-      "summary": "Read More\n\nOpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic\n\nThe ChatGPT-maker announced it has filed paperwork to go public, ...",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "id": "news-1783568064677-1",
+      "title": "I Built a Self-Improving AI, and So Can You - WIRED",
+      "summary": "Paresh Dave\n\nAnthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You\n\nAnthropic is releasing Claude Mythos 5 to tr...",
+      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "sourceUrl": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T21:28:00.000Z",
+      "publishedAt": "2026-07-08T20:09:21.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -35,211 +34,168 @@
       ]
     },
     {
-      "id": "news-1783479334091-10",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos - The Verge",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making to...",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T20:31:58.000Z",
-      "category": "hot",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1783479334090-5",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
-      "summary": "Zhang doesn’t give much data to support the point, but the data isn’t hard to find. Vercel’s AI gateway dashboard shows that, in just the past week, D...",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "id": "news-1783568064677-5",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’ - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T20:04:32.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334090-7",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models - TechCrunch",
-      "summary": "The immense cost of providing and buying AI services has become a controversial part of the industry. The sticker shock has gotten so bad in some part...",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T19:58:20.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334091-9",
-      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
-      "summary": "\"Vera really stood out to us as just ​like ⁠a dead-on fit for a lot of the core workloads that we have,\" Kupp said in an interview.\n\nAdvertisement · S...",
-      "url": "https://www.reuters.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-2026-07-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-2026-07-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T19:03:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334090-4",
-      "title": "Anthropic is launching Claude Cowork on mobile and web - The Verge",
-      "summary": "Starting Tuesday, Anthropic’s Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out fir...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T17:46:59.000Z",
+      "publishedAt": "2026-07-08T19:30:16.000Z",
       "category": "product",
       "tags": [
-        "Claude",
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1783479334090-3",
-      "title": "Claude Cowork expands to mobile and web - TechCrunch",
-      "summary": "The move comes as AI firms try to push their products beyond chatbots into the everyday surfaces where work actually happens. OpenAI has made a simila...",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "id": "news-1783568064677-9",
+      "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks - Bloomberg",
+      "summary": "SpaceX:\n\nRecord-Breaking IPO\n\nTesla Merger Speculation\n\nCursor Acquisition\n\nAI Data Center Satellite\n\nStarship’s IPO Mission\n\nWho Runs xAI?\n\nTechnolog...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T16:27:18.000Z",
+      "publishedAt": "2026-07-08T18:12:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783568064677-3",
+      "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
+      "summary": "3 hours agoBusiness categoryMistral launches first robotics model in physical AI push Image 2: Advertisements for Mistral AI, the French artificial in...",
+      "url": "https://www.reuters.com/business/openai-launches-gpt-live-voice-models-that-listen-speak-simultaneously-2026-07-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-launches-gpt-live-voice-models-that-listen-speak-simultaneously-2026-07-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-08T17:53:11.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783568064677-4",
+      "title": "Why this CEO thinks video games make better training data than the internet - TechCrunch",
+      "summary": "Theresa Loconsolo\n\n26 min\n\nLoading the player…\n\nWhen it comes to achieving artificial general intelligence (AGI), large language models just don’t hav...",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-08T17:47:55.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783568064677-0",
+      "title": "OpenAI releases new voice models for more natural live conversations - TechCrunch",
+      "summary": "Ivan Mehta\n\nOpenAI today released new conversational models, called GPT-Live-1 and GPT-Live-1 mini, claiming that they sound more natural and can hand...",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-08T17:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1783479334090-0",
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone - WIRED",
-      "summary": "Both OpenAI and Anthropic are exploring ways to weave their popular chatbots and agents together into a unified, smartphone-centric user experience. O...",
-      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "id": "news-1783568064677-7",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "publishedAt": "2026-07-08T16:22:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1783568064677-2",
+      "title": "Major AI models at a glance - Reuters",
+      "summary": "Company Model Monthly price Includes\nOpenAI The GPT 5.5 model is available in four plans, ​with Pro being the highest tier.$100/month for ChatGPT Pro....",
+      "url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-08T13:54:51.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "AI"
+        "GPT"
       ]
     },
     {
-      "id": "news-1783479334091-12",
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation - TechCrunch",
-      "summary": "Norm has built an AI-native law firm, called Norm Law, that uses the company’s own AI agents, employs human attorneys to supervise them, and offers le...",
-      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "id": "news-1783568064677-10",
+      "title": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO - Bloomberg.com",
+      "summary": "OpenAI:\n\nUS Pressure\n\nIPO Filing\n\nUS States Probe\n\nMythos Competition\n\nPrice Cuts Under Consideration\n\nMicrosoft’s Partnership Spend\n\nFinance\n\nBanking...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/openai-ipo-bofa-u-turns-on-loan-for-chatgpt-maker-to-secure-role-in-listing",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-ipo-bofa-u-turns-on-loan-for-chatgpt-maker-to-secure-role-in-listing",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T14:35:42.000Z",
+      "publishedAt": "2026-07-08T13:26:06.000Z",
       "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1783568064677-6",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips - TechCrunch",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has released inference-performance software that allows a variety of open-sou...",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "category": "product",
       "tags": [
         "AI",
-        "Agent"
+        "LLM",
+        "TPU"
       ]
     },
     {
-      "id": "news-1783479334091-13",
-      "title": "Morning Bid: Chip dip - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-07-07/",
+      "id": "news-1783568064677-8",
+      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - A cyberse...",
+      "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-07-07/",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
       "credibility": "P2",
-      "publishedAt": "2026-07-07T10:38:09.000Z",
+      "publishedAt": "2026-07-08T07:00:03.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334090-2",
-      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
-      "summary": "All three people declined to be identified because the ​information is not public. Despite becoming a standard-bearer of China's AI ambitions, DeepSee...",
-      "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T10:34:05.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334090-6",
-      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   22 mins agoWorld categoryEXCLUSIVE  China's DeepSeek developing its own AI chip, sources say , opens new t...",
-      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T10:17:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334091-14",
-      "title": "Envirotech Vehicles (NASDAQ: EVTV) closes merger with Azio AI ahead of schedule, positioning combined company to capture $487 Billion 2026 AI infrastructure opportunity - TechCrunch",
-      "summary": "Envirotech Vehicles, Inc. (NASDAQ: EVTV) (“EVTV” or the “Company”) today announced the successful completion of its merger with Azio AI Corporation (“...",
-      "url": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T10:02:28.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783479334091-8",
-      "title": "Bank of England sees growing risks to financial stability from AI - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\n\"A ​reassessment of these prospects could trigger a fall in equity prices that might be amplified by ​high concent...",
-      "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-risks-financial-stability-ai-2026-07-07/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/bank-england-sees-growing-risks-financial-stability-ai-2026-07-07/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-07T09:38:29.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 12
   },
   "summary": ""
 }
