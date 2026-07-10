@@ -1,47 +1,32 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-09T03:34:24.678Z",
-  "totalItems": 12,
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T03:36:07.707Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1783568064677-11",
-      "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com",
-      "summary": "Meta:\n\nCloud Business\n\nJob Cuts\n\nEU Addictive Design Probe\n\nAI Robotics Company Acquisition\n\nChina Blocks Manus Takeover\n\nEarnings\n\nTechnology\n\nAI\n\n# ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "id": "news-1783654567706-16",
+      "title": "Watch Emerging: AI Sovereignty Isn't \"Self-Sufficiency\" - Bloomberg.com",
+      "summary": "## Available on:\n\nListen on\nApple TV\nListen on\nRoku\nListen on\nSamsung TV\nListen on\nFire TV\nListen on\nAndroid TV\nListen on\nRakuten TV\nListen on\nHaystac...",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/emerging-ai-sovereignty-isn-t-self-sufficiency-video",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/emerging-ai-sovereignty-isn-t-self-sufficiency-video",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T22:08:44.000Z",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
+        "AI",
+        "RAG"
       ]
     },
     {
-      "id": "news-1783568064677-1",
-      "title": "I Built a Self-Improving AI, and So Can You - WIRED",
-      "summary": "Paresh Dave\n\nAnthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You\n\nAnthropic is releasing Claude Mythos 5 to tr...",
-      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-08T20:09:21.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783568064677-5",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’ - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "id": "news-1783654567705-1",
+      "title": "OpenAI launches its new family of models with GPT-5.6 - TechCrunch",
+      "summary": "OpenAI’s newly announced family of models follows on the heels of similar releases this week from competitors SpaceXAI and Meta.\n\nHowever, GPT-5.6 and...",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T19:30:16.000Z",
+      "publishedAt": "2026-07-09T22:24:24.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
@@ -50,93 +35,61 @@
       ]
     },
     {
-      "id": "news-1783568064677-9",
-      "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks - Bloomberg",
-      "summary": "SpaceX:\n\nRecord-Breaking IPO\n\nTesla Merger Speculation\n\nCursor Acquisition\n\nAI Data Center Satellite\n\nStarship’s IPO Mission\n\nWho Runs xAI?\n\nTechnolog...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "id": "news-1783654567706-7",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch",
+      "summary": "OpenAI is launching a ChatGPT extension on Chrome that gives it access to the context of the page you’re viewing, lets users ask questions about webpa...",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T18:12:56.000Z",
+      "publishedAt": "2026-07-09T22:03:54.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1783568064677-3",
-      "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
-      "summary": "3 hours agoBusiness categoryMistral launches first robotics model in physical AI push Image 2: Advertisements for Mistral AI, the French artificial in...",
-      "url": "https://www.reuters.com/business/openai-launches-gpt-live-voice-models-that-listen-speak-simultaneously-2026-07-08/",
+      "id": "news-1783654567706-9",
+      "title": "Breakingviews - The good, bad and ugly of AI’s economic impact - Reuters",
+      "summary": "Sceptics may dismiss these prophets of doom as riddled with self-interest. Yet signs that ​AI is disrupting human labour markets are everywhere. In Ma...",
+      "url": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-launches-gpt-live-voice-models-that-listen-speak-simultaneously-2026-07-08/",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T17:53:11.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783568064677-4",
-      "title": "Why this CEO thinks video games make better training data than the internet - TechCrunch",
-      "summary": "Theresa Loconsolo\n\n26 min\n\nLoading the player…\n\nWhen it comes to achieving artificial general intelligence (AGI), large language models just don’t hav...",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-08T17:47:55.000Z",
+      "publishedAt": "2026-07-09T22:00:26.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783568064677-0",
-      "title": "OpenAI releases new voice models for more natural live conversations - TechCrunch",
-      "summary": "Ivan Mehta\n\nOpenAI today released new conversational models, called GPT-Live-1 and GPT-Live-1 mini, claiming that they sound more natural and can hand...",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-08T17:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783568064677-7",
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-08T16:22:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1783568064677-2",
-      "title": "Major AI models at a glance - Reuters",
-      "summary": "Company Model Monthly price Includes\nOpenAI The GPT 5.5 model is available in four plans, ​with Pro being the highest tier.$100/month for ChatGPT Pro....",
-      "url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+      "id": "news-1783654567706-10",
+      "title": "OpenAI wants its new tool to do your work for you and with you - Ars Technica",
+      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nLast year, when we tested out the “Agent Mode” in OpenAI’s Atlas web browser, we complained that any a...",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T13:54:51.000Z",
+      "publishedAt": "2026-07-09T21:25:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783654567706-5",
+      "title": "The ChatGPT browser is already dead - The Verge",
+      "summary": "Jay Peters\n\n## Most Popular\n\nMost Popular\n\n1. ICE agents are making house calls for online critics\n2. If Microsoft sold off Xbox, who would even buy i...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T20:34:05.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -145,57 +98,154 @@
       ]
     },
     {
-      "id": "news-1783568064677-10",
-      "title": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO - Bloomberg.com",
-      "summary": "OpenAI:\n\nUS Pressure\n\nIPO Filing\n\nUS States Probe\n\nMythos Competition\n\nPrice Cuts Under Consideration\n\nMicrosoft’s Partnership Spend\n\nFinance\n\nBanking...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/openai-ipo-bofa-u-turns-on-loan-for-chatgpt-maker-to-secure-role-in-listing",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-ipo-bofa-u-turns-on-loan-for-chatgpt-maker-to-secure-role-in-listing",
+      "id": "news-1783654567706-11",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1 - TechCrunch",
+      "summary": "Figma acquires team behind a vibe-coding app\n\n  + Ivan Mehta\n If you use Google, you’re training its AI. Here’s how to opt out.\n\n  + Sarah Perez\n Redd...",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T13:26:06.000Z",
+      "publishedAt": "2026-07-09T19:40:45.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "benchmark"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1783568064677-6",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips - TechCrunch",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has released inference-performance software that allows a variety of open-sou...",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "id": "news-1783654567706-6",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial - TechCrunch",
+      "summary": "Figma acquires team behind a vibe-coding app\n\n  + Ivan Mehta\n If you use Google, you’re training its AI. Here’s how to opt out.\n\n  + Sarah Perez\n Redd...",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "publishedAt": "2026-07-09T19:05:58.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783654567706-12",
+      "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says - Ars Technica",
+      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T18:57:53.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783654567705-0",
+      "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nEarlier this ‌year, ⁠Anthropic launched plug-ins for its Claude Cowork agent to automate tasks in legal, sales, ma...",
+      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T17:06:56.000Z",
       "category": "product",
       "tags": [
-        "AI",
-        "LLM",
-        "TPU"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1783568064677-8",
-      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - A cyberse...",
-      "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
+      "id": "news-1783654567706-4",
+      "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’ - The Verge",
+      "summary": "Companies like OpenAI and Anthropic, as well as tech giants like Google (and even, recently, Apple), have been vying to clear new ground in the race t...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
       "credibility": "P2",
-      "publishedAt": "2026-07-08T07:00:03.000Z",
+      "publishedAt": "2026-07-09T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783654567705-2",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI - TechCrunch",
+      "summary": "+ Sarah Perez\n Reddit is using LLMs to solve a problem LLMs largely created\n\n  + Amanda Silberling\n Amazon will stop accepting new customers for Mecha...",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T14:53:09.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "AI"
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1783654567706-8",
+      "title": "Meta debuts Muse Spark 1.1 with preview open to developers - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nDevelopers in the United States can now ‌access Muse ⁠Spark in public preview on Meta Model API, letting them test...",
+      "url": "https://www.reuters.com/business/meta-debuts-muse-spark-11-with-preview-open-developers-2026-07-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/meta-debuts-muse-spark-11-with-preview-open-developers-2026-07-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T14:01:27.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783654567705-3",
+      "title": "Meta says its new AI model is ready to compete on coding - The Verge",
+      "summary": "Say hello to Claude Wrapped\n\nHayden Field\n\nCharacter.AI wants a piece of the microdrama pie\n\nCharles Pulliam-Moore\n\nFL Studio 2026 turns its AI chatbo...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1783654567706-13",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users - TechCrunch",
+      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "OpenCL"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 15
   },
   "summary": ""
 }
