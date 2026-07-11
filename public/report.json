@@ -1,48 +1,49 @@
 {
-  "date": "2026-07-10",
-  "generatedAt": "2026-07-10T03:36:07.707Z",
-  "totalItems": 15,
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T02:51:13.326Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1783654567706-16",
-      "title": "Watch Emerging: AI Sovereignty Isn't \"Self-Sufficiency\" - Bloomberg.com",
-      "summary": "## Available on:\n\nListen on\nApple TV\nListen on\nRoku\nListen on\nSamsung TV\nListen on\nFire TV\nListen on\nAndroid TV\nListen on\nRakuten TV\nListen on\nHaystac...",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/emerging-ai-sovereignty-isn-t-self-sufficiency-video",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/emerging-ai-sovereignty-isn-t-self-sufficiency-video",
+      "id": "news-1783738273325-0",
+      "title": "Meta removes controversial AI feature on Instagram after backlash - TechCrunch",
+      "summary": "+ Sarah Perez\n Reddit is using LLMs to solve a problem LLMs largely created\n\n  + Amanda Silberling\n Amazon will stop accepting new customers for Mecha...",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "credibility": "P2",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "publishedAt": "2026-07-10T23:55:07.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1783738273326-8",
+      "title": "Anti-immigration protests intensify in South Africa - Reuters",
+      "summary": "Load More Categories\n\n   2 hours agoApple sues OpenAI, two former employees for trade secrets theft , opens new tab\n\n### Stay Informed\n\n   Download th...",
+      "url": "https://www.reuters.com/video/watch/idRW702510072026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW702510072026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T21:57:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1783654567705-1",
-      "title": "OpenAI launches its new family of models with GPT-5.6 - TechCrunch",
-      "summary": "OpenAI’s newly announced family of models follows on the heels of similar releases this week from competitors SpaceXAI and Meta.\n\nHowever, GPT-5.6 and...",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "id": "news-1783738273325-4",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets - The Verge",
+      "summary": "Update, July 10th: Added statement from OpenAI.\n\nFollow topics and authors from this story to see more like this in your personalized homepage feed an...",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T22:24:24.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783654567706-7",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch",
-      "summary": "OpenAI is launching a ChatGPT extension on Chrome that gives it access to the context of the page you’re viewing, lets users ask questions about webpa...",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T22:03:54.000Z",
+      "publishedAt": "2026-07-10T21:36:51.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -51,14 +52,91 @@
       ]
     },
     {
-      "id": "news-1783654567706-9",
-      "title": "Breakingviews - The good, bad and ugly of AI’s economic impact - Reuters",
-      "summary": "Sceptics may dismiss these prophets of doom as riddled with self-interest. Yet signs that ​AI is disrupting human labour markets are everywhere. In Ma...",
-      "url": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
+      "id": "news-1783738273325-1",
+      "title": "Apple sues OpenAI over alleged trade secret theft - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T22:00:26.000Z",
+      "publishedAt": "2026-07-10T20:32:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1783738273325-2",
+      "title": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
+      "summary": "## SIMMERING TENSION\n\nA person familiar with the matter told Reuters in May that OpenAI was exploring legal options against Apple, including notifying...",
+      "url": "https://www.reuters.com/legal/litigation/apple-sues-openai-alleging-misappropriation-trade-secrets-court-records-show-2026-07-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/apple-sues-openai-alleging-misappropriation-trade-secrets-court-records-show-2026-07-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T20:29:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783738273326-6",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta - Ars Technica",
+      "summary": "As Meta seemingly continues treading water—pointing to screen-time notifications that kids can easily dismiss or default settings that may be changed—...",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T15:46:18.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783738273326-11",
+      "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds - Reuters",
+      "summary": "When asked about the results of the Reuters analysis of the detection tool, Meta noted that ​the tool was a preview. The company said the watermark is...",
+      "url": "https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T15:40:53.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783738273326-12",
+      "title": "Sudanese return to Khartoum - a capital unready to welcome them - Reuters",
+      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
+      "url": "https://www.reuters.com/video/watch/idRW690310072026RP1/?chan=world-news",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW690310072026RP1/?chan=world-news",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T15:20:21.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1783738273325-3",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI - TechCrunch",
+      "summary": "Seek %0-9\n\nLive\n\n00:00\n\n36:57\n\n36:57\n\nOpen source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something lik...",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-10T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -66,186 +144,66 @@
       ]
     },
     {
-      "id": "news-1783654567706-10",
-      "title": "OpenAI wants its new tool to do your work for you and with you - Ars Technica",
-      "summary": "Story text\n\n\\ Subscribers only  \n   Learn more\n\nLast year, when we tested out the “Agent Mode” in OpenAI’s Atlas web browser, we complained that any a...",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T21:25:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783654567706-5",
-      "title": "The ChatGPT browser is already dead - The Verge",
-      "summary": "Jay Peters\n\n## Most Popular\n\nMost Popular\n\n1. ICE agents are making house calls for online critics\n2. If Microsoft sold off Xbox, who would even buy i...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T20:34:05.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783654567706-11",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1 - TechCrunch",
-      "summary": "Figma acquires team behind a vibe-coding app\n\n  + Ivan Mehta\n If you use Google, you’re training its AI. Here’s how to opt out.\n\n  + Sarah Perez\n Redd...",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T19:40:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783654567706-6",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial - TechCrunch",
-      "summary": "Figma acquires team behind a vibe-coding app\n\n  + Ivan Mehta\n If you use Google, you’re training its AI. Here’s how to opt out.\n\n  + Sarah Perez\n Redd...",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T19:05:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783654567706-12",
-      "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T18:57:53.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1783654567705-0",
-      "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nEarlier this ‌year, ⁠Anthropic launched plug-ins for its Claude Cowork agent to automate tasks in legal, sales, ma...",
-      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "id": "news-1783738273326-7",
+      "title": "Inside the US race for drone delivery dominance - Reuters",
+      "summary": "### 02:11 US stocks end higher; chip surge offsets Iran worries\n\n   ### 00:55 Will SK Hynix's US share sale 'reinvigorate' the memory chip rally?\n\n   ...",
+      "url": "https://www.reuters.com/video/watch/idRW675709072026RP1/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW675709072026RP1/",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T17:06:56.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1783654567706-4",
-      "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’ - The Verge",
-      "summary": "Companies like OpenAI and Anthropic, as well as tech giants like Google (and even, recently, Apple), have been vying to clear new ground in the race t...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T17:00:00.000Z",
+      "publishedAt": "2026-07-10T12:22:17.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1783654567705-2",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI - TechCrunch",
-      "summary": "+ Sarah Perez\n Reddit is using LLMs to solve a problem LLMs largely created\n\n  + Amanda Silberling\n Amazon will stop accepting new customers for Mecha...",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-09T14:53:09.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1783654567706-8",
-      "title": "Meta debuts Muse Spark 1.1 with preview open to developers - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nDevelopers in the United States can now ‌access Muse ⁠Spark in public preview on Meta Model API, letting them test...",
-      "url": "https://www.reuters.com/business/meta-debuts-muse-spark-11-with-preview-open-developers-2026-07-09/",
+      "id": "news-1783738273326-10",
+      "title": "ICC official says breakthrough made in Darfur investigations - Reuters",
+      "summary": "AI helps lower development costs for spacecraft says former NASA leader July 2, 2026\n   How a British startup is drawing electricity from bacteria Jun...",
+      "url": "https://www.reuters.com/video/watch/idRW691410072026RP1/?chan=world-news",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-debuts-muse-spark-11-with-preview-open-developers-2026-07-09/",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW691410072026RP1/?chan=world-news",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T14:01:27.000Z",
+      "publishedAt": "2026-07-10T11:56:34.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1783654567705-3",
-      "title": "Meta says its new AI model is ready to compete on coding - The Verge",
-      "summary": "Say hello to Claude Wrapped\n\nHayden Field\n\nCharacter.AI wants a piece of the microdrama pie\n\nCharles Pulliam-Moore\n\nFL Studio 2026 turns its AI chatbo...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "id": "news-1783738273326-9",
+      "title": "Breakingviews - AI cost-savers preach thrift - in Parisian palaces - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Over 8,00...",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-cost-savers-preach-thrift-parisian-palaces-2026-07-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/ai-cost-savers-preach-thrift-parisian-palaces-2026-07-10/",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T14:00:00.000Z",
+      "publishedAt": "2026-07-10T10:01:40.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1783654567706-13",
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users - TechCrunch",
-      "summary": "Julie Bort\n\nVenture Editor\n\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.   \n  \nYou can contact or verify outreach from Julie by emai...",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "id": "news-1783738273325-5",
+      "title": "Breakingviews - Tata Consultancy’s AI push uses a blurry yardstick - Reuters",
+      "summary": "Tata Consultancy Services on July 9 reported revenue of 723 billion rupees ($7.58 billion) in the quarter ​ended June 2026, up 14% year-on-year and ​2...",
+      "url": "https://www.reuters.com/commentary/breakingviews/tata-consultancys-ai-push-uses-blurry-yardstick-2026-07-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/tata-consultancys-ai-push-uses-blurry-yardstick-2026-07-10/",
       "credibility": "P2",
-      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "publishedAt": "2026-07-10T04:49:03.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "OpenCL"
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 13
   },
   "summary": ""
 }
