@@ -1,48 +1,79 @@
 {
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-17T02:50:34.593Z",
-  "totalItems": 15,
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T02:43:05.420Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1784256634592-13",
-      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users. - Ars Technica",
-      "summary": "Skip to content  Ars Technica home \n\n AI\n Biz & IT\n Cars\n Culture\n Gaming\n Health\n Policy\n Science\n Security\n Space\n Tech\n\n Forum \n Subscribe \n\nStory ...",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "id": "news-1784342585419-5",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
       "credibility": "P2",
-      "publishedAt": "2026-07-16T20:26:23.000Z",
+      "publishedAt": "2026-07-17T19:22:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "TPU"
+        "OpenAI",
+        "Claude",
+        "AI"
       ]
     },
     {
-      "id": "news-1784256634591-0",
-      "title": "Google Gemini launch delayed as tech falls short of internal goals, Bloomberg News reports - Reuters",
-      "summary": "\"We're shipping quickly across ​a wide range of ​models while ⁠keeping them highly cost-effective for customers,\" the spokesperson said. \n   OpenAI la...",
-      "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
+      "id": "news-1784342585419-4",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans - TechCrunch",
+      "summary": "+ Sarah Perez\n Anthropic starts localizing Claude pricing for India, its biggest market after the US\n\n  + Jagmeet Singh\n\n### Newsletters\n\nSee More\n\nSu...",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T17:45:46.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585419-1",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms\n\n  + Sean O'Kane\n OpenAI’s first hardware de...",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T15:21:17.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585420-11",
+      "title": "BofA names senior executives to drive AI adoption in global markets-memo - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
       "credibility": "P2",
-      "publishedAt": "2026-07-16T19:00:12.000Z",
-      "category": "product",
+      "publishedAt": "2026-07-17T14:48:01.000Z",
+      "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1784256634592-6",
-      "title": "Google Vids now lets you star in your own AI videos - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms\n\n  + Sean O'Kane\n Anthropic’s newest ad is c...",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "id": "news-1784342585419-6",
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling - TechCrunch",
+      "summary": "+ Sarah Perez\n Anthropic starts localizing Claude pricing for India, its biggest market after the US\n\n  + Jagmeet Singh\n Meta removes controversial AI...",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
       "credibility": "P2",
-      "publishedAt": "2026-07-16T18:32:54.000Z",
+      "publishedAt": "2026-07-17T14:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -51,109 +82,42 @@
       ]
     },
     {
-      "id": "news-1784256634592-9",
-      "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals - Bloomberg.com",
-      "summary": "The delay has been a source of frustration for Google engineers, AI researchers and managers, many of whom are concerned the company risks losing an e...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+      "id": "news-1784342585419-7",
+      "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters",
+      "summary": "Analysts ‌have ⁠highlighted several reasons for this month's sharp reversal.\n\nChinese AI startup Moonshot unveiled Kimi K3, a 2.8 trillion-parameter m...",
+      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T13:51:54.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585420-10",
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Apple (AAPL.O), opens new t...",
+      "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T13:03:25.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585418-0",
+      "title": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals - Bloomberg.com",
+      "summary": "Chinese models have already put pressure on the frontier models by offering pricing that is far below what’s available from OpenAI and Anthropic. The ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
       "credibility": "P2",
-      "publishedAt": "2026-07-16T18:07:15.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-4",
-      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-10",
-      "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
-      "summary": "This is the title for the native ad\n\n## More in Tech\n\nApple’s OLED iPad Mini upgrade is on the way as prices continue to rise\n\n‘No company is going to...",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-2",
-      "title": "Why is OpenAI selling a ChatGPT basketball? - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T15:31:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784256634592-7",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms\n\n  + Sean O'Kane\n Anthropic’s newest ad is c...",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T15:02:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784256634592-3",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’ - TechCrunch",
-      "summary": "Even when AI can merely make robots “aware of the context” that would mark “a very big difference for the world.” Such context-aware AI would have bee...",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T14:40:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634591-1",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 - TechCrunch",
-      "summary": "Moonshot is also said to be raising fresh capital in a round that would valuate it at $31.5 billion. The company in May raised $2 billion at a $20 bil...",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T14:26:29.000Z",
+      "publishedAt": "2026-07-17T12:55:31.000Z",
       "category": "hot",
       "tags": [
         "OpenAI",
@@ -162,77 +126,93 @@
       ]
     },
     {
-      "id": "news-1784256634592-8",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu - TechCrunch",
-      "summary": "## Related\n\n Hardware\n\n  ### India bets billions on breaking China’s grip on smartphone manufacturing\n\n  + Jagmeet Singh\n AI\n\n  ### OpenAI pushes back...",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "id": "news-1784342585419-2",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
       "credibility": "P2",
-      "publishedAt": "2026-07-16T13:17:59.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-11",
-      "title": "Google required to open up to AI, search engine rivals under EU-mandated changes - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n centre in Berlin, Germany, Ma...",
-      "url": "https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T12:04:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-12",
-      "title": "AI data centers divide communities and scramble midterm playbooks - Reuters",
-      "summary": "Artemis astronaut says moon trip could help answer 'are we alone' March 29, 2026\n   Astronauts fired up for approaching Artemis Moon mission March 27,...",
-      "url": "https://www.reuters.com/video/watch/idRW761813072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW761813072026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T10:09:52.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-14",
-      "title": "Europe Inc heads into strongest earnings season in years, but AI gap persists - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/business/finance/europe-inc-heads-into-strongest-earnings-season-years-ai-gap-persists-2026-07-16/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/europe-inc-heads-into-strongest-earnings-season-years-ai-gap-persists-2026-07-16/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T04:05:06.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784256634592-5",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant - TechCrunch",
-      "summary": "Anthropic’s newest ad is creeping people out\n\n  + Lucas Ropek\n Satya Nadella has issued a shocking warning to companies using AI\n\n  + Julie Bort\n The ...",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-16T04:00:00.000Z",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585419-9",
+      "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
+      "summary": "NEW YORK, July 17 (Reuters) - U.S. corporate earnings season heats up in the coming week, with Alphabet (GOOGL.O), opens new tab and Intel (INTC.O), o...",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T10:04:36.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1784342585419-8",
+      "title": "US companies face rise in cyber attacks - Reuters",
+      "summary": "March ​28 Hasbro (HAS.O)The toymaker said it was investigating a cybersecurity incident that involved unauthorized access to its network, took some sy...",
+      "url": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T09:36:49.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1784342585420-13",
+      "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions - Reuters",
+      "summary": "Suggested Topics:\n   Asia Pacific\n   Constitutional Law\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   1 hour agoAsia Pacific ...",
+      "url": "https://www.reuters.com/world/asia-pacific/network-school-founder-says-immigration-probe-tech-commune-is-risk-malaysias-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/network-school-founder-says-immigration-probe-tech-commune-is-risk-malaysias-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T05:56:35.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784342585419-3",
+      "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit - Bloomberg.com",
+      "summary": "The AI Race:\n\nCarbon Emissions Spike\n\nThe Claude Revolution\n\nTrillion-Dollar Debt Binge\n\nUS Startup Boom\n\nChina’s AI Buildout\n\nAnthropic IPO\n\nTechnolo...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T05:47:05.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1784342585420-12",
+      "title": "South Korea-US team unveils robotic technology that dresses the wearer - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nReporting by Minwoo Park; Editing by Jack Kim and Jamie Freed\n\nOur Standards: The Thomson Reuters Trust Principles...",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-17T02:57:58.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     }
@@ -240,7 +220,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
