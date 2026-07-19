@@ -1,124 +1,18 @@
 {
-  "date": "2026-07-18",
-  "generatedAt": "2026-07-18T02:43:05.420Z",
-  "totalItems": 14,
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T02:57:16.656Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1784342585419-5",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "id": "news-1784429836654-0",
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ - The Verge",
+      "summary": "Google is renaming NotebookLM to Gemini Notebook\n\nClaude can now use your 1Password credentials for you\n\nThe apps, gadgets, and tools every reader nee...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "credibility": "P2",
-      "publishedAt": "2026-07-17T19:22:00.000Z",
+      "publishedAt": "2026-07-18T20:54:42.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585419-4",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans - TechCrunch",
-      "summary": "+ Sarah Perez\n Anthropic starts localizing Claude pricing for India, its biggest market after the US\n\n  + Jagmeet Singh\n\n### Newsletters\n\nSee More\n\nSu...",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T17:45:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585419-1",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms\n\n  + Sean O'Kane\n OpenAI’s first hardware de...",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T15:21:17.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585420-11",
-      "title": "BofA names senior executives to drive AI adoption in global markets-memo - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T14:48:01.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585419-6",
-      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling - TechCrunch",
-      "summary": "+ Sarah Perez\n Anthropic starts localizing Claude pricing for India, its biggest market after the US\n\n  + Jagmeet Singh\n Meta removes controversial AI...",
-      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T14:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585419-7",
-      "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters",
-      "summary": "Analysts ‌have ⁠highlighted several reasons for this month's sharp reversal.\n\nChinese AI startup Moonshot unveiled Kimi K3, a 2.8 trillion-parameter m...",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T13:51:54.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585420-10",
-      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Apple (AAPL.O), opens new t...",
-      "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T13:03:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784342585418-0",
-      "title": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals - Bloomberg.com",
-      "summary": "Chinese models have already put pressure on the frontier models by offering pricing that is far below what’s available from OpenAI and Anthropic. The ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T12:55:31.000Z",
-      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
@@ -126,93 +20,200 @@
       ]
     },
     {
-      "id": "news-1784342585419-2",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "id": "news-1784429836655-12",
+      "title": "Jared Jones, offense deliver as Pirates cool off Guardians - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/baseball/jared-jones-offense-deliver-pirates-cool-off-guardians--flm-2026-07-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/baseball/jared-jones-offense-deliver-pirates-cool-off-guardians--flm-2026-07-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T19:48:54.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-6",
+      "title": "India's activist on hunger strike remains stable, doctor says - Reuters",
+      "summary": "### Image 7: Dashcam captures moment of landslide in China's Chongqing 00:34 Dashcam captures moment of landslide in China's Chongqing\n\n   ### Image 8...",
+      "url": "https://www.reuters.com/video/watch/idRW904918072026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW904918072026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T18:57:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-1",
+      "title": "Kimi: Threat or menace? - TechCrunch",
+      "summary": "For example, David Sacks — the Trump administration’s former AI czar and now co-chair of the President’s Council of Advisors on Science and Technology...",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "credibility": "P2",
-      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "publishedAt": "2026-07-18T18:51:07.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "Claude",
-        "AI"
+        "GPT",
+        "DeepSeek"
       ]
     },
     {
-      "id": "news-1784342585419-9",
-      "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
-      "summary": "NEW YORK, July 17 (Reuters) - U.S. corporate earnings season heats up in the coming week, with Alphabet (GOOGL.O), opens new tab and Intel (INTC.O), o...",
-      "url": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
+      "id": "news-1784429836655-5",
+      "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
+      "summary": "Surprise! Facial recognition smart locks are actually good\n\nJennifer Pattison Tuohy\n\nSony’s flagship RGB LED TV is incredible\n\nJohn Higgins\n\nThe apps,...",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
       "credibility": "P2",
-      "publishedAt": "2026-07-17T10:04:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1784342585419-8",
-      "title": "US companies face rise in cyber attacks - Reuters",
-      "summary": "March ​28 Hasbro (HAS.O)The toymaker said it was investigating a cybersecurity incident that involved unauthorized access to its network, took some sy...",
-      "url": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-17/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T09:36:49.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1784342585420-13",
-      "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions - Reuters",
-      "summary": "Suggested Topics:\n   Asia Pacific\n   Constitutional Law\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n## Read Next\n\n   1 hour agoAsia Pacific ...",
-      "url": "https://www.reuters.com/world/asia-pacific/network-school-founder-says-immigration-probe-tech-commune-is-risk-malaysias-2026-07-17/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/network-school-founder-says-immigration-probe-tech-commune-is-risk-malaysias-2026-07-17/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-17T05:56:35.000Z",
+      "publishedAt": "2026-07-18T18:25:08.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1784342585419-3",
-      "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit - Bloomberg.com",
-      "summary": "The AI Race:\n\nCarbon Emissions Spike\n\nThe Claude Revolution\n\nTrillion-Dollar Debt Binge\n\nUS Startup Boom\n\nChina’s AI Buildout\n\nAnthropic IPO\n\nTechnolo...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+      "id": "news-1784429836655-4",
+      "title": "Google is open-sourcing its 3D emoji - The Verge",
+      "summary": "This is the title for the native ad\n\n## More in Design\n\nFigma now has AI motion graphics and shader tools\n\nAdobe’s redesigned AI studio remembers what...",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
       "credibility": "P2",
-      "publishedAt": "2026-07-17T05:47:05.000Z",
+      "publishedAt": "2026-07-18T16:40:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-14",
+      "title": "CFM wins approval for jet engine durability boost - Reuters",
+      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
+      "url": "https://www.reuters.com/business/aerospace-defense/cfm-wins-approval-jet-engine-durability-boost-2026-07-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/cfm-wins-approval-jet-engine-durability-boost-2026-07-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T15:52:15.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1784429836655-8",
+      "title": "Argentina doctors see rise in heart attacks during World Cup games - Reuters",
+      "summary": "### 02:19 How the fight against Ebola is also a battle against misinformation\n\n   ### 02:15 Congo's burial teams fight Ebola one coffin at a time\n\n   ...",
+      "url": "https://www.reuters.com/video/watch/idRW903018072026RP1/?chan=health",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW903018072026RP1/?chan=health",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T15:30:44.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-7",
+      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time - The Verge",
+      "summary": "Terrence O'Brien5\n\nFlatbush Zombies’ Erick the Architect misses his BlackBerry keyboard\n\nTerrence O'Brien5\n\nThe Guardian’s Kai Wright refuses to buy a...",
+      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T14:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-9",
+      "title": "Smoke rises from Moscow warehouse after Ukrainian drone attacks - Reuters",
+      "summary": "Load More Categories\n\n   18 hours agoApple unseats Nvidia to become world's most valuable company as AI bets shift , opens new tab\n\n### Stay Informed\n...",
+      "url": "https://www.reuters.com/video/watch/idRCV00GSI9/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRCV00GSI9/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T14:10:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-3",
+      "title": "Security News This Week: Your Period Tracker Is (Probably) Spying on You - WIRED",
+      "summary": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.\n\nMatt Bu...",
+      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T10:30:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "RAG"
+        "Agent"
       ]
     },
     {
-      "id": "news-1784342585420-12",
-      "title": "South Korea-US team unveils robotic technology that dresses the wearer - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nReporting by Minwoo Park; Editing by Jack Kim and Jamie Freed\n\nOur Standards: The Thomson Reuters Trust Principles...",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/",
+      "id": "news-1784429836655-11",
+      "title": "US data center protests go national as backlash grows - Reuters",
+      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
+      "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17/",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
       "credibility": "P2",
-      "publishedAt": "2026-07-17T02:57:58.000Z",
+      "publishedAt": "2026-07-18T10:06:57.000Z",
       "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-10",
+      "title": "Germany upgrades security stance to 'high threat level', interior minister tells paper - Reuters",
+      "summary": "Reporting by Tom Sims; Editing by Kirsten Donovan\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   World\n...",
+      "url": "https://www.reuters.com/world/germany-upgrades-security-stance-high-threat-level-interior-minister-tells-paper-2026-07-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/germany-upgrades-security-stance-high-threat-level-interior-minister-tells-paper-2026-07-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T09:38:57.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784429836655-15",
+      "title": "Ajax land Brazilian forward Marcos Leonardo from Al-Hilal - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/soccer/ajax-land-brazilian-forward-marcos-leonardo-al-hilal-2026-07-18/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/soccer/ajax-land-brazilian-forward-marcos-leonardo-al-hilal-2026-07-18/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T05:49:59.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1784429836655-2",
+      "title": "Neil Rimer thinks the AI money is coming back out - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-18T04:47:25.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     }
@@ -220,7 +221,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 15
   },
   "summary": ""
 }
