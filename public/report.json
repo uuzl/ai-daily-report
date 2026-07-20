@@ -1,220 +1,227 @@
 {
-  "date": "2026-07-19",
-  "generatedAt": "2026-07-19T02:57:16.656Z",
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T03:38:48.022Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1784429836654-0",
-      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ - The Verge",
-      "summary": "Google is renaming NotebookLM to Gemini Notebook\n\nClaude can now use your 1Password credentials for you\n\nThe apps, gadgets, and tools every reader nee...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "id": "news-1784518728021-7",
+      "title": "Asia shares hesitant as oil climbs, earnings loom - Reuters",
+      "summary": "The shift has come just as investors ​question sky-high valuations for chip and AI stocks, which have seen the Philadelphia Semiconductor Index shed 1...",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-20/",
       "credibility": "P2",
-      "publishedAt": "2026-07-18T20:54:42.000Z",
+      "publishedAt": "2026-07-20T00:35:35.000Z",
       "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-6",
+      "title": "SpaceX moves Starship launch attempt to Thursday - Reuters",
+      "summary": "July 18, 2026Science categoryShanghai Xingshu launches first constellation of its space-based computing project Image 4: Reuters logo \n   July 17, 202...",
+      "url": "https://www.reuters.com/business/media-telecom/spacex-moves-starship-launch-attempt-thursday-2026-07-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/spacex-moves-starship-launch-attempt-thursday-2026-07-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T22:25:35.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-3",
+      "title": "What to watch for after Jensen Huang’s Japan visit - TechCrunch",
+      "summary": "+ Lucas Ropek\n Anthropic’s newest ad is creeping people out\n\n  + Lucas Ropek\n Satya Nadella has issued a shocking warning to companies using AI\n\n  + J...",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T21:16:07.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-4",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans? - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms\n\n  + Sean O'Kane\n Amid hardware legal battle...",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T19:24:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-10",
+      "title": "Taiwan president urges his party to oppose China's 'red terror' - Reuters",
+      "summary": "### Image 7: Deadly landslide in southwest China leaves dozens missing 01:00 Fujimori formally confirmed as Peru's president-elect\n\n   ### Image 8: Da...",
+      "url": "https://www.reuters.com/video/watch/idRW916019072026RP1/?chan=politics",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW916019072026RP1/?chan=politics",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T16:24:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-5",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules - TechCrunch",
+      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T16:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-14",
+      "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/americas/canada-temporarily-bar-entry-foreigners-who-have-recently-been-congo-against-un-2026-07-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/canada-temporarily-bar-entry-foreigners-who-have-recently-been-congo-against-un-2026-07-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T15:52:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-2",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ - TechCrunch",
+      "summary": "+ Lucas Ropek\n OpenAI’s first hardware device is reportedly a screenless speaker that can move\n\n  + Lucas Ropek\n Anthropic’s newest ad is creeping peo...",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T14:52:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-8",
+      "title": "Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive - Bloomberg.com",
+      "summary": "Newsletter\n\nPower On\n\n# Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive\n\nAlso: The company tries out AI recording for Genius Bar appoi...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T14:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-0",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all - TechCrunch",
+      "summary": "## Building the stack\n\nEarlier this month in Geneva, Current launched Alpha Chat, an open-source chatbot assembled in seven weeks by a coalition of te...",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-9",
+      "title": "صواريخ باليستية روسية تهز كييف - Reuters",
+      "summary": "### 01:00 رجال الإطفاء يكافحون حريقا هائلا جنوب باريس\n\n   ### 00:44 هل شاهدت كرة الطائرة النهرية التي أحدثت ضجة في سلوفينيا؟\n\n   ### 00:51 رجال الإطفا...",
+      "url": "https://www.reuters.com/video/watch/idRW915319072026RP1/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRW915319072026RP1/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T13:31:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-13",
+      "title": "Boeing studying new 737 MAX production hikes - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nReport AdImage 4\n\n\"I've got the team focused on stabilising at ​47. Once we ​get ⁠to 47, we'll go to 52, and then ...",
+      "url": "https://www.reuters.com/world/boeing-studying-new-737-max-production-hikes-2026-07-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/boeing-studying-new-737-max-production-hikes-2026-07-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T13:22:42.000Z",
+      "category": "research",
+      "tags": []
+    },
+    {
+      "id": "news-1784518728021-11",
+      "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
+      "summary": "10 hours agoEnvironment categoryOntario premier rejects Trump's criticism of Canada's wildfire management Image 4: A satellite image shows lingering s...",
+      "url": "https://www.reuters.com/business/environment/us-hurricane-center-says-80-chance-cyclone-next-48-hours-near-florida-2026-07-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/environment/us-hurricane-center-says-80-chance-cyclone-next-48-hours-near-florida-2026-07-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T11:32:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728021-12",
+      "title": "Users of Meta's Facebook, Instagram report suffering some outages - Reuters",
+      "summary": "1 hour agoChina categoryDemocratic Taiwan must not become 'China's Taiwan', president says Image 4: Taiwan President Lai Ching-te speaks at the annual...",
+      "url": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T08:53:41.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784518728020-1",
+      "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
+      "summary": "The startup judged the time was right after annual recurring revenue — a gauge of future sales — hit $300 million in June, they said, asking to remain...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+      "credibility": "P2",
+      "publishedAt": "2026-07-19T05:31:31.000Z",
+      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
-      ]
-    },
-    {
-      "id": "news-1784429836655-12",
-      "title": "Jared Jones, offense deliver as Pirates cool off Guardians - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/baseball/jared-jones-offense-deliver-pirates-cool-off-guardians--flm-2026-07-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/baseball/jared-jones-offense-deliver-pirates-cool-off-guardians--flm-2026-07-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T19:48:54.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-6",
-      "title": "India's activist on hunger strike remains stable, doctor says - Reuters",
-      "summary": "### Image 7: Dashcam captures moment of landslide in China's Chongqing 00:34 Dashcam captures moment of landslide in China's Chongqing\n\n   ### Image 8...",
-      "url": "https://www.reuters.com/video/watch/idRW904918072026RP1/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW904918072026RP1/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T18:57:05.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-1",
-      "title": "Kimi: Threat or menace? - TechCrunch",
-      "summary": "For example, David Sacks — the Trump administration’s former AI czar and now co-chair of the President’s Council of Advisors on Science and Technology...",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T18:51:07.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1784429836655-5",
-      "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
-      "summary": "Surprise! Facial recognition smart locks are actually good\n\nJennifer Pattison Tuohy\n\nSony’s flagship RGB LED TV is incredible\n\nJohn Higgins\n\nThe apps,...",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T18:25:08.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-4",
-      "title": "Google is open-sourcing its 3D emoji - The Verge",
-      "summary": "This is the title for the native ad\n\n## More in Design\n\nFigma now has AI motion graphics and shader tools\n\nAdobe’s redesigned AI studio remembers what...",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T16:40:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-14",
-      "title": "CFM wins approval for jet engine durability boost - Reuters",
-      "summary": "### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information ...",
-      "url": "https://www.reuters.com/business/aerospace-defense/cfm-wins-approval-jet-engine-durability-boost-2026-07-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/aerospace-defense/cfm-wins-approval-jet-engine-durability-boost-2026-07-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T15:52:15.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1784429836655-8",
-      "title": "Argentina doctors see rise in heart attacks during World Cup games - Reuters",
-      "summary": "### 02:19 How the fight against Ebola is also a battle against misinformation\n\n   ### 02:15 Congo's burial teams fight Ebola one coffin at a time\n\n   ...",
-      "url": "https://www.reuters.com/video/watch/idRW903018072026RP1/?chan=health",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRW903018072026RP1/?chan=health",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T15:30:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-7",
-      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time - The Verge",
-      "summary": "Terrence O'Brien5\n\nFlatbush Zombies’ Erick the Architect misses his BlackBerry keyboard\n\nTerrence O'Brien5\n\nThe Guardian’s Kai Wright refuses to buy a...",
-      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T14:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-9",
-      "title": "Smoke rises from Moscow warehouse after Ukrainian drone attacks - Reuters",
-      "summary": "Load More Categories\n\n   18 hours agoApple unseats Nvidia to become world's most valuable company as AI bets shift , opens new tab\n\n### Stay Informed\n...",
-      "url": "https://www.reuters.com/video/watch/idRCV00GSI9/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/video/watch/idRCV00GSI9/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T14:10:51.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-3",
-      "title": "Security News This Week: Your Period Tracker Is (Probably) Spying on You - WIRED",
-      "summary": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.\n\nMatt Bu...",
-      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T10:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784429836655-11",
-      "title": "US data center protests go national as backlash grows - Reuters",
-      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
-      "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T10:06:57.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-10",
-      "title": "Germany upgrades security stance to 'high threat level', interior minister tells paper - Reuters",
-      "summary": "Reporting by Tom Sims; Editing by Kirsten Donovan\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   World\n...",
-      "url": "https://www.reuters.com/world/germany-upgrades-security-stance-high-threat-level-interior-minister-tells-paper-2026-07-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/germany-upgrades-security-stance-high-threat-level-interior-minister-tells-paper-2026-07-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T09:38:57.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784429836655-15",
-      "title": "Ajax land Brazilian forward Marcos Leonardo from Al-Hilal - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/soccer/ajax-land-brazilian-forward-marcos-leonardo-al-hilal-2026-07-18/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/soccer/ajax-land-brazilian-forward-marcos-leonardo-al-hilal-2026-07-18/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T05:49:59.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1784429836655-2",
-      "title": "Neil Rimer thinks the AI money is coming back out - TechCrunch",
-      "summary": "View Bio\n\nNovember 4\n\nBoston\n\nLast chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world s...",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-18T04:47:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
       ]
     }
   ],
