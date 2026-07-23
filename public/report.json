@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-22",
-  "generatedAt": "2026-07-22T02:51:08.248Z",
-  "totalItems": 15,
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T02:57:47.742Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1784688668247-11",
-      "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming - TechCrunch",
-      "summary": "October 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  \n  \nSave u...",
-      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "id": "news-1784775467741-7",
+      "title": "Pichai pushes back on claims Google is losing ground in AI race - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nReport AdImage 5\n\nThe latest setback has fueled worries that Google was losing ​momentum just as OpenAI and Anthro...",
+      "url": "https://www.reuters.com/business/pichai-pushes-back-claims-google-is-losing-ground-ai-race-2026-07-23/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/pichai-pushes-back-claims-google-is-losing-ground-ai-race-2026-07-23/",
       "credibility": "P2",
-      "publishedAt": "2026-07-22T01:27:58.000Z",
+      "publishedAt": "2026-07-23T01:17:52.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1784688668247-2",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
-      "summary": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them\n\nThe White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after A...",
-      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "id": "news-1784775467741-1",
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI - WIRED",
+      "summary": "Read More\n\nThe Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models\n\nThe White House is easing restrictions o...",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T22:50:01.000Z",
+      "publishedAt": "2026-07-22T21:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,90 +36,46 @@
       ]
     },
     {
-      "id": "news-1784688668247-14",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over - The Verge",
-      "summary": "Charles Pulliam-Moore\n\n## Most Popular\n\nMost Popular\n\n1. The FCC is planning to retroactively ban disguised DJI gadgets\n2. The Light Flip is a minimal...",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T22:06:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784688668247-5",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system - The Verge",
-      "summary": "Emma Roth\n\n## Most Popular\n\nMost Popular\n\n1. The FCC is planning to retroactively ban disguised DJI gadgets\n2. The Light Flip is a minimalist flip pho...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T21:48:54.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784688668247-4",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models - TechCrunch",
-      "summary": "+ Lucas Ropek\n Coca-Cola suspended production at its Fairlife dairy after a ransomware attack\n\n  + Zack Whittaker\n Tesla driver in fatal Texas crash p...",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "id": "news-1784775467741-5",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable - TechCrunch",
+      "summary": "+ Amanda Silberling\n Light made a flip phone — it’s colorful and it’s cheap\n\n  + Amanda Silberling\n AI music generator Suno breach affects 55M users, ...",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T20:56:55.000Z",
-      "category": "product",
+      "publishedAt": "2026-07-22T20:49:03.000Z",
+      "category": "hot",
       "tags": [
         "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1784688668247-6",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models - TechCrunch",
-      "summary": "+ Lucas Ropek\n Coca-Cola suspended production at its Fairlife dairy after a ransomware attack\n\n  + Zack Whittaker\n Tesla driver in fatal Texas crash p...",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "id": "news-1784775467741-10",
+      "title": "Google increases capex forecast again after cloud-driven quarterly beat - Reuters",
+      "summary": "## MODEL UNCERTAINTY TEMPERS CLOUD GAINS\n\nWhile Google Cloud has made Alphabet a big beneficiary of the AI boom, the company's own AI efforts have los...",
+      "url": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T20:56:55.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784688668247-8",
-      "title": "AI and the rise of the universal entertainment app - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Judge pauses $110B Paramount-Warner Bros. merger\n\n  + Aisha Malik\n Apple and Google ordered to purge ‘nudify’ apps fro...",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T19:39:30.000Z",
+      "publishedAt": "2026-07-22T20:05:29.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "AI",
+        "TPU"
       ]
     },
     {
-      "id": "news-1784688668246-0",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro - TechCrunch",
-      "summary": "Google says the focus on these releases is to deliver efficiency, latency, and reliability to customers that are building AI agents at scale.\n\nThe lau...",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "id": "news-1784775467741-0",
+      "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled - Bloomberg.com",
+      "summary": "The AI Race:\n\nChina’s Moonshot IPO Plans\n\nAI Trade Winners, Losers\n\nAnthropic IPO Nears\n\nCarbon Emissions Spike\n\nThe Claude Revolution\n\nUS Startup Boo...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T17:11:50.000Z",
-      "category": "product",
+      "publishedAt": "2026-07-22T19:31:20.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
@@ -127,108 +83,137 @@
       ]
     },
     {
-      "id": "news-1784688668247-1",
-      "title": "Google reveals faster and cheaper Gemini 3.6 Flash, says 3.5 Pro is still in testing - Ars Technica",
-      "summary": "Gemini 3.6 Flash will begin rolling out in the API today, and it will take over from 3.5 Flash in the Gemini app. Likewise, Gemini 3.5 Flash Lite is a...",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "id": "news-1784775467741-8",
+      "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face - TechCrunch",
+      "summary": "+ Amanda Silberling\n AI music generator Suno breach affects 55M users, per Have I Been Pwned\n\n  + Zack Whittaker\n Anthropic’s landmark $1.5B copyright...",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-22T19:11:46.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784775467741-6",
+      "title": "How an OpenAI benchmark test turned into a real-world cyberattack - Ars Technica",
+      "summary": "At the time, Hugging Face said the LLM being used in the attack was “still not known.” But OpenAI took responsibility for the intrusion Tuesday evenin...",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T16:58:25.000Z",
+      "publishedAt": "2026-07-22T16:47:49.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1784688668247-10",
-      "title": "Anthropic sued for infringing neural network technology patents - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - A nonprof...",
-      "url": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T15:41:22.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784688668247-7",
-      "title": "US threatens sanctions against Chinese AI models over IP theft - TechCrunch",
-      "summary": "+ Lucas Ropek\n Coca-Cola suspended production at its Fairlife dairy after a ransomware attack\n\n  + Zack Whittaker\n Tesla driver in fatal Texas crash p...",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "id": "news-1784775467741-3",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents\n\n  + Amanda Silberling\n ...",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T15:37:05.000Z",
+      "publishedAt": "2026-07-22T16:24:08.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1784775467741-4",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI - TechCrunch",
+      "summary": "+ Amanda Silberling\n Light made a flip phone — it’s colorful and it’s cheap\n\n  + Amanda Silberling\n AI music generator Suno breach affects 55M users, ...",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-22T16:23:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1784775467741-9",
+      "title": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
+      "summary": "The plaintiffs claim that in selecting jobs to cut, Meta consulted AI tools that tracked productivity and AI token usage (a measure of how much worker...",
+      "url": "https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-22T10:04:34.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1784688668247-9",
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos - The Verge",
-      "summary": "Anthropic’s Mythos 5 is a powerful AI security model released as part of the company’s Project Glasswing initiative. The compute-heavy model is expens...",
-      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784688668247-12",
-      "title": "Alphabet's Gemini delay, spending worries loom over earnings - Reuters",
-      "summary": "Analysts expect the company's second-quarter revenue growth ​to ease only slightly from the first three months of 2026, ​as the cloud ⁠business drives...",
-      "url": "https://www.reuters.com/business/alphabets-gemini-delay-spending-worries-loom-over-earnings-2026-07-21/",
+      "id": "news-1784775467741-11",
+      "title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - AI giant ...",
+      "url": "https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-that-supports-ai-regulation-2026-07-22/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/alphabets-gemini-delay-spending-worries-loom-over-earnings-2026-07-21/",
+      "sourceUrl": "https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-that-supports-ai-regulation-2026-07-22/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T13:45:19.000Z",
+      "publishedAt": "2026-07-22T09:03:41.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1784688668247-3",
-      "title": "America needs to stop getting shocked by Chinese AI - The Verge",
-      "summary": "Beijing-based startup Moonshot AI, one of China’s leading AI model developers, unveiled a new flagship model on Friday, claiming it outperforms nearly...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "id": "news-1784775467741-13",
+      "title": "AI has not killed equity diversification: Helen Jewell - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
       "credibility": "P2",
-      "publishedAt": "2026-07-21T11:08:56.000Z",
+      "publishedAt": "2026-07-22T06:00:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784775467741-12",
+      "title": "Robot AI company Noetra is 'last chance' for Japan, CEO says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   7 hours agoMedia & Telecom categoryWorld Cup final draws record 63 million US viewers , opens new tab\n\n###...",
+      "url": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-22T05:09:21.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784775467741-2",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch",
+      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-22T03:20:57.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784688668247-15",
-      "title": "Tesla cash burn to test investor faith in AI bets - Reuters",
-      "summary": "Suggested Topics:\n   Disrupted\n   ADAS, AV & Safety\n   Software-Defined Vehicle\n   Sustainable & EV Supply Chain\n\n    \n    \n    \n    \n    \n\nPurchase L...",
-      "url": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-21T10:02:02.000Z",
-      "category": "tech",
-      "tags": [
         "AI"
       ]
     }
@@ -236,7 +221,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
