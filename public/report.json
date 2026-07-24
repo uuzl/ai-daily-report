@@ -1,111 +1,49 @@
 {
-  "date": "2026-07-23",
-  "generatedAt": "2026-07-23T02:57:47.742Z",
-  "totalItems": 14,
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T02:52:02.684Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1784775467741-7",
-      "title": "Pichai pushes back on claims Google is losing ground in AI race - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nReport AdImage 5\n\nThe latest setback has fueled worries that Google was losing ​momentum just as OpenAI and Anthro...",
-      "url": "https://www.reuters.com/business/pichai-pushes-back-claims-google-is-losing-ground-ai-race-2026-07-23/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/pichai-pushes-back-claims-google-is-losing-ground-ai-race-2026-07-23/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-23T01:17:52.000Z",
+      "id": "news-1784861522682-1",
+      "title": "Daily Papers",
+      "summary": "Artificial Intelligence is moving from models that only generate text to Agentic AI, where systems behave as autonomous entities that can perceive, re...",
+      "url": "https://huggingface.co/papers?q=agentic+engineering",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=agentic+engineering",
+      "credibility": "P0",
+      "publishedAt": "2026-07-23T05:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI",
+        "LLM",
         "Agent"
       ]
     },
     {
-      "id": "news-1784775467741-1",
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI - WIRED",
-      "summary": "Read More\n\nThe Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models\n\nThe White House is easing restrictions o...",
-      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T21:00:00.000Z",
+      "id": "news-1784861522683-4",
+      "title": "Daily Papers",
+      "summary": "We present PORTAL, a novel framework for developing artificial intelligence\nagents capable of playing thousands of 3D video games through language-gui...",
+      "url": "https://huggingface.co/papers?q=Multiverse+of+Human+Games",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Multiverse+of+Human+Games",
+      "credibility": "P0",
+      "publishedAt": "2026-07-23T05:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784775467741-5",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable - TechCrunch",
-      "summary": "+ Amanda Silberling\n Light made a flip phone — it’s colorful and it’s cheap\n\n  + Amanda Silberling\n AI music generator Suno breach affects 55M users, ...",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T20:49:03.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-10",
-      "title": "Google increases capex forecast again after cloud-driven quarterly beat - Reuters",
-      "summary": "## MODEL UNCERTAINTY TEMPERS CLOUD GAINS\n\nWhile Google Cloud has made Alphabet a big beneficiary of the AI boom, the company's own AI efforts have los...",
-      "url": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T20:05:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI",
+        "LLM",
         "TPU"
       ]
     },
     {
-      "id": "news-1784775467741-0",
-      "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled - Bloomberg.com",
-      "summary": "The AI Race:\n\nChina’s Moonshot IPO Plans\n\nAI Trade Winners, Losers\n\nAnthropic IPO Nears\n\nCarbon Emissions Spike\n\nThe Claude Revolution\n\nUS Startup Boo...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T19:31:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784775467741-8",
-      "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face - TechCrunch",
-      "summary": "+ Amanda Silberling\n AI music generator Suno breach affects 55M users, per Have I Been Pwned\n\n  + Zack Whittaker\n Anthropic’s landmark $1.5B copyright...",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T19:11:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-6",
-      "title": "How an OpenAI benchmark test turned into a real-world cyberattack - Ars Technica",
-      "summary": "At the time, Hugging Face said the LLM being used in the attack was “still not known.” But OpenAI took responsibility for the intrusion Tuesday evenin...",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T16:47:49.000Z",
+      "id": "news-1784861522683-8",
+      "title": "Health in ChatGPT",
+      "summary": "## Can I share my Health conversations?\n\nYes, you can share a conversation on Web by selecting Share on the top-right of the conversation, and on iOS ...",
+      "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "credibility": "P0",
+      "publishedAt": "2026-07-23T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -114,114 +52,120 @@
       ]
     },
     {
-      "id": "news-1784775467741-3",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents\n\n  + Amanda Silberling\n ...",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "id": "news-1784861522683-5",
+      "title": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 ...",
+      "summary": "White House science advisor Michael Kratsios said that Moonshot, the Chinese company behind the Kimi K3, the largest available open-weight LLM, built ...",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good",
       "credibility": "P2",
-      "publishedAt": "2026-07-22T16:24:08.000Z",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1784861522683-9",
+      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop | WIRED",
+      "summary": "Lingverse says presales of the iKairos are planned to kick off later this year. Where the device will fit in the broadening market of AI home devices ...",
+      "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable",
+      "credibility": "P2",
+      "publishedAt": "2026-07-23T09:15:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784861522683-7",
+      "title": "Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model",
+      "summary": "Templeton, A., Conerly, T., Marcus, J. et al. Scaling monosemanticity: Extracting interpretable features from Claude 3 Sonnet. Transformer Circuits Th...",
+      "url": "https://arxiv.org/pdf/2607.20058",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.20058",
+      "credibility": "P2",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
-        "Agent"
+        "LLM"
       ]
     },
     {
-      "id": "news-1784775467741-4",
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI - TechCrunch",
-      "summary": "+ Amanda Silberling\n Light made a flip phone — it’s colorful and it’s cheap\n\n  + Amanda Silberling\n AI music generator Suno breach affects 55M users, ...",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "id": "news-1784861522682-0",
+      "title": "Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework",
+      "summary": "Training language models to follow instructions with human feedback. In Advances in Neural Information Processing Systems, volume 35, pages 27730– 277...",
+      "url": "https://arxiv.org/pdf/2607.19361",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.19361",
       "credibility": "P2",
-      "publishedAt": "2026-07-22T16:23:09.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784775467741-9",
-      "title": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
-      "summary": "The plaintiffs claim that in selecting jobs to cut, Meta consulted AI tools that tracked productivity and AI token usage (a measure of how much worker...",
-      "url": "https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-hard-part-2026-07-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T10:04:34.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-11",
-      "title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - AI giant ...",
-      "url": "https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-that-supports-ai-regulation-2026-07-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-that-supports-ai-regulation-2026-07-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T09:03:41.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-13",
-      "title": "AI has not killed equity diversification: Helen Jewell - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T06:00:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-12",
-      "title": "Robot AI company Noetra is 'last chance' for Japan, CEO says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   7 hours agoMedia & Telecom categoryWorld Cup final draws record 63 million US viewers , opens new tab\n\n###...",
-      "url": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/robot-ai-company-noetra-is-last-chance-japan-ceo-says-2026-07-22/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T05:09:21.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784775467741-2",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch",
-      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-22T03:20:57.000Z",
+      "publishedAt": "2026-07-23T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1784861522683-2",
+      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic ...",
+      "summary": "1. Introduction Deep neural networks, especially large language models (LLMs), have achieved remarkable success in perception and generation tasks (e....",
+      "url": "https://arxiv.org/pdf/2607.20402",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.20402",
+      "credibility": "P2",
+      "publishedAt": "2026-07-23T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1784861522683-3",
+      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
+      "summary": "political activists, and rewriting genuine news articles with particular political perspectives; see, e.g. [56 ideological?\")] for ideology-related LL...",
+      "url": "https://arxiv.org/html/2607.20255v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2607.20255v1",
+      "credibility": "P2",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1784861522683-6",
+      "title": "Statistical Inference for Rank Allocation in Low-Rank Adaptation",
+      "summary": "Herbert Robbins and Sutton Monro. A stochastic approximation method. The Annals of Math-ematical Statistics, pages 400–407, 1951.\n David Ruppert. Effi...",
+      "url": "https://arxiv.org/pdf/2607.20205",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.20205",
+      "credibility": "P2",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 7
   },
-  "summary": ""
+  "summary": "🔥 官方动态：3条（huggingface等）"
 }
