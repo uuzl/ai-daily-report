@@ -1,240 +1,223 @@
 {
-  "date": "2026-07-25",
-  "generatedAt": "2026-07-25T02:51:15.989Z",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T03:16:17.730Z",
   "totalItems": 15,
   "items": [
     {
-      "id": "news-1784947875989-12",
-      "title": "South Korea President Lee looking to open new era of AI in with global tech companies - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - South Kor...",
-      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T00:33:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784947875988-7",
-      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else - TechCrunch",
-      "summary": "Topics\n\nAI, AI, ChatGPT, codex, micro, OpenAI\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect ou...",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "id": "news-1785035777729-4",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others - TechCrunch",
+      "summary": "Still, the picture isn’t uniformly bleak. The FT notes that AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the t...",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "publishedAt": "2026-07-26T01:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1784947875988-4",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M - TechCrunch",
-      "summary": "+ Ram Iyer\n OpenAI says Hugging Face was breached by its pre-release models\n\n  + Russell Brandom\n Jack Dorsey is taking on Slack with Buzz, a group ch...",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "id": "news-1785035777729-8",
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation - TechCrunch",
+      "summary": "The startup spun out of SpaceX in 2018. SpaceX recently had the largest IPO ever, but its stock price has taken a significant dip since then.\n\nTopics\n...",
+      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
       "credibility": "P2",
-      "publishedAt": "2026-07-24T22:25:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784947875988-6",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M - TechCrunch",
-      "summary": "By its own account, Prentis says its Hive-32B model outperforms rivals, including OpenAI’s GPT-5.4 and Anthropic’s Claude Opus 4.6, on two computer-us...",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T22:25:58.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784947875988-11",
-      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-      "summary": "The FBI declined to comment about the incident.\n\nThe incident, which evoked science fiction scenarios about humans losing control of dangerous AI syst...",
-      "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T22:14:50.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784947875988-9",
-      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
-      "summary": "Tech leaders have also chafed at controls that OpenAI and Anthropic build into ‌their models. ⁠Hugging Face, the AI coding collaboration site that was...",
-      "url": "https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T18:07:27.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784947875989-13",
-      "title": "Meta adds new task automation features to AI assistant - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Meta (MET...",
-      "url": "https://www.reuters.com/business/meta-adds-new-task-automation-features-ai-assistant-2026-07-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/meta-adds-new-task-automation-features-ai-assistant-2026-07-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T17:01:15.000Z",
+      "publishedAt": "2026-07-25T19:23:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1784947875988-1",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities - The Verge",
-      "summary": "Weeks after Anthropic’s latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions,...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "id": "news-1785035777729-9",
+      "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
+      "summary": "Antonio G. Di Benedetto\n\n## Most Popular\n\nMost Popular\n\n1. After backlash, Meta pauses plan to ‘rate limit’ its smart glasses\n2. Forget expensive slee...",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "sourceUrl": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
       "credibility": "P2",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784947875988-5",
-      "title": "Anthropic launches Opus 5 - TechCrunch",
-      "summary": "Broadly, Anthropic expects these classifiers to engage 85% less often for Opus 5 than they will for Fable 5, a reflection of the lighter touch given t...",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784947875989-14",
-      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now - TechCrunch",
-      "summary": "View Bio\n\nLoading the next article\n\nError loading the next article [...] For many founders — especially those building in public — the relentless stra...",
-      "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "publishedAt": "2026-07-25T18:13:36.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1784947875988-2",
-      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  OpenAI says Hugging Face was breached by its pre-release models\n\n  + Russell Brandom\n ### \n\n  Jack Dorsey is t...",
-      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "id": "news-1785035777728-2",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica",
+      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face\n2. 2. Europea...",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
       "credibility": "P2",
-      "publishedAt": "2026-07-24T16:50:08.000Z",
+      "publishedAt": "2026-07-25T17:47:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1784947875988-3",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n OpenAI says Hugging Face was breached by its pre-release models\n\n  + Russell Brandom\n Jack Dorsey is taking on Slack w...",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T15:51:49.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784947875988-8",
-      "title": "Midjourney acquired the astrology app Co-Star - TechCrunch",
-      "summary": "### Meet the judges who will crown Australia’s next breakout startup\n\n  + TechCrunch Events\n\n## Latest in AI\n\n In Brief\n\n  ### Midjourney acquired the...",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T15:09:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1784947875987-0",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app - TechCrunch",
-      "summary": "In a demo video, OpenAI showed a developer asking ChatGPT to create a new thread, make a pull request, and find the root cause for a bug, with one com...",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T13:36:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1784947875988-10",
-      "title": "Some Kids Will Never Think AI Is Cool - WIRED",
-      "summary": "Elana Klein\n\nThe Big Story\n\n# Some Kids Will Never Think AI Is Cool\n\n“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why k...",
-      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-24T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
         "AI",
         "LLM"
+      ]
+    },
+    {
+      "id": "news-1785035777729-7",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech - TechCrunch",
+      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1785035777728-1",
+      "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
+      "summary": "DeepSeek’s senior management has told potential investors that the startup will prioritize\") groundbreaking AI research over short-term commercializat...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T14:49:55.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785035777729-5",
+      "title": "Folding and flipping phones are getting seriously good - The Verge",
+      "summary": "“Open Minis. After reading Federico Viticci’s article, I immediately installed it and linked it to Claude. Watching it do agentic things ON MY PHONE i...",
+      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1785035777728-3",
+      "title": "Canadian Intern at NATO Arrested on Espionage Charges in Belgium - Bloomberg.com",
+      "summary": "LEARN MORE\n\n### More From Bloomberg\n\nSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysRetina Chip Designed to Restore Sight to Go on Sale ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/canadian-intern-at-nato-arrested-on-espionage-charges-in-belgium",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-25/canadian-intern-at-nato-arrested-on-espionage-charges-in-belgium",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T11:13:20.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785035777728-0",
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
+      "summary": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special oper...",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T10:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785035777729-12",
+      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
+      "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T09:12:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785035777729-6",
+      "title": "India's education minister resigns after youth protests - Reuters",
+      "summary": "2 hours agoAsia Pacific categoryIndia's Modi under pressure as youth protest leaders set for more talks Image 5: People gather in solidarity with Indi...",
+      "url": "https://www.reuters.com/world/india/indias-education-minister-resigns-after-youth-protests-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/indias-education-minister-resigns-after-youth-protests-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T08:57:35.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785035777729-15",
+      "title": "Comic-Con cosplayers brave heat, mishaps and months of work to showcase fandom - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/lifestyle/comic-con-cosplayers-brave-heat-mishaps-months-work-showcase-fandom-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/lifestyle/comic-con-cosplayers-brave-heat-mishaps-months-work-showcase-fandom-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T07:01:38.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1785035777729-10",
+      "title": "Canadian woman who was NATO intern arrested in Belgium on spying charge - Reuters",
+      "summary": "19 hours agoChina categoryHow the 'twin stars' of China, CXMT and YMTC, changed the chip game Image 4: Illustration shows CXMT logo and computer mothe...",
+      "url": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T06:30:01.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1785035777729-14",
+      "title": "Patrick Mahomes cleared for full participation at training camp - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/sports/patrick-mahomes-cleared-full-participation-training-camp--flm-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/patrick-mahomes-cleared-full-participation-training-camp--flm-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T05:31:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785035777729-11",
+      "title": "South Korea's SK Hynix, Samsung Elec sign $950 bln partnership with US big tech - Reuters",
+      "summary": "14 hours agoMedia & Telecom categoryVerizon lifts annual forecasts, signs $1 billion fiber deal with Google , opens new tab [...] 2 hours agoMedia & T...",
+      "url": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-25T04:37:41.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
