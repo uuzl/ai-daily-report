@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-26",
-  "generatedAt": "2026-07-26T03:16:17.730Z",
-  "totalItems": 15,
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-27T03:26:16.613Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1785035777729-4",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others - TechCrunch",
-      "summary": "Still, the picture isn’t uniformly bleak. The FT notes that AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the t...",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "id": "news-1785122776612-6",
+      "title": "Shares, bonds bounce as oil skid offers inflation relief - Reuters",
+      "summary": "The massive sums involved were underlined by a WSJ report that Nvidia(NVDA.O), opens new tab was in talks to provide a roughly $250 ​billion backstop ...",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/",
       "credibility": "P2",
-      "publishedAt": "2026-07-26T01:30:00.000Z",
+      "publishedAt": "2026-07-27T00:41:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -19,149 +19,179 @@
       ]
     },
     {
-      "id": "news-1785035777729-8",
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation - TechCrunch",
-      "summary": "The startup spun out of SpaceX in 2018. SpaceX recently had the largest IPO ever, but its stock price has taken a significant dip since then.\n\nTopics\n...",
-      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "id": "news-1785122776612-0",
+      "title": "Are brain waves the next unlock for physical AI? - TechCrunch",
+      "summary": "The bet that generative AI can do for robots what it’s done for chatbots keeps running into this same wall. LLMs were built on the text of the entire ...",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T19:23:32.000Z",
+      "publishedAt": "2026-07-27T00:19:14.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785035777729-9",
-      "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
-      "summary": "Antonio G. Di Benedetto\n\n## Most Popular\n\nMost Popular\n\n1. After backlash, Meta pauses plan to ‘rate limit’ its smart glasses\n2. Forget expensive slee...",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T18:13:36.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785035777728-2",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica",
-      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face\n2. 2. Europea...",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T17:47:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1785035777729-7",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech - TechCrunch",
-      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "id": "news-1785122776612-10",
+      "title": "Jadelyn Allchin's hot bat leads Talons to AUSL title - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   7 hours agoFormula 1 categoryChampion Norris hands McLaren first win of 2026, Antonelli third Image 3: Hun...",
+      "url": "https://www.reuters.com/sports/jadelyn-allchins-hot-bat-leads-talons-ausl-title--flm-2026-07-27/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/jadelyn-allchins-hot-bat-leads-talons-ausl-title--flm-2026-07-27/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-27T00:11:41.000Z",
+      "category": "hot",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785122776612-2",
+      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Nvidia (N...",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T23:39:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785122776612-8",
+      "title": "Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters",
+      "summary": "13 mins agoMedia & Telecom categoryRohingya schools in Malaysia face closures amid online surge in hate speech Image 4: Rohingya schools in Malaysia f...",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T23:04:48.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785122776612-7",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat? - TechCrunch",
+      "summary": "+ Anthony Ha\n Featured\n\n  ### Inside one London founder house rewriting the founder-house rules\n\n  + Dominic-Madori Davis\n Transportation\n\n  ### TechC...",
+      "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "publishedAt": "2026-07-26T21:06:44.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "OpenAI",
+        "AI"
       ]
     },
     {
-      "id": "news-1785035777728-1",
-      "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
-      "summary": "DeepSeek’s senior management has told potential investors that the startup will prioritize\") groundbreaking AI research over short-term commercializat...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "id": "news-1785122776612-4",
+      "title": "First teaser for Apple TV’s Neuromancer debuts at SDCC - Ars Technica",
+      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight\n2. 2. SDCC...",
+      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T14:49:55.000Z",
+      "publishedAt": "2026-07-26T19:48:43.000Z",
       "category": "tech",
       "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1785122776612-1",
+      "title": "Making sense of the panic over Chinese AI - TechCrunch",
+      "summary": "And Kirsten noted that putting heavy restrictions on Chinese AI models could primarily benefit a handful of companies: “Are we accelerating and ensuri...",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T19:40:57.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1785035777729-5",
-      "title": "Folding and flipping phones are getting seriously good - The Verge",
-      "summary": "“Open Minis. After reading Federico Viticci’s article, I immediately installed it and linked it to Claude. Watching it do agentic things ON MY PHONE i...",
-      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "id": "news-1785122776612-12",
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more\n2. The US is charging ...",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "sourceUrl": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "publishedAt": "2026-07-26T19:36:38.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785122776612-5",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack - TechCrunch",
+      "summary": "Delangue added, “The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!”\n\nDespite the autonomous nat...",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1785035777728-3",
-      "title": "Canadian Intern at NATO Arrested on Espionage Charges in Belgium - Bloomberg.com",
-      "summary": "LEARN MORE\n\n### More From Bloomberg\n\nSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysRetina Chip Designed to Restore Sight to Go on Sale ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/canadian-intern-at-nato-arrested-on-espionage-charges-in-belgium",
+      "id": "news-1785122776612-9",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO - TechCrunch",
+      "summary": "+ Amanda Silberling\n AI music generator Suno breach affects 55M users, per Have I Been Pwned\n\n  + Zack Whittaker\n\nLoading the next article\n\nError load...",
+      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T16:03:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1785122776612-13",
+      "title": "India PM Modi announces panel to overhaul exam system after protests - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   19 hours agoAsia Pacific categorySpeaking alongside Putin, Kazakh president calls for freeze of Ukraine wa...",
+      "url": "https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/",
+      "credibility": "P2",
+      "publishedAt": "2026-07-26T15:10:31.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785122776612-11",
+      "title": "Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation - Bloomberg.com",
+      "summary": "Newsletter\n\nPower On\n\n# Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation\n\nCompany debated whether glasses will be able to record ...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-25/canadian-intern-at-nato-arrested-on-espionage-charges-in-belgium",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T11:13:20.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785035777728-0",
-      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
-      "summary": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special oper...",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T10:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1785035777729-12",
-      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
-      "summary": "Learn more about subscriptions, opens new tab\n\nYou can cancel anytime. Cancellations take effect at the end of your then-current subscription period. ...",
-      "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T09:12:07.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785035777729-6",
-      "title": "India's education minister resigns after youth protests - Reuters",
-      "summary": "2 hours agoAsia Pacific categoryIndia's Modi under pressure as youth protest leaders set for more talks Image 5: People gather in solidarity with Indi...",
-      "url": "https://www.reuters.com/world/india/indias-education-minister-resigns-after-youth-protests-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/india/indias-education-minister-resigns-after-youth-protests-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T08:57:35.000Z",
+      "publishedAt": "2026-07-26T14:00:02.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -169,62 +199,26 @@
       ]
     },
     {
-      "id": "news-1785035777729-15",
-      "title": "Comic-Con cosplayers brave heat, mishaps and months of work to showcase fandom - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/lifestyle/comic-con-cosplayers-brave-heat-mishaps-months-work-showcase-fandom-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/lifestyle/comic-con-cosplayers-brave-heat-mishaps-months-work-showcase-fandom-2026-07-25/",
+      "id": "news-1785122776612-3",
+      "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
+      "summary": "Read More: Magnificent Seven Lose $797 Billion as AI Skeptics Dump Tech Stocks\n\nMicrosoft, once considered an AI leader thanks to its stake in ChatGPT...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
       "credibility": "P2",
-      "publishedAt": "2026-07-25T07:01:38.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1785035777729-10",
-      "title": "Canadian woman who was NATO intern arrested in Belgium on spying charge - Reuters",
-      "summary": "19 hours agoChina categoryHow the 'twin stars' of China, CXMT and YMTC, changed the chip game Image 4: Illustration shows CXMT logo and computer mothe...",
-      "url": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T06:30:01.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1785035777729-14",
-      "title": "Patrick Mahomes cleared for full participation at training camp - Reuters",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/sports/patrick-mahomes-cleared-full-participation-training-camp--flm-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/patrick-mahomes-cleared-full-participation-training-camp--flm-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T05:31:51.000Z",
+      "publishedAt": "2026-07-26T13:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785035777729-11",
-      "title": "South Korea's SK Hynix, Samsung Elec sign $950 bln partnership with US big tech - Reuters",
-      "summary": "14 hours agoMedia & Telecom categoryVerizon lifts annual forecasts, signs $1 billion fiber deal with Google , opens new tab [...] 2 hours agoMedia & T...",
-      "url": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-25T04:37:41.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 14
   },
   "summary": ""
 }
