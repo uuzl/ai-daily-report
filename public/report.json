@@ -1,152 +1,139 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T03:26:16.613Z",
-  "totalItems": 14,
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T02:43:32.462Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1785122776612-6",
-      "title": "Shares, bonds bounce as oil skid offers inflation relief - Reuters",
-      "summary": "The massive sums involved were underlined by a WSJ report that Nvidia(NVDA.O), opens new tab was in talks to provide a roughly $250 ​billion backstop ...",
-      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-27T00:41:11.000Z",
+      "id": "news-1785206612461-1",
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "summary": "1 Introduction Large language models (LLMs) (Google DeepMind, 2026; Anthropic, 2026; OpenAI, 2026) have demonstrated remarkable reasoning and generati...",
+      "url": "https://www.google.com/goto?url=CAESWAHuR6pNGmI1XqQJr7Mc7g0Jdp9u21YCQdunmG5A3ILfqnvx68oMI7sQUkhMUSNuj95YQBxMdHxHNwXONtPmWHLdYFRuqh_Bje_EOcU7xA7dvTgCDEEaeww%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESWAHuR6pNGmI1XqQJr7Mc7g0Jdp9u21YCQdunmG5A3ILfqnvx68oMI7sQUkhMUSNuj95YQBxMdHxHNwXONtPmWHLdYFRuqh_Bje_EOcU7xA7dvTgCDEEaeww%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-28T02:43:32.461Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1785122776612-0",
-      "title": "Are brain waves the next unlock for physical AI? - TechCrunch",
-      "summary": "The bet that generative AI can do for robots what it’s done for chatbots keeps running into this same wall. LLMs were built on the text of the entire ...",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-27T00:19:14.000Z",
+      "id": "news-1785206612461-2",
+      "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+      "summary": "✓ ✓ OpenAI GPT-4.1 gpt-4.1 ✓ OpenAI GPT-5 Pro gpt-5-pro ✓ Family Model API version API Web OpenAI GPT-5.1 gpt-5.1 ✓ ✓ OpenAI GPT-5.1 Chat gpt-5.1-chat...",
+      "url": "https://www.google.com/goto?url=CAESWAHuR6pNwk4ELfeo-h5X12UtSY69gBF1a3K4CLyHVj2gFasEiAiUT3NKkQ3WcM3wnLPSB1GR8KXGccTzbm2gFVVhUXwKzOaUdQL_GhmgzY31JwDnBCsxJRA%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESWAHuR6pNwk4ELfeo-h5X12UtSY69gBF1a3K4CLyHVj2gFasEiAiUT3NKkQ3WcM3wnLPSB1GR8KXGccTzbm2gFVVhUXwKzOaUdQL_GhmgzY31JwDnBCsxJRA%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-28T02:43:32.461Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1785122776612-10",
-      "title": "Jadelyn Allchin's hot bat leads Talons to AUSL title - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   7 hours agoFormula 1 categoryChampion Norris hands McLaren first win of 2026, Antonelli third Image 3: Hun...",
-      "url": "https://www.reuters.com/sports/jadelyn-allchins-hot-bat-leads-talons-ausl-title--flm-2026-07-27/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/sports/jadelyn-allchins-hot-bat-leads-talons-ausl-title--flm-2026-07-27/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-27T00:11:41.000Z",
+      "id": "news-1785206612461-3",
+      "title": "Control panels to clarify user intent with Large Language Models",
+      "summary": "are to understand how people come to seek information, how they refine their understanding, express their intent, extend their knowledge, and then use...",
+      "url": "https://www.google.com/goto?url=CAESWAHuR6pNHUTRMQI7ZdsYdDF4qnzGt_lGqJpWK8m6380HlaTEBAgrCEqfVOb_bST5zWZe_Lqyxl0oye9Y6eLvb1pr5I4QXqkvlNcPnEEHjzrYTDybKD8awM0%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESWAHuR6pNHUTRMQI7ZdsYdDF4qnzGt_lGqJpWK8m6380HlaTEBAgrCEqfVOb_bST5zWZe_Lqyxl0oye9Y6eLvb1pr5I4QXqkvlNcPnEEHjzrYTDybKD8awM0%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-28T02:43:32.461Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785206612462-8",
+      "title": "What changes when a ChatGPT user turns 18",
+      "summary": "Learn how ChatGPT updates teen protections, parental controls, and account settings when an account is identified as 18 or older.",
+      "url": "https://www.google.com/goto?url=CAESjgEB7keqTYEEuPOmzYoqsjfaH_gvL9raNAIUM50tlySuXCyrGaW9YZwLrQE8whh9sxqhA3QFCSX6X577gStM-tyc3LRx0bqaQBem4xqGwVd1EOMGU7T8MVTmeRunB-pnjOq2oUW12I5Q113MaM0hJ8cvVW5zDvDpbWyBuXXLFL3LrTTDShCpV976pOLZwrsU",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESjgEB7keqTYEEuPOmzYoqsjfaH_gvL9raNAIUM50tlySuXCyrGaW9YZwLrQE8whh9sxqhA3QFCSX6X577gStM-tyc3LRx0bqaQBem4xqGwVd1EOMGU7T8MVTmeRunB-pnjOq2oUW12I5Q113MaM0hJ8cvVW5zDvDpbWyBuXXLFL3LrTTDShCpV976pOLZwrsU",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T21:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785206612462-10",
+      "title": "Skills in ChatGPT",
+      "summary": "Learn how Skills work in ChatGPT, how to access and create them, and how workspace admins can manage them.",
+      "url": "https://www.google.com/goto?url=CAESdgHuR6pNYxxv4HmxhdMSNCPYUzqGrTuoNmc0rwa_mrRe0r_PHloEkdUvaJLJ85fEmDA3LNPyyIRC0rgQRde9wMt2SWm5UE8iPBj8ExyT9a5Fpb-cG3fxGoJWcXxI9MIyhwef8DJAk50FGmi-4FOlVpLD1NG2s3g%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESdgHuR6pNYxxv4HmxhdMSNCPYUzqGrTuoNmc0rwa_mrRe0r_PHloEkdUvaJLJ85fEmDA3LNPyyIRC0rgQRde9wMt2SWm5UE8iPBj8ExyT9a5Fpb-cG3fxGoJWcXxI9MIyhwef8DJAk50FGmi-4FOlVpLD1NG2s3g%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T20:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785206612462-11",
+      "title": "What Is Moonshot AI’s Kimi K3 Model and Why Is It Making Waves?",
+      "summary": "Chinese startup Moonshot AI's new artificial-intelligence model has drawn global attention since its release for its powerful capabilities.",
+      "url": "https://www.google.com/goto?url=CAESqQEB7keqTaUGCkasw3c48Zu7vEclHcGFKXPiqswcSpBzMMaygv3_ylGm2w9x033YTSXv_F84L-2JLgTLRTg0aRo5aPukp6YiapxcJJ3GJKfNdXV3W4-B9yn_zUFZR1t4e5seEnb9ClhLURTYTqvUyAi8jXJoFtz86wK_Qf4aO97hXuTlTVmxD9ItVhetF9G9Xzgy4UMWKzRGjjNTdMA9MsSWcbYyERZnIN9i",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESqQEB7keqTaUGCkasw3c48Zu7vEclHcGFKXPiqswcSpBzMMaygv3_ylGm2w9x033YTSXv_F84L-2JLgTLRTg0aRo5aPukp6YiapxcJJ3GJKfNdXV3W4-B9yn_zUFZR1t4e5seEnb9ClhLURTYTqvUyAi8jXJoFtz86wK_Qf4aO97hXuTlTVmxD9ItVhetF9G9Xzgy4UMWKzRGjjNTdMA9MsSWcbYyERZnIN9i",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
       "category": "hot",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1785122776612-2",
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Nvidia (N...",
-      "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T23:39:39.000Z",
+      "id": "news-1785206612462-6",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style - Ars Technica",
+      "summary": "# ChatGPT starts blocking direct requests to copy an author’s style\n\nNew behavior capturing a writer’s “broad qualities” could have legal implications...",
+      "url": "https://www.google.com/goto?url=CAESqQEB7keqTWv6bNymYyYxux9ZuxBqRvoXgMPccVNq0H00MVOjnIOjjwYU6g5fP43QueLiCRS8jpN8ogUJsQCb0bziI2YsKyizRFBDo_lVYOSvI9AeEYYamQDGXL_5v4P4Au0MPrPV6bgjCGQRQJkgNQcxnwHWzsG7HiTmjba424_rIipEDbmbUnH_T-kaL__XCqATpL5si2wp-iYBiywzqLZTvChXE2j4ansF",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESqQEB7keqTWv6bNymYyYxux9ZuxBqRvoXgMPccVNq0H00MVOjnIOjjwYU6g5fP43QueLiCRS8jpN8ogUJsQCb0bziI2YsKyizRFBDo_lVYOSvI9AeEYYamQDGXL_5v4P4Au0MPrPV6bgjCGQRQJkgNQcxnwHWzsG7HiTmjba424_rIipEDbmbUnH_T-kaL__XCqATpL5si2wp-iYBiywzqLZTvChXE2j4ansF",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T17:17:46.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1785122776612-8",
-      "title": "Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters",
-      "summary": "13 mins agoMedia & Telecom categoryRohingya schools in Malaysia face closures amid online surge in hate speech Image 4: Rohingya schools in Malaysia f...",
-      "url": "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T23:04:48.000Z",
+      "id": "news-1785206612461-5",
+      "title": "OpenAI’s biggest threat may just be open AI | The Verge",
+      "summary": "Meta is making its AI chatbot more like an assistant\nMeta is making its AI chatbot more like an assistant\nAnthropic releases Opus 5 with ‘close’ to Fa...",
+      "url": "https://www.google.com/goto?url=CAESqAEB7keqTfYRcWYy7CnsfsxmhX5XL4IMF3ZVYHrJ9yu44JVDa55YjfoOXJcbEJpANf12sRffVsaYFVXoPyOYK_8b1j3GkVYVeA4-Uw0rKFOr5AbMCupqzESU-6GC5K4KT1bjWzeF7HAhh_o_Al3650QD5pCz4h8Tvpe0qh3q8zrfqYfZFH4H7al7LE-B97G8lcb1i82qusCs2mLgRYP-51sP2skYqk2tbmE%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESqAEB7keqTfYRcWYy7CnsfsxmhX5XL4IMF3ZVYHrJ9yu44JVDa55YjfoOXJcbEJpANf12sRffVsaYFVXoPyOYK_8b1j3GkVYVeA4-Uw0rKFOr5AbMCupqzESU-6GC5K4KT1bjWzeF7HAhh_o_Al3650QD5pCz4h8Tvpe0qh3q8zrfqYfZFH4H7al7LE-B97G8lcb1i82qusCs2mLgRYP-51sP2skYqk2tbmE%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T16:51:50.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1785122776612-7",
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat? - TechCrunch",
-      "summary": "+ Anthony Ha\n Featured\n\n  ### Inside one London founder house rewriting the founder-house rules\n\n  + Dominic-Madori Davis\n Transportation\n\n  ### TechC...",
-      "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T21:06:44.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785122776612-4",
-      "title": "First teaser for Apple TV’s Neuromancer debuts at SDCC - Ars Technica",
-      "summary": "Forum view\n\nLoading comments...\n\nPrev story\n\nMost Read\n\n1. 1. SpaceX eyes tower catch for next Starship after auspicious end to 13th flight\n2. 2. SDCC...",
-      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T19:48:43.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1785122776612-1",
-      "title": "Making sense of the panic over Chinese AI - TechCrunch",
-      "summary": "And Kirsten noted that putting heavy restrictions on Chinese AI models could primarily benefit a handful of companies: “Are we accelerating and ensuri...",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T19:40:57.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785122776612-12",
-      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
-      "summary": "Terrence O'Brien\n\n## Most Popular\n\nMost Popular\n\n1. Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more\n2. The US is charging ...",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T19:36:38.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785122776612-5",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack - TechCrunch",
-      "summary": "Delangue added, “The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!”\n\nDespite the autonomous nat...",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "id": "news-1785206612462-9",
+      "title": "Snapchat now lets you share what you're listening to in real time | TechCrunch",
+      "summary": "### Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark\n\nAnduril reportedly in talks to raise funding at $1...",
+      "url": "https://www.google.com/goto?url=CAESmwEB7keqTQgN_naoPgC_uzZS4EjZilz-px-CIItoC0oKZl3IDjeml7AAPoeVafK9Fiqz_lp2JjhUGCVQDf1pKpR_YDs4ezVGdv2IWrMJpdDKuD99X5QhX-uoXkSAvUdQhsHS7enZpDYcK2KLC-W7iIzIpXykH3ClemTke3QMKCL8g0PngWkLQ8zjyRYDXoeuhyMX6zX5p5spD5Yjlw%3D%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESmwEB7keqTQgN_naoPgC_uzZS4EjZilz-px-CIItoC0oKZl3IDjeml7AAPoeVafK9Fiqz_lp2JjhUGCVQDf1pKpR_YDs4ezVGdv2IWrMJpdDKuD99X5QhX-uoXkSAvUdQhsHS7enZpDYcK2KLC-W7iIzIpXykH3ClemTke3QMKCL8g0PngWkLQ8zjyRYDXoeuhyMX6zX5p5spD5Yjlw%3D%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -155,70 +142,58 @@
       ]
     },
     {
-      "id": "news-1785122776612-9",
-      "title": "TechCrunch Mobility: Uber bets on its former CEO - TechCrunch",
-      "summary": "+ Amanda Silberling\n AI music generator Suno breach affects 55M users, per Have I Been Pwned\n\n  + Zack Whittaker\n\nLoading the next article\n\nError load...",
-      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T16:03:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1785122776612-13",
-      "title": "India PM Modi announces panel to overhaul exam system after protests - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   19 hours agoAsia Pacific categorySpeaking alongside Putin, Kazakh president calls for freeze of Ukraine wa...",
-      "url": "https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T15:10:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785122776612-11",
-      "title": "Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation - Bloomberg.com",
-      "summary": "Newsletter\n\nPower On\n\n# Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation\n\nCompany debated whether glasses will be able to record ...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T14:00:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785122776612-3",
-      "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
-      "summary": "Read More: Magnificent Seven Lose $797 Billion as AI Skeptics Dump Tech Stocks\n\nMicrosoft, once considered an AI leader thanks to its stake in ChatGPT...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
-      "credibility": "P2",
-      "publishedAt": "2026-07-26T13:00:00.000Z",
+      "id": "news-1785206612462-7",
+      "title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand",
+      "summary": "OpenAI is expanding its European headquarters in Dublin, creating 250 new jobs. The creator of ChatGPT will lease 88,000 sq ft at the Tropical Fruit",
+      "url": "https://www.google.com/goto?url=CAESqAEB7keqTaB_F7BhAqhPqEbnXczuOkLuK8NA9_2XQunNYFFTo1t2_ysjEiDiuPZJBB8YyXIqyUAv9bO99L1_fEgtT1q0egvLfCSol4duaKYxmJZDRw1gq1jTmXGt3qiHgDbL1B43NCq4KDgLAT1m4HJ8XXEHazpMtNXBJYFJNfWYKND9tJmjTojmOdYNPWZLnRI3duOUnVOEPfqy8YOoVuQQMVVFo3fW1-U%3D",
+      "source": "google",
+      "sourceUrl": "https://www.google.com/goto?url=CAESqAEB7keqTaB_F7BhAqhPqEbnXczuOkLuK8NA9_2XQunNYFFTo1t2_ysjEiDiuPZJBB8YyXIqyUAv9bO99L1_fEgtT1q0egvLfCSol4duaKYxmJZDRw1gq1jTmXGt3qiHgDbL1B43NCq4KDgLAT1m4HJ8XXEHazpMtNXBJYFJNfWYKND9tJmjTojmOdYNPWZLnRI3duOUnVOEPfqy8YOoVuQQMVVFo3fW1-U%3D",
+      "credibility": "P1",
+      "publishedAt": "2026-07-27T10:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "DeepSeek"
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785206612461-0",
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "summary": "1 Introduction Large language models (LLMs) (Google DeepMind, 2026; Anthropic, 2026; OpenAI, 2026) have demonstrated remarkable reasoning and generati...",
+      "url": "https://arxiv.org/pdf/2607.22043",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.22043",
+      "credibility": "P2",
+      "publishedAt": "2026-07-27T03:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785206612461-4",
+      "title": "How LLM Deployment Configurations Shape the Validation ...",
+      "summary": "Gemini Gemini 2.5 Pro gemini-2.5-pro ✓ Gemini Gemini 3 Pro gemini-3-pro-pre view ✓ ✓ Grok Grok 3 grok-3 ✓ Grok Grok 4 (0709) grok-4-0709 ✓ Grok Grok 4...",
+      "url": "https://arxiv.org/pdf/2607.22513",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.22513",
+      "credibility": "P2",
+      "publishedAt": "2026-07-27T03:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
-    "p1Count": 0,
-    "p2Count": 14
+    "p1Count": 10,
+    "p2Count": 2
   },
-  "summary": ""
+  "summary": "💡 技术深挖：10条（google等）"
 }
