@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-30",
-  "generatedAt": "2026-07-30T02:35:25.399Z",
-  "totalItems": 15,
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T03:16:37.738Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1785378925398-19",
+      "id": "news-1785467797738-6",
       "title": "Health in ChatGPT",
       "summary": "OpenAI\n\n# Health in ChatGPT\n\nLearn how to use Health in ChatGPT, manage your privacy and data controls, and troubleshoot common issues.\n\nHealth is rol...",
       "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
       "source": "help",
       "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
       "credibility": "P0",
-      "publishedAt": "2026-07-29T17:00:00.000Z",
+      "publishedAt": "2026-07-30T11:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,78 +20,30 @@
       ]
     },
     {
-      "id": "news-1785378925398-20",
-      "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF · Hugging Face",
-      "summary": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, ...",
-      "url": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "credibility": "P0",
-      "publishedAt": "2026-07-29T02:46:33.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1785378925398-14",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "The incident involved an unreleased model from OpenAI breaking out of its sandbox and successfully mounting a full-scale hack on Hugging Face, all in ...",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
+      "id": "news-1785467797737-0",
+      "title": "Forecasting Trajectory-Level Safety Risks in Black-Box Multi-Turn Interactions",
+      "summary": "1 Introduction Artificial intelligence is undergoing a revolutionary transi-tion from passive language understanding to autonomous decision-making, la...",
+      "url": "https://arxiv.org/pdf/2607.26820",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.26820",
       "credibility": "P2",
-      "publishedAt": "2026-07-30T00:21:06.000Z",
+      "publishedAt": "2026-07-31T03:16:37.737Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1785378925398-13",
-      "title": "Discover what's next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "summary": "+ Amanda Silberling\n SpaceX launches new V3 Starlink satellites but suffers another booster failure\n\n  + Sean O'Kane\n Prentis, new AI lab co-founded b...",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T21:16:39.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "GPT",
+        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1785378925398-11",
-      "title": "Claude Opus 5 became downright ruthless when tasked ...",
-      "summary": "+ Sean O'Kane\n Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M\n\n  + Marina Temkin\n US accuses American of allegedl...",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T18:45:27.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1785378925398-6",
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-      "summary": "The tide might be shifting—a recent executive order calls for collaboration between the government and the private sector on related cybersecurity ini...",
-      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai",
+      "id": "news-1785467797738-1",
+      "title": "AI Scammers Are Better at Building Trust Than Humans | WIRED",
+      "summary": "In a separate experiment whose results they confirmed in recent weeks, the researchers also tested whether they could instruct various LLMs to imperso...",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai",
+      "sourceUrl": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans",
       "credibility": "P2",
-      "publishedAt": "2026-07-29T18:30:00.000Z",
+      "publishedAt": "2026-07-30T09:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -100,140 +52,60 @@
       ]
     },
     {
-      "id": "news-1785378925398-17",
-      "title": "OpenAI president says it's 'building a family of devices' for ...",
-      "summary": "Whatever form OpenAI’s new devices take, Brockman says he thinks we’ll shift to talking to our computers rather than typing for the “vast majority of ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T18:15:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-16",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers ...",
-      "summary": "+ Ram Iyer\n OpenAI makes ChatGPT Health available to all US users\n\n  + Ivan Mehta\n Tesla’s robotaxis are moving in reverse\n\n  + Sean O'Kane\n\nLoading t...",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T15:35:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-18",
-      "title": "Encore AI raises $30M to build AI agents that learn from ...",
-      "summary": "+ Sean O'Kane\n Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M\n\n  + Marina Temkin\n US accuses American of allegedl...",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T14:41:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-21",
-      "title": "What happens when you put AI to work deciphering lost languages? | Page 2 | Ars OpenForum",
-      "summary": "Ars OpenForum\n\n### Search\n\nArs OpenForum\n\n### Search\n\n#### More options\n\n# What happens when you put AI to work deciphering lost languages?\n\nJournalBo...",
-      "url": "https://arstechnica.com/civis/threads/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.1514148/page-2",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/civis/threads/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.1514148/page-2",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T13:23:31.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-10",
-      "title": "Artists are lawyering up against AI slop, and some are even ...",
-      "summary": "In Bartz v. Anthropic, the company was found to have violated copyright laws by using pirated ebooks downloaded from the internet to train Claude. In ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-9",
-      "title": "As AI content floods the internet, Pangram raises $9M to ...",
-      "summary": "Maybe the problem was that news articles can be a bit dry and could easily sound like AI. So I tried a different tactic. I tested Pangram on my own mo...",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-15",
-      "title": "We're running out of reasons to ignore AI safety",
-      "summary": "OpenAI described it as “an unprecedented cyber incident,” that “marks an important moment for AI safety.” Hugging Face cofounder Thomas Wolf said it w...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "credibility": "P2",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785378925398-4",
-      "title": "1 Introduction",
-      "summary": "Medical artificial intelligence (AI) has advanced substantially over the past decade, with established applications in medical imaging, risk predictio...",
-      "url": "https://arxiv.org/html/2607.25489v1",
+      "id": "news-1785467797738-3",
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with",
+      "summary": "TurboVLA studies this interface under the current VLA paradigm, examining whether a compact text encoder and direct vision-text interaction are suffic...",
+      "url": "https://arxiv.org/pdf/2607.27205",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2607.25489v1",
+      "sourceUrl": "https://arxiv.org/pdf/2607.27205",
       "credibility": "P2",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "publishedAt": "2026-07-30T05:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "TPU"
+        "LLM"
       ]
     },
     {
-      "id": "news-1785378925398-3",
-      "title": "Estimating the Geopolitical Preferences of Large Language ...",
-      "summary": "We collected one valid response per resolution from four LLMs: OpenAI’s gpt-5; Anthropic’s claude-sonnet-4-5-20250929; Google’s gemini-2.5-flash; and ...",
-      "url": "https://arxiv.org/html/2607.25526v1",
+      "id": "news-1785467797738-4",
+      "title": "AIGen: Automating AI Bill of Materials Generation Through Hybrid MLOps Integration",
+      "summary": "Specifically, we incorporated MLflow into the training scripts of eight open-source projects to track metrics and artifacts. For the inference process...",
+      "url": "https://arxiv.org/pdf/2607.26652",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2607.25526v1",
+      "sourceUrl": "https://arxiv.org/pdf/2607.26652",
       "credibility": "P2",
-      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "publishedAt": "2026-07-30T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785467797738-5",
+      "title": "AIGen: Automating AI Bill of Materials Generation Through ...",
+      "summary": "To automate the natural-language fields of SPDX 3.0 (such as model limitations), we utilize Large Language Models (LLMs) through a specialized LLMClie...",
+      "url": "https://arxiv.org/html/2607.26652v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2607.26652v1",
+      "credibility": "P2",
+      "publishedAt": "2026-07-30T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785467797738-2",
+      "title": "Big Techs' Covert Battle for the 100-Billion-Yuan Market: AI Coding Track Positioning, Key Players & Industry Uncertainties",
+      "summary": "Even OpenAI, the leader of large model companies, is following Anthropic's footsteps and has reaped considerable benefits.\n\nIn 2024, OpenAI did not ha...",
+      "url": "https://eu.36kr.com/en/p/3917503802175104",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3917503802175104",
+      "credibility": "P2",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -243,9 +115,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 6
   },
-  "summary": "🔥 官方动态：2条（help等）"
+  "summary": "🔥 官方动态：1条（help等）"
 }
