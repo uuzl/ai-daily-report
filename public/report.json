@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-31",
-  "generatedAt": "2026-07-31T03:16:37.738Z",
-  "totalItems": 7,
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T03:14:48.205Z",
+  "totalItems": 11,
   "items": [
     {
-      "id": "news-1785467797738-6",
-      "title": "Health in ChatGPT",
-      "summary": "OpenAI\n\n# Health in ChatGPT\n\nLearn how to use Health in ChatGPT, manage your privacy and data controls, and troubleshoot common issues.\n\nHealth is rol...",
-      "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "id": "news-1785554088204-9",
+      "title": "Skills in ChatGPT",
+      "summary": "OpenAI\n\n# Skills in ChatGPT\n\nLearn how Skills work in ChatGPT, how to access and create them, and how workspace admins can manage them.\n\n## Overview [...",
+      "url": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt",
       "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "sourceUrl": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt",
       "credibility": "P0",
-      "publishedAt": "2026-07-30T11:00:00.000Z",
+      "publishedAt": "2026-07-31T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,30 +20,139 @@
       ]
     },
     {
-      "id": "news-1785467797737-0",
-      "title": "Forecasting Trajectory-Level Safety Risks in Black-Box Multi-Turn Interactions",
-      "summary": "1 Introduction Artificial intelligence is undergoing a revolutionary transi-tion from passive language understanding to autonomous decision-making, la...",
-      "url": "https://arxiv.org/pdf/2607.26820",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.26820",
+      "id": "news-1785554088204-3",
+      "title": "India is starting to pay for apps, not just download them",
+      "summary": "AI, app market, Apps, ChatGPT, Claude, google one, India\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’...",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T03:16:37.737Z",
+      "publishedAt": "2026-07-31T21:07:45.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785554088204-8",
+      "title": "OpenAI finds evidence other AI agents escaped ...",
+      "summary": "The discovery of additional rogue behavior at OpenAI, even ​if limited in nature, could feed growing appetite for regulation coming out of the White H...",
+      "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T20:16:15.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1785554088204-7",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "TechCrunch Brand Studio\n\nCrunchboard\n\nContact Us\n\nStartups\n\n annual meeting in Davos, on January 16, 2024.\n\nEnterprise \n### Microsoft is openly compet...",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T17:26:32.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
-        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1785467797738-1",
-      "title": "AI Scammers Are Better at Building Trust Than Humans | WIRED",
-      "summary": "In a separate experiment whose results they confirmed in recent weeks, the researchers also tested whether they could instruct various LLMs to imperso...",
-      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans",
+      "id": "news-1785554088204-5",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Claude Opus 5 became downright ruthless when tasked with running a vending machine\n\n  + Julie Bort\n Sam Altman is read...",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
       "credibility": "P2",
-      "publishedAt": "2026-07-30T09:30:00.000Z",
+      "publishedAt": "2026-07-31T15:16:17.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785554088204-10",
+      "title": "AI scammers outperform humans when it comes to building trust | Ars OpenForum",
+      "summary": "Ars OpenForum\n\n### Search\n\nArs OpenForum\n\n### Search\n\n#### More options\n\n# AI scammers outperform humans when it comes to building trust\n\nJournalBot\n\n...",
+      "url": "https://arstechnica.com/civis/threads/ai-scammers-outperform-humans-when-it-comes-to-building-trust.1514185",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/civis/threads/ai-scammers-outperform-humans-when-it-comes-to-building-trust.1514185",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T14:01:41.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785554088204-4",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Claude Opus 5 became downright ruthless when tasked with running a vending machine\n\n  + Julie Bort\n DoorDash is buildi...",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785554088204-1",
+      "title": "Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows",
+      "summary": "Christopher Z Mooney, Robert D Duval, and Robert Duvall. 1993. Bootstrapping: A nonparametric approach to statistical inference. Number 95. sage.\n Shi...",
+      "url": "https://arxiv.org/pdf/2607.27648",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.27648",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T09:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785554088204-6",
+      "title": "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity RatingCode and data are available at: https://doi.org/10.5281/zenodo.21706514. We gratefully acknowledge funding from Natural Sciences and Engineering Research Council of Canada (NSERC) Alliance Grant (110_2024_2025_Q4_13) and Social Sciences and Humanities Research Council (SSHRC) Partnership Grant (895-2025-1002). This research was conducted while Oscar Heath was an intern at the Investigative Journalism Foundation. We thank Benedict Cummins-Mburu, Ellie Murray, Mariana Garcia Mejia, Sabrina Kreyzerman, and Zane Schwartz, for comments and suggestions. Additionally, we thank Annie Collins, Ricardo Baptista, and Chagai Weiss for their comments on early drafts of the paper. Correspondence: rohan.alexander@utoronto.ca.",
+      "summary": "We generated responses using four models:\ndeepseek-v4-flash(DeepSeek-AI 2026), claude-sonnet-5\n(Anthropic 2026), gpt-5.4-mini (OpenAI 2026). We genera...",
+      "url": "https://arxiv.org/html/2607.28550v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2607.28550v1",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T08:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785554088204-0",
+      "title": "LLMs struggle to simulate human belief updates in controlled environments",
+      "summary": "Singh, A. et al. Openai gpt-5 system card (2025).\n Anthropic. Claude opus 4.6 system card. 2026). Accessed: 2026-04-06.\n DeepMind, G. Gemini 3 ﬂash mo...",
+      "url": "https://arxiv.org/pdf/2607.28347",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.28347",
+      "credibility": "P2",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,72 +161,26 @@
       ]
     },
     {
-      "id": "news-1785467797738-3",
-      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with",
-      "summary": "TurboVLA studies this interface under the current VLA paradigm, examining whether a compact text encoder and direct vision-text interaction are suffic...",
-      "url": "https://arxiv.org/pdf/2607.27205",
+      "id": "news-1785554088204-2",
+      "title": "From Single- to Cross-Document: Benchmarking Multi-Granularity Event Analysis of Large Language Models",
+      "summary": "Nishanth Nakshatri, Siyi Liu, Sihao Chen, Dan Roth, Dan Goldwasser, and Daniel Hopkins. 2023. Using LLM for improving key event discovery: Temporal-gu...",
+      "url": "https://arxiv.org/pdf/2607.27654",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.27205",
+      "sourceUrl": "https://arxiv.org/pdf/2607.27654",
       "credibility": "P2",
-      "publishedAt": "2026-07-30T05:00:00.000Z",
+      "publishedAt": "2026-07-31T06:00:00.000Z",
       "category": "tech",
       "tags": [
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1785467797738-4",
-      "title": "AIGen: Automating AI Bill of Materials Generation Through Hybrid MLOps Integration",
-      "summary": "Specifically, we incorporated MLflow into the training scripts of eight open-source projects to track metrics and artifacts. For the inference process...",
-      "url": "https://arxiv.org/pdf/2607.26652",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.26652",
-      "credibility": "P2",
-      "publishedAt": "2026-07-30T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785467797738-5",
-      "title": "AIGen: Automating AI Bill of Materials Generation Through ...",
-      "summary": "To automate the natural-language fields of SPDX 3.0 (such as model limitations), we utilize Large Language Models (LLMs) through a specialized LLMClie...",
-      "url": "https://arxiv.org/html/2607.26652v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2607.26652v1",
-      "credibility": "P2",
-      "publishedAt": "2026-07-30T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785467797738-2",
-      "title": "Big Techs' Covert Battle for the 100-Billion-Yuan Market: AI Coding Track Positioning, Key Players & Industry Uncertainties",
-      "summary": "Even OpenAI, the leader of large model companies, is following Anthropic's footsteps and has reaped considerable benefits.\n\nIn 2024, OpenAI did not ha...",
-      "url": "https://eu.36kr.com/en/p/3917503802175104",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3917503802175104",
-      "credibility": "P2",
-      "publishedAt": "2026-07-30T04:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
-        "GPT"
+        "GPT",
+        "DeepSeek"
       ]
     }
   ],
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 6
+    "p2Count": 10
   },
   "summary": "🔥 官方动态：1条（help等）"
 }
