@@ -1,158 +1,91 @@
 {
-  "date": "2026-08-01",
-  "generatedAt": "2026-08-01T03:14:48.205Z",
-  "totalItems": 11,
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T03:15:09.868Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1785554088204-9",
-      "title": "Skills in ChatGPT",
-      "summary": "OpenAI\n\n# Skills in ChatGPT\n\nLearn how Skills work in ChatGPT, how to access and create them, and how workspace admins can manage them.\n\n## Overview [...",
-      "url": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-07-31T14:00:00.000Z",
+      "id": "news-1785640509867-4",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps - TechCrunch",
+      "summary": "+ Jagmeet Singh\n AI\n\n  ### Sam Altman is still making the case for parenting via ChatGPT\n\n  + Anthony Ha\n\n## Latest in Government & Policy\n\n In Brief\n...",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T20:26:04.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1785554088204-3",
-      "title": "India is starting to pay for apps, not just download them",
-      "summary": "AI, app market, Apps, ChatGPT, Claude, google one, India\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’...",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
-      "credibility": "P2",
-      "publishedAt": "2026-07-31T21:07:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1785554088204-8",
-      "title": "OpenAI finds evidence other AI agents escaped ...",
-      "summary": "The discovery of additional rogue behavior at OpenAI, even ​if limited in nature, could feed growing appetite for regulation coming out of the White H...",
-      "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31",
+      "id": "news-1785640509867-11",
+      "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines, TVPeru says - Reuters",
+      "summary": "21 hours agoWorld categoryEXCLUSIVE  Trump's powerful but unofficial Venezuela adviser leaves his role Image 3: U.S. conducts military exercise, in Ca...",
+      "url": "https://www.reuters.com/world/americas/thirteen-die-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-2026-08-01/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31",
+      "sourceUrl": "https://www.reuters.com/world/americas/thirteen-die-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-2026-08-01/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T20:16:15.000Z",
+      "publishedAt": "2026-08-01T19:53:05.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1785554088204-7",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "TechCrunch Brand Studio\n\nCrunchboard\n\nContact Us\n\nStartups\n\n annual meeting in Davos, on January 16, 2024.\n\nEnterprise \n### Microsoft is openly compet...",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "id": "news-1785640509867-2",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’ - TechCrunch",
+      "summary": "“But mostly I need to come to terms with the fact that the level of dopamine I’ve been getting from interacting with LLMs…with doing more and more and...",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T17:26:32.000Z",
+      "publishedAt": "2026-08-01T19:45:45.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1785554088204-5",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Claude Opus 5 became downright ruthless when tasked with running a vending machine\n\n  + Julie Bort\n Sam Altman is read...",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
+      "id": "news-1785640509867-14",
+      "title": "Report: Pirates acquire RHP Camilo Doval from Yankees - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   8 hours ago SoccerInfantino's FIFA future in jeopardy after private equity gamble backfires Image 5: 50th ...",
+      "url": "https://www.reuters.com/sports/report-pirates-acquire-rhp-camilo-doval-yankees--flm-2026-08-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/report-pirates-acquire-rhp-camilo-doval-yankees--flm-2026-08-01/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T15:16:17.000Z",
+      "publishedAt": "2026-08-01T18:48:47.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1785554088204-10",
-      "title": "AI scammers outperform humans when it comes to building trust | Ars OpenForum",
-      "summary": "Ars OpenForum\n\n### Search\n\nArs OpenForum\n\n### Search\n\n#### More options\n\n# AI scammers outperform humans when it comes to building trust\n\nJournalBot\n\n...",
-      "url": "https://arstechnica.com/civis/threads/ai-scammers-outperform-humans-when-it-comes-to-building-trust.1514185",
+      "id": "news-1785640509867-5",
+      "title": "Here’s how engineers plan to save the satellite sent to save NASA’s Swift mission - Ars Technica",
+      "summary": "Stephen Clark  Space Reporter\n\nStephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Ste...",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/civis/threads/ai-scammers-outperform-humans-when-it-comes-to-building-trust.1514185",
+      "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T14:01:41.000Z",
+      "publishedAt": "2026-08-01T18:20:11.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1785554088204-4",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Claude Opus 5 became downright ruthless when tasked with running a vending machine\n\n  + Julie Bort\n DoorDash is buildi...",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "id": "news-1785640509867-1",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n ### \n\n  Okta buys AI security startup Permiso — source says for about $200M\n\n  + Jagmeet Singh\n ### \n\n  Spotify adds a...",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785554088204-1",
-      "title": "Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows",
-      "summary": "Christopher Z Mooney, Robert D Duval, and Robert Duvall. 1993. Bootstrapping: A nonparametric approach to statistical inference. Number 95. sage.\n Shi...",
-      "url": "https://arxiv.org/pdf/2607.27648",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.27648",
-      "credibility": "P2",
-      "publishedAt": "2026-07-31T09:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785554088204-6",
-      "title": "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity RatingCode and data are available at: https://doi.org/10.5281/zenodo.21706514. We gratefully acknowledge funding from Natural Sciences and Engineering Research Council of Canada (NSERC) Alliance Grant (110_2024_2025_Q4_13) and Social Sciences and Humanities Research Council (SSHRC) Partnership Grant (895-2025-1002). This research was conducted while Oscar Heath was an intern at the Investigative Journalism Foundation. We thank Benedict Cummins-Mburu, Ellie Murray, Mariana Garcia Mejia, Sabrina Kreyzerman, and Zane Schwartz, for comments and suggestions. Additionally, we thank Annie Collins, Ricardo Baptista, and Chagai Weiss for their comments on early drafts of the paper. Correspondence: rohan.alexander@utoronto.ca.",
-      "summary": "We generated responses using four models:\ndeepseek-v4-flash(DeepSeek-AI 2026), claude-sonnet-5\n(Anthropic 2026), gpt-5.4-mini (OpenAI 2026). We genera...",
-      "url": "https://arxiv.org/html/2607.28550v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2607.28550v1",
-      "credibility": "P2",
-      "publishedAt": "2026-07-31T08:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1785554088204-0",
-      "title": "LLMs struggle to simulate human belief updates in controlled environments",
-      "summary": "Singh, A. et al. Openai gpt-5 system card (2025).\n Anthropic. Claude opus 4.6 system card. 2026). Accessed: 2026-04-06.\n DeepMind, G. Gemini 3 ﬂash mo...",
-      "url": "https://arxiv.org/pdf/2607.28347",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.28347",
-      "credibility": "P2",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "publishedAt": "2026-08-01T17:07:34.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -161,26 +94,138 @@
       ]
     },
     {
-      "id": "news-1785554088204-2",
-      "title": "From Single- to Cross-Document: Benchmarking Multi-Granularity Event Analysis of Large Language Models",
-      "summary": "Nishanth Nakshatri, Siyi Liu, Sihao Chen, Dan Roth, Dan Goldwasser, and Daniel Hopkins. 2023. Using LLM for improving key event discovery: Temporal-gu...",
-      "url": "https://arxiv.org/pdf/2607.27654",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2607.27654",
+      "id": "news-1785640509867-3",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it - TechCrunch",
+      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
       "credibility": "P2",
-      "publishedAt": "2026-07-31T06:00:00.000Z",
+      "publishedAt": "2026-08-01T15:05:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
-        "GPT",
-        "DeepSeek"
+        "AI"
       ]
+    },
+    {
+      "id": "news-1785640509867-7",
+      "title": "As Reddit stock falls, CEO questions value of Google’s AI Overviews - Ars Technica",
+      "summary": "Samuel Axon  Senior Editor\n\nSamuel Axon  Senior Editor\n\nSamuel Axon is the editorial lead for tech and gaming coverage at Ars Technica. He covers phys...",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T12:30:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509867-8",
+      "title": "Instapaper, the OG reading app, just got a big update - The Verge",
+      "summary": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’\n\nApple’s new AirTags are back down to their best price\n\nSheena Vasani\n\nGoog...",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509867-6",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source - Ars Technica",
+      "summary": "Jacek Krywko  Associate Writer\n\nJacek Krywko is a freelance science and technology writer who covers space exploration, artificial intelligence resear...",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T10:00:19.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509867-9",
+      "title": "Wildfires threaten France's camping tradition - Reuters",
+      "summary": "### 01:56 Pictures of July\n\n   ### 01:07 Is Apple heading for an iPhone shortage?\n\n   ### 02:05 Why is BP selling up in the North Sea?\n\n   ### 01:14 W...",
+      "url": "https://www.reuters.com/video/watch/idRCV00C9B9/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/video/watch/idRCV00C9B9/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T09:40:39.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509867-0",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal - WIRED",
+      "summary": "OpenAI Models Escaped Containment and Hacked Hugging Face\n\nThe cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, ex...",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T09:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509868-16",
+      "title": "Astronomers Have Detected an Exomoon for the First Time - WIRED",
+      "summary": "## Comments\n\nBack to top\n\n## Comments\n\nBack to top\n\n## You Might Also Like\n\n In your inbox: Brian Kahn’s guide to how the universe works\n ICE’s intern...",
+      "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T09:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1785640509867-10",
+      "title": "Taafaki secures Tuvalu's first Commonwealth Games medal without winning a bout - Reuters",
+      "summary": "## Read Next\n\n   8 hours ago SoccerFIFA scraps World Cup sell-off plan after resistance from members Image 4: FIFA World Cup 2026 - Final - Spain v Ar...",
+      "url": "https://www.reuters.com/sports/taafaki-secures-tuvalus-first-commonwealth-games-medal-without-winning-bout-2026-08-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/taafaki-secures-tuvalus-first-commonwealth-games-medal-without-winning-bout-2026-08-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T08:38:56.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785640509867-13",
+      "title": "Ty France leads charge as Padres blank Giants - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   16 mins agoSports categoryTwins acquire RHP Dean Kremer in second trade in a day Image 5: MLB: Baltimore O...",
+      "url": "https://www.reuters.com/sports/baseball/ty-france-leads-charge-padres-blank-giants--flm-2026-08-01/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/baseball/ty-france-leads-charge-padres-blank-giants--flm-2026-08-01/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-01T04:35:55.000Z",
+      "category": "tech",
+      "tags": []
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 10
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：1条（help等）"
+  "summary": ""
 }
