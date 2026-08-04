@@ -1,21 +1,146 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T03:17:11.224Z",
-  "totalItems": 1,
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T02:45:59.655Z",
+  "totalItems": 9,
   "items": [
     {
-      "id": "news-1785727031224-0",
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n YouTuber Hank Green says his AI usage is ‘not healthy’\n\n  + Anthony Ha\n WhatsApp is testing a new folder for messages ...",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
+      "id": "news-1785811559655-0",
+      "title": "8:1 Kr | Zong Fuli's Half-Brother Appointed New Company Chairman; DeepSeek Tops Global Call Volume Ranking; iPhone Expected to See Max Price Hike Over 1,000 Yuan",
+      "summary": "Alibaba Officially Unveils New-Generation Foundation Large Model Qwen3.8 With a Total of 2.4 Trillion Parameters\n\n36Kr learned that on August 3, Aliba...",
+      "url": "https://eu.36kr.com/en/p/3924467692927369",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3924467692927369",
       "credibility": "P2",
-      "publishedAt": "2026-08-02T20:54:22.000Z",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1785811559655-4",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry 'Marxist' | TechCrunch",
+      "summary": "Julie Bort\n\nPalantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.\n\nThe CEO, who famously stu...",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785811559655-1",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "summary": "TechCrunch spoke to attorneys who specialize in computer and hacking laws to understand what consequences OpenAI and Anthropic might face. The potenti...",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T19:45:35.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785811559655-2",
+      "title": "Influencers draw backlash for attending OpenAI's first ...",
+      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can em...",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785811559655-8",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "summary": "He can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@t...",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T12:10:41.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785811559655-3",
+      "title": "A Diagnostic Framework and Instrument for Enterprise AI in ...",
+      "summary": "Mousa Al-Kfairy. Strategic integration of generative AI in organizational settings: Applications, challenges and adoption requirements. IEEE Engineeri...",
+      "url": "https://arxiv.org/pdf/2607.29089",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2607.29089",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785811559655-5",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "Save up to $330 today!\n\nREGISTER NOW\n\n## Most Popular\n\n   \n### YouTuber Hank Green says his AI usage is ‘not healthy’\n\n       Anthony Ha\n\n   \n### What...",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1785811559655-6",
+      "title": "Govee's smart nugget ice maker makes every iced drink ...",
+      "summary": "YouTuber Hank Green says his AI usage is ‘not healthy’\n\n  + Anthony Ha\n WhatsApp is testing a new folder for messages from large businesses\n\n  + Ivan ...",
+      "url": "https://techcrunch.com/2026/08/03/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T09:32:52.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1785811559655-7",
+      "title": "Watch How Siri AI Stacks Up Against the New ChatGPT",
+      "summary": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity.",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+      "credibility": "P2",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
         "AI"
       ]
     }
@@ -23,7 +148,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 9
   },
   "summary": ""
 }
