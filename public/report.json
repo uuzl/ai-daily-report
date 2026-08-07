@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-06",
-  "generatedAt": "2026-08-06T02:46:24.848Z",
-  "totalItems": 9,
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T02:47:02.208Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1785984384848-6",
-      "title": "Health in ChatGPT",
-      "summary": "OpenAI\n\n# Health in ChatGPT\n\nLearn how to use Health in ChatGPT, manage your privacy and data controls, and troubleshoot common issues.\n\nHealth is rol...",
-      "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "id": "news-1786070822207-0",
+      "title": "GPT-5.6 – August Updates",
+      "summary": "# References \n\n OpenAI, “Introducing gpt-5,” Aug. 2025. Accessed: 2025-12-10.  OpenAI, “Pioneering an AI clinical copilot with Penda health,” July 202...",
+      "url": "https://cdn.openai.com/pdf/GPT_5_6_August_Updates.pdf",
+      "source": "cdn",
+      "sourceUrl": "https://cdn.openai.com/pdf/GPT_5_6_August_Updates.pdf",
       "credibility": "P0",
-      "publishedAt": "2026-08-05T05:00:00.000Z",
+      "publishedAt": "2026-08-06T16:41:16.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,29 +20,141 @@
       ]
     },
     {
-      "id": "news-1785984384848-8",
-      "title": "Data-centre reality check could slam brakes on AI earnings boom",
-      "summary": "U.S. corporate earnings are already running almost 60% above trend, with rapid growth still expected for years, mostly thanks to the AI boom.",
-      "url": "https://www.google.com/goto?url=CAESygEB7keqTSMEFZbUUCAvDt47AizmG2tMmcyQDU0aZ6InIB8zhXH-S8fktZZieoerpXegQWIdBMBS1xPb74wGFoQ6rwKR-4-Y69YFSH_-RbWS7o8tari88zdmQxwZtrTsSrtl5SpkoLmW85Ktp6NBj1lgMcJcrFmaIWt5TBPZyRFAyJNouW95BG03F13TCn2QHX9_zAkRp82dM1PXU7LMafHxEafY3ioJuAcAf2Z8knZU2vdEEk2zjI1ZGYkIf7zSOlhN5Jtoolzyb4Dk",
-      "source": "google",
-      "sourceUrl": "https://www.google.com/goto?url=CAESygEB7keqTSMEFZbUUCAvDt47AizmG2tMmcyQDU0aZ6InIB8zhXH-S8fktZZieoerpXegQWIdBMBS1xPb74wGFoQ6rwKR-4-Y69YFSH_-RbWS7o8tari88zdmQxwZtrTsSrtl5SpkoLmW85Ktp6NBj1lgMcJcrFmaIWt5TBPZyRFAyJNouW95BG03F13TCn2QHX9_zAkRp82dM1PXU7LMafHxEafY3ioJuAcAf2Z8knZU2vdEEk2zjI1ZGYkIf7zSOlhN5Jtoolzyb4Dk",
-      "credibility": "P1",
-      "publishedAt": "2026-08-05T10:00:00.000Z",
+      "id": "news-1786070822208-11",
+      "title": "Traceable LLM-Generated Hazard Scenarios for Operational Safety Analysis of Aviation Systems Using ASRS Reports",
+      "summary": "Finally, the LLMs employed are a snapshot of a rapidly evolving landscape: newer models may perform better.\n\n## IX Conclusion and Future Work\n\nWe prop...",
+      "url": "https://arxiv.org/html/2608.04697v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.04697v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T02:47:02.208Z",
       "category": "tech",
       "tags": [
+        "AI",
+        "LLM",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1786070822207-4",
+      "title": "LLM-based Vulnerability Discovery in Business Process Documentation",
+      "summary": "with Large Language Models (LLMs) and their role within MIRABELLE. We report on the performance of several LLMs across vital stages of vulnerability d...",
+      "url": "https://arxiv.org/pdf/2608.04271",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.04271",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T02:47:02.207Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1786070822207-1",
+      "title": "DeBERTa-Sentinel: Toward Transparent and Trustworthy ...",
+      "summary": "References  OpenAI, “GPT-3.5,” 2023. [Online]. Available:   H. Touvron et al., “LLaMA: Open and Efficient Foundation Language Models,” arXiv:2302.1397...",
+      "url": "https://arxiv.org/pdf/2608.01046",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.01046",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786070822208-12",
+      "title": "Jony Ive's first OpenAI gadget is reportedly a hockey puck ...",
+      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350\n2. AI bots started...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T20:55:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1785984384847-3",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "The move attempts to position Meta more competitively, and more affordably, with AI Lab peers like OpenAI and its coding agent Codex, and Anthropic wi...",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "id": "news-1786070822208-18",
+      "title": "Google Grapples With Exit of AI Pioneer and 'Most ...",
+      "summary": "His tenure was not without controversy. Two co-heads of Google’s ethical AI team were ousted several years ago after Dean raised concerns about a pape...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
       "credibility": "P2",
-      "publishedAt": "2026-08-05T21:21:28.000Z",
-      "category": "product",
+      "publishedAt": "2026-08-06T19:55:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786070822208-10",
+      "title": "Why Normal People Aren’t Using AI Agents",
+      "summary": "The latest trend with AI agents is giving people the power to build personal software to automate parts of their life, such as building pitch decks, o...",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T19:55:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786070822207-5",
+      "title": "ICE's DNA Collection Increases, SpaceX's Rocket Crashes ...",
+      "summary": "But I think that the way that they're being adopted is also really different. Most people are using ChatGPT, Gemini, Claude as basically a replacement...",
+      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T19:30:46.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786070822207-6",
+      "title": "AI (artificial intelligence)",
+      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago\n ### Trump administration report...",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "source": "theguardian",
+      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T19:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786070822207-8",
+      "title": "Artificial intelligence - BBC News",
+      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".\n\nClose-up image of the Metropolitan Police logo, which h...",
+      "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+      "source": "bbc",
+      "sourceUrl": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T18:00:00.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
@@ -50,46 +162,14 @@
       ]
     },
     {
-      "id": "news-1785984384847-5",
-      "title": "Jeff Dean and other top AI researchers are leaving Google ...",
-      "summary": "Bending Spoons to buy Airtable for $1.28B\n\n  + Ivan Mehta\n Influencers draw backlash for attending OpenAI’s first luxury trip\n\n  + Dominic-Madori Davi...",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
+      "id": "news-1786070822208-14",
+      "title": "Suno shares plans to combat spammy AI music | The Verge",
+      "summary": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’\n\nJess Weatherbed\n\nElon Musk’s attempt at an AI Wikipedia hasn’t been updated in mont...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
       "credibility": "P2",
-      "publishedAt": "2026-08-05T19:30:19.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1785984384847-4",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
-      "summary": "Shazeer left for OpenAI in June, less than two years after Google paid billions to hire him and a team of ⁠his researchers ​away from the startup he l...",
-      "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05",
-      "credibility": "P2",
-      "publishedAt": "2026-08-05T16:02:37.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1785984384848-7",
-      "title": "Trump EPA wrongly canceled $20B in climate funds ...",
-      "summary": "Bending Spoons to buy Airtable for $1.28B\n\n  + Ivan Mehta\n Influencers draw backlash for attending OpenAI’s first luxury trip\n\n  + Dominic-Madori Davi...",
-      "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules",
-      "credibility": "P2",
-      "publishedAt": "2026-08-05T14:40:13.000Z",
+      "publishedAt": "2026-08-06T17:39:43.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -97,14 +177,14 @@
       ]
     },
     {
-      "id": "news-1785984384847-1",
-      "title": "Source-Conditioned Description-Length Gain for ...",
-      "summary": "Large language models (LLMs) pose challenges to academic integrity and peer review. Yet generative plagiarism detection remains an underexplored and l...",
-      "url": "https://arxiv.org/html/2608.03859v1",
+      "id": "news-1786070822207-2",
+      "title": "The RAIL Principles for Neurosymbolic AI",
+      "summary": "Industrial AI systems that ingest sensor, text, and video streams are typically assembled from ad-hoc, task-specific modules that are designed and opt...",
+      "url": "https://arxiv.org/pdf/2608.04285",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.03859v1",
+      "sourceUrl": "https://arxiv.org/pdf/2608.04285",
       "credibility": "P2",
-      "publishedAt": "2026-08-05T10:00:00.000Z",
+      "publishedAt": "2026-08-06T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "GPT",
@@ -113,14 +193,30 @@
       ]
     },
     {
-      "id": "news-1785984384847-0",
-      "title": "Data-centre reality check could slam brakes on AI earnings boom",
-      "summary": "Hyperscalers typically have long-term agreements with specific developers of large ​language models (LLMs), most notably Anthropic and OpenAI.\n\nCurren...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/data-centre-reality-check-could-slam-brakes-ai-earnings-boom-joachim-klement-2026-08-05",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/data-centre-reality-check-could-slam-brakes-ai-earnings-boom-joachim-klement-2026-08-05",
+      "id": "news-1786070822208-17",
+      "title": "Why everyone is turning on data centers",
+      "summary": "So that got spun out via the internet rumor, social media mill. I think that’s part of it. There’s this issue of social collapse that comes out once y...",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
       "credibility": "P2",
-      "publishedAt": "2026-08-05T07:00:24.000Z",
+      "publishedAt": "2026-08-06T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786070822207-3",
+      "title": "AI bots started a religion — humans immediately followed",
+      "summary": "Several AI models from different companies could “spiral” under the right conditions. But spiralism exploded in the spring of 2025, soon after a pivot...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "credibility": "P2",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -129,26 +225,25 @@
       ]
     },
     {
-      "id": "news-1785984384847-2",
-      "title": "In Brief | Page 48 of 63 | TechCrunch",
-      "summary": "+ Maxwell Zeff\n DeepSeek app \n\n  In Brief\n\n  ### Who is Liang Wenfeng? DeepSeek founder comes from AI investing\n\n  + Amanda Silberling\n In Brief\n\n  ##...",
-      "url": "https://techcrunch.com/tag/in-brief/page/48",
+      "id": "news-1786070822208-16",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to ...",
+      "summary": "Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It’s a concept that major labs ...",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/tag/in-brief/page/48",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
       "credibility": "P2",
-      "publishedAt": "2026-08-05T05:00:00.000Z",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     }
   ],
   "highlights": {
     "p0Count": 1,
-    "p1Count": 1,
-    "p2Count": 7
+    "p1Count": 0,
+    "p2Count": 14
   },
-  "summary": "🔥 官方动态：1条（help等） | 💡 技术深挖：1条（google等）"
+  "summary": "🔥 官方动态：1条（cdn等）"
 }
