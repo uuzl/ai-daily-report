@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-07",
-  "generatedAt": "2026-08-07T02:47:02.208Z",
-  "totalItems": 15,
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T01:48:12.154Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1786070822207-0",
-      "title": "GPT-5.6 – August Updates",
-      "summary": "# References \n\n OpenAI, “Introducing gpt-5,” Aug. 2025. Accessed: 2025-12-10.  OpenAI, “Pioneering an AI clinical copilot with Penda health,” July 202...",
-      "url": "https://cdn.openai.com/pdf/GPT_5_6_August_Updates.pdf",
-      "source": "cdn",
-      "sourceUrl": "https://cdn.openai.com/pdf/GPT_5_6_August_Updates.pdf",
-      "credibility": "P0",
-      "publishedAt": "2026-08-06T16:41:16.000Z",
+      "id": "news-1786153692153-9",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can em...",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,230 +20,185 @@
       ]
     },
     {
-      "id": "news-1786070822208-11",
-      "title": "Traceable LLM-Generated Hazard Scenarios for Operational Safety Analysis of Aviation Systems Using ASRS Reports",
-      "summary": "Finally, the LLMs employed are a snapshot of a rapidly evolving landscape: newer models may perform better.\n\n## IX Conclusion and Future Work\n\nWe prop...",
-      "url": "https://arxiv.org/html/2608.04697v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.04697v1",
+      "id": "news-1786153692153-7",
+      "title": "AI ballot-box cash augurs fairer fight than crypto",
+      "summary": "Advertisement · Scroll to continue\n\nThe most well-funded AI lobbying group has raised $140 million, mostly from executives at Sam Altman's OpenAI, sof...",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-ballot-box-cash-augurs-fairer-fight-than-crypto-2026-08-07",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/ai-ballot-box-cash-augurs-fairer-fight-than-crypto-2026-08-07",
       "credibility": "P2",
-      "publishedAt": "2026-08-07T02:47:02.208Z",
+      "publishedAt": "2026-08-07T14:25:10.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786153692153-2",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "summary": "“Claude is not designed or intended to act as a mental health professional, and it makes that clear in conversations where these topics arise,” said M...",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T14:09:47.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786153692153-3",
+      "title": "Retailers tap AI shopping traffic but fight to keep customer ...",
+      "summary": "“LLMs are ​another place to start, another place to search, another place to plan, but we have three decades of data ​to help” people coordinate ⁠wedd...",
+      "url": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T10:08:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786153692153-4",
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+      "summary": "ChatGPT maker OpenAI said one of its agents compromised the system of AI ‌startup Hugging Face and that it discovered other instances when its agents ...",
+      "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T10:07:25.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786153692153-5",
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "The AI Notetaker Has Been Invited to All the Meetings\n\nWispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summar...",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "category": "hot",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1786153692153-10",
+      "title": "Why Are All Major Tech Giants Flocking to the AI Office Sector When AI Programming Is More Profitable?",
+      "summary": "In the second half of 2024, coding startups built on the Claude model grew rapidly, and Anthropic also began to accelerate internally. The team comple...",
+      "url": "https://eu.36kr.com/en/p/3928834035857539",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3928834035857539",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786153692153-11",
+      "title": "Bartlett Couplings of the Onion and Vine LKJ Samplers",
+      "summary": "Declaration of competing interest.\nThe author declares that he has no known competing financial interests or personal relationships that could have ap...",
+      "url": "https://arxiv.org/pdf/2608.06116",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.06116",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786153692153-1",
+      "title": "Knowledge-Driven Hybrid SSD Management Enhanced by ...",
+      "summary": "### 2.2. Large Language Models\n\nLarge language Models (LLMs), such as GPT (OpenAI, 2023), Meta LLaMA (Touvron et al., 2023) and Deepseek (Bi et al., 2...",
+      "url": "https://arxiv.org/html/2503.13105v2",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2503.13105v2",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1786153692153-6",
+      "title": "MicroEvo: Knowledge-Guided LLM Sampling for Efficient ...",
+      "summary": "These limitations suggest that, in expensive microarchitecture DSE, the key challenge is not only better PPA prediction, but also better sampling. Whe...",
+      "url": "https://arxiv.org/html/2608.06183v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.06183v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1786153692153-8",
+      "title": "A Systems Blueprint for Economic World Models",
+      "summary": "Technically, large language models provide a substrate for modeling beliefs, memory, communication, reasoning, and context-sensitive decision-making (...",
+      "url": "https://arxiv.org/html/2608.06020v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.06020v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-07T05:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "TPU"
+        "RAG"
       ]
     },
     {
-      "id": "news-1786070822207-4",
-      "title": "LLM-based Vulnerability Discovery in Business Process Documentation",
-      "summary": "with Large Language Models (LLMs) and their role within MIRABELLE. We report on the performance of several LLMs across vital stages of vulnerability d...",
-      "url": "https://arxiv.org/pdf/2608.04271",
+      "id": "news-1786153692153-0",
+      "title": "Continual Learning in Transition",
+      "summary": "Recent advances in large language models (LLMs) and Agentic AI [OpenAI2023GPT4TR, glm2024chatglm, bai2023qwen, deepseekai2025deepseekr1, team2026kimi,...",
+      "url": "https://arxiv.org/html/2608.06216",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.04271",
+      "sourceUrl": "https://arxiv.org/html/2608.06216",
       "credibility": "P2",
-      "publishedAt": "2026-08-07T02:47:02.207Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786070822207-1",
-      "title": "DeBERTa-Sentinel: Toward Transparent and Trustworthy ...",
-      "summary": "References  OpenAI, “GPT-3.5,” 2023. [Online]. Available:   H. Touvron et al., “LLaMA: Open and Efficient Foundation Language Models,” arXiv:2302.1397...",
-      "url": "https://arxiv.org/pdf/2608.01046",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.01046",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786070822208-12",
-      "title": "Jony Ive's first OpenAI gadget is reportedly a hockey puck ...",
-      "summary": "Stevie Bonifield\n\n## Most Popular\n\nMost Popular\n\n1. Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350\n2. AI bots started...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T20:55:39.000Z",
+      "publishedAt": "2026-08-07T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822208-18",
-      "title": "Google Grapples With Exit of AI Pioneer and 'Most ...",
-      "summary": "His tenure was not without controversy. Two co-heads of Google’s ethical AI team were ousted several years ago after Dean raised concerns about a pape...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T19:55:56.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822208-10",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The latest trend with AI agents is giving people the power to build personal software to automate parts of their life, such as building pitch decks, o...",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T19:55:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786070822207-5",
-      "title": "ICE's DNA Collection Increases, SpaceX's Rocket Crashes ...",
-      "summary": "But I think that the way that they're being adopted is also really different. Most people are using ChatGPT, Gemini, Claude as basically a replacement...",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T19:30:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786070822207-6",
-      "title": "AI (artificial intelligence)",
-      "summary": "S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago\n ### Trump administration report...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822207-8",
-      "title": "Artificial intelligence - BBC News",
-      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".\n\nClose-up image of the Metropolitan Police logo, which h...",
-      "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-      "source": "bbc",
-      "sourceUrl": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822208-14",
-      "title": "Suno shares plans to combat spammy AI music | The Verge",
-      "summary": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’\n\nJess Weatherbed\n\nElon Musk’s attempt at an AI Wikipedia hasn’t been updated in mont...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T17:39:43.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822207-2",
-      "title": "The RAIL Principles for Neurosymbolic AI",
-      "summary": "Industrial AI systems that ingest sensor, text, and video streams are typically assembled from ad-hoc, task-specific modules that are designed and opt...",
-      "url": "https://arxiv.org/pdf/2608.04285",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.04285",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786070822208-17",
-      "title": "Why everyone is turning on data centers",
-      "summary": "So that got spun out via the internet rumor, social media mill. I think that’s part of it. There’s this issue of social collapse that comes out once y...",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786070822207-3",
-      "title": "AI bots started a religion — humans immediately followed",
-      "summary": "Several AI models from different companies could “spiral” under the right conditions. But spiralism exploded in the spring of 2025, soon after a pivot...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786070822208-16",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to ...",
-      "summary": "Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It’s a concept that major labs ...",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
+        "DeepSeek"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 12
   },
-  "summary": "🔥 官方动态：1条（cdn等）"
+  "summary": ""
 }
