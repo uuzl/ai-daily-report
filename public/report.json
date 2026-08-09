@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-08T01:48:12.154Z",
-  "totalItems": 12,
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T01:55:20.721Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1786153692153-9",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can em...",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "id": "news-1786240520720-1",
+      "title": "Health in ChatGPT",
+      "summary": "OpenAI\n\n# Health in ChatGPT\n\nLearn how to use Health in ChatGPT, manage your privacy and data controls, and troubleshoot common issues.\n\nHealth is rol...",
+      "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "credibility": "P0",
+      "publishedAt": "2026-08-08T09:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,185 +20,25 @@
       ]
     },
     {
-      "id": "news-1786153692153-7",
-      "title": "AI ballot-box cash augurs fairer fight than crypto",
-      "summary": "Advertisement · Scroll to continue\n\nThe most well-funded AI lobbying group has raised $140 million, mostly from executives at Sam Altman's OpenAI, sof...",
-      "url": "https://www.reuters.com/commentary/breakingviews/ai-ballot-box-cash-augurs-fairer-fight-than-crypto-2026-08-07",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/commentary/breakingviews/ai-ballot-box-cash-augurs-fairer-fight-than-crypto-2026-08-07",
+      "id": "news-1786240520720-0",
+      "title": "AI (artificial intelligence)",
+      "summary": "Skip to navigation\n\nPrint subscriptions\n\nSearch jobs\n\nSign in\n\n## AI (artificial intelligence)\n\n## 8 August 2026\n\n ### OpenAI to pause some work on AI...",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "source": "theguardian",
+      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
       "credibility": "P2",
-      "publishedAt": "2026-08-07T14:25:10.000Z",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786153692153-2",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "summary": "“Claude is not designed or intended to act as a mental health professional, and it makes that clear in conversations where these topics arise,” said M...",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T14:09:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786153692153-3",
-      "title": "Retailers tap AI shopping traffic but fight to keep customer ...",
-      "summary": "“LLMs are ​another place to start, another place to search, another place to plan, but we have three decades of data ​to help” people coordinate ⁠wedd...",
-      "url": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T10:08:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786153692153-4",
-      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-      "summary": "ChatGPT maker OpenAI said one of its agents compromised the system of AI ‌startup Hugging Face and that it discovered other instances when its agents ...",
-      "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T10:07:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786153692153-5",
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "The AI Notetaker Has Been Invited to All the Meetings\n\nWispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summar...",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T10:00:00.000Z",
-      "category": "hot",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786153692153-10",
-      "title": "Why Are All Major Tech Giants Flocking to the AI Office Sector When AI Programming Is More Profitable?",
-      "summary": "In the second half of 2024, coding startups built on the Claude model grew rapidly, and Anthropic also began to accelerate internally. The team comple...",
-      "url": "https://eu.36kr.com/en/p/3928834035857539",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3928834035857539",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI"
-      ]
-    },
-    {
-      "id": "news-1786153692153-11",
-      "title": "Bartlett Couplings of the Onion and Vine LKJ Samplers",
-      "summary": "Declaration of competing interest.\nThe author declares that he has no known competing financial interests or personal relationships that could have ap...",
-      "url": "https://arxiv.org/pdf/2608.06116",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.06116",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T06:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786153692153-1",
-      "title": "Knowledge-Driven Hybrid SSD Management Enhanced by ...",
-      "summary": "### 2.2. Large Language Models\n\nLarge language Models (LLMs), such as GPT (OpenAI, 2023), Meta LLaMA (Touvron et al., 2023) and Deepseek (Bi et al., 2...",
-      "url": "https://arxiv.org/html/2503.13105v2",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2503.13105v2",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1786153692153-6",
-      "title": "MicroEvo: Knowledge-Guided LLM Sampling for Efficient ...",
-      "summary": "These limitations suggest that, in expensive microarchitecture DSE, the key challenge is not only better PPA prediction, but also better sampling. Whe...",
-      "url": "https://arxiv.org/html/2608.06183v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.06183v1",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786153692153-8",
-      "title": "A Systems Blueprint for Economic World Models",
-      "summary": "Technically, large language models provide a substrate for modeling beliefs, memory, communication, reasoning, and context-sensitive decision-making (...",
-      "url": "https://arxiv.org/html/2608.06020v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.06020v1",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1786153692153-0",
-      "title": "Continual Learning in Transition",
-      "summary": "Recent advances in large language models (LLMs) and Agentic AI [OpenAI2023GPT4TR, glm2024chatglm, bai2023qwen, deepseekai2025deepseekr1, team2026kimi,...",
-      "url": "https://arxiv.org/html/2608.06216",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.06216",
-      "credibility": "P2",
-      "publishedAt": "2026-08-07T03:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 1
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（help等）"
 }
