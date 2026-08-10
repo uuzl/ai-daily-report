@@ -1,17 +1,72 @@
 {
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-09T01:55:20.721Z",
-  "totalItems": 2,
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T02:00:01.408Z",
+  "totalItems": 6,
   "items": [
     {
-      "id": "news-1786240520720-1",
-      "title": "Health in ChatGPT",
-      "summary": "OpenAI\n\n# Health in ChatGPT\n\nLearn how to use Health in ChatGPT, manage your privacy and data controls, and troubleshoot common issues.\n\nHealth is rol...",
-      "url": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001036-health-in-chatgpt",
+      "id": "news-1786327201407-3",
+      "title": "DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "summary": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "credibility": "P0",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "publishedAt": "2026-08-09T03:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1786327201407-5",
+      "title": "ByteDance reshuffles its AI business, Zhang Yiming refuses to take shortcuts",
+      "summary": "As artificial intelligence (AI) continues to reshape modern work environments, the global AI office space market is experiencing unprecedented rapid g...",
+      "url": "https://eu.36kr.com/en/p/3932913307172225",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3932913307172225",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786327201407-2",
+      "title": "Technology News, Research & Innovations - SciTechDaily",
+      "summary": "Technology\n\n## A Century-Old Belief About Diamond Has Just Been Overturned\n\nResearchers have uncovered an unexpected electrical response in ultrathin ...",
+      "url": "https://scitechdaily.com/news/technology",
+      "source": "scitechdaily",
+      "sourceUrl": "https://scitechdaily.com/news/technology",
+      "credibility": "P2",
+      "publishedAt": "2026-08-09T23:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786327201407-0",
+      "title": "AI (artificial intelligence)",
+      "summary": "## 8 August 2026\n\n ### OpenAI to pause some work on AI model Astra due to security concerns\n ### Google DeepMind enters a new era as co-founder Demis ...",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "source": "theguardian",
+      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "credibility": "P2",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786327201407-4",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "But if you wind the reel forward in time, down to 2026 — stops along the way include the 2016 election when Facebook News, in response to its critics,...",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "credibility": "P2",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,17 +75,16 @@
       ]
     },
     {
-      "id": "news-1786240520720-0",
-      "title": "AI (artificial intelligence)",
-      "summary": "Skip to navigation\n\nPrint subscriptions\n\nSearch jobs\n\nSign in\n\n## AI (artificial intelligence)\n\n## 8 August 2026\n\n ### OpenAI to pause some work on AI...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "id": "news-1786327201407-1",
+      "title": "Ai Research News & Analysis - TheInformation.com",
+      "summary": "The Information's in-depth reporting about Ai Research. Follow this topic to get the latest updates from The Information reporters and subscribers.",
+      "url": "https://www.theinformation.com/topics/ai-research",
+      "source": "theinformation",
+      "sourceUrl": "https://www.theinformation.com/topics/ai-research",
       "credibility": "P2",
-      "publishedAt": "2026-08-09T00:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-08-09T06:00:00.000Z",
+      "category": "research",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     }
@@ -38,7 +92,7 @@
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 5
   },
-  "summary": "🔥 官方动态：1条（help等）"
+  "summary": "🔥 官方动态：1条（huggingface等）"
 }
