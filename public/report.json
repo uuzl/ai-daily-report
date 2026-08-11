@@ -1,57 +1,17 @@
 {
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-10T02:00:01.408Z",
-  "totalItems": 6,
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T01:55:11.354Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1786327201407-3",
-      "title": "DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "summary": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "url": "https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "credibility": "P0",
-      "publishedAt": "2026-08-09T03:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1786327201407-5",
-      "title": "ByteDance reshuffles its AI business, Zhang Yiming refuses to take shortcuts",
-      "summary": "As artificial intelligence (AI) continues to reshape modern work environments, the global AI office space market is experiencing unprecedented rapid g...",
-      "url": "https://eu.36kr.com/en/p/3932913307172225",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3932913307172225",
+      "id": "news-1786413311353-7",
+      "title": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
+      "summary": "“The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems inherently problematic,” Zuckerberg wrote, chal...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786327201407-2",
-      "title": "Technology News, Research & Innovations - SciTechDaily",
-      "summary": "Technology\n\n## A Century-Old Belief About Diamond Has Just Been Overturned\n\nResearchers have uncovered an unexpected electrical response in ultrathin ...",
-      "url": "https://scitechdaily.com/news/technology",
-      "source": "scitechdaily",
-      "sourceUrl": "https://scitechdaily.com/news/technology",
-      "credibility": "P2",
-      "publishedAt": "2026-08-09T23:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786327201407-0",
-      "title": "AI (artificial intelligence)",
-      "summary": "## 8 August 2026\n\n ### OpenAI to pause some work on AI model Astra due to security concerns\n ### Google DeepMind enters a new era as co-founder Demis ...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "publishedAt": "2026-08-10T20:40:23.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -59,40 +19,144 @@
       ]
     },
     {
-      "id": "news-1786327201407-4",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "summary": "But if you wind the reel forward in time, down to 2026 — stops along the way include the 2016 election when Facebook News, in response to its critics,...",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "id": "news-1786413311353-3",
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+      "summary": "Suggested Topics:\n   Artificial Intelligence\n   Data Privacy\n   Public Policy\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   , opens new ta...",
+      "url": "https://www.reuters.com/legal/litigation/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-2026-08-10",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-2026-08-10",
       "credibility": "P2",
-      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "publishedAt": "2026-08-10T16:03:31.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1786413311353-8",
+      "title": "JPMorgan Leads $441 Million Debt Deal for AI Infrastructure Firm",
+      "summary": "Contact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy David Pan\n\nAug...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-leads-441-million-debt-deal-for-ai-infrastructure-firm",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-leads-441-million-debt-deal-for-ai-infrastructure-firm",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786413311353-6",
+      "title": "Microsoft plans to unveil next-generation AI chip in September, The ...",
+      "summary": "The company has ​been in talks with chipmaker TSMC (2330.TW), opens new tab ​to secure manufacturing capacity for more than 300,000 ‌units ⁠of the chi...",
+      "url": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T13:09:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786413311353-2",
+      "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers",
+      "summary": "Contact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Mark Bergen\n\nA...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T12:31:17.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786413311353-5",
+      "title": "Intel Selling $15 Billion in Common Stock as AI Demand ...",
+      "summary": "### Top Reads\n\nImage 1 China Unleashes $28 Trillion Capital Markets to Challenge US in AI by Bloomberg NewsImage 2: South Korea AI HP AI Is Rewiring S...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T11:41:05.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786413311353-1",
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
+      "summary": "Chinese startups are leading the race for open-weight models, with Moonshot's Kimi K3, alongside Alibaba's Qwen3.8-Max and DeepSeek's V4-Flash, delive...",
+      "url": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T10:01:33.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786413311353-0",
+      "title": "Agentic Artificial Intelligence for Reproducible Human-in-the",
+      "summary": "databases (6). Within the universe of AI technologies, large language models (LLMs) are entering environmental health practice for literature synthesi...",
+      "url": "https://arxiv.org/pdf/2608.06771",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.06771",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1786413311353-4",
+      "title": "Google’s AI Is Killing the Web. Now the Web Is Fighting Back",
+      "summary": "August 10, 2026 at 3:00 AM UTC\n\nImage 1\n\nBy Parmy Olson\n\nParmy Olson is a Bloomberg Opinion columnist covering technology. A former reporter for the W...",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-10/google-s-ai-is-killing-the-web-now-the-web-is-fighting-back",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/opinion/articles/2026-08-10/google-s-ai-is-killing-the-web-now-the-web-is-fighting-back",
+      "credibility": "P2",
+      "publishedAt": "2026-08-10T03:00:16.000Z",
+      "category": "tech",
+      "tags": [
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1786327201407-1",
-      "title": "Ai Research News & Analysis - TheInformation.com",
-      "summary": "The Information's in-depth reporting about Ai Research. Follow this topic to get the latest updates from The Information reporters and subscribers.",
-      "url": "https://www.theinformation.com/topics/ai-research",
-      "source": "theinformation",
-      "sourceUrl": "https://www.theinformation.com/topics/ai-research",
+      "id": "news-1786413311353-9",
+      "title": "What is Unitree and why are China’s humanoid robot makers racing to list?",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10",
       "credibility": "P2",
-      "publishedAt": "2026-08-09T06:00:00.000Z",
-      "category": "research",
+      "publishedAt": "2026-08-10T02:36:43.000Z",
+      "category": "tech",
       "tags": [
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 10
   },
-  "summary": "🔥 官方动态：1条（huggingface等）"
+  "summary": ""
 }
