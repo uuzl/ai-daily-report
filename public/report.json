@@ -1,32 +1,62 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T01:55:11.354Z",
-  "totalItems": 10,
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T02:07:48.950Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1786413311353-7",
-      "title": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
-      "summary": "“The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems inherently problematic,” Zuckerberg wrote, chal...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
+      "id": "news-1786500468948-3",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "Accel is expected to begin deploying capital from the new fund in 2027, Kirani said. Until then, the firm will continue investing from its previous In...",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T20:40:23.000Z",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1786413311353-3",
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
-      "summary": "Suggested Topics:\n   Artificial Intelligence\n   Data Privacy\n   Public Policy\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   , opens new ta...",
-      "url": "https://www.reuters.com/legal/litigation/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-2026-08-10",
+      "id": "news-1786500468949-10",
+      "title": "Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n letters and...",
+      "url": "https://www.reuters.com/legal/litigation/alpha-compute-buy-pennsylvania-land-gas-rights-55-million-data-center-campus-2026-08-11",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-2026-08-10",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/alpha-compute-buy-pennsylvania-land-gas-rights-55-million-data-center-campus-2026-08-11",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T16:03:31.000Z",
+      "publishedAt": "2026-08-11T17:00:49.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786500468949-5",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Emma Roth\n\n## Most Popular\n\nMost Popular\n\n1. Watching Roku’s AI channel is like eating from a trough\n2. Mark Zuckerberg doesn’t understand how to live...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T14:45:44.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786500468949-6",
+      "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Nvidia (NVDA.O), opens new ...",
+      "url": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T14:31:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -35,42 +65,44 @@
       ]
     },
     {
-      "id": "news-1786413311353-8",
-      "title": "JPMorgan Leads $441 Million Debt Deal for AI Infrastructure Firm",
-      "summary": "Contact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy David Pan\n\nAug...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-leads-441-million-debt-deal-for-ai-infrastructure-firm",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-leads-441-million-debt-deal-for-ai-infrastructure-firm",
-      "credibility": "P2",
-      "publishedAt": "2026-08-10T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786413311353-6",
-      "title": "Microsoft plans to unveil next-generation AI chip in September, The ...",
-      "summary": "The company has ​been in talks with chipmaker TSMC (2330.TW), opens new tab ​to secure manufacturing capacity for more than 300,000 ‌units ⁠of the chi...",
-      "url": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10",
+      "id": "news-1786500468949-7",
+      "title": "XAI co-founder's startup River AI raises $1.1 billion to ...",
+      "summary": "Babuschkin ⁠previously worked on generative-modeling and reinforcement-learning at Google DeepMind (GOOGL.O), opens new tab and led large-scale traini...",
+      "url": "https://www.reuters.com/technology/xai-co-founders-startup-river-ai-raises-11-billion-expand-custom-ai-tools-2026-08-11",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10",
+      "sourceUrl": "https://www.reuters.com/technology/xai-co-founders-startup-river-ai-raises-11-billion-expand-custom-ai-tools-2026-08-11",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T13:09:09.000Z",
+      "publishedAt": "2026-08-11T13:14:39.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1786413311353-2",
-      "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers",
-      "summary": "Contact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Mark Bergen\n\nA...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
+      "id": "news-1786500468949-8",
+      "title": "Spotify Asks Creators to Label Songs When They’re AI-Generated",
+      "summary": "Before it's here, it's on the Bloomberg Terminal LEARN MORE\n\n### Top Reads\n\nImage 1 China Unleashes $28 Trillion Capital Markets to Challenge US in AI...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T12:31:17.000Z",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1786500468948-0",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "These updates are a future commitment rather than something that will go into effect immediately. New AI labeling and transparency obligations under t...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T12:22:20.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -78,77 +110,78 @@
       ]
     },
     {
-      "id": "news-1786413311353-5",
-      "title": "Intel Selling $15 Billion in Common Stock as AI Demand ...",
-      "summary": "### Top Reads\n\nImage 1 China Unleashes $28 Trillion Capital Markets to Challenge US in AI by Bloomberg NewsImage 2: South Korea AI HP AI Is Rewiring S...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
+      "id": "news-1786500468948-1",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "summary": "+ Zack Whittaker\n Cloudflare launches Kitesurf, a browser built for AI agents\n\n  + Sarah Perez\n ChatGPT brings unlimited text chats to free users\n\n  +...",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T11:41:05.000Z",
+      "publishedAt": "2026-08-11T12:13:47.000Z",
       "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786413311353-1",
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
-      "summary": "Chinese startups are leading the race for open-weight models, with Moonshot's Kimi K3, alongside Alibaba's Qwen3.8-Max and DeepSeek's V4-Flash, delive...",
-      "url": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
-      "credibility": "P2",
-      "publishedAt": "2026-08-10T10:01:33.000Z",
-      "category": "product",
       "tags": [
         "OpenAI",
-        "DeepSeek",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1786413311353-0",
-      "title": "Agentic Artificial Intelligence for Reproducible Human-in-the",
-      "summary": "databases (6). Within the universe of AI technologies, large language models (LLMs) are entering environmental health practice for literature synthesi...",
-      "url": "https://arxiv.org/pdf/2608.06771",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.06771",
-      "credibility": "P2",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786413311353-4",
-      "title": "Google’s AI Is Killing the Web. Now the Web Is Fighting Back",
-      "summary": "August 10, 2026 at 3:00 AM UTC\n\nImage 1\n\nBy Parmy Olson\n\nParmy Olson is a Bloomberg Opinion columnist covering technology. A former reporter for the W...",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-08-10/google-s-ai-is-killing-the-web-now-the-web-is-fighting-back",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/opinion/articles/2026-08-10/google-s-ai-is-killing-the-web-now-the-web-is-fighting-back",
-      "credibility": "P2",
-      "publishedAt": "2026-08-10T03:00:16.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786413311353-9",
-      "title": "What is Unitree and why are China’s humanoid robot makers racing to list?",
-      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
-      "url": "https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10",
+      "id": "news-1786500468949-9",
+      "title": "French media asks French anti-trust watchdog to act on Google's AI",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - French media have asked the...",
+      "url": "https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10",
+      "sourceUrl": "https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11",
       "credibility": "P2",
-      "publishedAt": "2026-08-10T02:36:43.000Z",
+      "publishedAt": "2026-08-11T11:15:28.000Z",
       "category": "tech",
       "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786500468949-4",
+      "title": "A New Trick Reveals AI Models' Inner Thoughts | WIRED",
+      "summary": "In a paper laying out the work, the researchers show that the open-weight or downloadable Chinese model Kimi K3 from Moonshot AI produces a strikingly...",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786500468949-11",
+      "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
+      "summary": "Malhotra, however, warned that wider AI use entails risks including biased or opaque decisions, along with data privacy and cybersecurity threats. He ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T06:03:45.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786500468948-2",
+      "title": "\"Super Brain\" and \"Super Cerebellum\" are interdependent.",
+      "summary": "Home\nArticle\n\n# \"Super Brain\" and \"Super Cerebellum\" are interdependent.\n\n巨潮 WAVE2026-08-11 13:09\n\nEmbodied + Large Model\n\nDeepSeek has obtained strat...",
+      "url": "https://eu.36kr.com/en/p/3934577669815688",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3934577669815688",
+      "credibility": "P2",
+      "publishedAt": "2026-08-11T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "DeepSeek",
         "AI"
       ]
     }
@@ -156,7 +189,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 10
+    "p2Count": 12
   },
   "summary": ""
 }
