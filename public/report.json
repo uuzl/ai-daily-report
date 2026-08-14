@@ -1,80 +1,46 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-13T02:10:00.107Z",
-  "totalItems": 12,
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T02:08:19.445Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1786587000106-0",
-      "title": "Daily Papers",
-      "summary": "The rapid evolution of specialized large language models (LLMs) has\ntransitioned from simple domain adaptation to sophisticated native\narchitectures, ...",
-      "url": "https://huggingface.co/papers?q=MT-specialised+models",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=MT-specialised+models",
-      "credibility": "P0",
-      "publishedAt": "2026-08-12T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1786587000106-1",
-      "title": "The White House Is Going to Expand Its AI Policy",
-      "summary": "The White House announced this month that it had developed an AI framework, where the most powerful models created by US labs would be tested for safe...",
-      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy",
+      "id": "news-1786673299445-7",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas R...",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T21:00:00.000Z",
+      "publishedAt": "2026-08-13T21:13:24.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1786587000107-9",
-      "title": "Cerebras shares plummet 16% after results fail to impress ...",
-      "summary": "Second-quarter ​sales rose 74.3% to $180.11 million. Adjusted loss was $6.91 million, ​narrower than ⁠the $40.5-million loss a year ago.\n\nCerebras is ...",
-      "url": "https://www.reuters.com/business/cerebras-raises-annual-targets-strong-ai-chip-demand-2026-08-12",
+      "id": "news-1786673299445-13",
+      "title": "Applied Materials sees revenue above estimates, shares fall on high expectations - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Applied M...",
+      "url": "https://www.reuters.com/business/applied-materials-forecasts-quarterly-revenue-above-estimates-2026-08-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/cerebras-raises-annual-targets-strong-ai-chip-demand-2026-08-12",
+      "sourceUrl": "https://www.reuters.com/business/applied-materials-forecasts-quarterly-revenue-above-estimates-2026-08-13/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T20:07:21.000Z",
+      "publishedAt": "2026-08-13T20:05:23.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1786587000107-4",
-      "title": "American AI model makers smell an opportunity",
-      "summary": "That decision could show whether Meta is merely testing the waters or, as Zuckerberg put it in his manifesto, working to make “American open source mo...",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/american-ai-model-makers-smell-an-opportunity-2026-08-12",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/american-ai-model-makers-smell-an-opportunity-2026-08-12",
+      "id": "news-1786673299444-0",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed - TechCrunch",
+      "summary": "Topics\n\nAI, AI, Anthropic, ChatGPT, Claude, OpenAI\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No ma...",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T19:15:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786587000107-5",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI Scammers Are Better at Building Trust Than Humans\n\nResearchers pitted a person against a Claude agent and found that, after a week of texting, the ...",
-      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/rogue-ai-is-just-misunderstood",
-      "credibility": "P2",
-      "publishedAt": "2026-08-12T18:45:00.000Z",
+      "publishedAt": "2026-08-13T19:22:40.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -83,30 +49,14 @@
       ]
     },
     {
-      "id": "news-1786587000106-2",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI ...",
-      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can em...",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise",
+      "id": "news-1786673299444-3",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
+      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T17:41:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786587000107-3",
-      "title": "Inside the Google executive moves that led to its big AI ...",
-      "summary": "Google’s Gemini model briefly overtook competitorslast November, but new updates from Anthropic and OpenAI once again put it in catch-up mode. By Augu...",
-      "url": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12",
-      "credibility": "P2",
-      "publishedAt": "2026-08-12T17:36:23.000Z",
+      "publishedAt": "2026-08-13T19:19:49.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -115,84 +65,166 @@
       ]
     },
     {
-      "id": "news-1786587000107-7",
-      "title": "Lovable confirms new $13.3B valuation, raises another ...",
-      "summary": "+ Aisha Malik\n This ‘adversarial’ pattern can prevent surveillance cameras from detecting you\n\n  + Zack Whittaker\n ChatGPT brings unlimited text chats...",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m",
+      "id": "news-1786673299444-2",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
+      "summary": "Rebecca Bellan\n\nSenior Reporter\n\nRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping ...",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T16:04:27.000Z",
+      "publishedAt": "2026-08-13T18:28:14.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
+        "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1786587000107-8",
-      "title": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round",
-      "summary": "## Read Next\n\n   25 mins agoBusiness categoryMeta, 29 states head to court in biggest test yet of youth social media litigation Image 4: Young girls l...",
-      "url": "https://www.reuters.com/technology/ai-code-review-platform-coderabbit-valued-15-billion-latest-funding-round-2026-08-12",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/ai-code-review-platform-coderabbit-valued-15-billion-latest-funding-round-2026-08-12",
+      "id": "news-1786673299445-12",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop - Ars Technica",
+      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Terabytes of credentials leaked in massive supply-chain attack\n2. 2. Energy IPOs surge a...",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T13:14:51.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786587000107-11",
-      "title": "Nebius powers past estimates as customers race to secure AI computing power",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Disrupted\n\n    \n    \n    \n    \n    \n\nPurchase Licensing R...",
-      "url": "https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-ai-demand-fuels-growth-2026-08-12",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-ai-demand-fuels-growth-2026-08-12",
-      "credibility": "P2",
-      "publishedAt": "2026-08-12T11:44:00.000Z",
+      "publishedAt": "2026-08-13T17:32:10.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "RAG"
+        "TPU"
       ]
     },
     {
-      "id": "news-1786587000107-6",
-      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less ...",
-      "summary": "Zack Whittaker\n\n   \n### ChatGPT brings unlimited text chats to free users\n\n       Ivan Mehta\n\n   \n### Tesla and SpaceX will invest $16.8B to start bui...",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation",
+      "id": "news-1786673299444-4",
+      "title": "OpenAI hires new CRO as executive shake-up continues - TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas R...",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "publishedAt": "2026-08-13T17:07:13.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1786587000107-10",
-      "title": "CoreWeave, Super Micro climb on signs of sustained AI ...",
-      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Artificial Intelligence\n\n    \n    \n    \n    \n    \n\nPurcha...",
-      "url": "https://www.reuters.com/business/coreweave-super-micro-climb-signs-sustained-ai-buildout-2026-08-12",
+      "id": "news-1786673299445-11",
+      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alphabet's (GOOGL.O), opens...",
+      "url": "https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/coreweave-super-micro-climb-signs-sustained-ai-buildout-2026-08-12",
+      "sourceUrl": "https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/",
       "credibility": "P2",
-      "publishedAt": "2026-08-12T09:58:10.000Z",
+      "publishedAt": "2026-08-13T17:02:13.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1786673299445-10",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release - Ars Technica",
+      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Terabytes of credentials leaked in massive supply-chain attack\n2. 2. Energy IPOs surge a...",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T17:00:13.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786673299444-5",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
+      "summary": "It also follows a broader consolidation in the AI app space that has seen Claude merging Cowork into Chat; OpenAI merging its agentic feature Operator...",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T15:30:52.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786673299445-9",
+      "title": "Does Google even want to win at AI? - The Verge",
+      "summary": "What I typically look for is what they’re really offering every time they have a big release and how pivotal it really is. Are they doing something th...",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T14:10:31.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786673299444-6",
+      "title": "AI boom is starting to show in UK economy's performance - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour agoDeepSeek releases official V4 Pro model as it steps up expansion , opens new tab\n\n### Stay Infor...",
+      "url": "https://www.reuters.com/world/uk/ai-boom-is-starting-show-uk-economys-performance-2026-08-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/uk/ai-boom-is-starting-show-uk-economys-performance-2026-08-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T11:49:44.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786673299444-1",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now - Ars Technica",
+      "summary": "Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text output...",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T11:10:18.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1786673299445-8",
+      "title": "Anthropic in talks to buy Decart AI, source says - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic...",
+      "url": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-08-13T03:52:03.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 11
+    "p2Count": 14
   },
-  "summary": "🔥 官方动态：1条（huggingface等）"
+  "summary": ""
 }
