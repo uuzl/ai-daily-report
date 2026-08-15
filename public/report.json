@@ -1,230 +1,60 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-14T02:08:19.445Z",
-  "totalItems": 14,
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T01:21:18.570Z",
+  "totalItems": 3,
   "items": [
     {
-      "id": "news-1786673299445-7",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas R...",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T21:13:24.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786673299445-13",
-      "title": "Applied Materials sees revenue above estimates, shares fall on high expectations - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Applied M...",
-      "url": "https://www.reuters.com/business/applied-materials-forecasts-quarterly-revenue-above-estimates-2026-08-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/applied-materials-forecasts-quarterly-revenue-above-estimates-2026-08-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T20:05:23.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786673299444-0",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed - TechCrunch",
-      "summary": "Topics\n\nAI, AI, Anthropic, ChatGPT, Claude, OpenAI\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No ma...",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T19:22:40.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786673299444-3",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
-      "summary": "View Bio\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  ...",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T19:19:49.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786673299444-2",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
-      "summary": "Rebecca Bellan\n\nSenior Reporter\n\nRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping ...",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T18:28:14.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786673299445-12",
-      "title": "The new Instagram logo is the perfect embodiment of AI slop - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Terabytes of credentials leaked in massive supply-chain attack\n2. 2. Energy IPOs surge a...",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "id": "news-1786756878569-2",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground | Page 3 | Ars OpenForum",
+      "summary": "Ars OpenForum\n\n### Search\n\nArs OpenForum\n\n### Search\n\n#### More options\n\n# OpenAI and Anthropic in price war as Chinese AI rivals gain ground\n\nJournal...",
+      "url": "https://arstechnica.com/civis/threads/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground.1514380/latest",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "sourceUrl": "https://arstechnica.com/civis/threads/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground.1514380/latest",
       "credibility": "P2",
-      "publishedAt": "2026-08-13T17:32:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1786673299444-4",
-      "title": "OpenAI hires new CRO as executive shake-up continues - TechCrunch",
-      "summary": "REGISTER NOW\n\n## Most Popular\n\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas R...",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T17:07:13.000Z",
+      "publishedAt": "2026-08-14T14:27:15.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1786673299445-11",
-      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alphabet's (GOOGL.O), opens...",
-      "url": "https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T17:02:13.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1786673299445-10",
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. Terabytes of credentials leaked in massive supply-chain attack\n2. 2. Energy IPOs surge a...",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T17:00:13.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786673299444-5",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
-      "summary": "It also follows a broader consolidation in the AI app space that has seen Claude merging Cowork into Chat; OpenAI merging its agentic feature Operator...",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T15:30:52.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1786673299445-9",
-      "title": "Does Google even want to win at AI? - The Verge",
-      "summary": "What I typically look for is what they’re really offering every time they have a big release and how pivotal it really is. Are they doing something th...",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "id": "news-1786756878569-1",
+      "title": "Apple trained its own AI model for China with help from ...",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts a...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "credibility": "P2",
-      "publishedAt": "2026-08-13T14:10:31.000Z",
+      "publishedAt": "2026-08-14T09:21:17.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1786673299444-6",
-      "title": "AI boom is starting to show in UK economy's performance - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour agoDeepSeek releases official V4 Pro model as it steps up expansion , opens new tab\n\n### Stay Infor...",
-      "url": "https://www.reuters.com/world/uk/ai-boom-is-starting-show-uk-economys-performance-2026-08-13/",
+      "id": "news-1786756878569-0",
+      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "summary": "Advertisement · Scroll to continue\n\nApple's training of its own China-specific model has not been reported before. The company had previously leaned t...",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/uk/ai-boom-is-starting-show-uk-economys-performance-2026-08-13/",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14",
       "credibility": "P2",
-      "publishedAt": "2026-08-13T11:49:44.000Z",
+      "publishedAt": "2026-08-14T04:21:46.000Z",
       "category": "tech",
       "tags": [
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786673299444-1",
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now - Ars Technica",
-      "summary": "Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text output...",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T11:10:18.000Z",
-      "category": "tech",
-      "tags": [
+        "OpenAI",
         "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1786673299445-8",
-      "title": "Anthropic in talks to buy Decart AI, source says - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic...",
-      "url": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
-      "credibility": "P2",
-      "publishedAt": "2026-08-13T03:52:03.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 3
   },
   "summary": ""
 }
