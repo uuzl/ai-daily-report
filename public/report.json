@@ -1,32 +1,17 @@
 {
-  "date": "2026-08-15",
-  "generatedAt": "2026-08-15T01:21:18.570Z",
-  "totalItems": 3,
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T01:26:48.935Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1786756878569-2",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground | Page 3 | Ars OpenForum",
-      "summary": "Ars OpenForum\n\n### Search\n\nArs OpenForum\n\n### Search\n\n#### More options\n\n# OpenAI and Anthropic in price war as Chinese AI rivals gain ground\n\nJournal...",
-      "url": "https://arstechnica.com/civis/threads/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground.1514380/latest",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/civis/threads/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground.1514380/latest",
-      "credibility": "P2",
-      "publishedAt": "2026-08-14T14:27:15.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1786756878569-1",
-      "title": "Apple trained its own AI model for China with help from ...",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts a...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "credibility": "P2",
-      "publishedAt": "2026-08-14T09:21:17.000Z",
+      "id": "news-1786843608934-1",
+      "title": "File storage and Library in ChatGPT",
+      "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
+      "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "credibility": "P0",
+      "publishedAt": "2026-08-15T02:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -35,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1786756878569-0",
-      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
-      "summary": "Advertisement · Scroll to continue\n\nApple's training of its own China-specific model has not been reported before. The company had previously leaned t...",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14",
+      "id": "news-1786843608934-0",
+      "title": "How to tell if your AI platforms' accounts have been hacked",
+      "summary": "So if you’re worried someone may have broken into your account, go to Perplexity in your browser and click your username in the bottom-left corner, th...",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
       "credibility": "P2",
-      "publishedAt": "2026-08-14T04:21:46.000Z",
+      "publishedAt": "2026-08-15T16:10:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,9 +37,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 1
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（help等）"
 }
