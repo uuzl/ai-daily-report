@@ -1,45 +1,196 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T01:26:48.935Z",
-  "totalItems": 2,
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T01:23:54.867Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1786843608934-1",
-      "title": "File storage and Library in ChatGPT",
-      "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
-      "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-08-15T02:00:00.000Z",
+      "id": "news-1786929834866-5",
+      "title": "‪Mingxin Li‬ - ‪Google 学术搜索‬",
+      "summary": "| When text embedding meets large language model: a comprehensive survey Z Nie, Z Feng, M Li, C Zhang, Y Zhang, D Long, R Zhang  arXiv preprint arXiv:...",
+      "url": "https://scholar.google.com/citations?user=FKz34VAAAAAJ&hl=zh-CN",
+      "source": "scholar",
+      "sourceUrl": "https://scholar.google.com/citations?user=FKz34VAAAAAJ&hl=zh-CN",
+      "credibility": "P1",
+      "publishedAt": "2026-08-16T07:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "AI",
+        "LLM",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1786929834867-11",
+      "title": "Technology - Bloomberg.com",
+      "summary": "# Bloomberg\n\nNeed help? Contact us\n\n## We've detected unusual activity from your computer network\n\nTo continue, please click the box below to let us k...",
+      "url": "https://www.bloomberg.com/technology",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "credibility": "P2",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1786929834866-9",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "+ Zack Whittaker\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas Ropek\n Phoebe G...",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T20:32:01.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1786843608934-0",
-      "title": "How to tell if your AI platforms' accounts have been hacked",
-      "summary": "So if you’re worried someone may have broken into your account, go to Perplexity in your browser and click your username in the bottom-left corner, th...",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
+      "id": "news-1786929834866-6",
+      "title": "2026 | Page 112 of 131 | TechCrunch",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n If Apple sends you a push notification alerting you to a spyware attack, take it seriously\n\n  + Zack Whittaker\n Some C...",
+      "url": "https://techcrunch.com/2026/page/112",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
+      "sourceUrl": "https://techcrunch.com/2026/page/112",
       "credibility": "P2",
-      "publishedAt": "2026-08-15T16:10:00.000Z",
+      "publishedAt": "2026-08-16T19:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786929834866-2",
+      "title": "2026 | Page 111 of 131",
+      "summary": "Security\n\n  ### One of Europe’s largest universities knocked offline for days after cyberattack\n\n  + Lorenzo Franceschi-Bicchierai\n Elon Musk speaks o...",
+      "url": "https://techcrunch.com/2026/page/111",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/page/111",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T18:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
       ]
+    },
+    {
+      "id": "news-1786929834866-4",
+      "title": "2026 | Page 108 of 131",
+      "summary": "+ Zack Whittaker\n Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n  + Lucas Ropek\n Phoebe G...",
+      "url": "https://techcrunch.com/2026/page/108",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/page/108",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786929834866-7",
+      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis ...",
+      "summary": "Zack Whittaker\n\n   \n### Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes\n\n       Lucas Ropek\n...",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786929834867-10",
+      "title": "Research & Insights",
+      "summary": "# Bloomberg\n\nNeed help? Contact us\n## We've detected unusual activity from your computer network\n\nTo continue, please click the box below to let us kn...",
+      "url": "https://www.bloomberg.com/professional/insights?pg=84",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/professional/insights?pg=84",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T14:00:00.000Z",
+      "category": "research",
+      "tags": []
+    },
+    {
+      "id": "news-1786929834866-0",
+      "title": "2026 | Page 100 of 131",
+      "summary": "### Americans are destroying Flock surveillance cameras\n\n  + Zack Whittaker\n The OpenAI logo is seen displayed on a smartphone screen. \n\n  Enterprise\n...",
+      "url": "https://techcrunch.com/2026/page/100",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/page/100",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1786929834866-3",
+      "title": "2026 | Page 92 of 131",
+      "summary": "+ Tim De Chant\n Anthropic Claude's new Chrome integration. \n\n  In Brief\n\n  ### Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks\n\n...",
+      "url": "https://techcrunch.com/2026/page/92",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/page/92",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1786929834866-1",
+      "title": "2026 | Page 91 of 131",
+      "summary": "+ Anna Heim\n Archer Midnight \n\n  Transportation\n\n  ### Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties...",
+      "url": "https://techcrunch.com/2026/page/91",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/page/91",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1786929834866-8",
+      "title": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon",
+      "summary": "Former CMO Kate Rouch stepped down this April to focus on treating breast cancer. OpenAI previously stated that she may return to a more focused role ...",
+      "url": "https://eu.36kr.com/en/p/3941902971993225",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3941902971993225",
+      "credibility": "P2",
+      "publishedAt": "2026-08-16T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
-    "p1Count": 0,
-    "p2Count": 1
+    "p0Count": 0,
+    "p1Count": 1,
+    "p2Count": 11
   },
-  "summary": "🔥 官方动态：1条（help等）"
+  "summary": "💡 技术深挖：1条（scholar等）"
 }
