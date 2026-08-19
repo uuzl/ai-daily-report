@@ -1,97 +1,159 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T01:20:41.868Z",
-  "totalItems": 7,
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T01:22:24.292Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1787016041867-4",
+      "id": "news-1787102544291-11",
+      "title": "Codex rate card | OpenAI Help Center",
+      "summary": "Upcoming model retirement: On August 31, 2026, GPT-5.4 and GPT-5.4 mini will retire in Codex for users signed in with ChatGPT. Use GPT-5.6 Terra inste...",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "credibility": "P0",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787102544291-6",
       "title": "Daily Papers",
-      "summary": "meituan\n\n### PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives\n\nhkuhk\n\n### Spatial Memory Agent: Experience-Grounde...",
-      "url": "https://huggingface.co/papers?q=agent-environment+co-evolution",
+      "summary": "Large language model (LLM)-based agents that reason, plan, and act through tools, memory, and structured interaction are emerging as a promising parad...",
+      "url": "https://huggingface.co/papers?q=skill+marketplace",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=agent-environment+co-evolution",
+      "sourceUrl": "https://huggingface.co/papers?q=skill+marketplace",
       "credibility": "P0",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "publishedAt": "2026-08-18T02:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
-        "LLM",
-        "Transformer"
+        "LLM"
       ]
     },
     {
-      "id": "news-1787016041867-3",
-      "title": "Daily Papers",
-      "summary": "Artificial Intelligence is moving from models that only generate text to Agentic AI, where systems behave as autonomous entities that can perceive, re...",
-      "url": "https://huggingface.co/papers?q=agentic+engineering",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=agentic+engineering",
-      "credibility": "P0",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787016041867-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Large language models (LLMs) have exhibited the ability to effectively\nutilize external tools to address user queries. However, their performance may\n...",
-      "url": "https://huggingface.co/papers?q=tool-call+turns",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=tool-call+turns",
-      "credibility": "P0",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787016041867-2",
-      "title": "AI (artificial intelligence)",
-      "summary": "Skip to navigation\n\nPrint subscriptions\n\nSearch jobs\n\nSign in\n\n## AI (artificial intelligence)\n\n## 17 August 2026\n\n ### Claude to start watermarking A...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "id": "news-1787102544291-5",
+      "title": "OpenAI lays out new security changes after its AI hacked ...",
+      "summary": "Jennifer Pattison Tuohy\n\nChatGPT is getting a dedicated mode for teensChatGPT is getting a dedicated mode for teens\n\nChatGPT is getting a dedicated mo...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "credibility": "P2",
-      "publishedAt": "2026-08-17T23:00:00.000Z",
+      "publishedAt": "2026-08-18T19:28:30.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787102544291-7",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue | WIRED",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark....",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T18:33:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787102544291-4",
+      "title": "OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach",
+      "summary": "Gift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip? Send a tip to our reporters\n\nSite feedbac...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T18:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1787016041868-5",
-      "title": "Evaluating Agentic Learning Harness Capabilities Without ...",
-      "summary": "Md Tanvirul Alam, Dipkamal Bhusal, Salman Ahmad, Nidhi Rastogi, and Peter Worth.\nAthenaBench: A dynamic benchmark for evaluating LLMs in cyber threat ...",
-      "url": "https://arxiv.org/pdf/2608.13608",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.13608",
+      "id": "news-1787102544291-12",
+      "title": "JPMorgan’s Santos Says ‘AI Tentacle’ Risk Spans Bonds and Stocks",
+      "summary": "JPMorgan Asset Management's Gabriela Santos warned that “AI-factor” concentration risk has spread beyond equities into fixed income, ratcheting up the...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/jpmorgan-s-santos-says-ai-tentacle-risk-spans-bonds-and-stocks",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-18/jpmorgan-s-santos-says-ai-tentacle-risk-spans-bonds-and-stocks",
       "credibility": "P2",
-      "publishedAt": "2026-08-17T08:00:00.000Z",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "RAG"
+        "AI"
       ]
     },
     {
-      "id": "news-1787016041868-6",
-      "title": "Leveraging Conversational Agents for Psychological and ...",
-      "summary": "This paper presents a psychologically-aware conversational agent designed to enhance both learning performance and emotional well-being in educational...",
-      "url": "https://arxiv.org/html/2512.10441v2",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2512.10441v2",
+      "id": "news-1787102544291-10",
+      "title": "Warp's new system is an out-of-the-box software factory for ...",
+      "summary": "+ Zack Whittaker\n Instagram introduces a redesigned wordmark\n\n  + Sarah Perez\n Some Claude users are mad that Anthropic’s new watermarks will catch th...",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
       "credibility": "P2",
-      "publishedAt": "2026-08-17T06:00:00.000Z",
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1787102544291-2",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after ...",
+      "summary": "+ Anthony Ha\n If Apple sends you a push notification alerting you to a spyware attack, take it seriously\n\n  + Zack Whittaker\n Instagram introduces a r...",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T13:50:30.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787102544291-8",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "In the week before the Airtel offer launched, Perplexity averaged about 11,200 downloads a day in India, per Appfigures. That jumped twentyfold to nea...",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T13:45:40.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787102544291-3",
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "summary": "ChatGPT is getting a dedicated mode for teens\n\nRobert Hart\n\nElon Musk made flying even worse so Palantir could profitElon Musk made flying even worse ...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -100,26 +162,58 @@
       ]
     },
     {
-      "id": "news-1787016041867-0",
-      "title": "Asymmetric Discourse Homogenization and Shared ...",
-      "summary": "The paper replaces the binary post-ChatGPT indicator with a continuous cumula-tive LLM index that tracks accumulated AI exposure across seven major mo...",
-      "url": "https://arxiv.org/pdf/2608.13674",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.13674",
+      "id": "news-1787102544291-0",
+      "title": "ChatGPT is getting a dedicated mode for teens - OpenAI",
+      "summary": "Jennifer Pattison Tuohy\n\nElon Musk broke the FAA — Palantir is picking up the piecesElon Musk broke the FAA — Palantir is picking up the pieces\n\nElon ...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "credibility": "P2",
-      "publishedAt": "2026-08-17T03:00:00.000Z",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787102544291-1",
+      "title": "Inference-Time Mitigation of Adversarial Political Bias in ...",
+      "summary": "J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L. Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat, et al., “Gpt-4 technical repor...",
+      "url": "https://arxiv.org/pdf/2608.14629",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.14629",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T03:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
-        "DeepSeek",
         "AI"
+      ]
+    },
+    {
+      "id": "news-1787102544291-9",
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "summary": "17 OpenAI. Codex: Ai coding partner from openai.  2026. Product page. Accessed: 2026-04-29.\n18 OpenAI. Introducing GPT-5.4.  March 2026. Official rele...",
+      "url": "https://arxiv.org/pdf/2608.16798",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.16798",
+      "credibility": "P2",
+      "publishedAt": "2026-08-18T03:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 4
+    "p2Count": 11
   },
-  "summary": "🔥 官方动态：3条（huggingface等）"
+  "summary": "🔥 官方动态：2条（help等）"
 }
