@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-20T01:21:30.029Z",
-  "totalItems": 14,
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T01:25:36.156Z",
+  "totalItems": 6,
   "items": [
     {
-      "id": "news-1787188890029-11",
+      "id": "news-1787275536155-5",
       "title": "File storage and Library in ChatGPT",
       "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
       "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
       "source": "help",
       "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
       "credibility": "P0",
-      "publishedAt": "2026-08-19T22:00:00.000Z",
+      "publishedAt": "2026-08-20T20:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,154 +20,62 @@
       ]
     },
     {
-      "id": "news-1787188890029-10",
-      "title": "What changes when a ChatGPT user turns 18",
-      "summary": "OpenAI\n\n# What changes when a ChatGPT user turns 18\n\nLearn how ChatGPT updates teen protections, parental controls, and account settings when an accou...",
-      "url": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
-      "credibility": "P0",
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787188890029-5",
-      "title": "2026 | Page 103 of 132 | TechCrunch",
-      "summary": "+ Amanda Silberling\n Alex Bores \n\n  In Brief\n\n  ### Anthropic-funded group backs candidate attacked by rival AI super PAC\n\n  + Rebecca Bellan\n  \n\n  Ap...",
-      "url": "https://techcrunch.com/2026/page/103",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/page/103",
-      "credibility": "P2",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787188890028-0",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "The corporate competition between OpenAI and Anthropic is tense at the moment, with both companies looking for any opportunity to gain an advantage on...",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T22:10:46.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787188890029-4",
-      "title": "US Lead in the AI Race With China Is Rapidly Narrowing",
-      "summary": "Budget-conscious and prioritizing power over polish? Look at the $4 tier: GPT-5.6 Luna and Qwen-3.7 Max. OpenAI’s cost-efficient option matches Alibab...",
-      "url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race?srnd=homepage-europe",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/graphics/2026-us-china-ai-race?srnd=homepage-europe",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T21:00:01.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787188890029-7",
-      "title": "2026 | Page 93 of 133",
-      "summary": "+ Anthony Ha\n Anthropic shares more details about how Claude’s new watermarks will work\n\n  + Anthony Ha\n Apple proposes to take a 15% cut of purchases...",
-      "url": "https://techcrunch.com/2026/page/93",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/page/93",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T21:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787188890029-9",
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can em...",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T17:26:48.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787188890029-13",
-      "title": "AI Set to Bring Danish Bank Merger Wave to Halt, Jyske CEO Says",
-      "summary": "Denmark's recent wave of bank consolidation is likely to grind to a halt because artificial intelligence and shared technology platforms reduce pressu...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-set-to-bring-danish-bank-merger-wave-to-halt-jyske-ceo-says?srnd=all",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-19/ai-set-to-bring-danish-bank-merger-wave-to-halt-jyske-ceo-says?srnd=all",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787188890028-1",
-      "title": "OpenAI Faces Major Unexpected Crisis as Its Revenue Is Significantly Surpassed by Anthropic",
-      "summary": "The slowdown in ChatGPT's growth and the huge success of Anthropic's programming tool Claude Code are forcing OpenAI to re-examine its business strate...",
-      "url": "https://eu.36kr.com/en/p/3946120337849737",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3946120337849737",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787188890029-6",
-      "title": "A S I -Bench: At the Dawn of A rtificial S uper I ntelligence",
-      "summary": "|  | ±\\pm std. | ±1.71\\pm 1.71 | ±1.24\\pm 1.24 | ±2.21\\pm 2.21 | ±0.95\\pm 0.95 | ±0.47\\pm 0.47 | ±0.82\\pm 0.82 | ±3.56\\pm 3.56 | ±1.28\\pm 1.28 |\n|  | ...",
-      "url": "https://arxiv.org/html/2608.17271v1",
+      "id": "news-1787275536155-0",
+      "title": "Preference Reasoning under Indeterminacy in Large Language Models",
+      "summary": "Emmanuel Ameisen, Jack Lindsey, Adam Pearce, Wes Gurnee, Nicholas L. Turner, Brian Chen, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonat...",
+      "url": "https://arxiv.org/pdf/2608.18631",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.17271v1",
+      "sourceUrl": "https://arxiv.org/pdf/2608.18631",
       "credibility": "P2",
-      "publishedAt": "2026-08-19T08:00:00.000Z",
+      "publishedAt": "2026-08-21T01:25:36.155Z",
       "category": "tech",
       "tags": [
-        "DeepSeek"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1787188890028-3",
-      "title": "Do Large Language Models Play Six Degrees of ...",
-      "summary": "Large Language Models (LLMs) demonstrate remarkable multi-hop reasoning capabilities over long contexts, yet the internal mechanisms enabling these di...",
-      "url": "https://arxiv.org/html/2608.17950v1",
+      "id": "news-1787275536155-2",
+      "title": "Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery",
+      "summary": "Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. ...",
+      "url": "https://arxiv.org/pdf/2608.19047",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.17950v1",
+      "sourceUrl": "https://arxiv.org/pdf/2608.19047",
       "credibility": "P2",
-      "publishedAt": "2026-08-19T05:00:00.000Z",
+      "publishedAt": "2026-08-21T01:25:36.155Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787275536155-4",
+      "title": "Debate Training Reduces Reward Hacking in RLAIF",
+      "summary": "J. Huang, X. Chen, S. Mishra, H. S. Zheng, A. Yu, X. Song, and D. Zhou. Large language models cannot self-correct reasoning yet. In International conf...",
+      "url": "https://arxiv.org/pdf/2608.17776",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.17776",
+      "credibility": "P2",
+      "publishedAt": "2026-08-20T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1787275536155-3",
+      "title": "FlashAttention for Scalable Vector Architectures",
+      "summary": "doi:10.1109/IPDPSW66978.2025.00173  Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, Mohammad Aflah K...",
+      "url": "https://arxiv.org/pdf/2608.18656",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.18656",
+      "credibility": "P2",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -176,57 +84,26 @@
       ]
     },
     {
-      "id": "news-1787188890029-12",
-      "title": "Auditing Exposure to Harmful Content on TikTok using Multimodal Language Models:A Cross-National, Age-Stratified Study",
-      "summary": "8 find that frontier multimodal LLMs can produce context-sensitive hate evaluations that align with aggregate human judgment, supporting the basic fea...",
-      "url": "https://arxiv.org/html/2608.17583v1",
+      "id": "news-1787275536155-1",
+      "title": "What is Missing from AI Post-Training AI",
+      "summary": "1 INTRODUCTION Recent advances in large language model (LLM) agents have rapidly expanded their role in AI re-search and development (AI R&D) (Karpath...",
+      "url": "https://arxiv.org/pdf/2608.19072",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.17583v1",
+      "sourceUrl": "https://arxiv.org/pdf/2608.19072",
       "credibility": "P2",
-      "publishedAt": "2026-08-19T05:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1787188890028-2",
-      "title": "What Aggregate Scores Miss: Measuring Item-Level Regressions in Commercial LLM API Migrations",
-      "summary": "D. Jayasuriya, V. Terragni, J. Dietrich, K. Blincoe, Understanding the impact of APIs behavioral breaking changes on client applications, Pro-ceedings...",
-      "url": "https://arxiv.org/pdf/2608.17719",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.17719",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T03:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787188890029-8",
-      "title": "A Versioned Workspace for Knowledge-Work Agents",
-      "summary": "## 1 Introduction\n\nRecent large language model (LLM) agent research has moved from isolated text-only tasks toward work grounded in digital artifacts:...",
-      "url": "https://arxiv.org/html/2608.18050",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.18050",
-      "credibility": "P2",
-      "publishedAt": "2026-08-19T03:00:00.000Z",
+      "publishedAt": "2026-08-20T05:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "Agent"
+        "Transformer"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 5
   },
-  "summary": "🔥 官方动态：2条（help等）"
+  "summary": "🔥 官方动态：1条（help等）"
 }
