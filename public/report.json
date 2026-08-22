@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-21",
-  "generatedAt": "2026-08-21T01:25:36.156Z",
-  "totalItems": 6,
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T01:21:00.843Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1787275536155-5",
-      "title": "File storage and Library in ChatGPT",
-      "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
-      "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "id": "news-1787361660842-10",
+      "title": "What changes when a ChatGPT user turns 18",
+      "summary": "OpenAI\n\n# What changes when a ChatGPT user turns 18\n\nLearn how ChatGPT updates teen protections, parental controls, and account settings when an accou...",
+      "url": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
       "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "sourceUrl": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
       "credibility": "P0",
-      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "publishedAt": "2026-08-21T23:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,30 +20,155 @@
       ]
     },
     {
-      "id": "news-1787275536155-0",
-      "title": "Preference Reasoning under Indeterminacy in Large Language Models",
-      "summary": "Emmanuel Ameisen, Jack Lindsey, Adam Pearce, Wes Gurnee, Nicholas L. Turner, Brian Chen, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonat...",
-      "url": "https://arxiv.org/pdf/2608.18631",
+      "id": "news-1787361660842-5",
+      "title": "Daily Papers",
+      "summary": "meituan\n\n### PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives\n\nhkuhk\n\n### Spatial Memory Agent: Experience-Grounde...",
+      "url": "https://huggingface.co/papers?q=end-to-end+OCR",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=end-to-end+OCR",
+      "credibility": "P0",
+      "publishedAt": "2026-08-21T21:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Transformer"
+      ]
+    },
+    {
+      "id": "news-1787361660842-11",
+      "title": "File storage and Library in ChatGPT",
+      "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
+      "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+      "credibility": "P0",
+      "publishedAt": "2026-08-21T19:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787361660842-0",
+      "title": "A Unified Generative Framework for Integrating Machine-Native Symbols into Pretrained Large Language Models",
+      "summary": "Mach. Learn. Res., 2025, 2025.\n Neil Zeghidour, Alejandro Luebs, Ahmed Omran, Jan Skoglund, and Marco Tagliasacchi.\nSoundstream: An end-to-end neural ...",
+      "url": "https://arxiv.org/pdf/2608.19529",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.18631",
+      "sourceUrl": "https://arxiv.org/pdf/2608.19529",
       "credibility": "P2",
-      "publishedAt": "2026-08-21T01:25:36.155Z",
+      "publishedAt": "2026-08-22T01:21:00.842Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Transformer"
+      ]
+    },
+    {
+      "id": "news-1787361660842-8",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "summary": "+ Julie Bort\n AI automation startup Relay shuts down, staff joins Google’s Chrome team\n\n  + Lucas Ropek\n Stripe will reportedly acquire AI gateway sta...",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T22:10:01.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1787275536155-2",
-      "title": "Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery",
-      "summary": "Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. ...",
-      "url": "https://arxiv.org/pdf/2608.19047",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.19047",
+      "id": "news-1787361660842-6",
+      "title": "Why is the DOJ investigating Andreessen Horowitz's board ...",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Home batteries are suddenly cheap and everywhere. Here’s why.\n\n  + Tim De Chant\n Cursor capitalizes on GitHub frustrat...",
+      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats",
       "credibility": "P2",
-      "publishedAt": "2026-08-21T01:25:36.155Z",
+      "publishedAt": "2026-08-21T16:53:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787361660842-7",
+      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+      "summary": "REGISTER NOW\n\n## Most Popular\n\n Home batteries are suddenly cheap and everywhere. Here’s why.\n\n  + Tim De Chant\n Cursor capitalizes on GitHub frustrat...",
+      "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T14:30:23.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787361660842-2",
+      "title": "Improving Security Log Anomaly Detection Using LLMs ...",
+      "summary": "log anomaly detection: A comprehensive benchmark of large language models for automated system diagnostics. arXiv.  Powers, D. M. W. (2011). Evaluatio...",
+      "url": "https://arxiv.org/pdf/2608.19938",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.19938",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787361660842-13",
+      "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+      "summary": "Skip to content\n\nBloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloombe...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T08:00:02.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787361660842-1",
+      "title": "Designing Human-mediated AI Guidance: Ready Together ...",
+      "summary": "Recent advances in large language models (LLMs) create new opportunities for personalized education, guidance, and decision-support systems. AI system...",
+      "url": "https://arxiv.org/html/2608.19950v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.19950v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787361660842-3",
+      "title": "Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+      "summary": "Large Language Models (LLMs) are increasingly deployed as long-term multi-agent systems, where multiple agents collaborate over extended horizons and ...",
+      "url": "https://arxiv.org/html/2608.19701v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.19701v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "DeepSeek",
@@ -52,58 +177,58 @@
       ]
     },
     {
-      "id": "news-1787275536155-4",
-      "title": "Debate Training Reduces Reward Hacking in RLAIF",
-      "summary": "J. Huang, X. Chen, S. Mishra, H. S. Zheng, A. Yu, X. Song, and D. Zhou. Large language models cannot self-correct reasoning yet. In International conf...",
-      "url": "https://arxiv.org/pdf/2608.17776",
+      "id": "news-1787361660842-9",
+      "title": "Does Listening Matter? Backchanneling and Nodding in AI Clone",
+      "summary": "Recent advances in LLMs and speech synthesis have made it increasingly feasible to create AI clones that imitate specific individuals (20; 19; 15).\nPr...",
+      "url": "https://arxiv.org/html/2608.19527v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.17776",
+      "sourceUrl": "https://arxiv.org/html/2608.19527v1",
       "credibility": "P2",
-      "publishedAt": "2026-08-20T08:00:00.000Z",
+      "publishedAt": "2026-08-21T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787361660842-12",
+      "title": "Eximo: VLM Guided Exploration of VLA Policies",
+      "summary": "whereas Ahn et al. 2022 pass a finite set of skills along with their probability of success to the LLM planner as context for grounding. Bhat et al. 2...",
+      "url": "https://arxiv.org/html/2608.19891v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.19891v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1787361660842-4",
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic ...",
+      "summary": "arXiv preprint arXiv:2504.01848, 2025.\n Xiangru Tang, Yuliang Liu, Zefan Cai, et al. Ml-bench: Evaluating large language models and agents for machine...",
+      "url": "https://arxiv.org/pdf/2608.20318",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.20318",
+      "credibility": "P2",
+      "publishedAt": "2026-08-21T05:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
         "Agent"
       ]
-    },
-    {
-      "id": "news-1787275536155-3",
-      "title": "FlashAttention for Scalable Vector Architectures",
-      "summary": "doi:10.1109/IPDPSW66978.2025.00173  Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, Mohammad Aflah K...",
-      "url": "https://arxiv.org/pdf/2608.18656",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.18656",
-      "credibility": "P2",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1787275536155-1",
-      "title": "What is Missing from AI Post-Training AI",
-      "summary": "1 INTRODUCTION Recent advances in large language model (LLM) agents have rapidly expanded their role in AI re-search and development (AI R&D) (Karpath...",
-      "url": "https://arxiv.org/pdf/2608.19072",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.19072",
-      "credibility": "P2",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Transformer"
-      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 11
   },
-  "summary": "🔥 官方动态：1条（help等）"
+  "summary": "🔥 官方动态：3条（help等）"
 }
