@@ -1,17 +1,33 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T01:25:44.633Z",
-  "totalItems": 4,
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T01:22:52.004Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1787534744633-1",
-      "title": "gemmozero/ai-compensation-2026 · Datasets at Hugging Face",
-      "summary": "| 73 | hackernews |  | Show HN: I \"invented\" Model-as-a-Service for 95% Predictable Private AI | Show HN: I \"invented\" Model-as-a-Service for 95% Pred...",
-      "url": "https://huggingface.co/datasets/gemmozero/ai-compensation-2026",
+      "id": "news-1787620972002-0",
+      "title": "beatsprom/complete-2026-ai-engineering-master-suite",
+      "summary": "| 2605.08460v1 | When Child Inherits: Modeling and Exploiting Subagent Spawn in Multi-Agent Networks | AI Security, Red Teaming & Defense 2026 | 2026-...",
+      "url": "https://huggingface.co/datasets/beatsprom/complete-2026-ai-engineering-master-suite/viewer",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/datasets/gemmozero/ai-compensation-2026",
+      "sourceUrl": "https://huggingface.co/datasets/beatsprom/complete-2026-ai-engineering-master-suite/viewer",
       "credibility": "P0",
-      "publishedAt": "2026-08-23T23:00:00.000Z",
+      "publishedAt": "2026-08-24T21:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787620972003-7",
+      "title": "What changes when a ChatGPT user turns 18",
+      "summary": "OpenAI\n\n# What changes when a ChatGPT user turns 18\n\nLearn how ChatGPT updates teen protections, parental controls, and account settings when an accou...",
+      "url": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
+      "credibility": "P0",
+      "publishedAt": "2026-08-24T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +36,14 @@
       ]
     },
     {
-      "id": "news-1787534744633-2",
+      "id": "news-1787620972003-10",
       "title": "File storage and Library in ChatGPT",
       "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
       "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
       "source": "help",
       "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
       "credibility": "P0",
-      "publishedAt": "2026-08-23T03:00:00.000Z",
+      "publishedAt": "2026-08-24T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,37 +52,185 @@
       ]
     },
     {
-      "id": "news-1787534744632-0",
-      "title": "‪Lalith Mittal‬ - ‪Google Scholar‬",
-      "summary": "| MSR22 automating systematic literature review (SLR) updates: A comparative validation study of artificial intelligence (AI) versus human screeners A...",
-      "url": "https://scholar.google.com/citations?user=zSVtvT4AAAAJ&hl=en",
-      "source": "scholar",
-      "sourceUrl": "https://scholar.google.com/citations?user=zSVtvT4AAAAJ&hl=en",
-      "credibility": "P1",
-      "publishedAt": "2026-08-23T03:00:00.000Z",
+      "id": "news-1787620972003-5",
+      "title": "Daily Papers",
+      "summary": "Hugging Face's logo\n\nGet trending papers in your email inbox once a day!\n\nGet trending papers in your email inbox!\n\n# Daily Papers\n\n## byAK and the re...",
+      "url": "https://huggingface.co/papers?q=Terminal-Task-Gen",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Terminal-Task-Gen",
+      "credibility": "P0",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM"
+        "LLM",
+        "Agent"
       ]
     },
     {
-      "id": "news-1787534744633-3",
+      "id": "news-1787620972002-2",
+      "title": "Daily Papers",
+      "summary": "This study explores the feasibility of using large language models (LLMs), specifically GPT-4o (ChatGPT), for automated grading of conceptual question...",
+      "url": "https://huggingface.co/papers?q=rubric+scoring",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=rubric+scoring",
+      "credibility": "P0",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787620972002-1",
+      "title": "Daily Papers",
+      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
+      "url": "https://huggingface.co/papers?q=Graph+Engineering",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Graph+Engineering",
+      "credibility": "P0",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787620972003-11",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "summary": "You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\n\nView...",
+      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T20:45:33.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787620972003-9",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "+ Jagmeet Singh\n Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research\n\n  + Anna...",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T18:03:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1787620972003-6",
+      "title": "OpenAI彻底震撼数学界，80年核心猜想被破解，菲尔兹奖得主惊呼坐不稳",
+      "summary": "其次，它驾驭了顶级的数论工具。\n\n为了证明它所设想的这种复杂数域在数学上确实存在，在长链条推理中，AI极其熟练地调用了「无限阶级域塔」（Infinite Class Field Towers）和「高罗德-沙法列维奇理论」（Golod–Shafarevich Theory）。\n\n这些工具是代数数论皇冠...",
+      "url": "https://m.36kr.com/p/3818728450835589",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/p/3818728450835589",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T16:46:06.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "推理"
+      ]
+    },
+    {
+      "id": "news-1787620972002-3",
+      "title": "OpenAI is building AI agents for everything. Will everyone ...",
+      "summary": "Ambrosino works on OpenAI’s biggest bet, ChatGPT Work, which was released last month and is available on the company’s lowest subscription tier, for $...",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787620972003-16",
       "title": "Computer Science Aug 2026",
       "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
-      "url": "https://arxiv.org/list/cs/2026-08?skip=10600",
+      "url": "https://arxiv.org/list/cs/2026-08?skip=4300",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=10600",
+      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=4300",
       "credibility": "P2",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
+      "publishedAt": "2026-08-24T14:00:00.000Z",
       "category": "tech",
       "tags": []
+    },
+    {
+      "id": "news-1787620972003-12",
+      "title": "Computer Science Aug 2026",
+      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
+      "url": "https://arxiv.org/list/cs/2026-08?skip=4400",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=4400",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787620972003-14",
+      "title": "Computer Science Aug 2026",
+      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
+      "url": "https://arxiv.org/list/cs/2026-08?skip=8000",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=8000",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787620972003-15",
+      "title": "Computer Science Aug 2026",
+      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
+      "url": "https://arxiv.org/list/cs/2026-08?skip=7100",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=7100",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787620972003-8",
+      "title": "Tech Archive for August 2026 - Page 25",
+      "summary": "<em>Here’s a gallery of the new orange and older neon yellow version.</em>\n\n and SupaBoy Prime (right) are expected to ship this fall with an estimate...",
+      "url": "https://www.theverge.com/archives/tech/2026/8/25",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/archives/tech/2026/8/25",
+      "credibility": "P2",
+      "publishedAt": "2026-08-24T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
-    "p1Count": 1,
-    "p2Count": 1
+    "p0Count": 6,
+    "p1Count": 0,
+    "p2Count": 9
   },
-  "summary": "🔥 官方动态：2条（huggingface等） | 💡 技术深挖：1条（scholar等）"
+  "summary": "🔥 官方动态：6条（huggingface等）"
 }
