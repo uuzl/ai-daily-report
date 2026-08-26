@@ -1,160 +1,17 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-25T01:22:52.004Z",
-  "totalItems": 15,
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T01:26:07.643Z",
+  "totalItems": 5,
   "items": [
     {
-      "id": "news-1787620972002-0",
-      "title": "beatsprom/complete-2026-ai-engineering-master-suite",
-      "summary": "| 2605.08460v1 | When Child Inherits: Modeling and Exploiting Subagent Spawn in Multi-Agent Networks | AI Security, Red Teaming & Defense 2026 | 2026-...",
-      "url": "https://huggingface.co/datasets/beatsprom/complete-2026-ai-engineering-master-suite/viewer",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/datasets/beatsprom/complete-2026-ai-engineering-master-suite/viewer",
-      "credibility": "P0",
-      "publishedAt": "2026-08-24T21:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1787620972003-7",
-      "title": "What changes when a ChatGPT user turns 18",
-      "summary": "OpenAI\n\n# What changes when a ChatGPT user turns 18\n\nLearn how ChatGPT updates teen protections, parental controls, and account settings when an accou...",
-      "url": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001262-what-changes-when-a-chatgpt-user-turns-18",
-      "credibility": "P0",
-      "publishedAt": "2026-08-24T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787620972003-10",
-      "title": "File storage and Library in ChatGPT",
-      "summary": "## How do I delete a saved file?\n\nFiles are saved to your account until you delete them manually.  \n  \n  \nDeleting a chat containing files does not de...",
-      "url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-08-24T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787620972003-5",
+      "id": "news-1787707567642-1",
       "title": "Daily Papers",
-      "summary": "Hugging Face's logo\n\nGet trending papers in your email inbox once a day!\n\nGet trending papers in your email inbox!\n\n# Daily Papers\n\n## byAK and the re...",
-      "url": "https://huggingface.co/papers?q=Terminal-Task-Gen",
+      "summary": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers...",
+      "url": "https://huggingface.co/papers?q=cross-review",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Terminal-Task-Gen",
+      "sourceUrl": "https://huggingface.co/papers?q=cross-review",
       "credibility": "P0",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787620972002-2",
-      "title": "Daily Papers",
-      "summary": "This study explores the feasibility of using large language models (LLMs), specifically GPT-4o (ChatGPT), for automated grading of conceptual question...",
-      "url": "https://huggingface.co/papers?q=rubric+scoring",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=rubric+scoring",
-      "credibility": "P0",
-      "publishedAt": "2026-08-24T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787620972002-1",
-      "title": "Daily Papers",
-      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
-      "url": "https://huggingface.co/papers?q=Graph+Engineering",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Graph+Engineering",
-      "credibility": "P0",
-      "publishedAt": "2026-08-24T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787620972003-11",
-      "title": "Zillow and Redfin settle FTC antitrust case",
-      "summary": "You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\n\nView...",
-      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T20:45:33.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787620972003-9",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "+ Jagmeet Singh\n Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research\n\n  + Anna...",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T18:03:55.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1787620972003-6",
-      "title": "OpenAI彻底震撼数学界，80年核心猜想被破解，菲尔兹奖得主惊呼坐不稳",
-      "summary": "其次，它驾驭了顶级的数论工具。\n\n为了证明它所设想的这种复杂数域在数学上确实存在，在长链条推理中，AI极其熟练地调用了「无限阶级域塔」（Infinite Class Field Towers）和「高罗德-沙法列维奇理论」（Golod–Shafarevich Theory）。\n\n这些工具是代数数论皇冠...",
-      "url": "https://m.36kr.com/p/3818728450835589",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com/p/3818728450835589",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T16:46:06.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "推理"
-      ]
-    },
-    {
-      "id": "news-1787620972002-3",
-      "title": "OpenAI is building AI agents for everything. Will everyone ...",
-      "summary": "Ambrosino works on OpenAI’s biggest bet, ChatGPT Work, which was released last month and is available on the company’s lowest subscription tier, for $...",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -163,74 +20,74 @@
       ]
     },
     {
-      "id": "news-1787620972003-16",
-      "title": "Computer Science Aug 2026",
-      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
-      "url": "https://arxiv.org/list/cs/2026-08?skip=4300",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=4300",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T14:00:00.000Z",
+      "id": "news-1787707567642-2",
+      "title": "Daily Papers",
+      "summary": "Large language models (LLMs) fine-tuned with alignment techniques, such as\nreinforcement learning from human feedback, have been instrumental in\ndevel...",
+      "url": "https://huggingface.co/papers?q=State+feedback",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=State+feedback",
+      "credibility": "P0",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
     },
     {
-      "id": "news-1787620972003-12",
-      "title": "Computer Science Aug 2026",
-      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
-      "url": "https://arxiv.org/list/cs/2026-08?skip=4400",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=4400",
+      "id": "news-1787707567642-0",
+      "title": "AI (artificial intelligence)",
+      "summary": "## 18 August 2026\n\n ### OpenAI announces slowing pace of development after hack by rogue agent\n\n  Amid race with Anthropic, firm plans to overhaul res...",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "source": "theguardian",
+      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
       "credibility": "P2",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "publishedAt": "2026-08-25T22:00:00.000Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
     },
     {
-      "id": "news-1787620972003-14",
-      "title": "Computer Science Aug 2026",
-      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
-      "url": "https://arxiv.org/list/cs/2026-08?skip=8000",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=8000",
+      "id": "news-1787707567642-3",
+      "title": "Artificial intelligence | Latest News & Updates",
+      "summary": "AI GP receptionist 'can't understand Yorkshire accent'\n\nA man and woman are sitting with their backs to the camera on a row of chairs in a GP receptio...",
+      "url": "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
+      "source": "bbc",
+      "sourceUrl": "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
       "credibility": "P2",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1787620972003-15",
-      "title": "Computer Science Aug 2026",
-      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for August 2026\n\nSimons Foundation\nSimons Foundation International\nSchmidt Sciences",
-      "url": "https://arxiv.org/list/cs/2026-08?skip=7100",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/2026-08?skip=7100",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1787620972003-8",
-      "title": "Tech Archive for August 2026 - Page 25",
-      "summary": "<em>Here’s a gallery of the new orange and older neon yellow version.</em>\n\n and SupaBoy Prime (right) are expected to ship this fall with an estimate...",
-      "url": "https://www.theverge.com/archives/tech/2026/8/25",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/archives/tech/2026/8/25",
-      "credibility": "P2",
-      "publishedAt": "2026-08-24T08:00:00.000Z",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
         "AI"
       ]
+    },
+    {
+      "id": "news-1787707567642-4",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "credibility": "P2",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 6,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 9
+    "p2Count": 3
   },
-  "summary": "🔥 官方动态：6条（huggingface等）"
+  "summary": "🔥 官方动态：2条（huggingface等）"
 }
