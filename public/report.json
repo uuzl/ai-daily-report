@@ -1,17 +1,33 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-26T01:26:07.643Z",
-  "totalItems": 5,
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T08:14:04.682Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1787707567642-1",
-      "title": "Daily Papers",
-      "summary": "Large language models (LLMs) are increasingly used to generate scientific reviews, yet existing evaluations rarely examine whether different providers...",
-      "url": "https://huggingface.co/papers?q=cross-review",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=cross-review",
+      "id": "news-1787818444681-2",
+      "title": "Claude web search now available globally on all plans",
+      "summary": "## Getting started\n\nWeb search is available now in feature preview for all paid Claude users in the United States. Support for users on our free plan ...",
+      "url": "https://www.anthropic.com/news/web-search",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/web-search",
       "credibility": "P0",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "publishedAt": "2026-08-26T18:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1787818444681-3",
+      "title": "Claude made external beta testing possible for SkillPilot - Feature requests - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| AI-Mediated User Innovation Network  Feature requests chatgpt | 1 | 29 | Au...",
+      "url": "https://community.openai.com/t/claude-made-external-beta-testing-possible-for-skillpilot/1392768",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/claude-made-external-beta-testing-possible-for-skillpilot/1392768",
+      "credibility": "P0",
+      "publishedAt": "2026-08-26T14:25:17.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,74 +36,175 @@
       ]
     },
     {
-      "id": "news-1787707567642-2",
-      "title": "Daily Papers",
-      "summary": "Large language models (LLMs) fine-tuned with alignment techniques, such as\nreinforcement learning from human feedback, have been instrumental in\ndevel...",
-      "url": "https://huggingface.co/papers?q=State+feedback",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=State+feedback",
-      "credibility": "P0",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "id": "news-1787818444681-0",
+      "title": "AI Develops Custom Chips: OpenAI Achieves Full From-Scratch Production in Just 9 Months",
+      "summary": "When running DeepSeek R1, the inference process for one 8K input and 1K output dropped from 5.99 seconds to 1.65 seconds, and the minimum token interv...",
+      "url": "https://eu.36kr.com/en/p/3956947047021698",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3956947047021698",
+      "credibility": "P2",
+      "publishedAt": "2026-08-27T01:00:00.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1787818444681-1",
+      "title": "Qwen & Zhipu AI Open-Source New Large Language ...",
+      "summary": "On the Qwen AI platform, the model is provided under the name qwen3.8-flash. The Qwen AI platform supports industry-standard protocols, including Open...",
+      "url": "https://eu.36kr.com/en/p/3956555141430402",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3956555141430402",
+      "credibility": "P2",
+      "publishedAt": "2026-08-27T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1787818444681-6",
+      "title": "Fable 5.1 Officially Enters Grayscale Release Phase",
+      "summary": "> Yes, I agree that the Opus 5 model is currently \"very stubborn\".\n>\n> We hope our models can maintain consistency, be full of warmth and feel like th...",
+      "url": "https://eu.36kr.com/en/p/3957012144012425",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3957012144012425",
+      "credibility": "P2",
+      "publishedAt": "2026-08-27T01:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787818444681-8",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation | TechCrunch",
+      "summary": "+ Rebecca Bellan\n  + Kirsten Korosec\n  \n\n  Social\n\n  ### Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well\n\n  + Ama...",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
+      "credibility": "P2",
+      "publishedAt": "2026-08-27T00:24:57.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787818444681-7",
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale | TechCrunch",
+      "summary": "TechCrunch Desktop Logo      TechCrunch Mobile Logo  \n\n### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFund...",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T21:37:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787818444681-11",
+      "title": "Computers and Society",
+      "summary": "archive\n\n# Computers and Society\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showing 20 of 20 entrie...",
+      "url": "https://arxiv.org/list/cs.CY/recent",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs.CY/recent",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T21:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787818444681-12",
+      "title": "Cryptography and Security",
+      "summary": "archive\n\n# Cryptography and Security\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Tue, 25 Aug 2026 (showing first 50 of...",
+      "url": "https://arxiv.org/list/cs.CR/recent",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs.CR/recent",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T19:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787818444681-4",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "“AI is more brittle than people realize when it comes to like building things that have to be durable and have large scale businesses relying upon the...",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1787707567642-0",
-      "title": "AI (artificial intelligence)",
-      "summary": "## 18 August 2026\n\n ### OpenAI announces slowing pace of development after hack by rogue agent\n\n  Amid race with Anthropic, firm plans to overhaul res...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-25T22:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787707567642-3",
-      "title": "Artificial intelligence | Latest News & Updates",
-      "summary": "AI GP receptionist 'can't understand Yorkshire accent'\n\nA man and woman are sitting with their backs to the camera on a row of chairs in a GP receptio...",
-      "url": "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
-      "source": "bbc",
-      "sourceUrl": "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
-      "credibility": "P2",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787707567642-4",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "A former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, Engli...",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "id": "news-1787818444681-10",
+      "title": "Arga Labs is building a better way to train enterprise AI ...",
+      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build...",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents",
       "credibility": "P2",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "publishedAt": "2026-08-26T12:55:28.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
         "Agent"
       ]
+    },
+    {
+      "id": "news-1787818444681-5",
+      "title": "WebMCP-Phalanx: Enforcing and Characterizing Trust ...",
+      "summary": "Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, Zefeng Li, Haoyu Wang, Tianwei Zhang, and Yang Liu.\nMasterkey: Automated jailbreak across mu...",
+      "url": "https://arxiv.org/pdf/2608.24017",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.24017",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1787818444681-9",
+      "title": "Runable hits $21M to bet AI agents can go from building ...",
+      "summary": "Founded in 2025, Runable is targeting small businesses in an increasingly crowded market that includes AI giants such as Anthropic and OpenAI and codi...",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+      "credibility": "P2",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
     }
   ],
   "highlights": {
     "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 11
   },
-  "summary": "🔥 官方动态：2条（huggingface等）"
+  "summary": "🔥 官方动态：2条（anthropic等）"
 }
