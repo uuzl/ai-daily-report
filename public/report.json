@@ -1,64 +1,65 @@
 {
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-28T10:16:38.853Z",
-  "totalItems": 15,
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T06:15:57.882Z",
+  "totalItems": 11,
   "items": [
     {
-      "id": "news-1787912198852-11",
-      "title": "Billing & Payment | OpenAI Help Center",
-      "summary": "When you add a card, your bank may show a temporary $100 authorization while we verify your card. This is not a completed charge, and we automatically...",
-      "url": "https://help.openai.com/en/articles/20001216-billing-payment",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001216-billing-payment",
+      "id": "news-1787984157881-2",
+      "title": "Daily Papers",
+      "summary": "Frontier model developers aim to train models continually to possess emergent, diverse capabilities. To extend capabilities, the current pre-training ...",
+      "url": "https://huggingface.co/papers?q=task-discovery",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=task-discovery",
+      "credibility": "P0",
+      "publishedAt": "2026-08-28T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1787984157881-0",
+      "title": "Daily Papers",
+      "summary": "Large language models (LLMs) have revolutionized the field of artificial\nintelligence, enabling natural language processing tasks that were previously...",
+      "url": "https://huggingface.co/papers?q=Qwen+pipeline",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Qwen+pipeline",
+      "credibility": "P0",
+      "publishedAt": "2026-08-28T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1787984157881-1",
+      "title": "Daily Papers",
+      "summary": "Building general-purpose models that can perceive diverse real-world\nmodalities and solve various tasks is an appealing target in artificial\nintellige...",
+      "url": "https://huggingface.co/papers?q=multimodal+humor",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=multimodal+humor",
       "credibility": "P0",
       "publishedAt": "2026-08-28T08:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787912198852-8",
-      "title": "Applied AI Architect, Edu",
-      "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
-      "url": "https://openai.com/careers/applied-ai-architect-edu-singapore",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/applied-ai-architect-edu-singapore",
-      "credibility": "P0",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787912198852-7",
-      "title": "Training novices to think, or giving them LLMs? Evidence ...",
-      "summary": "LLM access can help novices produce responses that score better than those produced by novices without AI, and better even than those of novices equip...",
-      "url": "https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf",
-      "source": "cdn",
-      "sourceUrl": "https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf",
-      "credibility": "P0",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1787912198852-10",
+      "id": "news-1787984157881-7",
       "title": "AI (artificial intelligence) | The Guardian",
       "summary": "## 26 August 2026\n\n ### OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm\n ### Grogonomics What will we get out ...",
       "url": "https://www.theguardian.com/technology/artificialintelligenceai",
       "source": "theguardian",
       "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
       "credibility": "P2",
-      "publishedAt": "2026-08-28T08:00:00.000Z",
+      "publishedAt": "2026-08-29T04:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -67,7 +68,97 @@
       ]
     },
     {
-      "id": "news-1787912198853-15",
+      "id": "news-1787984157881-6",
+      "title": "Machine Learning",
+      "summary": "Press Enter to search · Advanced search\n\n# Machine Learning\n\n## Authors and titles for recent submissions\n\n Fri, 28 Aug 2026\n Thu, 27 Aug 2026\n Wed, 2...",
+      "url": "https://arxiv.org/list/cs.LG/recent",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs.LG/recent",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1787984157881-8",
+      "title": "Computation and Language - arXiv",
+      "summary": "archive\n\n# Computation and Language\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showing first 50 of ...",
+      "url": "https://arxiv.org/list/cs.CL/recent",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs.CL/recent",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1787984157881-9",
+      "title": "Computer Science",
+      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Fri, 28 Aug 2026 (showing first 50 of 695 entr...",
+      "url": "https://arxiv.org/list/cs/recent",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/list/cs/recent",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1787984157881-3",
+      "title": "Valuation Surges to $4 Billion USD: Real-Time Interactive ...",
+      "summary": "In the past, DLMs were mostly small models with billions of parameters. Ant Group's LlaDA 2.0 has for the first time upgraded it to the level of hundr...",
+      "url": "https://eu.36kr.com/en/p/3958994803457412",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3958994803457412",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787984157881-4",
+      "title": "Separating Action Induction from Runtime Authorization in ...",
+      "summary": "Large language models are evolving from text generators into agents that can act in real-world environments through external tools.\nRecent Agent syste...",
+      "url": "https://arxiv.org/html/2608.27146v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.27146v1",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1787984157881-5",
+      "title": "DeepRepro: State-Aware Subplanning for Paper-to-Code ...",
+      "summary": "Recent advances in agentic large language models (LLMs) have enabled increasingly autonomous software engineering workflows, yet automatic machine lea...",
+      "url": "https://arxiv.org/html/2608.26557",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2608.26557",
+      "credibility": "P2",
+      "publishedAt": "2026-08-28T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1787984157881-10",
       "title": "Computer Vision and Pattern Recognition",
       "summary": "archive\n\n# Computer Vision and Pattern Recognition\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showi...",
       "url": "https://arxiv.org/list/cs.CV/recent",
@@ -77,166 +168,12 @@
       "publishedAt": "2026-08-28T07:00:00.000Z",
       "category": "tech",
       "tags": []
-    },
-    {
-      "id": "news-1787912198853-13",
-      "title": "Bill Gates Warns of Unemployment Crisis: Tech Giants ...",
-      "summary": "Mark Chen, OpenAI's Chief Research Officer, estimates that the company has completed about 80% of the progress. Altman predicts that by the end of 202...",
-      "url": "https://eu.36kr.com/en/p/3958661810961538",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3958661810961538",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787912198852-0",
-      "title": "OpenAI's Mid-Game Battle",
-      "summary": "Home\nArticle\n\n# OpenAI's Mid-Game Battle\n\n爱范儿2026-08-28 08:19\n\nThe major companies that keep pushing the frontiers of AI intelligence have all begun t...",
-      "url": "https://eu.36kr.com/en/p/3958357177220232",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3958357177220232",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787912198853-14",
-      "title": "Sound",
-      "summary": "archive\n\n# Sound\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showing 6 of 6 entries )\n\n### Tue, 25 A...",
-      "url": "https://arxiv.org/list/cs.SD/recent",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs.SD/recent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T01:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1787912198852-3",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for ...",
-      "summary": "TechCrunch Desktop Logo      TechCrunch Mobile Logo  \n\n### Topics\n\nBiotech & Health\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFund...",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T17:43:24.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787912198852-2",
-      "title": "OpenAI Is Developing a 'Persistent' AI Agent",
-      "summary": "In recently aired podcasts, interviews, and private investor meetings, OpenAI CEO Sam Altman has described his desire to turn ChatGPT into a proactive...",
-      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T16:52:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787912198853-12",
-      "title": "AI's memory crunch is coming for Android apps | TechCrunch",
-      "summary": "View Bio\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build...",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T14:27:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1787912198852-1",
-      "title": "Here's all the times AI has gone rogue and hacked other ...",
-      "summary": "Partner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage 3: This photograph shows the app logos of artificial intelligence (AI) assistants ChatGPT ...",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T14:01:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787912198852-6",
-      "title": "OpenAI's executive exodus has one big winner",
-      "summary": "They’re saying, “We’re the Kleenex of AI right now because of how we’re known in the consumer world.” People say, “I’m going to ask ChatGPT,” or, “I C...",
-      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1787912198852-9",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face - Ars Technica",
-      "summary": "There’s no doubt that both of Wednesday’s reports will be required reading for AI engineers, ethicists, sci-fi writers, and others for decades to come...",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1787912198852-4",
-      "title": "OpenAI to start showing ads on ChatGPT's free and Go ...",
-      "summary": "Seek %0-9\n\nLive\n\n00:00\n\n30:00\n\n30:00\n\nAhead of a potential IPO, expected this year or next, OpenAI has been trying to ramp up and cement its revenue s...",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
-      "credibility": "P2",
-      "publishedAt": "2026-08-27T11:35:59.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
     }
   ],
   "highlights": {
     "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 8
   },
-  "summary": "🔥 官方动态：3条（help等）"
+  "summary": "🔥 官方动态：3条（huggingface等）"
 }
