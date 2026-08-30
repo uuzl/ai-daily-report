@@ -1,179 +1,60 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T06:15:57.882Z",
-  "totalItems": 11,
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T04:24:39.782Z",
+  "totalItems": 3,
   "items": [
     {
-      "id": "news-1787984157881-2",
-      "title": "Daily Papers",
-      "summary": "Frontier model developers aim to train models continually to possess emergent, diverse capabilities. To extend capabilities, the current pre-training ...",
-      "url": "https://huggingface.co/papers?q=task-discovery",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=task-discovery",
-      "credibility": "P0",
-      "publishedAt": "2026-08-28T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787984157881-0",
-      "title": "Daily Papers",
-      "summary": "Large language models (LLMs) have revolutionized the field of artificial\nintelligence, enabling natural language processing tasks that were previously...",
-      "url": "https://huggingface.co/papers?q=Qwen+pipeline",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Qwen+pipeline",
-      "credibility": "P0",
-      "publishedAt": "2026-08-28T09:00:00.000Z",
+      "id": "news-1788063879782-2",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen ...",
+      "summary": "+ Dominic-Madori Davis\n  \n\n  Biotech & Health\n\n  ### “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z\n\n...",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "credibility": "P2",
+      "publishedAt": "2026-08-29T18:41:59.000Z",
       "category": "tech",
       "tags": [
         "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788063879782-0",
+      "title": "Artificial Intelligence - Latest AI News and Analysis - WSJ.com",
+      "summary": "Pro Bankruptcy Bankruptcy\n\n### Spirit Flight Attendants Fight Google’s Data Bid for AI\n\nThe flight attendants want assurance that their confidential i...",
+      "url": "https://www.wsj.com/tech/ai",
+      "source": "wsj",
+      "sourceUrl": "https://www.wsj.com/tech/ai",
+      "credibility": "P2",
+      "publishedAt": "2026-08-29T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1787984157881-1",
-      "title": "Daily Papers",
-      "summary": "Building general-purpose models that can perceive diverse real-world\nmodalities and solve various tasks is an appealing target in artificial\nintellige...",
-      "url": "https://huggingface.co/papers?q=multimodal+humor",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=multimodal+humor",
-      "credibility": "P0",
-      "publishedAt": "2026-08-28T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1787984157881-7",
-      "title": "AI (artificial intelligence) | The Guardian",
-      "summary": "## 26 August 2026\n\n ### OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm\n ### Grogonomics What will we get out ...",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "theguardian",
-      "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-29T04:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787984157881-6",
-      "title": "Machine Learning",
-      "summary": "Press Enter to search · Advanced search\n\n# Machine Learning\n\n## Authors and titles for recent submissions\n\n Fri, 28 Aug 2026\n Thu, 27 Aug 2026\n Wed, 2...",
-      "url": "https://arxiv.org/list/cs.LG/recent",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs.LG/recent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1787984157881-8",
-      "title": "Computation and Language - arXiv",
-      "summary": "archive\n\n# Computation and Language\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showing first 50 of ...",
-      "url": "https://arxiv.org/list/cs.CL/recent",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs.CL/recent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "arXiv"
-      ]
-    },
-    {
-      "id": "news-1787984157881-9",
-      "title": "Computer Science",
-      "summary": "archive\n\n# Computer Science\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Fri, 28 Aug 2026 (showing first 50 of 695 entr...",
-      "url": "https://arxiv.org/list/cs/recent",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs/recent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T13:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1787984157881-3",
-      "title": "Valuation Surges to $4 Billion USD: Real-Time Interactive ...",
-      "summary": "In the past, DLMs were mostly small models with billions of parameters. Ant Group's LlaDA 2.0 has for the first time upgraded it to the level of hundr...",
-      "url": "https://eu.36kr.com/en/p/3958994803457412",
+      "id": "news-1788063879782-1",
+      "title": "Anthropic Pursues Advanced AI Training Chips",
+      "summary": "Seeing this news, netizens have expressed their views one after another: after OpenAI comes Anthropic, \"now large model companies are all starting to ...",
+      "url": "https://eu.36kr.com/en/p/3960108652297353",
       "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3958994803457412",
+      "sourceUrl": "https://eu.36kr.com/en/p/3960108652297353",
       "credibility": "P2",
-      "publishedAt": "2026-08-28T11:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1787984157881-4",
-      "title": "Separating Action Induction from Runtime Authorization in ...",
-      "summary": "Large language models are evolving from text generators into agents that can act in real-world environments through external tools.\nRecent Agent syste...",
-      "url": "https://arxiv.org/html/2608.27146v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.27146v1",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1787984157881-5",
-      "title": "DeepRepro: State-Aware Subplanning for Paper-to-Code ...",
-      "summary": "Recent advances in agentic large language models (LLMs) have enabled increasingly autonomous software engineering workflows, yet automatic machine lea...",
-      "url": "https://arxiv.org/html/2608.26557",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2608.26557",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T08:00:00.000Z",
+      "publishedAt": "2026-08-29T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "LLM"
+        "Claude",
+        "AI"
       ]
-    },
-    {
-      "id": "news-1787984157881-10",
-      "title": "Computer Vision and Pattern Recognition",
-      "summary": "archive\n\n# Computer Vision and Pattern Recognition\n\n## Authors and titles for recent submissions\n\nSee today's new changes\n\n### Wed, 26 Aug 2026 (showi...",
-      "url": "https://arxiv.org/list/cs.CV/recent",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/list/cs.CV/recent",
-      "credibility": "P2",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "category": "tech",
-      "tags": []
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 8
+    "p2Count": 3
   },
-  "summary": "🔥 官方动态：3条（huggingface等）"
+  "summary": ""
 }
