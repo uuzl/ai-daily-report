@@ -1,60 +1,29 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T04:24:39.782Z",
-  "totalItems": 3,
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T04:29:27.356Z",
+  "totalItems": 1,
   "items": [
     {
-      "id": "news-1788063879782-2",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen ...",
-      "summary": "+ Dominic-Madori Davis\n  \n\n  Biotech & Health\n\n  ### “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z\n\n...",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "id": "news-1788150567356-0",
+      "title": "August 2026 | Page 4 of 17",
+      "summary": "+ Rebecca Bellan\n  \n\n  AI\n\n  ### OpenAI is building AI agents for everything. Will everyone use them?\n\n  + Tim Fernholz\n A blue Chevrolet Equinox EV p...",
+      "url": "https://techcrunch.com/2026/08/page/4",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "sourceUrl": "https://techcrunch.com/2026/08/page/4",
       "credibility": "P2",
-      "publishedAt": "2026-08-29T18:41:59.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788063879782-0",
-      "title": "Artificial Intelligence - Latest AI News and Analysis - WSJ.com",
-      "summary": "Pro Bankruptcy Bankruptcy\n\n### Spirit Flight Attendants Fight Google’s Data Bid for AI\n\nThe flight attendants want assurance that their confidential i...",
-      "url": "https://www.wsj.com/tech/ai",
-      "source": "wsj",
-      "sourceUrl": "https://www.wsj.com/tech/ai",
-      "credibility": "P2",
-      "publishedAt": "2026-08-29T07:00:00.000Z",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788063879782-1",
-      "title": "Anthropic Pursues Advanced AI Training Chips",
-      "summary": "Seeing this news, netizens have expressed their views one after another: after OpenAI comes Anthropic, \"now large model companies are all starting to ...",
-      "url": "https://eu.36kr.com/en/p/3960108652297353",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3960108652297353",
-      "credibility": "P2",
-      "publishedAt": "2026-08-29T06:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
+        "AI",
+        "Agent"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 1
   },
   "summary": ""
 }
