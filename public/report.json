@@ -1,29 +1,250 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T04:29:27.356Z",
-  "totalItems": 1,
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T04:12:22.657Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1788150567356-0",
-      "title": "August 2026 | Page 4 of 17",
-      "summary": "+ Rebecca Bellan\n  \n\n  AI\n\n  ### OpenAI is building AI agents for everything. Will everyone use them?\n\n  + Tim Fernholz\n A blue Chevrolet Equinox EV p...",
-      "url": "https://techcrunch.com/2026/08/page/4",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/page/4",
-      "credibility": "P2",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "id": "news-1788235942656-4",
+      "title": "Daily Papers",
+      "summary": "This paper reviews the state-of-the-art of language models architectures and\nstrategies for \"complex\" question-answering (QA, CQA, CPS) with a focus o...",
+      "url": "https://huggingface.co/papers?q=multi-account+QA",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=multi-account+QA",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-5",
+      "title": "Daily Papers",
+      "summary": "Frontier model developers aim to train models continually to possess emergent, diverse capabilities. To extend capabilities, the current pre-training ...",
+      "url": "https://huggingface.co/papers?q=evolution+pool",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=evolution+pool",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1788235942656-6",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in\nthe fiel...",
+      "url": "https://huggingface.co/papers?q=sparse+RoPE",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=sparse+RoPE",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1788235942656-10",
+      "title": "Daily Papers",
+      "summary": "### LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model [...] Artificial Intelligence (AI) has made incredible progres...",
+      "url": "https://huggingface.co/papers?q=stratifying+tasks",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=stratifying+tasks",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1788235942656-13",
+      "title": "Daily Papers",
+      "summary": "vrg-prague\n\n### Neural Probe-Based Hallucination Detection for Large Language Models [...] Foundation Models are neural networks that are capable of s...",
+      "url": "https://huggingface.co/papers?q=dense+probes",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=dense+probes",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1788235942656-0",
+      "title": "Daily Papers",
+      "summary": "Large language models (LLMs) are rapidly increasing in size, with the number\nof parameters becoming a key factor in the success of many commercial mod...",
+      "url": "https://huggingface.co/papers?q=Falcon-2",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Falcon-2",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-1",
+      "title": "Daily Papers",
+      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
+      "url": "https://huggingface.co/papers?q=Falcon-1",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Falcon-1",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-2",
+      "title": "Daily Papers",
+      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
+      "url": "https://huggingface.co/papers?q=Falcon-3",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Falcon-3",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1788235942656-9",
+      "title": "Daily Papers",
+      "summary": "Learning how the world works is central to building AI agents that can adapt\nto complex environments. Traditional world models based on deep learning ...",
+      "url": "https://huggingface.co/papers?q=executable+world+representations",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=executable+world+representations",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
         "Agent"
+      ]
+    },
+    {
+      "id": "news-1788235942656-3",
+      "title": "Daily Papers",
+      "summary": "Recent advances in large language models (LLMs), particularly those enhanced\nthrough reinforced post-training, have demonstrated impressive reasoning\n...",
+      "url": "https://huggingface.co/papers?q=Code-as-World",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Code-as-World",
+      "credibility": "P0",
+      "publishedAt": "2026-08-31T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1788235942656-11",
+      "title": "AI Implementation Dilemma in Retail E-Commerce",
+      "summary": "The problem is that in the drive-thru ordering scenario, car engine noise, rain and wind noise, and various external noises from adjacent lanes seriou...",
+      "url": "https://eu.36kr.com/en/p/3963409388574598",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3963409388574598",
+      "credibility": "P2",
+      "publishedAt": "2026-08-31T23:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1788235942656-14",
+      "title": "New York Governor Kathy Hochul: AI should be “less evil”",
+      "summary": "I just laid out, “This is what I need, this is the team I need.” Now that was five years ago. I’ve gotten a little better. I’d probably ask Claude or ...",
+      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "credibility": "P2",
+      "publishedAt": "2026-08-31T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-8",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "Anthropic was illegally blacklisted by the Trump administration, court rules\n\nHayden Field\n\nGoogle’s AI note-taking app now allows you to interact wit...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "credibility": "P2",
+      "publishedAt": "2026-08-31T13:27:36.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-15",
+      "title": "Honda, Nissan target rollout of joint vehicle software in ...",
+      "summary": "## Read Next\n\nIllustration shows OpenAI logo\nCXMT chipmaker production facility in Beijing\nIllustration shows AI (Artificial Intelligence) letters and...",
+      "url": "https://www.reuters.com/technology/honda-nissan-target-fy2029-roll-out-jointly-developed-vehicle-software-control-2026-08-31",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/honda-nissan-target-fy2029-roll-out-jointly-developed-vehicle-software-control-2026-08-31",
+      "credibility": "P2",
+      "publishedAt": "2026-08-31T09:17:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788235942656-7",
+      "title": "The Ultimate End Game of ChatGPT & Codex Integration Is ...",
+      "summary": "While shutting down redundant products, the two most competitive business lines are merged and handed over to the same person.\n\nBehind this is the shi...",
+      "url": "https://eu.36kr.com/en/p/3963128032837001",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3963128032837001",
+      "credibility": "P2",
+      "publishedAt": "2026-08-31T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 10,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 5
   },
-  "summary": ""
+  "summary": "🔥 官方动态：10条（huggingface等）"
 }
