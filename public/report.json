@@ -1,250 +1,161 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T04:12:22.657Z",
-  "totalItems": 15,
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T03:34:57.361Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1788235942656-4",
-      "title": "Daily Papers",
-      "summary": "This paper reviews the state-of-the-art of language models architectures and\nstrategies for \"complex\" question-answering (QA, CQA, CPS) with a focus o...",
-      "url": "https://huggingface.co/papers?q=multi-account+QA",
+      "id": "news-1788320097360-6",
+      "title": "fkfo (X)",
+      "summary": "Face Models Datasets Spaces. Follow AI & ML interests … in about 10 hours models. Models Datasets Spaces Pricing Docs",
+      "url": "https://huggingface.co/fkfo",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=multi-account+QA",
+      "sourceUrl": "https://huggingface.co/fkfo",
       "credibility": "P0",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "publishedAt": "2026-09-02T03:34:57.360Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1788235942656-5",
-      "title": "Daily Papers",
-      "summary": "Frontier model developers aim to train models continually to possess emergent, diverse capabilities. To extend capabilities, the current pre-training ...",
-      "url": "https://huggingface.co/papers?q=evolution+pool",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=evolution+pool",
+      "id": "news-1788320097360-1",
+      "title": "Hugging Face Forums - Hugging Face Community Discussion",
+      "summary": "| A theoretical systems white paper outlining a four-part pipeline to eliminate Softmax denominator bloat, semantic compression loss, and hardware I/O...",
+      "url": "https://discuss.huggingface.co",
+      "source": "discuss",
+      "sourceUrl": "https://discuss.huggingface.co",
       "credibility": "P0",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1788235942656-6",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in\nthe fiel...",
-      "url": "https://huggingface.co/papers?q=sparse+RoPE",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=sparse+RoPE",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1788235942656-10",
-      "title": "Daily Papers",
-      "summary": "### LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model [...] Artificial Intelligence (AI) has made incredible progres...",
-      "url": "https://huggingface.co/papers?q=stratifying+tasks",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=stratifying+tasks",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1788235942656-13",
-      "title": "Daily Papers",
-      "summary": "vrg-prague\n\n### Neural Probe-Based Hallucination Detection for Large Language Models [...] Foundation Models are neural networks that are capable of s...",
-      "url": "https://huggingface.co/papers?q=dense+probes",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=dense+probes",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1788235942656-0",
-      "title": "Daily Papers",
-      "summary": "Large language models (LLMs) are rapidly increasing in size, with the number\nof parameters becoming a key factor in the success of many commercial mod...",
-      "url": "https://huggingface.co/papers?q=Falcon-2",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Falcon-2",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788235942656-1",
-      "title": "Daily Papers",
-      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
-      "url": "https://huggingface.co/papers?q=Falcon-1",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Falcon-1",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788235942656-2",
-      "title": "Daily Papers",
-      "summary": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ...",
-      "url": "https://huggingface.co/papers?q=Falcon-3",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Falcon-3",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1788235942656-9",
-      "title": "Daily Papers",
-      "summary": "Learning how the world works is central to building AI agents that can adapt\nto complex environments. Traditional world models based on deep learning ...",
-      "url": "https://huggingface.co/papers?q=executable+world+representations",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=executable+world+representations",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T06:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
         "Agent"
       ]
     },
     {
-      "id": "news-1788235942656-3",
-      "title": "Daily Papers",
-      "summary": "Recent advances in large language models (LLMs), particularly those enhanced\nthrough reinforced post-training, have demonstrated impressive reasoning\n...",
-      "url": "https://huggingface.co/papers?q=Code-as-World",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Code-as-World",
-      "credibility": "P0",
-      "publishedAt": "2026-08-31T05:00:00.000Z",
+      "id": "news-1788320097360-4",
+      "title": "安琪酵母：拟投资9.7亿元实施酵母蛋白核心技术攻关工程项目",
+      "summary": "### 下一篇\n\n市场监管总局公开征求《网络交易小程序平台合规指引（征求意见稿）》意见\n\n36氪获悉，为贯彻落实党中央、国务院关于提升平台经济常态化监管水平的决策部署，市场监管总局研究起草了《网络交易小程序平台合规指引（征求意见稿）》，现向社会公开征求意见。《指引》共19条。第一条至第三条是对《指引...",
+      "url": "https://36kr.com/newsflashes/3964593091468801",
+      "source": "36kr",
+      "sourceUrl": "https://36kr.com/newsflashes/3964593091468801",
+      "credibility": "P2",
+      "publishedAt": "2026-09-02T03:34:57.360Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "OpenCL",
+        "研究"
       ]
     },
     {
-      "id": "news-1788235942656-11",
-      "title": "AI Implementation Dilemma in Retail E-Commerce",
-      "summary": "The problem is that in the drive-thru ordering scenario, car engine noise, rain and wind noise, and various external noises from adjacent lanes seriou...",
-      "url": "https://eu.36kr.com/en/p/3963409388574598",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3963409388574598",
+      "id": "news-1788320097360-7",
+      "title": "一片叶片卡住AI供电，SpaceX决定亲自下场，普通人的电费 ...",
+      "summary": "SpaceX计划在美国得州建设燃气轮机叶片铸造工厂。随着AI数据中心用电需求激增，燃气轮机供不应求，其中最难生产的叶片成为关键瓶颈。 全文. 个人观点仅供参考.",
+      "url": "https://www.36kr.com/video/3964299153282948",
+      "source": "36kr",
+      "sourceUrl": "https://www.36kr.com/video/3964299153282948",
       "credibility": "P2",
-      "publishedAt": "2026-08-31T23:00:00.000Z",
+      "publishedAt": "2026-09-02T03:34:57.360Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1788235942656-14",
-      "title": "New York Governor Kathy Hochul: AI should be “less evil”",
-      "summary": "I just laid out, “This is what I need, this is the team I need.” Now that was five years ago. I’ve gotten a little better. I’d probably ask Claude or ...",
-      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "credibility": "P2",
-      "publishedAt": "2026-08-31T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1788235942656-8",
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "summary": "Anthropic was illegally blacklisted by the Trump administration, court rules\n\nHayden Field\n\nGoogle’s AI note-taking app now allows you to interact wit...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "id": "news-1788320097360-9",
+      "title": "Watch The Big Interview: Los Polinesios",
+      "summary": "The Big Interview: Los Polinesios\n\nBuscar\n\n Inteligencia Artificial\n Ciencia\n Negocios\n Cultura\n Gadgets\n Ideas\n Medio Ambiente\n Seguridad\n Politica\n\n...",
+      "url": "https://es.wired.com/video/watch/the-big-interview-los-polinesios",
+      "source": "es",
+      "sourceUrl": "https://es.wired.com/video/watch/the-big-interview-los-polinesios",
       "credibility": "P2",
-      "publishedAt": "2026-08-31T13:27:36.000Z",
+      "publishedAt": "2026-09-02T03:34:57.360Z",
       "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
+      "tags": []
     },
     {
-      "id": "news-1788235942656-15",
-      "title": "Honda, Nissan target rollout of joint vehicle software in ...",
-      "summary": "## Read Next\n\nIllustration shows OpenAI logo\nCXMT chipmaker production facility in Beijing\nIllustration shows AI (Artificial Intelligence) letters and...",
-      "url": "https://www.reuters.com/technology/honda-nissan-target-fy2029-roll-out-jointly-developed-vehicle-software-control-2026-08-31",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/honda-nissan-target-fy2029-roll-out-jointly-developed-vehicle-software-control-2026-08-31",
+      "id": "news-1788320097360-0",
+      "title": "Open AI's Astra model is on the way—and very good at breaking into computer systems | TechCrunch",
+      "summary": "Tim Fernholz\n\nOpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical...",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
       "credibility": "P2",
-      "publishedAt": "2026-08-31T09:17:03.000Z",
+      "publishedAt": "2026-09-01T21:06:24.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI"
+        "AI",
+        "LLM"
       ]
     },
     {
-      "id": "news-1788235942656-7",
-      "title": "The Ultimate End Game of ChatGPT & Codex Integration Is ...",
-      "summary": "While shutting down redundant products, the two most competitive business lines are merged and handed over to the same person.\n\nBehind this is the shi...",
-      "url": "https://eu.36kr.com/en/p/3963128032837001",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3963128032837001",
+      "id": "news-1788320097360-5",
+      "title": "给增长开药方中药老字号的钱该花在哪里",
+      "summary": "Image 1: 36氪\n\n[](\n\n登录\n\n搜索\n\n   36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌 \n   企业...",
+      "url": "https://m.36kr.com/video/3964750158468997",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/video/3964750158468997",
       "credibility": "P2",
-      "publishedAt": "2026-08-31T09:00:00.000Z",
+      "publishedAt": "2026-09-01T20:40:08.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "研究"
+      ]
+    },
+    {
+      "id": "news-1788320097360-8",
+      "title": "孙宇晨的瓜里 藏着普通人最后的机会?_精彩视频为您呈现_36氪",
+      "summary": "Image 1: 36氪\n\n[](\n\n登录\n\n搜索\n\n   36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌 \n   企业...",
+      "url": "https://www.36kr.com/video/3959073937708680",
+      "source": "36kr",
+      "sourceUrl": "https://www.36kr.com/video/3959073937708680",
+      "credibility": "P2",
+      "publishedAt": "2026-09-01T10:02:58.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "研究"
+      ]
+    },
+    {
+      "id": "news-1788320097360-3",
+      "title": "儒意电影海外成立寰映发行，《欢迎来龙餐馆》将登陆澳洲院线",
+      "summary": "该文观点仅代表作者本人，36氪平台仅提供信息存储空间服务。\n\n本文图片来自：企业授权\n\n好文章，需要你的鼓励\n\nTA没有写简介，但内敛也是一种表达\n\n### 最近内容\n\n## 36氪AI测评\n\n## 36氪项目推荐\n\n### 下一篇\n\n2026AI监管细化，办公Agent爆发，腾讯阿里抖音三足鼎立\n...",
+      "url": "http://www.36kr.com/p/3964311477230848",
+      "source": "36kr",
+      "sourceUrl": "http://www.36kr.com/p/3964311477230848",
+      "credibility": "P2",
+      "publishedAt": "2026-09-01T10:01:51.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1788320097360-2",
+      "title": "索尼和华纳把A社告上法庭一首歌最高获赔15万美元牛姐霉 ...",
+      "summary": "发布于：昨天\n\n内容简介\n\n个人观点仅供参考\n\n索尼与华纳起诉Anthropic及两名创始人，指控其通过盗版书库、网页抓取、第三方数据集和实体书扫描，复制数万首受保护的词曲作品。 案件尚未判决，Anthropic否认相关指控并表示将积极应诉。\n\n参与讨论\n\n评论千万条，友善第一条\n\n登录后参与讨论\n...",
+      "url": "https://www.36kr.com/video/3963270505518982",
+      "source": "36kr",
+      "sourceUrl": "https://www.36kr.com/video/3963270505518982",
+      "credibility": "P2",
+      "publishedAt": "2026-09-01T07:14:44.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "训练",
+        "研究"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 10,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 8
   },
-  "summary": "🔥 官方动态：10条（huggingface等）"
+  "summary": "🔥 官方动态：2条（huggingface等）"
 }
