@@ -1,93 +1,57 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T03:35:23.308Z",
-  "totalItems": 12,
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T03:36:24.582Z",
+  "totalItems": 6,
   "items": [
     {
-      "id": "news-1788579323307-8",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation - TechCrunch",
-      "summary": "So he teamed up with Shentu on a project called GELLO, a low-cost teleoperation system that allows a human operator to control a robotic arm remotely ...",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T23:36:14.000Z",
+      "id": "news-1788665784581-2",
+      "title": "GPT-6 Astra: A new generation of intelligence | OpenAI",
+      "summary": "61.2\n\n60.9\n\n65.7\n\n62.1\n\n63.1\n\n58.7\n\n### Coding\n\n| Coding | GPT‑6 Astra | GPT‑5.6 Sol | Claude Fable 5.1 | Claude Fable 5 | Claude Opus 5 | Gemini 3.8 ...",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra",
+      "credibility": "P0",
+      "publishedAt": "2026-09-05T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "LLM"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1788579323307-6",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them - TechCrunch",
-      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\n\nBack by popular demand: Save up to $300 on Disrupt...",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T23:15:11.000Z",
+      "id": "news-1788665784581-5",
+      "title": "‪QIANYUE ZHANG‬ - ‪Google 学术搜索‬",
+      "summary": "此“引用引文的出版物数量”计数包含了对学术搜索中以下文章的引用次数。带有\\标记的引文可能与个人学术档案中的文章有所区别。\n\n## 添加合著者合著作者\n\n## 关注\n\n我的个人学术档案我的图书馆统计指标快讯\n\n设置\n\n登录\n\n登录\n\n创建我的个人资料\n\n### 引用次数\n\n| 总计 | 2021 年至...",
+      "url": "https://scholar.google.com/citations?user=un5sp1cAAAAJ&hl=zh-CN",
+      "source": "scholar",
+      "sourceUrl": "https://scholar.google.com/citations?user=un5sp1cAAAAJ&hl=zh-CN",
+      "credibility": "P1",
+      "publishedAt": "2026-09-05T13:00:00.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1788579323307-4",
-      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters",
-      "summary": "© 2026 Reuters. All rights reserved\n\nReport AdImage 20\n\nImage 21Image 22Image 23Image 24Image 25Image 26Image 27Image 28Image 29Image 30Image 31Image ...",
-      "url": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T22:41:51.000Z",
-      "category": "product",
       "tags": []
     },
     {
-      "id": "news-1788579323307-9",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
-      "summary": "Loading comments...\n\nPrev story\n\nNext story\n\nMost Read\n\n1. 1. I rented a car, and within hours, my driver's license was for sale\n2. 2. Meet the 2026 I...",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "id": "news-1788665784581-3",
+      "title": "‪Ayoub KHODAR‬ - ‪Google Scholar‬",
+      "summary": "## Nombre de citations par an\n\n## Citations en double\n\n## Citations fusionnées\n\n## Ajouter les coauteursCoauteurs\n\n## \n\n## Suivre\n\nAyoub KHODAR\n\n|  | ...",
+      "url": "https://scholar.google.com/citations?user=yrQw-lgAAAAJ&hl=fr",
+      "source": "scholar",
+      "sourceUrl": "https://scholar.google.com/citations?user=yrQw-lgAAAAJ&hl=fr",
+      "credibility": "P1",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1788665784581-4",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki | Page 3 | Ars OpenForum",
+      "summary": "I’m also thinking about what happens when Anthropic, OpenAI, et al. need to start repaying investors the trillions of dollars they have been promising...",
+      "url": "https://arstechnica.com/civis/threads/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.1514673/page-3",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "sourceUrl": "https://arstechnica.com/civis/threads/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.1514673/page-3",
       "credibility": "P2",
-      "publishedAt": "2026-09-04T22:17:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1788579323307-10",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing - TechCrunch",
-      "summary": "REGISTER NOW\n\n### Newsletters\n\nSee More\n\nSubscribe for the industry’s biggest tech news\n\n## Related\n\n Social\n\n  ### Judge blocks X rival from using Tw...",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T21:12:11.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1788579323307-5",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge - TechCrunch",
-      "summary": "After OpenAI revealed that agents working on an internal evaluation were able to access the open internet and exploit Hugging Face, a group of researc...",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T16:21:11.000Z",
+      "publishedAt": "2026-09-05T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -96,28 +60,14 @@
       ]
     },
     {
-      "id": "news-1788579323307-11",
-      "title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n   23 hours agoGovernment categoryUS court says Gulf of Mexico fishery council has too much ...",
-      "url": "https://www.reuters.com/legal/litigation/musks-xai-loses-court-bid-block-minnesotas-ai-nudification-ban-2026-09-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/musks-xai-loses-court-bid-block-minnesotas-ai-nudification-ban-2026-09-04/",
+      "id": "news-1788665784581-0",
+      "title": "OpenAI Agents Hacked Another Website | WIRED",
+      "summary": "OpenAI said this week that its Astra model, which will have a private release soon, is its first model with cybersecurity-related capabilities that th...",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
       "credibility": "P2",
-      "publishedAt": "2026-09-04T16:06:58.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788579323307-3",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot - The Verge",
-      "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n Lauren Feiner\n\n## M...",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T16:05:57.000Z",
+      "publishedAt": "2026-09-05T10:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -126,74 +76,26 @@
       ]
     },
     {
-      "id": "news-1788579323306-2",
-      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI - The Verge",
-      "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n Robert Hart\n\n## Mos...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T13:34:12.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1788579323306-0",
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users - The Verge",
-      "summary": "ChatGPT, Grok, and Claude all went down at the same time\n\nMicrosoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers\n\nTom Wa...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T10:41:48.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1788579323307-7",
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nOpenAI has pledged to monitor models ​more closely. Last month, it briefly pausedsome of its model training to add...",
-      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-04T10:03:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1788579323306-1",
-      "title": "The sameness problem behind those unappetizing AI-generated menus - TechCrunch",
-      "summary": "Lisle says that the way these models are built can help explain why illustrations seem to embrace such a specific aesthetic — one where every ice crea...",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "id": "news-1788665784581-1",
+      "title": "Russell Brandom, Author at TechCrunch | Page 5 of 6",
+      "summary": "AI\n\n  ### Anthropic hires new CTO with focus on AI infrastructure\n\n  + Russell Brandom\n The OpenAI logo is seen displayed on a smartphone screen. \n\n  ...",
+      "url": "https://techcrunch.com/author/russell-brandom/page/5?__hstc=39372796.3b234a37c16c412e70569b33b9831c33.1762732803224.1762732803225.1762732803226.1&__hssc=39372796.1.1762732803227&__hsfp=3006156910",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "sourceUrl": "https://techcrunch.com/author/russell-brandom/page/5?__hstc=39372796.3b234a37c16c412e70569b33b9831c33.1762732803224.1762732803225.1762732803226.1&__hssc=39372796.1.1762732803227&__hsfp=3006156910",
       "credibility": "P2",
-      "publishedAt": "2026-09-04T04:21:03.000Z",
+      "publishedAt": "2026-09-05T04:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "DeepSeek"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
-    "p1Count": 0,
-    "p2Count": 12
+    "p0Count": 1,
+    "p1Count": 2,
+    "p2Count": 3
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（openai等） | 💡 技术深挖：2条（scholar等）"
 }
