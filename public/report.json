@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T03:36:29.056Z",
-  "totalItems": 6,
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T03:41:12.203Z",
+  "totalItems": 8,
   "items": [
     {
-      "id": "news-1788752189055-1",
-      "title": "GPT-6 Astra: A new generation of intelligence | OpenAI",
-      "summary": "61.2\n\n60.9\n\n65.7\n\n62.1\n\n63.1\n\n58.7\n\n### Coding\n\n| Coding | GPT‑6 Astra | GPT‑5.6 Sol | Claude Fable 5.1 | Claude Fable 5 | Claude Opus 5 | Gemini 3.8 ...",
+      "id": "news-1788838872203-3",
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "openai",
       "sourceUrl": "https://openai.com/index/gpt-6-astra",
       "credibility": "P0",
-      "publishedAt": "2026-09-07T03:00:00.000Z",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,30 +20,44 @@
       ]
     },
     {
-      "id": "news-1788752189055-0",
-      "title": "PASS (Pattern Analysis Skill System) 1.0.0-beta.1 - Community - OpenAI Developer Community",
-      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| Connect a Personal GitHub Account and Multiple Organizations to ChatGPT, Codex (and Claude)  Co...",
-      "url": "https://community.openai.com/t/pass-pattern-analysis-skill-system-1-0-0-beta-1/1395336",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/pass-pattern-analysis-skill-system-1-0-0-beta-1/1395336",
-      "credibility": "P0",
-      "publishedAt": "2026-09-06T20:07:19.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1788752189056-4",
-      "title": "best-ai-humanizer-2026-tested (Best AI Humanizer 2026: I Tested 9 Tools on Turnitin's New Bypasser Detection)",
-      "summary": "## Related Topics\n\nai humanizer, best ai humanizer 2026, humanize ai text, bypass turnitin ai, undetectable ai review, humanizerpro review, phrasly ai...",
-      "url": "https://huggingface.co/best-ai-humanizer-2026-tested",
+      "id": "news-1788838872203-7",
+      "title": "Hydro x AI Reading 2026-09-07 - a Hugging Face Space by hydros-ou",
+      "summary": "Summary摘要. A browser-based platform that carries a hydrologic study end to end — adaptive watershed delineation, forcing-data generation,",
+      "url": "https://huggingface.co/spaces/hydros-ou/hydro-ai-reading-2026-09-07",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/best-ai-humanizer-2026-tested",
+      "sourceUrl": "https://huggingface.co/spaces/hydros-ou/hydro-ai-reading-2026-09-07",
       "credibility": "P0",
-      "publishedAt": "2026-09-06T16:00:00.000Z",
+      "publishedAt": "2026-09-07T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1788838872202-2",
+      "title": "Big Tech Giants Are Utterly Fed Up with AI: The Growing Backlash Against Uncontrolled Artificial Intelligence Development",
+      "summary": "What are capital goods? They refer to assets such as chips, computing power, and model training facilities. Their value depreciates rapidly as technol...",
+      "url": "https://eu.36kr.com/en/p/3973914453405955",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3973914453405955",
+      "credibility": "P2",
+      "publishedAt": "2026-09-08T02:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1788838872202-0",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "[See: Training]\n\n## Large language model (LLM)\n\nLarge language models, or LLMs, are the AI models used by popular AI assistants, such as ChatGPT, Clau...",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+      "credibility": "P2",
+      "publishedAt": "2026-09-07T19:24:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -52,14 +66,30 @@
       ]
     },
     {
-      "id": "news-1788752189056-3",
-      "title": "An Alien Mind | OpenAI",
-      "summary": "Three years later, reasoning language models are a rapidly growing part of the economy and starting to push the boundaries of science. They are able t...",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/an-alien-mind",
-      "credibility": "P0",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "id": "news-1788838872203-5",
+      "title": "\"Subscribing to an API can never remedy mediocre management!\" Jensen Huang stated bluntly, AGI is just like a genius newly graduated PhD, and it is sheer fantasy to sit back with your legs crossed waiting for efficiency to double.",
+      "summary": "Put this agent into a machine with four wheels, and you have an autonomous driving car; put this agent into a robotic arm, and it becomes an industria...",
+      "url": "https://eu.36kr.com/en/p/3973247298515207",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3973247298515207",
+      "credibility": "P2",
+      "publishedAt": "2026-09-07T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1788838872203-6",
+      "title": "Embodied In-Context Learning (ICL) Emerges: Surge of Startup Players Propels the Context Sector into a New High-Growth Scaling Track",
+      "summary": "In 2020, OpenAI proposed ICL in its GPT-3 paper Language Models are Few‑Shot Learners, defining it as a capability: without any parameter updates to t...",
+      "url": "https://eu.36kr.com/en/p/3971526495826435",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3971526495826435",
+      "credibility": "P2",
+      "publishedAt": "2026-09-07T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,40 +98,42 @@
       ]
     },
     {
-      "id": "news-1788752189056-2",
-      "title": "Is Hugging Face Too Important to Let NVIDIA Acquire It? Jensen Huang Reveals Original Plan to Keep It Independent Amid Multiple Bidders",
-      "summary": "Delangue: That incident made us fully see the core value of open source models. At that time, we found that relying only on closed-source proprietary ...",
-      "url": "https://eu.36kr.com/en/p/3969889317974536",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3969889317974536",
+      "id": "news-1788838872203-4",
+      "title": "[PDF] Compact-Memory LLM Agents via Online Max-Member Clustering ...",
+      "summary": "Pengfei Du. Memory for autonomous LLM agents: Mechanisms, evaluation, and emerging frontiers.\narXiv preprint arXiv:2603.07670, 2026.\n Bernd Fritzke.\nA...",
+      "url": "https://arxiv.org/pdf/2609.04915",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.04915",
       "credibility": "P2",
-      "publishedAt": "2026-09-07T01:00:00.000Z",
+      "publishedAt": "2026-09-07T05:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI"
+        "AI",
+        "LLM",
+        "Agent"
       ]
     },
     {
-      "id": "news-1788752189056-5",
-      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit | WIRED",
-      "summary": "Read More\n\nCandidates Are Signing a Pact Promising Action on Data Centers and AI Safety\n\nMore than 15 politicians from across the country have signed ...",
-      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts",
+      "id": "news-1788838872202-1",
+      "title": "[PDF] Corporate Language Model (CLM): Transforming Tacit and ... - arXiv",
+      "summary": "large enterprise language models via ontological reasoning. arXiv preprint arXiv:2306.10723.  Ma, C., Chen, Y., Wu, T., Khan, A., & Wang, H. (2025). L...",
+      "url": "https://arxiv.org/pdf/2609.04377",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.04377",
       "credibility": "P2",
-      "publishedAt": "2026-09-06T10:00:00.000Z",
+      "publishedAt": "2026-09-07T04:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI"
+        "AI",
+        "LLM",
+        "Agent"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 4,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 6
   },
-  "summary": "🔥 官方动态：4条（openai等）"
+  "summary": "🔥 官方动态：2条（openai等）"
 }
