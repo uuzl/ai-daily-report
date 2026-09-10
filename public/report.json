@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T03:48:07.559Z",
-  "totalItems": 3,
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T03:44:31.530Z",
+  "totalItems": 11,
   "items": [
     {
-      "id": "news-1788925687559-2",
-      "title": "On the Navier–Stokes Millennium Prize Problem | OpenAI",
-      "summary": "## Concurrent work\n\nOur effort began on September 1st after hearing a rumor which we later realized was related to Levent Alpöge, an Anthropic employe...",
-      "url": "https://openai.com/index/navier-stokes-solution",
+      "id": "news-1789011871529-2",
+      "title": "The AI policy window is open. We need to act. - OpenAI",
+      "summary": "Strengthening Democratic Oversight in National Security Global Affairs Aug 18, 2026\n\nResearch\n   Research Index\n   Research Overview\n   Economic Resea...",
+      "url": "https://openai.com/index/ai-policy-window/",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/navier-stokes-solution",
+      "sourceUrl": "https://openai.com/index/ai-policy-window/",
       "credibility": "P0",
-      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "publishedAt": "2026-09-09T23:56:53.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,42 +20,169 @@
       ]
     },
     {
-      "id": "news-1788925687559-1",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU ...",
-      "summary": "NYU mathematics professor Tristan Buckmaster announced three proofs on Tuesday with a preliminary finding on one of the major unsolved problems in the...",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "id": "news-1789011871529-4",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors - TechCrunch",
+      "summary": "Christiano will join the board’s Safety and Security Committee, led by Carnegie Mellon University professor Zico Kolter. The committee has the final s...",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "credibility": "P2",
-      "publishedAt": "2026-09-08T17:32:15.000Z",
+      "publishedAt": "2026-09-09T22:25:22.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-3",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED",
+      "summary": "So you’ve clearly garnered a lot of attention. There's a lot of talk in the industry about a pause or a mechanism to pace AI development, or some sort...",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T22:11:55.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-10",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia - The Verge",
+      "summary": "But the timing of the announcement has raised eyebrows. Just one day earlier, New York University mathematics professor Tristan Buckmaster published f...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T21:16:34.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789011871529-5",
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\" - Ars Technica",
+      "summary": "Last month, OpenAI said it had “temporarily slowed the pace of scaling” for its upcoming models to “further harden and red-team our research environme...",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T16:59:40.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1789011871529-9",
+      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - AI agents unleashed by Open...",
+      "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T16:03:28.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-7",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
+      "summary": "Anthropic and OpenAI aren’t the only companies actively chasing recursive self-improvement. A wave of startups has launched in recent months, with ped...",
+      "url": "https://techcrunch.com/?p=3161915",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/?p=3161915",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T15:02:47.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-8",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
+      "summary": "Anthropic and OpenAI aren’t the only companies actively chasing recursive self-improvement. A wave of startups has launched in recent months, with ped...",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T15:02:47.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-1",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. - Ars Technica",
+      "summary": "Those updates focused on mitigating mental health concerns such as psychosis or mania, detecting risks of suicide or self-harm, and reducing users’ “e...",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T11:00:10.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789011871529-6",
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’ - theverge.com",
+      "summary": "In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax ...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T09:56:28.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789011871529-0",
+      "title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation - Reuters",
+      "summary": "The cooperation comes as Samsung broadens its use of generative AI. The company said in June that workers in its Device eXperience division, which ​ov...",
+      "url": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-09T05:58:17.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1788925687559-0",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the ...",
-      "summary": "A shorter release schedule would help keep the “N-day” patch gap — the gap between when a security vulnerability is known and when it gets patched — a...",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "credibility": "P2",
-      "publishedAt": "2026-09-08T15:04:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 10
   },
   "summary": "🔥 官方动态：1条（openai等）"
 }
