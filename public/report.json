@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T03:44:31.530Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T03:42:04.121Z",
   "totalItems": 11,
   "items": [
     {
-      "id": "news-1789011871529-2",
-      "title": "The AI policy window is open. We need to act. - OpenAI",
-      "summary": "Strengthening Democratic Oversight in National Security Global Affairs Aug 18, 2026\n\nResearch\n   Research Index\n   Research Overview\n   Economic Resea...",
-      "url": "https://openai.com/index/ai-policy-window/",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/ai-policy-window/",
-      "credibility": "P0",
-      "publishedAt": "2026-09-09T23:56:53.000Z",
+      "id": "news-1789098124120-7",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand - TechCrunch",
+      "summary": "Demand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, cit...",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T20:59:51.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,169 +20,167 @@
       ]
     },
     {
-      "id": "news-1789011871529-4",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors - TechCrunch",
-      "summary": "Christiano will join the board’s Safety and Security Committee, led by Carnegie Mellon University professor Zico Kolter. The committee has the final s...",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "id": "news-1789098124120-1",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek - TechCrunch",
+      "summary": "A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months...",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "credibility": "P2",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-3",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED",
-      "summary": "So you’ve clearly garnered a lot of attention. There's a lot of talk in the industry about a pause or a mechanism to pace AI development, or some sort...",
-      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T22:11:55.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-10",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia - The Verge",
-      "summary": "But the timing of the announcement has raised eyebrows. Just one day earlier, New York University mathematics professor Tristan Buckmaster published f...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T21:16:34.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789011871529-5",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\" - Ars Technica",
-      "summary": "Last month, OpenAI said it had “temporarily slowed the pace of scaling” for its upcoming models to “further harden and red-team our research environme...",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T16:59:40.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1789011871529-9",
-      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - AI agents unleashed by Open...",
-      "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T16:03:28.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-7",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
-      "summary": "Anthropic and OpenAI aren’t the only companies actively chasing recursive self-improvement. A wave of startups has launched in recent months, with ped...",
-      "url": "https://techcrunch.com/?p=3161915",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/?p=3161915",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T15:02:47.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-8",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
-      "summary": "Anthropic and OpenAI aren’t the only companies actively chasing recursive self-improvement. A wave of startups has launched in recent months, with ped...",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T15:02:47.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-1",
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. - Ars Technica",
-      "summary": "Those updates focused on mitigating mental health concerns such as psychosis or mania, detecting risks of suicide or self-harm, and reducing users’ “e...",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T11:00:10.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789011871529-6",
-      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’ - theverge.com",
-      "summary": "In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T09:56:28.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789011871529-0",
-      "title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation - Reuters",
-      "summary": "The cooperation comes as Samsung broadens its use of generative AI. The company said in June that workers in its Device eXperience division, which ​ov...",
-      "url": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-09T05:58:17.000Z",
-      "category": "tech",
+      "publishedAt": "2026-09-10T20:57:30.000Z",
+      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1789098124120-6",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you - TechCrunch",
+      "summary": "Anthropic’s latest report about agentic misbehavior offers plenty to be concerned about—its Mythos 5 model gained unauthorized access to the internet ...",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T17:54:44.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789098124120-0",
+      "title": "OpenAI Debuts Financial Tool Tailored to Investment Bankers - Bloomberg.com",
+      "summary": "AI\n\n# OpenAI Debuts Financial Tool Tailored to Investment Bankers\n\n## Takeaways by Bloomberg AISubscribe\n\nOpenAI is releasing ChatGPT for Financial Se...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-debuts-chatgpt-for-financial-services-an-investment-banker-tool",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/openai-debuts-chatgpt-for-financial-services-an-investment-banker-tool",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T17:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-3",
+      "title": "OpenAI launches ChatGPT for financial services industry - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - OpenAI on...",
+      "url": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T17:29:48.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-2",
+      "title": "AI agents are flooding public services with new requests - TechCrunch",
+      "summary": "“People are finding out that this is something one can do, and incrementally, it is just getting easier to do it…before it might have been a question ...",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T14:53:50.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-5",
+      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Bloomberg.com",
+      "summary": "In a push to drive adoption of its models in August of last year, OpenAI joined the GSA’s marketplace, a hub called OneGov that allows federal agencie...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T13:15:20.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-10",
+      "title": "IBM, NASA launch AI model to help map ice, craters on Moon - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - IBM (IBM....",
+      "url": "https://www.reuters.com/science/ibm-nasa-launch-ai-model-help-map-ice-craters-moon-2026-09-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/science/ibm-nasa-launch-ai-model-help-map-ice-craters-moon-2026-09-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T12:38:46.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-8",
+      "title": "Mathematicians want proof OpenAI didn’t use their work - The Verge",
+      "summary": "OpenAI’s reluctance to conclusively rule out any use of user data echoes the way it defended its recent Millennium Prize breakthrough, both in its pub...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T11:00:57.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789098124120-4",
+      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - U.S. lawm...",
+      "url": "https://www.reuters.com/business/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T09:14:45.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789098124120-9",
+      "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour agoWorld categoryEXCLUSIVE  OpenAI's rogue agents used at least 10 more sites for unauthorized comm...",
+      "url": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-10T05:53:21.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 10
+    "p2Count": 11
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
