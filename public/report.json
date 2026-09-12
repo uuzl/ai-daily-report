@@ -1,96 +1,33 @@
 {
-  "date": "2026-09-11",
-  "generatedAt": "2026-09-11T03:42:04.121Z",
-  "totalItems": 11,
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T03:45:38.142Z",
+  "totalItems": 5,
   "items": [
     {
-      "id": "news-1789098124120-7",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand - TechCrunch",
-      "summary": "Demand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, cit...",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T20:59:51.000Z",
+      "id": "news-1789184738141-1",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "Large language models (LLMs) fine-tuned with reinforcement learning from\nhuman feedback (RLHF) have been used in some of the most widely deployed AI\nm...",
+      "url": "https://huggingface.co/papers?q=World+Model+RL",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=World+Model+RL",
+      "credibility": "P0",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789098124120-1",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek - TechCrunch",
-      "summary": "A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months...",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T20:57:30.000Z",
-      "category": "hot",
       "tags": [
         "OpenAI",
         "Claude",
-        "DeepSeek"
+        "GPT"
       ]
     },
     {
-      "id": "news-1789098124120-6",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you - TechCrunch",
-      "summary": "Anthropic’s latest report about agentic misbehavior offers plenty to be concerned about—its Mythos 5 model gained unauthorized access to the internet ...",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "id": "news-1789184738141-3",
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI ...",
+      "summary": "!(2609.11115v1/figures/abstract_overview.png)\n\n## 1 Introduction\n\nThe Transformer architecture established attention-based sequence modeling as a foun...",
+      "url": "https://arxiv.org/html/2609.11115v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.11115v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-10T17:54:44.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1789098124120-0",
-      "title": "OpenAI Debuts Financial Tool Tailored to Investment Bankers - Bloomberg.com",
-      "summary": "AI\n\n# OpenAI Debuts Financial Tool Tailored to Investment Bankers\n\n## Takeaways by Bloomberg AISubscribe\n\nOpenAI is releasing ChatGPT for Financial Se...",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-debuts-chatgpt-for-financial-services-an-investment-banker-tool",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/openai-debuts-chatgpt-for-financial-services-an-investment-banker-tool",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T17:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789098124120-3",
-      "title": "OpenAI launches ChatGPT for financial services industry - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - OpenAI on...",
-      "url": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T17:29:48.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789098124120-2",
-      "title": "AI agents are flooding public services with new requests - TechCrunch",
-      "summary": "“People are finding out that this is something one can do, and incrementally, it is just getting easier to do it…before it might have been a question ...",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
+      "publishedAt": "2026-09-11T09:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -99,88 +36,58 @@
       ]
     },
     {
-      "id": "news-1789098124120-5",
-      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Bloomberg.com",
-      "summary": "In a push to drive adoption of its models in August of last year, OpenAI joined the GSA’s marketplace, a hub called OneGov that allows federal agencie...",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+      "id": "news-1789184738141-0",
+      "title": "SWRouter: Similarity-Contractive Window Routing for Multi-Turn ...",
+      "summary": "Large Language Models (LLMs) have become core infrastructure for a wide range of intelligent applications, including conversational assistants, code g...",
+      "url": "https://arxiv.org/html/2609.11414v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.11414v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-10T13:15:20.000Z",
+      "publishedAt": "2026-09-11T08:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1789098124120-10",
-      "title": "IBM, NASA launch AI model to help map ice, craters on Moon - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - IBM (IBM....",
-      "url": "https://www.reuters.com/science/ibm-nasa-launch-ai-model-help-map-ice-craters-moon-2026-09-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/science/ibm-nasa-launch-ai-model-help-map-ice-craters-moon-2026-09-10/",
+      "id": "news-1789184738141-4",
+      "title": "Agent-Based Experiment Reproduction from Scientific Papers",
+      "summary": "Recent advances in large language models (LLMs) have substantially improved long-context understanding, code generation, reasoning, and tool use. Cons...",
+      "url": "https://arxiv.org/html/2609.11117v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.11117v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-10T12:38:46.000Z",
-      "category": "product",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789098124120-8",
-      "title": "Mathematicians want proof OpenAI didn’t use their work - The Verge",
-      "summary": "OpenAI’s reluctance to conclusively rule out any use of user data echoes the way it defended its recent Millennium Prize breakthrough, both in its pub...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T11:00:57.000Z",
+      "publishedAt": "2026-09-11T08:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789098124120-4",
-      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - U.S. lawm...",
-      "url": "https://www.reuters.com/business/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-10T09:14:45.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
         "AI",
+        "LLM",
         "Agent"
       ]
     },
     {
-      "id": "news-1789098124120-9",
-      "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour agoWorld categoryEXCLUSIVE  OpenAI's rogue agents used at least 10 more sites for unauthorized comm...",
-      "url": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
+      "id": "news-1789184738141-2",
+      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self ... - arXiv",
+      "summary": "## 5 Industry Landscape and Preliminary Practices\n\n### 5.1 Theseus: Environment–Data–Model Co-Evolution for RSI Intelligence\n\n(a) Clean-versus-noise p...",
+      "url": "https://arxiv.org/html/2609.11873v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.11873v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-10T05:53:21.000Z",
+      "publishedAt": "2026-09-11T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "Agent"
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 11
+    "p2Count": 4
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（huggingface等）"
 }
