@@ -1,49 +1,152 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T03:45:38.142Z",
-  "totalItems": 5,
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T03:53:43.285Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1789184738141-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Large language models (LLMs) fine-tuned with reinforcement learning from\nhuman feedback (RLHF) have been used in some of the most widely deployed AI\nm...",
-      "url": "https://huggingface.co/papers?q=World+Model+RL",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=World+Model+RL",
-      "credibility": "P0",
-      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "id": "news-1789271623285-11",
+      "title": "Solberg heading for victory in Chile, Evans second - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   58 mins ago TennisRuthless Rybakina dethrones Sabalenka to capture first US Open crown Image 4: U.S. Open ...",
+      "url": "https://www.reuters.com/sports/solberg-heading-victory-chile-evans-second-2026-09-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/solberg-heading-victory-chile-evans-second-2026-09-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-13T00:20:40.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1789271623285-10",
+      "title": "Hyundai Motor to roll out in-house driver-assist system in 2029 - Reuters",
+      "summary": "\"Level 2+\" generally ​refers to more capable driver-assistance systems that work on highways, while \"Level 2++\" systems can handle more complex urban ...",
+      "url": "https://www.reuters.com/business/autos-transportation/hyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/hyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-13T00:02:06.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1789184738141-3",
-      "title": "Benchmark Radar: A Living Database and Search Engine for AI ...",
-      "summary": "!(2609.11115v1/figures/abstract_overview.png)\n\n## 1 Introduction\n\nThe Transformer architecture established attention-based sequence modeling as a foun...",
-      "url": "https://arxiv.org/html/2609.11115v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.11115v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-11T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1789184738141-0",
-      "title": "SWRouter: Similarity-Contractive Window Routing for Multi-Turn ...",
-      "summary": "Large Language Models (LLMs) have become core infrastructure for a wide range of intelligent applications, including conversational assistants, code g...",
-      "url": "https://arxiv.org/html/2609.11414v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.11414v1",
+      "id": "news-1789271623284-6",
+      "title": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
+      "summary": "At the time, RubyGems described it as a “major malicious attack” and shut down signups for four days as it tried to mitigate the damage and collect da...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "credibility": "P2",
-      "publishedAt": "2026-09-11T08:00:00.000Z",
+      "publishedAt": "2026-09-12T21:41:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1789271623284-8",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ - The Verge",
+      "summary": "> “We’re not rushing into an IPO. I actually think that, given everything happening with safety, this would be, right now would be an ill-advised mome...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T21:16:28.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789271623284-3",
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says - reuters.com",
+      "summary": "Anthropic CEO Dario Amodei on Saturday urged ​AI companies to take a more ​deliberate approach to development.\n\n\"We ⁠must slow the pace at which we im...",
+      "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T20:38:54.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789271623284-7",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 - TechCrunch",
+      "summary": "### Newsletters\n\nSubscribe for the industry’s biggest tech news [...] Posted:\n\n# OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 20...",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789271623284-9",
+      "title": "Larry Ellison cancels plan to sell Oracle stock - Reuters",
+      "summary": "Reporting by Sumedha Mukherjee ​and Preetika Parashuraman in Bengaluru; Editing by Will Dunham and Chizu Nomiyama\n\nOur Standards: The Thomson Reuters ...",
+      "url": "https://www.reuters.com/business/larry-ellison-cancels-plan-sell-oracle-stock-2026-09-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/larry-ellison-cancels-plan-sell-oracle-stock-2026-09-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T18:38:34.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789271623285-12",
+      "title": "MEDIA CENTER: Reuters and CuttingRoom partner to provide newsrooms with AI-assisted video editing of Reuters trusted news coverage - Reuters",
+      "summary": "Media Contact:\n\nHeather Carpenter\n\nHeather.Carpenter @ tr.com\n\nThe Misinformation Monitor newsletter rounds up international misinformation narratives...",
+      "url": "https://www.reuters.com/media-center/reuters-cuttingroom-partner-provide-newsrooms-with-ai-assisted-video-editing-2026-09-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/media-center/reuters-cuttingroom-partner-provide-newsrooms-with-ai-assisted-video-editing-2026-09-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T16:39:26.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1789271623284-4",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’ - TechCrunch",
+      "summary": "“We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote. “Progress will still seem fast, and we must make wise use of ...",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T15:52:11.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789271623284-1",
+      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - reuters.com",
+      "summary": "Advertisement · Scroll to continue\n\nBoth Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said in posts on X that they agree with Amodei.\n\nAmod...",
+      "url": "https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T14:23:07.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,30 +155,43 @@
       ]
     },
     {
-      "id": "news-1789184738141-4",
-      "title": "Agent-Based Experiment Reproduction from Scientific Papers",
-      "summary": "Recent advances in large language models (LLMs) have substantially improved long-context understanding, code generation, reasoning, and tool use. Cons...",
-      "url": "https://arxiv.org/html/2609.11117v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.11117v1",
+      "id": "news-1789271623284-0",
+      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
+      "summary": "Skip to content\n\nBloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloombe...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
       "credibility": "P2",
-      "publishedAt": "2026-09-11T08:00:00.000Z",
+      "publishedAt": "2026-09-12T14:17:56.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM",
-        "Agent"
+        "benchmark"
       ]
     },
     {
-      "id": "news-1789184738141-2",
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self ... - arXiv",
-      "summary": "## 5 Industry Landscape and Preliminary Practices\n\n### 5.1 Theseus: Environment–Data–Model Co-Evolution for RSI Intelligence\n\n(a) Clean-versus-noise p...",
-      "url": "https://arxiv.org/html/2609.11873v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.11873v1",
+      "id": "news-1789271623284-5",
+      "title": "Trump Brushes Off AI Doomsaying to Safeguard US Lead Over China - Bloomberg.com",
+      "summary": "### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business an...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
       "credibility": "P2",
-      "publishedAt": "2026-09-11T06:00:00.000Z",
+      "publishedAt": "2026-09-12T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789271623284-2",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs - WIRED",
+      "summary": "The rupture is a symptom of the rapid changes taking place in the field due to AI advancements and what Strogatz—who cowrote Big Math, a book about ho...",
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -85,9 +201,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 4
+    "p2Count": 13
   },
-  "summary": "🔥 官方动态：1条（huggingface等）"
+  "summary": ""
 }
