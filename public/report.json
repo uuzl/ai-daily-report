@@ -1,17 +1,33 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T04:00:36.071Z",
-  "totalItems": 3,
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T03:59:57.232Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1789358436071-0",
-      "title": "GPT-6 Astra: een nieuwe generatie intelligentie - OpenAI",
-      "summary": "61.2\n\n60.9\n\n65.7\n\n62.1\n\n63.1\n\n58.7\n\n### Coding\n\n| Coding | GPT‑6 Astra | GPT‑5.6 Sol | Claude Fable 5.1 | Claude Fable 5 | Claude Opus 5 | Gemini 3.8 ...",
-      "url": "https://openai.com/nl-NL/index/gpt-6-astra",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/nl-NL/index/gpt-6-astra",
-      "credibility": "P0",
-      "publishedAt": "2026-09-13T23:00:00.000Z",
+      "id": "news-1789444797231-6",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel? - The Verge",
+      "summary": "RSI refers to a potential industry milestone at which point AI models can train, advance, and create new versions of themselves — all without human in...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789444797230-0",
+      "title": "Anthropic targets financial advisers with new Claude tool - reuters.com",
+      "summary": "Advertisement · Scroll to continue\n\nThe launch ​comes days after rival OpenAI introduced a version of ​ChatGPT for the industry, targeting investment ...",
+      "url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T17:10:33.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,36 +36,160 @@
       ]
     },
     {
-      "id": "news-1789358436071-2",
-      "title": "Fusion power startups find new partners in the defense world",
-      "summary": "Last day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall....",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world",
+      "id": "news-1789444797231-8",
+      "title": "On-device AI Is ready to challenge cloud dominance - TechCrunch",
+      "summary": "In practice, this demonstrates how purpose-built AI models can maintain data privacy without compromising on performance. Because the model runs entir...",
+      "url": "https://techcrunch.com/sponsor/tether/on-device-ai-is-ready-to-challenge-cloud-dominance/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world",
+      "sourceUrl": "https://techcrunch.com/sponsor/tether/on-device-ai-is-ready-to-challenge-cloud-dominance/",
       "credibility": "P2",
-      "publishedAt": "2026-09-13T13:15:00.000Z",
+      "publishedAt": "2026-09-14T16:16:45.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1789358436071-1",
-      "title": "Technology: Cybersecurity - Bloomberg",
-      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial inf...",
-      "url": "https://www.bloomberg.com/technology/cybersecurity",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/technology/cybersecurity",
+      "id": "news-1789444797231-10",
+      "title": "What Amodei, Altman and Musk have said about AI risks, stoking 'doom' fears - Reuters",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Correcti...",
+      "url": "https://www.reuters.com/business/what-amodei-altman-musk-have-said-about-ai-risks-stoking-doom-fears-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/what-amodei-altman-musk-have-said-about-ai-risks-stoking-doom-fears-2026-09-14/",
       "credibility": "P2",
-      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "publishedAt": "2026-09-14T15:58:53.000Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-4",
+      "title": "Learn how to build lasting AI defensibility at Disrupt 2026 - TechCrunch",
+      "summary": "For AI founders, the biggest competitive threat may no longer be another startup. It may be the platform you’re building on. Every major release from ...",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-11",
+      "title": "Hear how AI can engineer nature’s comeback at Disrupt 2026 - TechCrunch",
+      "summary": "Explore the Real World AI Stage lineup and register for Disrupt today.\n\n## A founder building at the edge of what’s possible\n\nBen Lamm has spent more ...",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T14:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-9",
+      "title": "Microsoft Joins AI Firms Calling for Caution With Cutting-Edge Models - bloomberg.com",
+      "summary": "AI Safety Fears:\n\nTrump Rejects Guardrail Calls\n\nAI Heads Call for Slowdown\n\nMicrosoft Joins Calls\n\nChina Rejects ‘Fearmongering’\n\nExistential Risks o...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/microsoft-joins-ai-firms-calling-for-caution-with-ai-models",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/microsoft-joins-ai-firms-calling-for-caution-with-ai-models",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T14:08:47.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-5",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns - The Verge",
+      "summary": "Microsoft’s AI code of conduct makes it clear that “people matter more than AI,” and that AI models are not conscious and “should not be designed to i...",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-3",
+      "title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n letters and...",
+      "url": "https://www.reuters.com/legal/litigation/germany-says-halting-ai-development-not-viable-calls-us-china-involvement-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/germany-says-halting-ai-development-not-viable-calls-us-china-involvement-2026-09-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T11:32:22.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789444797231-1",
+      "title": "King Charles to host AI executives as threat fears mount - Reuters",
+      "summary": "The debate about AI was thrust back into the spotlight when ⁠two Anthropic researchers issued warnings that the rapidly progressing technology could l...",
+      "url": "https://www.reuters.com/legal/litigation/king-charles-host-ai-executives-threat-fears-mount-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/king-charles-host-ai-executives-threat-fears-mount-2026-09-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T09:17:54.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789444797231-7",
+      "title": "How China is preparing for the risk of AI escaping human control - Reuters",
+      "summary": "While China has not proposed independent monitors embedded inside AI companies in the manner advocated by Anthropic, its standards allow ​developers t...",
+      "url": "https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T08:57:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789444797231-2",
+      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
+      "summary": "The ​U.S. and China are planning to discuss frontier AI safety ​risks in mid-September, sources have said, and the issue could be raised during a summ...",
+      "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-14T04:04:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 12
   },
-  "summary": "🔥 官方动态：1条（openai等）"
+  "summary": ""
 }
