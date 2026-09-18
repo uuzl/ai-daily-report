@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T04:03:36.507Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T03:50:01.447Z",
   "totalItems": 7,
   "items": [
     {
-      "id": "news-1789617816507-2",
+      "id": "news-1789703401446-0",
       "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-17T02:00:00.000Z",
+      "publishedAt": "2026-09-17T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,45 +20,14 @@
       ]
     },
     {
-      "id": "news-1789617816507-3",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "Additionally, these findings raise concerns about the misuse of user data by PRC AI labs. DeepSeek, Xiaomi, and Moonshot fed conversations between the...",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "credibility": "P0",
-      "publishedAt": "2026-09-17T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789617816507-4",
-      "title": "Use artifacts in Claude Cowork | Claude Help Center",
-      "summary": "## Version history\n\nEach time you iterate on a live artifact with Claude, the previous version is saved. Open the artifact’s version history to:\n\n See...",
-      "url": "https://support.anthropic.com/en/articles/14729249-use-live-artifacts-in-claude-cowork",
-      "source": "support",
-      "sourceUrl": "https://support.anthropic.com/en/articles/14729249-use-live-artifacts-in-claude-cowork",
-      "credibility": "P0",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789617816507-5",
-      "title": "Applied AI Architect, Healthcare & Life Sciences | OpenAI",
+      "id": "news-1789703401446-5",
+      "title": "Applied AI Architect, Retail | OpenAI",
       "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
-      "url": "https://openai.com/careers/applied-ai-architect-healthcare-and-life-sciences-san-francisco",
+      "url": "https://openai.com/careers/applied-ai-architect-retail-san-francisco",
       "source": "openai",
-      "sourceUrl": "https://openai.com/careers/applied-ai-architect-healthcare-and-life-sciences-san-francisco",
+      "sourceUrl": "https://openai.com/careers/applied-ai-architect-retail-san-francisco",
       "credibility": "P0",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
+      "publishedAt": "2026-09-17T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -67,58 +36,88 @@
       ]
     },
     {
-      "id": "news-1789617816506-0",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "The capabilities of frontier Large Language Models (LLMs) continue to advance, with different providers increasingly specializing in distinct domains....",
-      "url": "https://huggingface.co/papers?q=SWE-bench+Pro",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=SWE-bench+Pro",
-      "credibility": "P0",
-      "publishedAt": "2026-09-16T06:00:00.000Z",
+      "id": "news-1789703401446-1",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "Users increasingly turn to AI tools for answers, but many systems still struggle to reliably surface authoritative data. A UNICEF benchmark of six lar...",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "credibility": "P2",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1789703401446-4",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+      "summary": "For example, Microsoft’s own data shows its Copilot “answer engine” caused click-through rates for The New York Times’ domain to drop as much as 93% c...",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "credibility": "P2",
+      "publishedAt": "2026-09-17T19:46:08.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
-        "LLM",
-        "Agent"
+        "LLM"
       ]
     },
     {
-      "id": "news-1789617816507-6",
-      "title": "Nameless Tokenization: A Lossless Tokenizer-Level Defense ... - arXiv",
-      "summary": "Open-weight language models publish the strings their chat templates use to mark turns, roles and tool results, which the tokenizer maps back to the r...",
-      "url": "https://arxiv.org/html/2609.16984v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.16984v1",
+      "id": "news-1789703401447-6",
+      "title": "I tried Tovala's smart oven for two weeks — here's whether it beats takeout | TechCrunch",
+      "summary": "Tovala is available on the company’s website and Amazon. It ships to most U.S. states, but it doesn’t currently ship to Alaska or Hawaii.\n\nTopics\n\nWhe...",
+      "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout",
       "credibility": "P2",
-      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "publishedAt": "2026-09-17T15:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1789617816507-1",
-      "title": "[PDF] Walking on the DARKSIDE - arXiv",
-      "summary": "LLMs (o1 System Card and Technical Blog Post).  (2024) 42. DeepSeek-AI: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Lear...",
-      "url": "https://arxiv.org/pdf/2608.23370",
+      "id": "news-1789703401446-2",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "summary": "A Mixture-of-Experts model stores a large bank of expert sub-networks and routes each token through only a few of them; DeepSeek-V3 holds 671B paramet...",
+      "url": "https://arxiv.org/html/2609.18842v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2608.23370",
+      "sourceUrl": "https://arxiv.org/html/2609.18842v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-16T06:00:00.000Z",
+      "publishedAt": "2026-09-17T09:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "DeepSeek",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1789703401446-3",
+      "title": "MiST: Mid-Training LLMs for Cybersecurity",
+      "summary": "## 1 Introduction\n\n##### LLMs and Cybersecurity.\n\nAs large language models (LLMs) continue to improve on\nnatural-language and code tasks (Minaee et al...",
+      "url": "https://arxiv.org/html/2609.18496v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.18496v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-17T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
         "GPT",
-        "DeepSeek"
+        "AI",
+        "LLM"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 5,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 5
   },
-  "summary": "🔥 官方动态：5条（anthropic等）"
+  "summary": "🔥 官方动态：2条（anthropic等）"
 }
