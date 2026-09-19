@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-18T03:50:01.447Z",
-  "totalItems": 7,
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T03:46:48.717Z",
+  "totalItems": 6,
   "items": [
     {
-      "id": "news-1789703401446-0",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+      "id": "news-1789789608717-4",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-17T19:00:00.000Z",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,14 +20,61 @@
       ]
     },
     {
-      "id": "news-1789703401446-5",
-      "title": "Applied AI Architect, Retail | OpenAI",
-      "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
-      "url": "https://openai.com/careers/applied-ai-architect-retail-san-francisco",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/applied-ai-architect-retail-san-francisco",
-      "credibility": "P0",
-      "publishedAt": "2026-09-17T16:00:00.000Z",
+      "id": "news-1789789608717-3",
+      "title": "Schema-Anchored Latent Reasoning for Semantic Parsing-Based Knowledge Base Question Answering",
+      "summary": "Recently, large language models (LLMs) have demonstrated impressive capabilities in both language understanding and formal language generation, making...",
+      "url": "https://arxiv.org/html/2609.20398v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.20398v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-19T03:46:48.717Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1789789608717-5",
+      "title": "A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces",
+      "summary": "In recent years, the field of Artificial Intelligence (AI) has undergone a paradigm shift relevant to this problem. Until around 2022, systems based o...",
+      "url": "https://arxiv.org/html/2609.20080v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.20080v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-19T03:46:48.717Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1789789608717-2",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "While Accenture is not known for its work on the bleeding edge of deep learning research, Anthropic pointed to the company’s practical experience depl...",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "credibility": "P2",
+      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789789608716-0",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Two years ago, Almeida left OpenAI to start TypeSafe AI, a startup trying to fix that problem. This week, the company released a new transformer-based...",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "credibility": "P2",
+      "publishedAt": "2026-09-18T18:49:30.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,88 +83,26 @@
       ]
     },
     {
-      "id": "news-1789703401446-1",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "Users increasingly turn to AI tools for answers, but many systems still struggle to reliably surface authoritative data. A UNICEF benchmark of six lar...",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "id": "news-1789789608717-1",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "In a twist that captures the strange new state of AI security, independent security researchers have used Anthropic’s Claude to break into OpenAI, exp...",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
       "credibility": "P2",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-09-18T14:00:14.000Z",
+      "category": "research",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
       ]
-    },
-    {
-      "id": "news-1789703401446-4",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
-      "summary": "For example, Microsoft’s own data shows its Copilot “answer engine” caused click-through rates for The New York Times’ domain to drop as much as 93% c...",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "credibility": "P2",
-      "publishedAt": "2026-09-17T19:46:08.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1789703401447-6",
-      "title": "I tried Tovala's smart oven for two weeks — here's whether it beats takeout | TechCrunch",
-      "summary": "Tovala is available on the company’s website and Amazon. It ships to most U.S. states, but it doesn’t currently ship to Alaska or Hawaii.\n\nTopics\n\nWhe...",
-      "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout",
-      "credibility": "P2",
-      "publishedAt": "2026-09-17T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789703401446-2",
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "summary": "A Mixture-of-Experts model stores a large bank of expert sub-networks and routes each token through only a few of them; DeepSeek-V3 holds 671B paramet...",
-      "url": "https://arxiv.org/html/2609.18842v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.18842v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-17T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1789703401446-3",
-      "title": "MiST: Mid-Training LLMs for Cybersecurity",
-      "summary": "## 1 Introduction\n\n##### LLMs and Cybersecurity.\n\nAs large language models (LLMs) continue to improve on\nnatural-language and code tasks (Minaee et al...",
-      "url": "https://arxiv.org/html/2609.18496v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.18496v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-17T06:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 1,
     "p1Count": 0,
     "p2Count": 5
   },
-  "summary": "🔥 官方动态：2条（anthropic等）"
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
