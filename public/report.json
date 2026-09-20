@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T03:46:48.717Z",
-  "totalItems": 6,
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T04:03:03.357Z",
+  "totalItems": 3,
   "items": [
     {
-      "id": "news-1789789608717-4",
+      "id": "news-1789876983357-1",
       "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "publishedAt": "2026-09-19T23:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,78 +20,31 @@
       ]
     },
     {
-      "id": "news-1789789608717-3",
-      "title": "Schema-Anchored Latent Reasoning for Semantic Parsing-Based Knowledge Base Question Answering",
-      "summary": "Recently, large language models (LLMs) have demonstrated impressive capabilities in both language understanding and formal language generation, making...",
-      "url": "https://arxiv.org/html/2609.20398v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.20398v1",
+      "id": "news-1789876983357-0",
+      "title": "AI Office: A Formidable Challenge Confronting Global Internet Giants",
+      "summary": "Overseas leading players are even more eye-catching. Microsoft Copilot relies on the long-term accumulation of Office to occupy a first-mover advantag...",
+      "url": "https://eu.36kr.com/en/p/3991003816793735",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3991003816793735",
       "credibility": "P2",
-      "publishedAt": "2026-09-19T03:46:48.717Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1789789608717-5",
-      "title": "A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces",
-      "summary": "In recent years, the field of Artificial Intelligence (AI) has undergone a paradigm shift relevant to this problem. Until around 2022, systems based o...",
-      "url": "https://arxiv.org/html/2609.20080v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.20080v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-19T03:46:48.717Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1789789608717-2",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "While Accenture is not known for its work on the bleeding edge of deep learning research, Anthropic pointed to the company’s practical experience depl...",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-      "credibility": "P2",
-      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "publishedAt": "2026-09-20T02:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "Agent"
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1789789608716-0",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Two years ago, Almeida left OpenAI to start TypeSafe AI, a startup trying to fix that problem. This week, the company released a new transformer-based...",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "id": "news-1789876983357-2",
+      "title": "Mathematicians Hate AI. They Can't Quit It - WIRED",
+      "summary": "Thom accepts that his area of study is changing, and has continued to use ChatGPT—with updated privacy settings to stop his work being used to train t...",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/mathematicians-cant-quit-ai",
       "credibility": "P2",
-      "publishedAt": "2026-09-18T18:49:30.000Z",
+      "publishedAt": "2026-09-19T10:00:00.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1789789608717-1",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "In a twist that captures the strange new state of AI security, independent security researchers have used Anthropic’s Claude to break into OpenAI, exp...",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "credibility": "P2",
-      "publishedAt": "2026-09-18T14:00:14.000Z",
-      "category": "research",
       "tags": [
         "OpenAI",
         "Claude",
@@ -102,7 +55,7 @@
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 2
   },
   "summary": "🔥 官方动态：1条（anthropic等）"
 }
