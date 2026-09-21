@@ -1,61 +1,217 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T04:03:03.357Z",
-  "totalItems": 3,
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T04:00:57.382Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1789876983357-1",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "credibility": "P0",
-      "publishedAt": "2026-09-19T23:00:00.000Z",
+      "id": "news-1789963257381-9",
+      "title": "China slows humanoid robot IPO rush as hype outruns reality - Reuters",
+      "summary": "Wang said hype around embodied AI had exceeded that seen during China's internet and new-energy investment waves, with industrial-robot makers pivotin...",
+      "url": "https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-21T03:37:53.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-4",
+      "title": "Cybercrime feud erupts on dark web as notorious group claims hijack of rival's website - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nThis month, AI company Anthropic said it had caught ​ShinyHunters-linked hackers trying to use its tools.\n\nReporti...",
+      "url": "https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-21T01:58:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-5",
+      "title": "AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous - Bloomberg.com",
+      "summary": "The issue: the product being pitched to him was heavy on artificial intelligence holdings, and Tarbox is becoming cautious about how exposed NYCRS get...",
+      "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T21:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-2",
+      "title": "World model companies are keeping a lot of secrets - TechCrunch",
+      "summary": "No one doubts that there are lots of viable businesses to be built on world model tech — and as long as it’s easy to fundraise, there’s no particular ...",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T20:29:07.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
-        "TPU"
+        "OpenCL"
       ]
     },
     {
-      "id": "news-1789876983357-0",
-      "title": "AI Office: A Formidable Challenge Confronting Global Internet Giants",
-      "summary": "Overseas leading players are even more eye-catching. Microsoft Copilot relies on the long-term accumulation of Office to occupy a first-mover advantag...",
-      "url": "https://eu.36kr.com/en/p/3991003816793735",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3991003816793735",
+      "id": "news-1789963257381-0",
+      "title": "Is the AI industry really ready to slow down? - TechCrunch",
+      "summary": "And we’re also in this weird situation where — I don’t really know the right way to put it, but it does not seem like there is a ton of consumer choic...",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "credibility": "P2",
-      "publishedAt": "2026-09-20T02:00:00.000Z",
+      "publishedAt": "2026-09-20T18:56:04.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1789876983357-2",
-      "title": "Mathematicians Hate AI. They Can't Quit It - WIRED",
-      "summary": "Thom accepts that his area of study is changing, and has continued to use ChatGPT—with updated privacy settings to stop his work being used to train t...",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai",
+      "id": "news-1789963257381-13",
+      "title": "Canada, France to Develop Shared Space Launch Infrastructure - bloomberg.com",
+      "summary": "Trade\n\n# Canada, France to Develop Space Systems as Carney Turns to EU\n\nCanada and France have asked their space agencies and defense departments to d...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/canada-france-to-develop-shared-space-launch-infrastructure",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-20/canada-france-to-develop-shared-space-launch-infrastructure",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T18:30:12.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-12",
+      "title": "Canada's Carney calls for stronger ties with France in face of new global threats - Reuters",
+      "summary": "TORONTO, Sept 20 (Reuters) - Canadian Prime ​Minister Mark Carney ‌on Sunday called for stronger ​ties with France ​in the face ⁠of new global ​threat...",
+      "url": "https://www.reuters.com/world/americas/canadas-carney-calls-stronger-ties-with-france-face-new-global-threats-2026-09-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/canadas-carney-calls-stronger-ties-with-france-face-new-global-threats-2026-09-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T17:48:09.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-8",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough? - TechCrunch",
+      "summary": "Note: Want to hear Morrison’s complete comments? Check out this video of the AI Horizons Summit, and fast-forward to the 04:36:00 mark.\n\n## A little b...",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T16:02:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-7",
+      "title": "Apple’s ‘Personal Hub’ AI Strategy Hints at Upcoming Home Device - Bloomberg.com",
+      "summary": "# Apple’s ‘Personal Hub’ AI Strategy Hints at Upcoming Home Device\n\nAlso: What happened with the iPhone Duo Pencil and layoffs at Fitness+.\n\nThis arti...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T14:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-10",
+      "title": "6 days left to get ahead at Disrupt - TechCrunch",
+      "summary": "But the value isn’t just onstage.\n\nMake the connections. Meet potential investors, customers, partners, hires, and collaborators through networking in...",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-1",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems - theverge.com",
+      "summary": "Historically, adversarial nation-states were largely considered the biggest cybersecurity threat to critical infrastructure. “They’re going to be more...",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1789963257381-6",
+      "title": "Trump to convert triumphal arch into military complex - Reuters",
+      "summary": "17 hours agoWorld categoryWhite House turns away CNN, MS NOW, Politico reporters after Trump's ban Image 4: President Donald Trump Bans Three Major Ne...",
+      "url": "https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T11:57:50.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1789963257381-3",
+      "title": "Meta’s Muse Is Better at Surveilling Than Helping Me - WIRED",
+      "summary": "“Muse is the first personal AI agent built for everyone, with built-in protections and user controls that put people absolutely in charge of how they ...",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
       "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/mathematicians-cant-quit-ai",
+      "sourceUrl": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
       "credibility": "P2",
-      "publishedAt": "2026-09-19T10:00:00.000Z",
+      "publishedAt": "2026-09-20T10:30:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "GPT",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1789963257381-11",
+      "title": "China's CXMT says new memory-chip platform enters mass production - Reuters",
+      "summary": "The ​advance comes as Beijing seeks to reduce reliance on foreign semiconductor technology and US export controls since 2022 have restricted China's a...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-20T04:19:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 14
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": ""
 }
