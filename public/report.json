@@ -1,29 +1,125 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T03:57:48.918Z",
-  "totalItems": 1,
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T03:55:17.776Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1790049468917-0",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "id": "news-1790135717776-0",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-21T22:00:00.000Z",
+      "publishedAt": "2026-09-23T01:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
         "TPU"
       ]
+    },
+    {
+      "id": "news-1790135717776-1",
+      "title": "LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot",
+      "summary": "Humanoid robots are increasingly being popular and developed for human-centered applications, yet their ability to provide intelligent conversations a...",
+      "url": "https://arxiv.org/html/2609.24742v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.24742v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1790135717776-2",
+      "title": "[PDF] Trustworthy Agentic AI: Failure Modes, Mitigation Strategies ... - arXiv",
+      "summary": "Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems Fayeq Jeelani Syeda,∗, Rehan Ahmedb...",
+      "url": "https://arxiv.org/pdf/2609.22712",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.22712",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790135717776-3",
+      "title": "Small-world Networks of Agents Brainstorm AI Risks",
+      "summary": "Traditional human workshops offer depth but are unscalable and constrained by the “bounded rationality” of small groups of participants (Diehl and Str...",
+      "url": "https://arxiv.org/html/2609.24859v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.24859v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1790135717776-4",
+      "title": "[PDF] OmniEdu: Open Foundation Models for Learning and Teaching - arXiv",
+      "summary": "OpenAI. Introducing study mode, 2025. URL \n David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian...",
+      "url": "https://arxiv.org/pdf/2609.23088",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.23088",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1790135717776-5",
+      "title": "VLM-in-Sandbox: Visual Workspaces for Agentic Visual Reasoning",
+      "summary": "Recent agent systems place models in interactive web, desktop, and visually grounded environments rather than fixed single-turn traces [44, 31, 9]. Vi...",
+      "url": "https://arxiv.org/html/2609.24362v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.24362v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790135717776-6",
+      "title": "Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model",
+      "summary": "###### Index Terms:\n\n## I Introduction\n\nLarge language models help with legal research. They summarise statutes, flag relevant provisions, and draft p...",
+      "url": "https://arxiv.org/html/2609.24177v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.24177v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
     }
   ],
   "highlights": {
     "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 0
+    "p2Count": 6
   },
   "summary": "🔥 官方动态：1条（anthropic等）"
 }
