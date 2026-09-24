@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-23T03:55:17.776Z",
-  "totalItems": 7,
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T03:48:17.589Z",
+  "totalItems": 8,
   "items": [
     {
-      "id": "news-1790135717776-0",
+      "id": "news-1790221697588-2",
       "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-23T01:00:00.000Z",
+      "publishedAt": "2026-09-23T23:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,62 +20,45 @@
       ]
     },
     {
-      "id": "news-1790135717776-1",
-      "title": "LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot",
-      "summary": "Humanoid robots are increasingly being popular and developed for human-centered applications, yet their ability to provide intelligent conversations a...",
-      "url": "https://arxiv.org/html/2609.24742v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.24742v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "id": "news-1790221697588-0",
+      "title": "MentalHealthBench: An Expert-Informed Benchmark of AI Capabilities in Realistic Mental Health Conversations",
+      "summary": "AI systems like ChatGPT interact with more than a billion people per week, in a rapidly expanding set of application areas. One domain that can be par...",
+      "url": "https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf",
+      "source": "cdn",
+      "sourceUrl": "https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf",
+      "credibility": "P0",
+      "publishedAt": "2026-09-23T20:27:55.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "RAG"
+        "OpenAI",
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1790135717776-2",
-      "title": "[PDF] Trustworthy Agentic AI: Failure Modes, Mitigation Strategies ... - arXiv",
-      "summary": "Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems Fayeq Jeelani Syeda,∗, Rehan Ahmedb...",
-      "url": "https://arxiv.org/pdf/2609.22712",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.22712",
-      "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "id": "news-1790221697588-7",
+      "title": "OpenAI DevDay 2026",
+      "summary": "OpenAI © 2015–2026 [...] Applications are now closed, but you can still join us virtually for the keynote. Sign up to get notified before it starts he...",
+      "url": "https://openai.com/devday",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/devday",
+      "credibility": "P0",
+      "publishedAt": "2026-09-23T11:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "Agent"
+        "OpenAI",
+        "AI"
       ]
     },
     {
-      "id": "news-1790135717776-3",
-      "title": "Small-world Networks of Agents Brainstorm AI Risks",
-      "summary": "Traditional human workshops offer depth but are unscalable and constrained by the “bounded rationality” of small groups of participants (Diehl and Str...",
-      "url": "https://arxiv.org/html/2609.24859v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.24859v1",
+      "id": "news-1790221697588-1",
+      "title": "Company A and Company O Can No Longer Sit Still - 36氪",
+      "summary": "On September 22 US time, Anthropic released Claude Opus 5.5. About an hour and a half later, OpenAI launched GPT-6 Sol and GPT-6 Luna. Both have posit...",
+      "url": "https://eu.36kr.com/en/p/3996128545101702",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3996128545101702",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1790135717776-4",
-      "title": "[PDF] OmniEdu: Open Foundation Models for Learning and Teaching - arXiv",
-      "summary": "OpenAI. Introducing study mode, 2025. URL \n David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian...",
-      "url": "https://arxiv.org/pdf/2609.23088",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.23088",
-      "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,42 +67,74 @@
       ]
     },
     {
-      "id": "news-1790135717776-5",
-      "title": "VLM-in-Sandbox: Visual Workspaces for Agentic Visual Reasoning",
-      "summary": "Recent agent systems place models in interactive web, desktop, and visually grounded environments rather than fixed single-turn traces [44, 31, 9]. Vi...",
-      "url": "https://arxiv.org/html/2609.24362v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.24362v1",
+      "id": "news-1790221697588-5",
+      "title": "8:00 36Kr Briefing丨Apple moves to restrict \"shake-to-redirect\" ads ...",
+      "summary": "OpenAI plans to enable third-party entities to assess safety risks at an earlier phase of the artificial intelligence (AI) model development cycle. Th...",
+      "url": "https://eu.36kr.com/en/p/3996646362747015",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3996646362747015",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "Agent"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1790135717776-6",
-      "title": "Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model",
-      "summary": "###### Index Terms:\n\n## I Introduction\n\nLarge language models help with legal research. They summarise statutes, flag relevant provisions, and draft p...",
-      "url": "https://arxiv.org/html/2609.24177v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.24177v1",
+      "id": "news-1790221697588-4",
+      "title": "Anthropic says its biology lab has already found something big | TechCrunch",
+      "summary": "It’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they ar...",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T03:55:17.776Z",
+      "publishedAt": "2026-09-23T22:17:39.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
-        "LLM",
-        "RAG"
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1790221697588-3",
+      "title": "Funding frenzy, chip wars, and robot dreams: Inside China's AI boom",
+      "summary": "Sept 23 (Reuters) - OpenAI is continuing to attack Anthropic's home turf by trying to capture the most valuable use case in AI: coding.\n\nAirbnb (ABNB....",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/funding-frenzy-chip-wars-robot-dreams-inside-chinas-ai-boom-2026-09-23",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/funding-frenzy-chip-wars-robot-dreams-inside-chinas-ai-boom-2026-09-23",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T20:11:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1790221697588-6",
+      "title": "Meta's Muse Outperforms ChatGPT: Key Capabilities, Features & Use Cases Explained",
+      "summary": "At present, competition in the consumer-grade AI sector is becoming increasingly fierce. ChatGPT's monthly active users have exceeded 1 billion, and G...",
+      "url": "https://eu.36kr.com/en/p/3995639494561664",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3995639494561664",
+      "credibility": "P2",
+      "publishedAt": "2026-09-23T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 6
+    "p2Count": 5
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": "🔥 官方动态：3条（anthropic等）"
 }
