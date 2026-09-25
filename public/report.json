@@ -1,33 +1,31 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-24T03:48:17.589Z",
-  "totalItems": 8,
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T04:03:28.170Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1790221697588-2",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
-      "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "credibility": "P0",
-      "publishedAt": "2026-09-23T23:00:00.000Z",
+      "id": "news-1790309008169-13",
+      "title": "China fuels rush to turn AI video into an industry - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour ago ANALYSISOracle, Blue Owl project delay sends ripples through AI financing, sources say , opens ...",
+      "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-25T01:01:06.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
-        "AI",
-        "TPU"
+        "AI"
       ]
     },
     {
-      "id": "news-1790221697588-0",
-      "title": "MentalHealthBench: An Expert-Informed Benchmark of AI Capabilities in Realistic Mental Health Conversations",
-      "summary": "AI systems like ChatGPT interact with more than a billion people per week, in a rapidly expanding set of application areas. One domain that can be par...",
-      "url": "https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf",
-      "source": "cdn",
-      "sourceUrl": "https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf",
-      "credibility": "P0",
-      "publishedAt": "2026-09-23T20:27:55.000Z",
+      "id": "news-1790309008169-0",
+      "title": "Law firms vie for tech talent in AI race - Reuters",
+      "summary": "Advertisement · Scroll to continue\n\nIt was timed with OpenAI's release of a legal industry-focused version ​of its latest AI technology, GPT-6 Astra, ...",
+      "url": "https://www.reuters.com/legal/litigation/law-firms-vie-tech-talent-ai-race-2026-09-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/law-firms-vie-tech-talent-ai-race-2026-09-24/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T22:21:13.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,105 +34,209 @@
       ]
     },
     {
-      "id": "news-1790221697588-7",
-      "title": "OpenAI DevDay 2026",
-      "summary": "OpenAI © 2015–2026 [...] Applications are now closed, but you can still join us virtually for the keynote. Sign up to get notified before it starts he...",
-      "url": "https://openai.com/devday",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/devday",
-      "credibility": "P0",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
+      "id": "news-1790309008169-11",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
+      "summary": "As noted by Google, Live Avatar can transition between the 97 languages it supports “without degrading video fidelity or introducing visual drift.” On...",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T19:59:26.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1790309008169-4",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses - TechCrunch",
+      "summary": "Posted:\n\n# PrismML brings its tiny LLMs to Qualcomm-powered smart glasses\n\nThe AI Lab PrismML — founded by Caltech researchers and advised by UC Berke...",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T19:00:42.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1790309008169-3",
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
+      "summary": "The ​development comes as the White House weighs ​cybersecurity risks posed by increasingly capable AI models, following ‌a ⁠series of incidents in wh...",
+      "url": "https://www.reuters.com/world/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-2026-09-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-2026-09-24/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T18:10:04.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790309008169-7",
+      "title": "Muse will apparently let you download its entire filesystem - The Verge",
+      "summary": "The developers’ dump potentially reveals a lot about Muse’s internal workings. For one, it stores its memory in plain Markdown files. It also performs...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T17:14:12.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1790309008169-8",
+      "title": "Muse sure looks a lot like OpenClaw - The Verge",
+      "summary": "Major AI companies were already betting big on agentic AI, but none of their products had broken through like OpenClaw, and Big Tech took notice. In F...",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T17:10:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "OpenCL"
+      ]
+    },
+    {
+      "id": "news-1790309008169-5",
+      "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion - TechCrunch",
+      "summary": "What percentage of the business is enterprise now?\n\nWe are now $600 million in ARR. Fifty-five-percent plus is classic enterprise, and a big percentag...",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T16:35:13.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1790221697588-1",
-      "title": "Company A and Company O Can No Longer Sit Still - 36氪",
-      "summary": "On September 22 US time, Anthropic released Claude Opus 5.5. About an hour and a half later, OpenAI launched GPT-6 Sol and GPT-6 Luna. Both have posit...",
-      "url": "https://eu.36kr.com/en/p/3996128545101702",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3996128545101702",
+      "id": "news-1790309008169-15",
+      "title": "Google’s first Suncatcher orbital data center test launches October 1 - arstechnica.com",
+      "summary": "The satellite, dubbed MVP, is about the size of a refrigerator. Inside, it has four of Google’s custom TPU AI accelerators, which are used to train AI...",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
       "credibility": "P2",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-09-24T16:16:34.000Z",
+      "category": "product",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "TPU"
       ]
     },
     {
-      "id": "news-1790221697588-5",
-      "title": "8:00 36Kr Briefing丨Apple moves to restrict \"shake-to-redirect\" ads ...",
-      "summary": "OpenAI plans to enable third-party entities to assess safety risks at an earlier phase of the artificial intelligence (AI) model development cycle. Th...",
-      "url": "https://eu.36kr.com/en/p/3996646362747015",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3996646362747015",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1790221697588-4",
-      "title": "Anthropic says its biology lab has already found something big | TechCrunch",
-      "summary": "It’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they ar...",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+      "id": "news-1790309008169-14",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together - TechCrunch",
+      "summary": "But there is still a market for apps to challenge the incumbents given how quickly AI is invading workplaces. Just a few months ago, Twitter and Block...",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T22:17:39.000Z",
+      "publishedAt": "2026-09-24T14:31:00.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790309008169-12",
+      "title": "Google plans first test of AI chips in space under Project Suncatcher - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alphabet's (GOOGL.O), opens...",
+      "url": "https://www.reuters.com/business/media-telecom/google-plans-first-test-ai-chips-space-under-project-suncatcher-2026-09-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/google-plans-first-test-ai-chips-space-under-project-suncatcher-2026-09-24/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T13:54:24.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790309008169-6",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law - TechCrunch",
+      "summary": "OpenAI did not respond to TechCrunch’s specific inquiry on whether the incidents were connected but acknowledged their “activity involving several Aus...",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T12:54:19.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790309008169-9",
+      "title": "Review: Apple’s hyper-pricey M5 Ultra Mac Studio made me into a vibe coder - arstechnica.com",
+      "summary": "## The workloads, they are a-changing\n\nThe Ultra version of the Mac Studio remains a niche product for a small audience: People with thousands of doll...",
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "credibility": "P2",
+      "publishedAt": "2026-09-24T11:00:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1790221697588-3",
-      "title": "Funding frenzy, chip wars, and robot dreams: Inside China's AI boom",
-      "summary": "Sept 23 (Reuters) - OpenAI is continuing to attack Anthropic's home turf by trying to capture the most valuable use case in AI: coding.\n\nAirbnb (ABNB....",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/funding-frenzy-chip-wars-robot-dreams-inside-chinas-ai-boom-2026-09-23",
+      "id": "news-1790309008169-10",
+      "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say - Reuters",
+      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n   15 mins agoLegal categoryTrump's FDA pick to face vaccine, abortion pill questions at US ...",
+      "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/funding-frenzy-chip-wars-robot-dreams-inside-chinas-ai-boom-2026-09-23",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T20:11:03.000Z",
+      "publishedAt": "2026-09-24T10:03:28.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1790221697588-6",
-      "title": "Meta's Muse Outperforms ChatGPT: Key Capabilities, Features & Use Cases Explained",
-      "summary": "At present, competition in the consumer-grade AI sector is becoming increasingly fierce. ChatGPT's monthly active users have exceeded 1 billion, and G...",
-      "url": "https://eu.36kr.com/en/p/3995639494561664",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3995639494561664",
+      "id": "news-1790309008169-1",
+      "title": "SoftBank's growing bets on AI and semiconductor assets - Reuters",
+      "summary": "TOKYO, Sept 24 (Reuters) - SoftBank Group (9984.T) has raised $11.1 billion in the largest high-yield corporate bond sale globally on record to fund i...",
+      "url": "https://www.reuters.com/legal/transactional/softbanks-growing-bets-ai-semiconductor-assets-2026-09-24/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/softbanks-growing-bets-ai-semiconductor-assets-2026-09-24/",
       "credibility": "P2",
-      "publishedAt": "2026-09-23T08:00:00.000Z",
+      "publishedAt": "2026-09-24T09:53:29.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "GPT",
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：3条（anthropic等）"
+  "summary": ""
 }
