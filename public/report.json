@@ -1,155 +1,96 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T04:03:28.170Z",
-  "totalItems": 15,
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T04:08:57.825Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1790309008169-13",
-      "title": "China fuels rush to turn AI video into an industry - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next\n\n   1 hour ago ANALYSISOracle, Blue Owl project delay sends ripples through AI financing, sources say , opens ...",
-      "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T01:01:06.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790309008169-0",
-      "title": "Law firms vie for tech talent in AI race - Reuters",
-      "summary": "Advertisement · Scroll to continue\n\nIt was timed with OpenAI's release of a legal industry-focused version ​of its latest AI technology, GPT-6 Astra, ...",
-      "url": "https://www.reuters.com/legal/litigation/law-firms-vie-tech-talent-ai-race-2026-09-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/law-firms-vie-tech-talent-ai-race-2026-09-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T22:21:13.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790309008169-11",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
-      "summary": "As noted by Google, Live Avatar can transition between the 97 languages it supports “without degrading video fidelity or introducing visual drift.” On...",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T19:59:26.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1790309008169-4",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses - TechCrunch",
-      "summary": "Posted:\n\n# PrismML brings its tiny LLMs to Qualcomm-powered smart glasses\n\nThe AI Lab PrismML — founded by Caltech researchers and advised by UC Berke...",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T19:00:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1790309008169-3",
-      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
-      "summary": "The ​development comes as the White House weighs ​cybersecurity risks posed by increasingly capable AI models, following ‌a ⁠series of incidents in wh...",
-      "url": "https://www.reuters.com/world/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-2026-09-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-2026-09-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T18:10:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1790309008169-7",
-      "title": "Muse will apparently let you download its entire filesystem - The Verge",
-      "summary": "The developers’ dump potentially reveals a lot about Muse’s internal workings. For one, it stores its memory in plain Markdown files. It also performs...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T17:14:12.000Z",
+      "id": "news-1790395737824-1",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+      "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "credibility": "P0",
+      "publishedAt": "2026-09-26T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1790309008169-8",
-      "title": "Muse sure looks a lot like OpenClaw - The Verge",
-      "summary": "Major AI companies were already betting big on agentic AI, but none of their products had broken through like OpenClaw, and Big Tech took notice. In F...",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T17:10:38.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "OpenCL"
-      ]
-    },
-    {
-      "id": "news-1790309008169-5",
-      "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion - TechCrunch",
-      "summary": "What percentage of the business is enterprise now?\n\nWe are now $600 million in ARR. Fifty-five-percent plus is classic enterprise, and a big percentag...",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T16:35:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790309008169-15",
-      "title": "Google’s first Suncatcher orbital data center test launches October 1 - arstechnica.com",
-      "summary": "The satellite, dubbed MVP, is about the size of a refrigerator. Inside, it has four of Google’s custom TPU AI accelerators, which are used to train AI...",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T16:16:34.000Z",
-      "category": "product",
-      "tags": [
-        "AI",
         "TPU"
       ]
     },
     {
-      "id": "news-1790309008169-14",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together - TechCrunch",
-      "summary": "But there is still a market for apps to challenge the incumbents given how quickly AI is invading workplaces. Just a few months ago, Twitter and Block...",
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "id": "news-1790395737824-4",
+      "title": "Claude Sonnet 4 now supports 1M tokens of context",
+      "summary": "# Claude Sonnet 4 now supports 1M tokens of context\n\nClaude Sonnet 4 now supports up to 1 million tokens of context—a 5x increase that lets you proces...",
+      "url": "https://www.anthropic.com/news/1m-context",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/1m-context",
+      "credibility": "P0",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790395737825-8",
+      "title": "OpenAI DevDay 2026",
+      "summary": "OpenAI © 2015–2026 [...] Applications are now closed, but you can still join us virtually for the keynote. Sign up to get notified before it starts he...",
+      "url": "https://openai.com/devday",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/devday",
+      "credibility": "P0",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790395737825-6",
+      "title": "Neuro-symbolic AI for Industrial Configuration",
+      "summary": "Large Language Models (LLMs) have shown impressive performance on a wide range of generative tasks. Yet their probabilistic nature makes them, in isol...",
+      "url": "https://arxiv.org/html/2609.29947v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.29947v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-24T14:31:00.000Z",
+      "publishedAt": "2026-09-26T04:08:57.825Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1790395737825-7",
+      "title": "Meta Muse: Funding the Development of Next-Level Superintelligence",
+      "summary": "Security loopholes, \"intelligence\" supported by humans, business access rejected, and financial sectors on alert. Problems occurred in four directions...",
+      "url": "https://eu.36kr.com/en/p/3999313876734086",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3999313876734086",
+      "credibility": "P2",
+      "publishedAt": "2026-09-26T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1790395737825-9",
+      "title": "- FTC chair pushes back on treating AI agents as ...",
+      "summary": "Sept 25 (Reuters) - U.S. Federal Trade Commission Chairman Andrew ​Ferguson said on Friday ‌he would resist describing AI agents as autonomous ​actors...",
+      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+      "credibility": "P2",
+      "publishedAt": "2026-09-25T17:13:04.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -157,86 +98,74 @@
       ]
     },
     {
-      "id": "news-1790309008169-12",
-      "title": "Google plans first test of AI chips in space under Project Suncatcher - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alphabet's (GOOGL.O), opens...",
-      "url": "https://www.reuters.com/business/media-telecom/google-plans-first-test-ai-chips-space-under-project-suncatcher-2026-09-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/google-plans-first-test-ai-chips-space-under-project-suncatcher-2026-09-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T13:54:24.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790309008169-6",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law - TechCrunch",
-      "summary": "OpenAI did not respond to TechCrunch’s specific inquiry on whether the incidents were connected but acknowledged their “activity involving several Aus...",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "id": "news-1790395737824-2",
+      "title": "Meta's AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into ...",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
       "credibility": "P2",
-      "publishedAt": "2026-09-24T12:54:19.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1790309008169-9",
-      "title": "Review: Apple’s hyper-pricey M5 Ultra Mac Studio made me into a vibe coder - arstechnica.com",
-      "summary": "## The workloads, they are a-changing\n\nThe Ultra version of the Mac Studio remains a niche product for a small audience: People with thousands of doll...",
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T11:00:04.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1790309008169-10",
-      "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say - Reuters",
-      "summary": "Purchase Licensing Rights\n\n## Read Next / Editor's Picks\n\n   15 mins agoLegal categoryTrump's FDA pick to face vaccine, abortion pill questions at US ...",
-      "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T10:03:28.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790309008169-1",
-      "title": "SoftBank's growing bets on AI and semiconductor assets - Reuters",
-      "summary": "TOKYO, Sept 24 (Reuters) - SoftBank Group (9984.T) has raised $11.1 billion in the largest high-yield corporate bond sale globally on record to fund i...",
-      "url": "https://www.reuters.com/legal/transactional/softbanks-growing-bets-ai-semiconductor-assets-2026-09-24/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/softbanks-growing-bets-ai-semiconductor-assets-2026-09-24/",
-      "credibility": "P2",
-      "publishedAt": "2026-09-24T09:53:29.000Z",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
         "AI"
       ]
+    },
+    {
+      "id": "news-1790395737824-3",
+      "title": "Guardrails or Roadblocks? Effects of Pedagogical Style ...",
+      "summary": "Recent work in computing education exploring the use of large language models (LLMs) can be broadly grouped into two strands. The first examines the p...",
+      "url": "https://arxiv.org/html/2609.29995v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.29995v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-25T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790395737824-5",
+      "title": "An Empirical Study of VLM Pipelines for Long-Document QA",
+      "summary": "Noah Shinn, Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, and Shunyu Yao. 2023. Re-flexion: Language agents with verbal reinforcement learnin...",
+      "url": "https://arxiv.org/pdf/2609.29933",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.29933",
+      "credibility": "P2",
+      "publishedAt": "2026-09-25T08:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "Claude",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1790395737824-0",
+      "title": "ChatGPT Unveils Premium $500 Pro Max Subscription Package",
+      "summary": "The industry's diversion paths for cutting-edge capabilities are diverging: OpenAI tends to stratify users by commercial price, while Anthropic prefer...",
+      "url": "https://eu.36kr.com/en/p/3998280592396421",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/3998280592396421",
+      "credibility": "P2",
+      "publishedAt": "2026-09-25T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 7
   },
-  "summary": ""
+  "summary": "🔥 官方动态：3条（anthropic等）"
 }
