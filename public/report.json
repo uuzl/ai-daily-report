@@ -1,171 +1,29 @@
 {
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-26T04:08:57.825Z",
-  "totalItems": 10,
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T04:23:19.217Z",
+  "totalItems": 1,
   "items": [
     {
-      "id": "news-1790395737824-1",
+      "id": "news-1790482999217-0",
       "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-26T03:00:00.000Z",
+      "publishedAt": "2026-09-27T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
         "TPU"
-      ]
-    },
-    {
-      "id": "news-1790395737824-4",
-      "title": "Claude Sonnet 4 now supports 1M tokens of context",
-      "summary": "# Claude Sonnet 4 now supports 1M tokens of context\n\nClaude Sonnet 4 now supports up to 1 million tokens of context—a 5x increase that lets you proces...",
-      "url": "https://www.anthropic.com/news/1m-context",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/1m-context",
-      "credibility": "P0",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1790395737825-8",
-      "title": "OpenAI DevDay 2026",
-      "summary": "OpenAI © 2015–2026 [...] Applications are now closed, but you can still join us virtually for the keynote. Sign up to get notified before it starts he...",
-      "url": "https://openai.com/devday",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/devday",
-      "credibility": "P0",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790395737825-6",
-      "title": "Neuro-symbolic AI for Industrial Configuration",
-      "summary": "Large Language Models (LLMs) have shown impressive performance on a wide range of generative tasks. Yet their probabilistic nature makes them, in isol...",
-      "url": "https://arxiv.org/html/2609.29947v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.29947v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-26T04:08:57.825Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1790395737825-7",
-      "title": "Meta Muse: Funding the Development of Next-Level Superintelligence",
-      "summary": "Security loopholes, \"intelligence\" supported by humans, business access rejected, and financial sectors on alert. Problems occurred in four directions...",
-      "url": "https://eu.36kr.com/en/p/3999313876734086",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3999313876734086",
-      "credibility": "P2",
-      "publishedAt": "2026-09-26T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1790395737825-9",
-      "title": "- FTC chair pushes back on treating AI agents as ...",
-      "summary": "Sept 25 (Reuters) - U.S. Federal Trade Commission Chairman Andrew ​Ferguson said on Friday ‌he would resist describing AI agents as autonomous ​actors...",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T17:13:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1790395737824-2",
-      "title": "Meta's AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into ...",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790395737824-3",
-      "title": "Guardrails or Roadblocks? Effects of Pedagogical Style ...",
-      "summary": "Recent work in computing education exploring the use of large language models (LLMs) can be broadly grouped into two strands. The first examines the p...",
-      "url": "https://arxiv.org/html/2609.29995v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.29995v1",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790395737824-5",
-      "title": "An Empirical Study of VLM Pipelines for Long-Document QA",
-      "summary": "Noah Shinn, Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, and Shunyu Yao. 2023. Re-flexion: Language agents with verbal reinforcement learnin...",
-      "url": "https://arxiv.org/pdf/2609.29933",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.29933",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T08:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1790395737824-0",
-      "title": "ChatGPT Unveils Premium $500 Pro Max Subscription Package",
-      "summary": "The industry's diversion paths for cutting-edge capabilities are diverging: OpenAI tends to stratify users by commercial price, while Anthropic prefer...",
-      "url": "https://eu.36kr.com/en/p/3998280592396421",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/3998280592396421",
-      "credibility": "P2",
-      "publishedAt": "2026-09-25T06:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 7
+    "p2Count": 0
   },
-  "summary": "🔥 官方动态：3条（anthropic等）"
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
