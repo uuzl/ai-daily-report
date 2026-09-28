@@ -1,29 +1,61 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T04:23:19.217Z",
-  "totalItems": 1,
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T04:24:10.267Z",
+  "totalItems": 3,
   "items": [
     {
-      "id": "news-1790482999217-0",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+      "id": "news-1790569450266-1",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
       "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "credibility": "P0",
-      "publishedAt": "2026-09-27T03:00:00.000Z",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
         "TPU"
       ]
+    },
+    {
+      "id": "news-1790569450266-2",
+      "title": "‪Qingnan Ren‬ - ‪Google 学术搜索‬",
+      "summary": "| Internalizing meta-experience into memory for guided reinforcement learning in large language models S Huang, Z Li, Y Zeng, Q Ren, Z Fang, Q Su, K S...",
+      "url": "https://scholar.google.com/citations?user=r5t3h5cAAAAJ&hl=zh-CN",
+      "source": "scholar",
+      "sourceUrl": "https://scholar.google.com/citations?user=r5t3h5cAAAAJ&hl=zh-CN",
+      "credibility": "P1",
+      "publishedAt": "2026-09-27T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1790569450266-0",
+      "title": "From Biological Precursors to Artificial Cognition",
+      "summary": "criteria within the Motivated Emotional Mind (MEM) model and apply them to contemporary and prospective artificial systems, with particular attention ...",
+      "url": "https://arxiv.org/pdf/2609.23828",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.23828",
+      "credibility": "P2",
+      "publishedAt": "2026-09-28T04:24:10.266Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Transformer"
+      ]
     }
   ],
   "highlights": {
     "p0Count": 1,
-    "p1Count": 0,
-    "p2Count": 0
+    "p1Count": 1,
+    "p2Count": 1
   },
-  "summary": "🔥 官方动态：1条（anthropic等）"
+  "summary": "🔥 官方动态：1条（anthropic等） | 💡 技术深挖：1条（scholar等）"
 }
