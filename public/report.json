@@ -1,61 +1,60 @@
 {
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-28T04:24:10.267Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T04:54:24.634Z",
   "totalItems": 3,
   "items": [
     {
-      "id": "news-1790569450266-1",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "This required us to add a watermark—a numerical way of determining the likelihood that Claude was involved in writing a piece of text—to the outputs o...",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "anthropic",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "credibility": "P0",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1790569450266-2",
-      "title": "‪Qingnan Ren‬ - ‪Google 学术搜索‬",
-      "summary": "| Internalizing meta-experience into memory for guided reinforcement learning in large language models S Huang, Z Li, Y Zeng, Q Ren, Z Fang, Q Su, K S...",
-      "url": "https://scholar.google.com/citations?user=r5t3h5cAAAAJ&hl=zh-CN",
-      "source": "scholar",
-      "sourceUrl": "https://scholar.google.com/citations?user=r5t3h5cAAAAJ&hl=zh-CN",
-      "credibility": "P1",
-      "publishedAt": "2026-09-27T09:00:00.000Z",
+      "id": "news-1790657664634-2",
+      "title": "Modulate raises $25M for its voice models and analysis suite | TechCrunch",
+      "summary": "“Our insight into the voice AI space is that a lot of folks are doing transcription, but there’s not really any capability out there that gets the ful...",
+      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
+      "credibility": "P2",
+      "publishedAt": "2026-09-28T14:05:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM",
         "Agent"
       ]
     },
     {
-      "id": "news-1790569450266-0",
-      "title": "From Biological Precursors to Artificial Cognition",
-      "summary": "criteria within the Motivated Emotional Mind (MEM) model and apply them to contemporary and prospective artificial systems, with particular attention ...",
-      "url": "https://arxiv.org/pdf/2609.23828",
+      "id": "news-1790657664634-1",
+      "title": "Toward verifiably private learning from federated data",
+      "summary": "2. Related Work Trusted Execution Environments (TEEs) have increas-ingly been deployed on the server in recent years to support on-device features tha...",
+      "url": "https://arxiv.org/pdf/2609.31494",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.23828",
+      "sourceUrl": "https://arxiv.org/pdf/2609.31494",
       "credibility": "P2",
-      "publishedAt": "2026-09-28T04:24:10.266Z",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "Transformer"
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1790657664634-0",
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to ...",
+      "summary": "is based on the premise that symbolic reasoning must be a fundamental function from the outset. It advocates neurosymbolic AI, a hybrid approach combi...",
+      "url": "https://arxiv.org/pdf/2609.30291",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.30291",
+      "credibility": "P2",
+      "publishedAt": "2026-09-28T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
-    "p1Count": 1,
-    "p2Count": 1
+    "p0Count": 0,
+    "p1Count": 0,
+    "p2Count": 3
   },
-  "summary": "🔥 官方动态：1条（anthropic等） | 💡 技术深挖：1条（scholar等）"
+  "summary": ""
 }
