@@ -1,60 +1,93 @@
 {
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-29T04:54:24.634Z",
-  "totalItems": 3,
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T04:40:43.962Z",
+  "totalItems": 5,
   "items": [
     {
-      "id": "news-1790657664634-2",
-      "title": "Modulate raises $25M for its voice models and analysis suite | TechCrunch",
-      "summary": "“Our insight into the voice AI space is that a lot of folks are doing transcription, but there’s not really any capability out there that gets the ful...",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
+      "id": "news-1790743243962-1",
+      "title": "Distillation Defenses Easily Break AfterReinforcement Learning",
+      "summary": "In early 2025, DeepSeek-R1 demonstrated that a Large Language Model (LLM) trained outside of Google, Anthropic, and OpenAI could outperform those trai...",
+      "url": "https://arxiv.org/html/2609.35699v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.35699v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-28T14:05:00.000Z",
+      "publishedAt": "2026-09-29T11:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "OpenAI",
+        "DeepSeek",
+        "AI"
       ]
     },
     {
-      "id": "news-1790657664634-1",
-      "title": "Toward verifiably private learning from federated data",
-      "summary": "2. Related Work Trusted Execution Environments (TEEs) have increas-ingly been deployed on the server in recent years to support on-device features tha...",
-      "url": "https://arxiv.org/pdf/2609.31494",
+      "id": "news-1790743243962-0",
+      "title": "AwarenessBench: Assessing Cognitive Capabilities of Language Models",
+      "summary": "### 3.1 Selected LMs and Configuration\n\nWe evaluate 18 LMs from various vendors and in different sizes, including 10 closed commercial models: Claude-...",
+      "url": "https://arxiv.org/html/2609.35409v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.31494",
+      "sourceUrl": "https://arxiv.org/html/2609.35409v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "arXiv"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1790657664634-0",
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to ...",
-      "summary": "is based on the premise that symbolic reasoning must be a fundamental function from the outset. It advocates neurosymbolic AI, a hybrid approach combi...",
-      "url": "https://arxiv.org/pdf/2609.30291",
+      "id": "news-1790743243962-4",
+      "title": "AX is the New AEO",
+      "summary": "Ilhe (2026) N. Ilhe  ChatGPT stopped citing Reddit. Our data shows the mechanism behind the 95% collapse.  Note: site: queries rose from near 0% to 23...",
+      "url": "https://arxiv.org/html/2609.34951v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.30291",
+      "sourceUrl": "https://arxiv.org/html/2609.34951v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-28T05:00:00.000Z",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
       "tags": [
+        "GPT",
         "AI",
-        "LLM",
-        "TPU"
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1790743243962-2",
+      "title": "Self-Evolving Agents via Likelihood-Guided Tool-Space Optimization",
+      "summary": "Abdin et al. (2024)  Marah Abdin, Jyoti Aneja, Harkirat Behl, Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar, Michael Harrison, Russell J Hewett, Moj...",
+      "url": "https://arxiv.org/html/2609.34151v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.34151v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790743243962-3",
+      "title": "AutoRef: Harness Optimization forAgentic Multi-Reference Image Generation",
+      "summary": "| Reasoning models |\n| GPT-5.5 (OpenAI, 2026) | gpt-5.5-2026-04-23 |\n| Qwen3-VL-32B-Instruct (Bai et al., 2025) | Qwen/Qwen3-VL-32B-Instruct |\n| Evalu...",
+      "url": "https://arxiv.org/html/2609.35530v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.35530v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 5
   },
   "summary": ""
 }
