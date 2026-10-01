@@ -1,33 +1,97 @@
 {
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-30T04:40:43.962Z",
-  "totalItems": 5,
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T04:52:42.493Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1790743243962-1",
-      "title": "Distillation Defenses Easily Break AfterReinforcement Learning",
-      "summary": "In early 2025, DeepSeek-R1 demonstrated that a Large Language Model (LLM) trained outside of Google, Anthropic, and OpenAI could outperform those trai...",
-      "url": "https://arxiv.org/html/2609.35699v1",
+      "id": "news-1790830362492-7",
+      "title": "Can we predict the jobs robots will do? \\ Anthropic",
+      "summary": "Deming, David J., \"The Growing Importance of Social Skills in the Labor Market,\" Quarterly Journal of Economics, 2017, 132 (4), 1593-1640.\n\nDenain, Je...",
+      "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "source": "anthropic",
+      "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "credibility": "P0",
+      "publishedAt": "2026-09-30T16:01:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790830362493-8",
+      "title": "Memory Consolidation Flattens the Temporal Shape of ...",
+      "summary": "arXiv preprint arXiv:2606.26511.\nLu Yang, Shusheng Xu, Zhuoran Li, Tongkai Yang, and Longbo Huang. 2026. When personal memory has no single answer: Ev...",
+      "url": "https://arxiv.org/pdf/2609.36457",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.35699v1",
+      "sourceUrl": "https://arxiv.org/pdf/2609.36457",
       "credibility": "P2",
-      "publishedAt": "2026-09-29T11:00:00.000Z",
+      "publishedAt": "2026-10-01T04:52:42.493Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1790830362492-1",
+      "title": "Evaluating Large Language Models on Text-to-Datalog ...",
+      "summary": "5 Preprint.\n5 EVALUATION 5.1 EXPERIMENTAL SETUP Models. We evaluate six LLMs from four providers (Table 4): GPT 5.6 Sol (OpenAI, 2026), Claude Opus 5 ...",
+      "url": "https://arxiv.org/pdf/2609.37233",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.37233",
+      "credibility": "P2",
+      "publishedAt": "2026-10-01T04:52:42.492Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1790830362492-2",
+      "title": "SRJudge: Empowering Large Language Models with Selective Reasoning for Fine-Grained Knowledge Concept Tagging",
+      "summary": "LLM-based methods: We employ mainstream LLMs, including Qwen Bai et al. (2023), LLaMA Touvron et al. (2023), DeepSeek (DS) Guo et al. (2025), and Chat...",
+      "url": "https://arxiv.org/html/2609.36982v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.36982v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-01T04:52:42.492Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
         "DeepSeek",
         "AI"
       ]
     },
     {
-      "id": "news-1790743243962-0",
-      "title": "AwarenessBench: Assessing Cognitive Capabilities of Language Models",
-      "summary": "### 3.1 Selected LMs and Configuration\n\nWe evaluate 18 LMs from various vendors and in different sizes, including 10 closed commercial models: Claude-...",
-      "url": "https://arxiv.org/html/2609.35409v1",
+      "id": "news-1790830362492-6",
+      "title": "SKILLLITE: Evidence-Guided Malicious Skill Auditing with ...",
+      "summary": "arXiv preprint arXiv:2504.07421, 2025.\nKeivan Alizadeh, Seyed Iman Mirzadeh, Dmitry Belenko, S Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Ra...",
+      "url": "https://arxiv.org/pdf/2609.36879",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.35409v1",
+      "sourceUrl": "https://arxiv.org/pdf/2609.36879",
       "credibility": "P2",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "publishedAt": "2026-10-01T04:52:42.492Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790830362491-0",
+      "title": "Gender bias across LLMs is common and highly ...",
+      "summary": "Label Model Release date Access method 1a/2a Meta Llama 4 Scout Apr 2025 Web/app 1b/2b xAI Grok 4.1 Fast Nov 2025 Web/app 1c/2c Anthropic Claude Sonne...",
+      "url": "https://arxiv.org/pdf/2609.38036",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.38036",
+      "credibility": "P2",
+      "publishedAt": "2026-10-01T04:52:42.491Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,58 +100,120 @@
       ]
     },
     {
-      "id": "news-1790743243962-4",
-      "title": "AX is the New AEO",
-      "summary": "Ilhe (2026) N. Ilhe  ChatGPT stopped citing Reddit. Our data shows the mechanism behind the 95% collapse.  Note: site: queries rose from near 0% to 23...",
-      "url": "https://arxiv.org/html/2609.34951v1",
+      "id": "news-1790830362493-12",
+      "title": "Advancing Nuclear Physics with Machine Learning and ...",
+      "summary": "Machine learning (ML) and artificial intelligence (AI) are becoming powerful tools in scientific research across various disciplines. In this review, ...",
+      "url": "https://arxiv.org/html/2609.38711v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.34951v1",
+      "sourceUrl": "https://arxiv.org/html/2609.38711v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1790830362492-5",
+      "title": "A Reusable Semantic Web Framework for Evidence-Grounded Fundamental Rights Impact Assessments under the EU AI Act",
+      "summary": "Amnesty International (2021)Amnesty International Xenophobic machines: discrimination through unregulated use of algorithms in the dutch childcare ben...",
+      "url": "https://arxiv.org/html/2609.39537v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.39537v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-01T01:16:26.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1790743243962-2",
-      "title": "Self-Evolving Agents via Likelihood-Guided Tool-Space Optimization",
-      "summary": "Abdin et al. (2024)  Marah Abdin, Jyoti Aneja, Harkirat Behl, Sébastien Bubeck, Ronen Eldan, Suriya Gunasekar, Michael Harrison, Russell J Hewett, Moj...",
-      "url": "https://arxiv.org/html/2609.34151v1",
+      "id": "news-1790830362493-9",
+      "title": "HARISSA: Inference-Time Self-Checks for Efficient and Safe Local Language Model Deployment",
+      "summary": "Chen et al. (2025)  Lida Chen, Zujie Liang, Xintao Wang, Jiaqing Liang, Yanghua Xiao, Feng Wei, Jinglei Chen, Zhenghong Hao, Bing Han, and Wei Wang.  ...",
+      "url": "https://arxiv.org/html/2609.38006v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.34151v1",
+      "sourceUrl": "https://arxiv.org/html/2609.38006v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1790743243962-3",
-      "title": "AutoRef: Harness Optimization forAgentic Multi-Reference Image Generation",
-      "summary": "| Reasoning models |\n| GPT-5.5 (OpenAI, 2026) | gpt-5.5-2026-04-23 |\n| Qwen3-VL-32B-Instruct (Bai et al., 2025) | Qwen/Qwen3-VL-32B-Instruct |\n| Evalu...",
-      "url": "https://arxiv.org/html/2609.35530v1",
+      "id": "news-1790830362492-3",
+      "title": "BiFE: Search-Efficient Discovery of CPU-Only Branching ...",
+      "summary": "Large Language Model (LLM)-generated code provides a flexible search space ... DeepSeek-AI (2026) DeepSeek-AI DeepSeek: large language model. DeepSeek",
+      "url": "https://arxiv.org/html/2609.36735v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.35530v1",
+      "sourceUrl": "https://arxiv.org/html/2609.36735v1",
       "credibility": "P2",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "publishedAt": "2026-09-30T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1790830362493-10",
+      "title": "Memory Consolidation Flattens the Temporal Shape of User Facts",
+      "summary": "| Model | Role / cases | Serving |\n --- \n| [Uncaptioned image] DeepSeek V4 Flash  deepseek/deepseek-v4-flash | confirmatory  6,008 | OpenRouter, pinne...",
+      "url": "https://arxiv.org/html/2609.36457v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.36457v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
       ]
+    },
+    {
+      "id": "news-1790830362493-11",
+      "title": "Risk-Aware Semantic Grounding for Trustworthy LLM-Based Robot Planning",
+      "summary": "###### Keywords:\n\nLLM-based robot planning semantic grounding trustworthy AI risk assessment decision making\n\n## 1 Introduction\n\nLarge Language Models...",
+      "url": "https://arxiv.org/html/2609.37554v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.37554v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1790830362492-4",
+      "title": "An LLM-powered Agent Framework for Heterogeneous Evacuation Behavior Modeling under a Moving Threat in a Public Plaza",
+      "summary": "The appraisal channel draws on representations acquired during model pretraining. For each prompt, including the symbolic patch, persona text, affecti...",
+      "url": "https://arxiv.org/html/2609.37009v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2609.37009v1",
+      "credibility": "P2",
+      "publishedAt": "2026-09-30T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Transformer"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 12
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（anthropic等）"
 }
