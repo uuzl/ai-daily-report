@@ -1,113 +1,17 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T04:43:29.464Z",
-  "totalItems": 8,
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T04:25:44.294Z",
+  "totalItems": 9,
   "items": [
     {
-      "id": "news-1790916209464-6",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "### Scheduling Recursive Reasoning in Looped Transformers\n\n### EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation\n\nmeta\n\n##...",
-      "url": "https://huggingface.co/papers/date/2026-10-01",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers/date/2026-10-01",
-      "credibility": "P0",
-      "publishedAt": "2026-10-02T02:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1790916209464-4",
-      "title": "Applied AI Architect",
-      "summary": "Safety\n   Safety Approach\n   Deployment Safety(opens in a new window)\n   Security & Privacy\n   Trust & Transparency\n\nProducts\n   ChatGPT(opens in a ne...",
-      "url": "https://openai.com/careers/applied-ai-architect-sydney-australia",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/applied-ai-architect-sydney-australia",
-      "credibility": "P0",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790916209464-1",
-      "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells) | TechCrunch",
-      "summary": "“It turns out that Claude models are actually getting closer to the human word distribution over time,” Graphite’s chief AI officer Greg Druck told Te...",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
-      "credibility": "P2",
-      "publishedAt": "2026-10-01T17:50:19.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1790916209464-7",
-      "title": "Inside Microsoft’s big Copilot rethink | The Verge",
-      "summary": "Microsoft thinks it has solved the AI agent problem for businesses with its “OS for work,” but it also seems to be leaving the door open for competito...",
-      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "credibility": "P2",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1790916209463-0",
-      "title": "ArchitectureIQ: On the Measure of Training Intuition",
-      "summary": "Starace et al. (2025)  Giulio Starace, Oliver Jaffe, Dane Sherburn, James Aung, Jun Shern Chan, Leon Maksin, Rachel Dias, Evan Mays, Benjamin Kinsella...",
-      "url": "https://arxiv.org/html/2609.39714v1",
+      "id": "news-1791001544294-6",
+      "title": "Piloting a Generative AI Practice Platform in a Large ...",
+      "summary": "of Education, 9(3), e3292.  Pardos, Z. A., & Bhandari, S. (2024). ChatGPT-generated help produces learning gains equivalent to human tutor-authored he...",
+      "url": "https://arxiv.org/pdf/2610.01262",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.39714v1",
+      "sourceUrl": "https://arxiv.org/pdf/2610.01262",
       "credibility": "P2",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1790916209464-5",
-      "title": "InfoAgent: Traceable Generation and Repair of Evidence-Grounded Infographics",
-      "summary": "McInnes et al. (2018)  Leland McInnes, John Healy, and James Melville.  Umap: Uniform manifold approximation and projection for dimension reduction.  ...",
-      "url": "https://arxiv.org/html/2609.39380v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.39380v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1790916209464-2",
-      "title": "The AI crisis for teaching:“Train your own neural network!”",
-      "summary": "Let me give another example, from the early days of LLMs. In an upper-level astrophysics course, I assigned a homework problem where students were ask...",
-      "url": "https://arxiv.org/html/2609.39433v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.39433v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "publishedAt": "2026-10-03T04:25:44.294Z",
       "category": "tech",
       "tags": [
         "GPT",
@@ -116,26 +20,138 @@
       ]
     },
     {
-      "id": "news-1790916209464-3",
-      "title": "AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC",
-      "summary": "Large language models (LLMs) and agent-based methods offer mechanisms for intelligently organizing wireless knowledge and tools for coordinated execut...",
-      "url": "https://arxiv.org/html/2609.39964v1",
+      "id": "news-1791001544294-7",
+      "title": "Selection rules for the harmonic spectroscopy of animal ...",
+      "summary": "Acknowledgement The author thanks Iain D. Couzin for his generous support and insightful discussions.\nWe acknowledge AI assistance from Anthropic Clau...",
+      "url": "https://arxiv.org/pdf/2610.00990",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.39964v1",
+      "sourceUrl": "https://arxiv.org/pdf/2610.00990",
       "credibility": "P2",
-      "publishedAt": "2026-10-01T06:00:00.000Z",
+      "publishedAt": "2026-10-03T04:25:44.294Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1791001544293-3",
+      "title": "Robust and leakage-resilient device-independent oblivious ...",
+      "summary": "AI use disclosure We used OpenAI’s ChatGPT to assist with exploring proof strategies, examining commitment assumptions and security simulations, and i...",
+      "url": "https://arxiv.org/pdf/2610.01421",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2610.01421",
+      "credibility": "P2",
+      "publishedAt": "2026-10-03T04:25:44.293Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1791001544294-8",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you) | TechCrunch",
+      "summary": "With all the talk about how AI might one day kill us all, it’s easy to forget that AI has already been life-threatening to some, not through bioweapon...",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791001544293-5",
+      "title": "Beyond State-of-the-Art: Standardising Environmental Impact Metrics for AI Research",
+      "summary": "The first is , which is very easy for researchers using LLMs to obtain. For local models, (like Ollama), there are inbuilt options for the user to obt...",
+      "url": "https://arxiv.org/html/2610.01116v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.01116v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T10:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791001544293-2",
+      "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
+      "summary": "Z. Zhou, Y. Li, and J. Yu (2026)  Exploring the application of llm-based ai in ux design: an empirical case study of chatgpt.  Human–Computer Interact...",
+      "url": "https://arxiv.org/html/2610.01158v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.01158v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
         "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1791001544293-1",
+      "title": "Does AI-Generated Scientific Text Follow Human Argumentation Patterns? A CARS-Based Comparison of Research Article Introductions",
+      "summary": "Large language models (LLMs) are increasingly involved throughout the scientific process, from proposing hypotheses and reasoning over the literature ...",
+      "url": "https://arxiv.org/html/2610.01353v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.01353v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T06:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1791001544293-4",
+      "title": "AI Industry Cannot Regulate Itself Alone, Google’s James Manyika Says",
+      "summary": "2 The November 2022 public release of ChatGPT posed the first serious threat to Google’s dominance of search in years, prompting accusations that it w...",
+      "url": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview?srnd=phx-weekend_2",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview?srnd=phx-weekend_2",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T05:00:09.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791001544293-0",
+      "title": "Conditioning LLMs on Social Value Orientation improves behavioural alignment in a sequential social dilemma",
+      "summary": "## 1 Introduction\n\nSince the public release of ChatGPT in 2022, the use of Large Language Models (LLMs) has dramatically surged. Although these models...",
+      "url": "https://arxiv.org/html/2610.01667v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.01667v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-02T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
         "LLM",
-        "Agent"
+        "TPU"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 6
+    "p2Count": 9
   },
-  "summary": "🔥 官方动态：2条（huggingface等）"
+  "summary": ""
 }
