@@ -1,157 +1,44 @@
 {
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-03T04:25:44.294Z",
-  "totalItems": 9,
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T04:56:48.759Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1791001544294-6",
-      "title": "Piloting a Generative AI Practice Platform in a Large ...",
-      "summary": "of Education, 9(3), e3292.  Pardos, Z. A., & Bhandari, S. (2024). ChatGPT-generated help produces learning gains equivalent to human tutor-authored he...",
-      "url": "https://arxiv.org/pdf/2610.01262",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2610.01262",
+      "id": "news-1791089808758-1",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm | The Verge",
+      "summary": "> Given today’s risks, frontier labs need to run like nuclear power plants or busy airports, with layers of redundancy and careful, time-consuming pla...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "credibility": "P2",
-      "publishedAt": "2026-10-03T04:25:44.294Z",
+      "publishedAt": "2026-10-03T14:31:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791089808758-0",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family | WIRED",
+      "summary": "The general idea is that Muse can use its “memory” (aka structured text files) to collect information about your relationships and the important peopl...",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "credibility": "P2",
+      "publishedAt": "2026-10-03T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "GPT",
         "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1791001544294-7",
-      "title": "Selection rules for the harmonic spectroscopy of animal ...",
-      "summary": "Acknowledgement The author thanks Iain D. Couzin for his generous support and insightful discussions.\nWe acknowledge AI assistance from Anthropic Clau...",
-      "url": "https://arxiv.org/pdf/2610.00990",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2610.00990",
-      "credibility": "P2",
-      "publishedAt": "2026-10-03T04:25:44.294Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1791001544293-3",
-      "title": "Robust and leakage-resilient device-independent oblivious ...",
-      "summary": "AI use disclosure We used OpenAI’s ChatGPT to assist with exploring proof strategies, examining commitment assumptions and security simulations, and i...",
-      "url": "https://arxiv.org/pdf/2610.01421",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2610.01421",
-      "credibility": "P2",
-      "publishedAt": "2026-10-03T04:25:44.293Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1791001544294-8",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you) | TechCrunch",
-      "summary": "With all the talk about how AI might one day kill us all, it’s easy to forget that AI has already been life-threatening to some, not through bioweapon...",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791001544293-5",
-      "title": "Beyond State-of-the-Art: Standardising Environmental Impact Metrics for AI Research",
-      "summary": "The first is , which is very easy for researchers using LLMs to obtain. For local models, (like Ollama), there are inbuilt options for the user to obt...",
-      "url": "https://arxiv.org/html/2610.01116v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.01116v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T10:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791001544293-2",
-      "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
-      "summary": "Z. Zhou, Y. Li, and J. Yu (2026)  Exploring the application of llm-based ai in ux design: an empirical case study of chatgpt.  Human–Computer Interact...",
-      "url": "https://arxiv.org/html/2610.01158v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.01158v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1791001544293-1",
-      "title": "Does AI-Generated Scientific Text Follow Human Argumentation Patterns? A CARS-Based Comparison of Research Article Introductions",
-      "summary": "Large language models (LLMs) are increasingly involved throughout the scientific process, from proposing hypotheses and reasoning over the literature ...",
-      "url": "https://arxiv.org/html/2610.01353v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.01353v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T06:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1791001544293-4",
-      "title": "AI Industry Cannot Regulate Itself Alone, Google’s James Manyika Says",
-      "summary": "2 The November 2022 public release of ChatGPT posed the first serious threat to Google’s dominance of search in years, prompting accusations that it w...",
-      "url": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview?srnd=phx-weekend_2",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview?srnd=phx-weekend_2",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T05:00:09.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791001544293-0",
-      "title": "Conditioning LLMs on Social Value Orientation improves behavioural alignment in a sequential social dilemma",
-      "summary": "## 1 Introduction\n\nSince the public release of ChatGPT in 2022, the use of Large Language Models (LLMs) has dramatically surged. Although these models...",
-      "url": "https://arxiv.org/html/2610.01667v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.01667v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-02T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "LLM",
-        "TPU"
+        "Agent"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 9
+    "p2Count": 2
   },
   "summary": ""
 }
