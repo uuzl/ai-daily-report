@@ -1,17 +1,165 @@
 {
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-04T04:56:48.759Z",
-  "totalItems": 2,
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T04:44:05.740Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1791089808758-1",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm | The Verge",
-      "summary": "> Given today’s risks, frontier labs need to run like nuclear power plants or busy airports, with layers of redundancy and careful, time-consuming pla...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "id": "news-1791175445739-10",
+      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com",
+      "summary": "Indonesia’s Anak Krakatau Volcano Spawns Two New Islands After Eruption, First Since 1930\n\nForeigners in Japan on Skilled Worker Visa Hit Record High\n...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
       "credibility": "P2",
-      "publishedAt": "2026-10-03T14:31:56.000Z",
+      "publishedAt": "2026-10-05T00:45:13.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1791175445739-9",
+      "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion - Bloomberg.com",
+      "summary": "Deals\n\n# Schneider Said to Near Deal to Buy PTC for More Than $20 Billion\n\nSchneider Electric SE is nearing a deal to acquire US-based engineering sof...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T20:47:02.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-4",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions - TechCrunch",
+      "summary": "### Newsletters\n\nSubscribe for the industry’s biggest tech news [...] Posted:\n\n# Google froze its open source bug bounty program due to a ‘significant...",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T20:31:07.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1791175445739-1",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? - TechCrunch",
+      "summary": "Anthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that...",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T20:08:34.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-6",
+      "title": "TechCrunch Mobility: Reining in robotaxis - TechCrunch",
+      "summary": "Why go? Well, I am interviewing Rivian CEO RJ Scaringe onstage October 13. I will also interview Mikell Taylor, director of robotics strategy at GM; S...",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1791175445739-0",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat - The Verge",
+      "summary": "On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn’t quite get an edge. So it resorted t...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1791175445739-5",
+      "title": "Trump unveils his new Super Intelligence Force - techcrunch.com",
+      "summary": "Back in September, in response to an AI safety debate that the president has largely dismissed as a hoax created by “Radical Left Dumocrats,” Trump sa...",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-8",
+      "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks - Bloomberg.com",
+      "summary": "# Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks\n\n## Takeaways by Bloomberg AISubscribe\n\nWall Street’s artificial intelligence fixati...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-7",
+      "title": "Democrats Aren’t Taking an Election Republicans Are Giving Away - Bloomberg.com",
+      "summary": "### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business an...",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-04/midterms-will-test-republican-self-sabotage",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/opinion/newsletters/2026-10-04/midterms-will-test-republican-self-sabotage",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T12:00:02.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-2",
+      "title": "Amazon’s colorful and sturdy new Kindles - The Verge",
+      "summary": "OpenAI’s Dots. OpenAI’s Muse-like AI agent is here, though the company is pitching it more as something to help you with work than an all-encompassing...",
+      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1791175445739-3",
+      "title": "The forgotten Chromebook that started it all - The Verge",
+      "summary": "From The New York Times: “Chromebook From Samsung Has Its Head in the Cloud”\n From PCMag: “The Google Chrome OS CR-48 Notebook: Hands-On”\n From Ars Te...",
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -19,26 +167,40 @@
       ]
     },
     {
-      "id": "news-1791089808758-0",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family | WIRED",
-      "summary": "The general idea is that Muse can use its “memory” (aka structured text files) to collect information about your relationships and the important peopl...",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "id": "news-1791175445739-11",
+      "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market - Bloomberg.com",
+      "summary": "Europe’s Bond Spreads Spike as French Debt Risk Spills Over\n\nFrance Lays Out Budget in Latest Test of Investor Nerves\n\nTreasuries Surge as France’s Fi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
       "credibility": "P2",
-      "publishedAt": "2026-10-03T12:00:00.000Z",
+      "publishedAt": "2026-10-04T11:15:00.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791175445739-12",
+      "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say - reuters.com",
+      "summary": "LONDON/MOSCOW, Oct 4 (Reuters) - OPEC+ has agreed in principle to keep oil production targets steady for November, three sources close to the matter s...",
+      "url": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-04T10:25:43.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "Agent"
+        "TPU",
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 13
   },
   "summary": ""
 }
