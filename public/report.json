@@ -1,91 +1,80 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T04:44:05.740Z",
-  "totalItems": 13,
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T05:30:37.053Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1791175445739-10",
-      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com",
-      "summary": "Indonesia’s Anak Krakatau Volcano Spawns Two New Islands After Eruption, First Since 1930\n\nForeigners in Japan on Skilled Worker Visa Hit Record High\n...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-      "credibility": "P2",
-      "publishedAt": "2026-10-05T00:45:13.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1791175445739-9",
-      "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion - Bloomberg.com",
-      "summary": "Deals\n\n# Schneider Said to Near Deal to Buy PTC for More Than $20 Billion\n\nSchneider Electric SE is nearing a deal to acquire US-based engineering sof...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T20:47:02.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-4",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions - TechCrunch",
-      "summary": "### Newsletters\n\nSubscribe for the industry’s biggest tech news [...] Posted:\n\n# Google froze its open source bug bounty program due to a ‘significant...",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T20:31:07.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1791175445739-1",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? - TechCrunch",
-      "summary": "Anthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that...",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T20:08:34.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-6",
-      "title": "TechCrunch Mobility: Reining in robotaxis - TechCrunch",
-      "summary": "Why go? Well, I am interviewing Rivian CEO RJ Scaringe onstage October 13. I will also interview Mikell Taylor, director of robotics strategy at GM; S...",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "id": "news-1791264637052-2",
+      "title": "Day 1 of 28 days of Quality of Life improvements or a full Reset - Announcements - OpenAI Developer Community",
+      "summary": "Looks like Improvement: ChatGPT put a “full width” option in the appearance settings.  \nBut not an improvement: that option doesn’t make the chat cont...",
+      "url": "https://community.openai.com/t/day-1-of-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/day-1-of-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525",
+      "credibility": "P0",
+      "publishedAt": "2026-10-05T17:33:29.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "RAG"
+        "GPT",
+        "AI"
       ]
     },
     {
-      "id": "news-1791175445739-0",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat - The Verge",
-      "summary": "On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn’t quite get an edge. So it resorted t...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "id": "news-1791264637052-3",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "71\n\nImage 33\n\nSubmitted by \n\nImage 34\n\n afaji\n\n[- [x] 18](\n\n### HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents\n\nIm...",
+      "url": "https://huggingface.co/papers/date/2026-10-06",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers/date/2026-10-06",
+      "credibility": "P0",
+      "publishedAt": "2026-10-05T14:32:16.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1791264637052-4",
+      "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding - Bloomberg",
+      "summary": "Battery pioneer Contemporary Amperex Technology Co. Ltd. and WeChat-operator Tencent Holdings Ltd. have committed among the largest amounts in the cur...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
       "credibility": "P2",
-      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "publishedAt": "2026-10-06T05:00:22.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791264637052-1",
+      "title": "Post-90s Generation Leads China's Large Model Industry: Yao Shunyu, Luo Fuli, Liu Dayiheng, Chen Yusen, Zhou Chang and Their Peers Take Center Stage in Domestic AI Sector",
+      "summary": "After graduating from Princeton University, Yao Shunyiu joined OpenAI in 2024 and participated in the development of AI Agent and task execution syste...",
+      "url": "https://eu.36kr.com/en/p/4012967999852425",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4012967999852425",
+      "credibility": "P2",
+      "publishedAt": "2026-10-06T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1791264637052-0",
+      "title": "Australia's ABC rejects AI copyright carveout, believes ...",
+      "summary": "Anthropic, creator of AI chatbot Claude, and ChatGPT maker OpenAI also want Australia to relax its copyright laws so they can use local content to tra...",
+      "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "credibility": "P2",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -94,113 +83,40 @@
       ]
     },
     {
-      "id": "news-1791175445739-5",
-      "title": "Trump unveils his new Super Intelligence Force - techcrunch.com",
-      "summary": "Back in September, in response to an AI safety debate that the president has largely dismissed as a hoax created by “Radical Left Dumocrats,” Trump sa...",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T15:15:10.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-8",
-      "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks - Bloomberg.com",
-      "summary": "# Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks\n\n## Takeaways by Bloomberg AISubscribe\n\nWall Street’s artificial intelligence fixati...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+      "id": "news-1791264637052-5",
+      "title": "Watch OpenAI's Kwon Apologizes for Australian Hack - Bloomberg",
+      "summary": "1.   ### OpenAI's Kwon Apologizes for Australian Hack Now Playing\n2.   ### Why Treasuries Are ‘Risky’ Again Duration:50:16\n3.   ### Sarah Jessica Park...",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
       "credibility": "P2",
-      "publishedAt": "2026-10-04T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-7",
-      "title": "Democrats Aren’t Taking an Election Republicans Are Giving Away - Bloomberg.com",
-      "summary": "### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business an...",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-04/midterms-will-test-republican-self-sabotage",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/opinion/newsletters/2026-10-04/midterms-will-test-republican-self-sabotage",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T12:00:02.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-2",
-      "title": "Amazon’s colorful and sturdy new Kindles - The Verge",
-      "summary": "OpenAI’s Dots. OpenAI’s Muse-like AI agent is here, though the company is pitching it more as something to help you with work than an all-encompassing...",
-      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
-        "Agent"
+        "LLM"
       ]
     },
     {
-      "id": "news-1791175445739-3",
-      "title": "The forgotten Chromebook that started it all - The Verge",
-      "summary": "From The New York Times: “Chromebook From Samsung Has Its Head in the Cloud”\n From PCMag: “The Google Chrome OS CR-48 Notebook: Hands-On”\n From Ars Te...",
-      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-11",
-      "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market - Bloomberg.com",
-      "summary": "Europe’s Bond Spreads Spike as French Debt Risk Spills Over\n\nFrance Lays Out Budget in Latest Test of Investor Nerves\n\nTreasuries Surge as France’s Fi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
-      "credibility": "P2",
-      "publishedAt": "2026-10-04T11:15:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791175445739-12",
-      "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say - reuters.com",
-      "summary": "LONDON/MOSCOW, Oct 4 (Reuters) - OPEC+ has agreed in principle to keep oil production targets steady for November, three sources close to the matter s...",
-      "url": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/",
+      "id": "news-1791264637052-6",
+      "title": "South Korea's Lee says AI appears to have been used in bank ...",
+      "summary": "South Korean President Lee Jae Myung said on Tuesday that AI models are believed to have been used in some recent hacking ‌incidents against banks and...",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/",
+      "sourceUrl": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
       "credibility": "P2",
-      "publishedAt": "2026-10-04T10:25:43.000Z",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "TPU",
-        "RAG"
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 13
+    "p2Count": 5
   },
-  "summary": ""
+  "summary": "🔥 官方动态：2条（community等）"
 }
