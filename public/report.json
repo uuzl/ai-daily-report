@@ -1,122 +1,58 @@
 {
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T05:30:37.053Z",
-  "totalItems": 7,
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T05:00:21.252Z",
+  "totalItems": 3,
   "items": [
     {
-      "id": "news-1791264637052-2",
-      "title": "Day 1 of 28 days of Quality of Life improvements or a full Reset - Announcements - OpenAI Developer Community",
-      "summary": "Looks like Improvement: ChatGPT put a “full width” option in the appearance settings.  \nBut not an improvement: that option doesn’t make the chat cont...",
-      "url": "https://community.openai.com/t/day-1-of-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/day-1-of-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525",
-      "credibility": "P0",
-      "publishedAt": "2026-10-05T17:33:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791264637052-3",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "71\n\nImage 33\n\nSubmitted by \n\nImage 34\n\n afaji\n\n[- [x] 18](\n\n### HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents\n\nIm...",
-      "url": "https://huggingface.co/papers/date/2026-10-06",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers/date/2026-10-06",
-      "credibility": "P0",
-      "publishedAt": "2026-10-05T14:32:16.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1791264637052-4",
-      "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding - Bloomberg",
-      "summary": "Battery pioneer Contemporary Amperex Technology Co. Ltd. and WeChat-operator Tencent Holdings Ltd. have committed among the largest amounts in the cur...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+      "id": "news-1791349221251-1",
+      "title": "Open-Source AI Tools Are Problem for Stopping Child Predators",
+      "summary": "The crimes have put a spotlight on some of the biggest makers of AI software and what experts say are the unintended consequences of the race to creat...",
+      "url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+      "sourceUrl": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
       "credibility": "P2",
-      "publishedAt": "2026-10-06T05:00:22.000Z",
+      "publishedAt": "2026-10-06T21:00:22.000Z",
       "category": "tech",
       "tags": [
-        "DeepSeek",
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1791264637052-1",
-      "title": "Post-90s Generation Leads China's Large Model Industry: Yao Shunyu, Luo Fuli, Liu Dayiheng, Chen Yusen, Zhou Chang and Their Peers Take Center Stage in Domestic AI Sector",
-      "summary": "After graduating from Princeton University, Yao Shunyiu joined OpenAI in 2024 and participated in the development of AI Agent and task execution syste...",
-      "url": "https://eu.36kr.com/en/p/4012967999852425",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4012967999852425",
+      "id": "news-1791349221251-2",
+      "title": "Google’s power-hungry data centers crave nuclear energy | The Verge",
+      "summary": "Over the next five years, the companies expect new equipment at each site to collectively lead to 890 megawatts of additional nuclear capacity. That’s...",
+      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
       "credibility": "P2",
-      "publishedAt": "2026-10-06T01:00:00.000Z",
+      "publishedAt": "2026-10-06T20:32:10.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
+        "AI"
       ]
     },
     {
-      "id": "news-1791264637052-0",
-      "title": "Australia's ABC rejects AI copyright carveout, believes ...",
-      "summary": "Anthropic, creator of AI chatbot Claude, and ChatGPT maker OpenAI also want Australia to relax its copyright laws so they can use local content to tra...",
-      "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "id": "news-1791349221251-0",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI | WIRED",
+      "summary": "For most people, the AI Era we’re now living in started sometime around the end of 2022, when OpenAI released the first consumer version of ChatGPT to...",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose",
       "credibility": "P2",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "publishedAt": "2026-10-06T10:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
         "GPT"
       ]
-    },
-    {
-      "id": "news-1791264637052-5",
-      "title": "Watch OpenAI's Kwon Apologizes for Australian Hack - Bloomberg",
-      "summary": "1.   ### OpenAI's Kwon Apologizes for Australian Hack Now Playing\n2.   ### Why Treasuries Are ‘Risky’ Again Duration:50:16\n3.   ### Sarah Jessica Park...",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
-      "credibility": "P2",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1791264637052-6",
-      "title": "South Korea's Lee says AI appears to have been used in bank ...",
-      "summary": "South Korean President Lee Jae Myung said on Tuesday that AI models are believed to have been used in some recent hacking ‌incidents against banks and...",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
-      "credibility": "P2",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 3
   },
-  "summary": "🔥 官方动态：2条（community等）"
+  "summary": ""
 }
