@@ -1,51 +1,52 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T05:00:21.252Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T05:10:45.915Z",
   "totalItems": 3,
   "items": [
     {
-      "id": "news-1791349221251-1",
-      "title": "Open-Source AI Tools Are Problem for Stopping Child Predators",
-      "summary": "The crimes have put a spotlight on some of the biggest makers of AI software and what experts say are the unintended consequences of the race to creat...",
-      "url": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/features/2026-open-source-ai-models-fuel-csam",
+      "id": "news-1791436245914-1",
+      "title": "When Algorithmic Exploration Becomes Cheap:A Case Study of Agentic Research in EDA",
+      "summary": "## AI use disclosure\n\nWe used multiple versions of OpenAI GPT models, Kimi, and DeepSeek in the research and preparation of this article. All manuscri...",
+      "url": "https://arxiv.org/html/2610.10129v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.10129v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-06T21:00:22.000Z",
-      "category": "tech",
+      "publishedAt": "2026-10-08T05:10:45.914Z",
+      "category": "research",
       "tags": [
         "OpenAI",
-        "AI"
+        "GPT",
+        "DeepSeek"
       ]
     },
     {
-      "id": "news-1791349221251-2",
-      "title": "Google’s power-hungry data centers crave nuclear energy | The Verge",
-      "summary": "Over the next five years, the companies expect new equipment at each site to collectively lead to 890 megawatts of additional nuclear capacity. That’s...",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "id": "news-1791436245914-0",
+      "title": "Mistral says “Le Chonk” can challenge the best AI models",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight. Meta called its latest model \"Watermelon\" to ChatGPT or Claude from las...",
+      "url": "https://arstechnica.com/civis/threads/mistral-says-%E2%80%9Cle-chonk%E2%80%9D-can-challenge-the-best-ai-models.1515127/latest",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/civis/threads/mistral-says-%E2%80%9Cle-chonk%E2%80%9D-can-challenge-the-best-ai-models.1515127/latest",
       "credibility": "P2",
-      "publishedAt": "2026-10-06T20:32:10.000Z",
+      "publishedAt": "2026-10-07T17:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791349221251-0",
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI | WIRED",
-      "summary": "For most people, the AI Era we’re now living in started sometime around the end of 2022, when OpenAI released the first consumer version of ChatGPT to...",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose",
-      "credibility": "P2",
-      "publishedAt": "2026-10-06T10:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "Claude",
-        "GPT"
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791436245914-2",
+      "title": "Watch Inside the 21st Century’s Manhattan Project: The Race to AI Superintelligence | The Big Interview | WIRED",
+      "summary": "### AI Researcher Answers: Is AI’s Existential Threat Real?\n ### Inside the 21st Century’s Manhattan Project: The Race to AI Superintelligence [...] #...",
+      "url": "https://www.wired.com/video/watch/big-interview-kevin-roose",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/video/watch/big-interview-kevin-roose",
+      "credibility": "P2",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
