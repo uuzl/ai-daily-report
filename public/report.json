@@ -1,33 +1,80 @@
 {
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-08T05:10:45.915Z",
-  "totalItems": 3,
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T05:13:40.366Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1791436245914-1",
-      "title": "When Algorithmic Exploration Becomes Cheap:A Case Study of Agentic Research in EDA",
-      "summary": "## AI use disclosure\n\nWe used multiple versions of OpenAI GPT models, Kimi, and DeepSeek in the research and preparation of this article. All manuscri...",
-      "url": "https://arxiv.org/html/2610.10129v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.10129v1",
+      "id": "news-1791522820365-2",
+      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
+      "summary": "Stevie Bonifield\n\n## Most Popular\n\n GTA VI leaks continue with a lengthy (and very nude) gameplay video\n Anthropic bans ‘abusive or cruel behavior’ to...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T05:10:45.914Z",
-      "category": "research",
+      "publishedAt": "2026-10-08T21:53:51.000Z",
+      "category": "product",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
+        "Claude",
+        "AI",
+        "TPU"
       ]
     },
     {
-      "id": "news-1791436245914-0",
-      "title": "Mistral says “Le Chonk” can challenge the best AI models",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight. Meta called its latest model \"Watermelon\" to ChatGPT or Claude from las...",
-      "url": "https://arstechnica.com/civis/threads/mistral-says-%E2%80%9Cle-chonk%E2%80%9D-can-challenge-the-best-ai-models.1515127/latest",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/civis/threads/mistral-says-%E2%80%9Cle-chonk%E2%80%9D-can-challenge-the-best-ai-models.1515127/latest",
+      "id": "news-1791522820365-8",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed - TechCrunch",
+      "summary": "The actor then went into how neural networks were used to identify patterns and do edge detection or feature extraction, which he described as “identi...",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "credibility": "P2",
-      "publishedAt": "2026-10-07T17:00:00.000Z",
+      "publishedAt": "2026-10-08T18:20:32.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Transformer"
+      ]
+    },
+    {
+      "id": "news-1791522820365-5",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months - TechCrunch",
+      "summary": "Currently, a slate of OpenAI’s models are at the top of its preliminary alignment leaderboard, with Claude Opus 5.5 and Claude Fable in sixth and nint...",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T18:19:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791522820365-3",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected - TechCrunch",
+      "summary": "Posted:\n\n# OpenAI’s revenue is reportedly $20 billion less than previously projected\n\nA little over a week ago, it was reported that OpenAI’s annualiz...",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T18:19:42.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791522820365-4",
+      "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+      "summary": "Thomas Kurian, CEO of Google Cloud, explained that the new agent can be given “objectives, not just instructions.” That means it’s able to plan the wo...",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T18:18:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -36,14 +83,135 @@
       ]
     },
     {
-      "id": "news-1791436245914-2",
-      "title": "Watch Inside the 21st Century’s Manhattan Project: The Race to AI Superintelligence | The Big Interview | WIRED",
-      "summary": "### AI Researcher Answers: Is AI’s Existential Threat Real?\n ### Inside the 21st Century’s Manhattan Project: The Race to AI Superintelligence [...] #...",
-      "url": "https://www.wired.com/video/watch/big-interview-kevin-roose",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/video/watch/big-interview-kevin-roose",
+      "id": "news-1791522820365-1",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference - TechCrunch",
+      "summary": "Posted:\n\n# Anthropic changes usage policy to ban model abuse and election interference\n\nAnthropic updated its usage policy on Thursday, codifying new ...",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
       "credibility": "P2",
-      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "publishedAt": "2026-10-08T18:16:24.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791522820365-7",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet - TechCrunch",
+      "summary": "When OpenAI released hundreds of claimed solutions to some of the world’s hardest math problems this week, the frontier lab said that it had consulted...",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T18:10:55.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1791522820365-0",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
+      "summary": "Last August, the company announced it would allow Claude to end conversations with “persistently harmful or abusive” users as part of its research int...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791522820365-6",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost - TechCrunch",
+      "summary": "Balsam said the monitors are the near-term piece of a longer research goal: reverse-engineering an LLM so that behavior can be traced back to where it...",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1791522820365-11",
+      "title": "Ambrosia Energy and Bloom Energy join Disrupt 2026 - TechCrunch",
+      "summary": "Get your pass now to save up to $100 before rates go up at the door on October 13. Grab a second pass at 50% off. Register now.\n\n## The AI race is bec...",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1791522820365-10",
+      "title": "Google releases a new local-first Granola competitor - TechCrunch",
+      "summary": "Earlier in April, Google released an AI-powered dictation tool that worked with local models. Now, the same team has released a new competitor to the ...",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T13:28:39.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791522820366-12",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta - TechCrunch",
+      "summary": "Manus makes AI products and agents similar to what companies like Cursor, Lovable, and Replit offer. It offers a chatbot and vibe-coding tools to let ...",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T13:20:32.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1791522820365-9",
+      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
+      "summary": "### More From Bloomberg\n\nImage 1: Mobile World Congress 2026 Nvidia-Backed Firmus Said to Close Books as IPO StrugglesImage 2: Melbourne1_FirmusAIFact...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T10:20:43.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1791522820366-13",
+      "title": "Samsung Profit Up Almost Nine-Fold With Memory Chip Windfall - Bloomberg.com",
+      "summary": "# Samsung, TSMC Fail to Excite Investors Used to Torrid AI Growth\n\n## Takeaways by Bloomberg AISubscribe\n\nSamsung Electronics Co. earned a nearly nine...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
+      "credibility": "P2",
+      "publishedAt": "2026-10-08T08:06:48.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -53,7 +221,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 14
   },
   "summary": ""
 }
