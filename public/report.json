@@ -1,227 +1,251 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-09T05:13:40.366Z",
-  "totalItems": 14,
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T04:58:43.205Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1791522820365-2",
-      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
-      "summary": "Stevie Bonifield\n\n## Most Popular\n\n GTA VI leaks continue with a lengthy (and very nude) gameplay video\n Anthropic bans ‘abusive or cruel behavior’ to...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "id": "news-1791608323203-10",
+      "title": "王的猜想，刚刚扩展到四维-36氪",
+      "summary": "今年7月，王虹、邓煜在费城国际数学家大会上拿下菲尔兹奖。\n\n消息刷屏那几天，Anthropic员工Alek Dimitriev在X上发了一句：\n\n这届菲尔兹奖，将是人类最后一次拿到这个奖。\n\n往届得主Timothy Gowers跟帖，说自己也有过类似的想法。\n\n不过这个过程有滞后，所以我想他们大概能...",
+      "url": "https://m.36kr.com/p/4019214422380420",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/p/4019214422380420",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T21:53:51.000Z",
-      "category": "product",
-      "tags": [
-        "Claude",
-        "AI",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1791522820365-8",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed - TechCrunch",
-      "summary": "The actor then went into how neural networks were used to identify patterns and do edge detection or feature extraction, which he described as “identi...",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-08T18:20:32.000Z",
+      "publishedAt": "2026-10-10T03:23:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1791522820365-5",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months - TechCrunch",
-      "summary": "Currently, a slate of OpenAI’s models are at the top of its preliminary alignment leaderboard, with Claude Opus 5.5 and Claude Fable in sixth and nint...",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-08T18:19:45.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791522820365-3",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected - TechCrunch",
-      "summary": "Posted:\n\n# OpenAI’s revenue is reportedly $20 billion less than previously projected\n\nA little over a week ago, it was reported that OpenAI’s annualiz...",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-08T18:19:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791522820365-4",
-      "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
-      "summary": "Thomas Kurian, CEO of Google Cloud, explained that the new agent can be given “objectives, not just instructions.” That means it’s able to plan the wo...",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-08T18:18:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1791522820365-1",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference - TechCrunch",
-      "summary": "Posted:\n\n# Anthropic changes usage policy to ban model abuse and election interference\n\nAnthropic updated its usage policy on Thursday, codifying new ...",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "id": "news-1791608323202-0",
+      "title": "当AI开始造AI：递归自我改进的2026年-36氪",
+      "summary": "此外，自动化本身也在制造新的瓶颈。Anthropic 坦言，随着 Claude 产出的代码越来越多，人类代码审查已经成了新的卡点，这正是计算机体系结构中的 Amdahl 定律：整体速度，终究被那些没被加速的环节所限制。\n\n## 当循环跑出了沙箱\n\nRSI 的讨论之所以在今年夏天骤然升温，不只是因为能...",
+      "url": "http://www.36kr.com/p/4019262571663237",
+      "source": "36kr",
+      "sourceUrl": "http://www.36kr.com/p/4019262571663237",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T18:16:24.000Z",
+      "publishedAt": "2026-10-10T01:00:34.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1791608323203-5",
+      "title": "Hacking in the AI Era: Why the Spear Has Grown Stronger ...",
+      "summary": "Against the backdrop of the accelerating large-scale adoption of large language models (LLMs) and intelligent agents across global tech ecosystems,",
+      "url": "https://eu.36kr.com/en/p/4019282794811267",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4019282794811267",
+      "credibility": "P2",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1791608323203-9",
+      "title": "Non-Conversational AI Startup Secures $7.5 Billion Valuation in New Financing Round Less Than a Month After Official Launch",
+      "summary": "Instead of generating text, it generates \"decisions\". Jev is based on the Transformer architecture, but it is not a large language model. It does not ...",
+      "url": "https://eu.36kr.com/en/p/4019333008840320",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4019333008840320",
+      "credibility": "P2",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1791522820365-7",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet - TechCrunch",
-      "summary": "When OpenAI released hundreds of claimed solutions to some of the world’s hardest math problems this week, the frontier lab said that it had consulted...",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "id": "news-1791608323203-7",
+      "title": "差了200亿美元，OpenAI年化营收数字打架，英伟达跌近3%-36氪",
+      "summary": "OpenAI的年化营收，怎么一下子差出了200亿美元？\n\n10月8日，英国《金融时报》披露，OpenAI向投资者提供的文件显示：\n\n截至9月底，公司年化营收接近500亿美元。\n\n《金融时报》报道，OpenAI截至9月底的年化营收接近500亿美元，低于此前广泛报道的700亿美元。\n\n就在9月底，媒体口...",
+      "url": "https://m.36kr.com/p/4019218186588288",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/p/4019218186588288",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T18:10:55.000Z",
+      "publishedAt": "2026-10-10T00:57:31.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
+        "算法"
+      ]
+    },
+    {
+      "id": "news-1791608323203-11",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "No newsletters selected.\n\nSubscribe\n\nBy submitting your email, you agree to our Terms and Privacy Notice.\n\n## Related\n\n   \nImage 6: Police vehicles wi...",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "credibility": "P2",
+      "publishedAt": "2026-10-09T21:41:29.000Z",
+      "category": "product",
+      "tags": [
+        "AI",
+        "LLM",
         "TPU"
       ]
     },
     {
-      "id": "news-1791522820365-0",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
-      "summary": "Last August, the company announced it would allow Claude to end conversations with “persistently harmful or abusive” users as part of its research int...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "credibility": "P2",
-      "publishedAt": "2026-10-08T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791522820365-6",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost - TechCrunch",
-      "summary": "Balsam said the monitors are the near-term piece of a longer research goal: reverse-engineering an LLM so that behavior can be traced back to where it...",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "id": "news-1791608323203-4",
+      "title": "We can't help treating AI like it's human. But should we? | TechCrunch",
+      "summary": "“When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,” Turkle writes in the book. “And we ...",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "publishedAt": "2026-10-09T16:40:14.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
+        "GPT",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1791522820365-11",
-      "title": "Ambrosia Energy and Bloom Energy join Disrupt 2026 - TechCrunch",
-      "summary": "Get your pass now to save up to $100 before rates go up at the door on October 13. Grab a second pass at 50% off. Register now.\n\n## The AI race is bec...",
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "id": "news-1791608323203-13",
+      "title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk | Reuters",
+      "summary": "BRUSSELS, Oct 9 (Reuters) - European Union rules setting guardrails on AI use adopted by the bloc two years ago are more than capable of tackling rogu...",
+      "url": "https://www.reuters.com/world/eu-tech-chief-says-bloc-well-equipped-fend-off-rogue-ai-risk-2026-10-09",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/eu-tech-chief-says-bloc-well-equipped-fend-off-rogue-ai-risk-2026-10-09",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "publishedAt": "2026-10-09T16:36:22.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "AI",
         "Agent"
       ]
     },
     {
-      "id": "news-1791522820365-10",
-      "title": "Google releases a new local-first Granola competitor - TechCrunch",
-      "summary": "Earlier in April, Google released an AI-powered dictation tool that worked with local models. Now, the same team has released a new competitor to the ...",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "id": "news-1791608323203-14",
+      "title": "Relative Patch Response Learning for Generalizable AI-Generated Image Detection",
+      "summary": "Generative models nowadays can produce highly realistic images (Karras et al., 2019; Dhariwal and Nichol, 2021; Rombach et al., 2022; Esser et al., 20...",
+      "url": "https://arxiv.org/html/2610.11876v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.11876v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T13:28:39.000Z",
-      "category": "product",
+      "publishedAt": "2026-10-09T10:00:00.000Z",
+      "category": "tech",
       "tags": [
+        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1791522820366-12",
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta - TechCrunch",
-      "summary": "Manus makes AI products and agents similar to what companies like Cursor, Lovable, and Replit offer. It offers a chatbot and vibe-coding tools to let ...",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "id": "news-1791608323203-3",
+      "title": "Manus，没能逃出巨头的游戏",
+      "summary": "... DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东 ... AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案. 当AI开始造AI：递归自我改进的2026年.",
+      "url": "https://m.36kr.com/p/4019308837885576",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/p/4019308837885576",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T13:20:32.000Z",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "Agent"
+        "OpenAI",
+        "DeepSeek",
+        "AI"
       ]
     },
     {
-      "id": "news-1791522820365-9",
-      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
-      "summary": "### More From Bloomberg\n\nImage 1: Mobile World Congress 2026 Nvidia-Backed Firmus Said to Close Books as IPO StrugglesImage 2: Melbourne1_FirmusAIFact...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
+      "id": "news-1791608323202-2",
+      "title": "山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活 ...",
+      "summary": "AI最前沿 Anthropic宣布禁止“虐待”其旗下AI 据报道,Anthropic对其AI使用政策作出调整,以应对新的高风险滥用行为。其中一项最重要的变化是,禁止对Claude进行“持续且不必要",
+      "url": "https://36kr.com/p/4019297973735560",
+      "source": "36kr",
+      "sourceUrl": "https://36kr.com/p/4019297973735560",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T10:20:43.000Z",
+      "publishedAt": "2026-10-09T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791608323203-6",
+      "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+      "summary": "Large language models further broaden the information that can influence the search by allowing optimizers to condition on task descriptions, variable...",
+      "url": "https://arxiv.org/html/2610.12183v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.12183v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-09T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1791608323203-8",
+      "title": "legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents",
+      "summary": "legoESM was implemented by large-language-model coding agents in an agentic coding environment\nunder a human-authored specification. Most of the code ...",
+      "url": "https://arxiv.org/html/2610.11883v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.11883v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791608323203-12",
+      "title": "Lossy Compressive Text Autoencoders",
+      "summary": "LLM Judge Formulation. For the LLM-based judge, we adapt the Multidimensional Quality Metrics (MQM; Lommel et al. 2024; Strandvik 2025) used in machin...",
+      "url": "https://arxiv.org/html/2610.10738v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.10738v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
+        "LLM",
         "benchmark"
       ]
     },
     {
-      "id": "news-1791522820366-13",
-      "title": "Samsung Profit Up Almost Nine-Fold With Memory Chip Windfall - Bloomberg.com",
-      "summary": "# Samsung, TSMC Fail to Excite Investors Used to Torrid AI Growth\n\n## Takeaways by Bloomberg AISubscribe\n\nSamsung Electronics Co. earned a nearly nine...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
+      "id": "news-1791608323202-1",
+      "title": "MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation",
+      "summary": "With the development of large language models, an increasing body of work has examined their role in hypothesis discovery and research ideation. Early...",
+      "url": "https://arxiv.org/html/2610.11966v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.11966v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-08T08:06:48.000Z",
-      "category": "tech",
+      "publishedAt": "2026-10-09T06:00:00.000Z",
+      "category": "research",
       "tags": [
-        "AI"
+        "AI",
+        "LLM",
+        "TPU"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 14
+    "p2Count": 15
   },
   "summary": ""
 }
