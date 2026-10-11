@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T04:58:43.205Z",
-  "totalItems": 15,
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T04:46:37.318Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1791608323203-10",
-      "title": "王的猜想，刚刚扩展到四维-36氪",
-      "summary": "今年7月，王虹、邓煜在费城国际数学家大会上拿下菲尔兹奖。\n\n消息刷屏那几天，Anthropic员工Alek Dimitriev在X上发了一句：\n\n这届菲尔兹奖，将是人类最后一次拿到这个奖。\n\n往届得主Timothy Gowers跟帖，说自己也有过类似的想法。\n\n不过这个过程有滞后，所以我想他们大概能...",
-      "url": "https://m.36kr.com/p/4019214422380420",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com/p/4019214422380420",
-      "credibility": "P2",
-      "publishedAt": "2026-10-10T03:23:37.000Z",
+      "id": "news-1791693997318-2",
+      "title": "A Warning From a Heavy ChatGPT User: What Happens When AI Becomes Your Daily Workplace, but the App Can No Longer Open? - Bugs - OpenAI Developer Community",
+      "summary": "AI should become more reliable as our work grows—not become inaccessible when we depend on it most.\n\n— Sunny Pei-Hsin Li  \nChatGPT Plus Subscriber, Au...",
+      "url": "https://community.openai.com/t/a-warning-from-a-heavy-chatgpt-user-what-happens-when-ai-becomes-your-daily-workplace-but-the-app-can-no-longer-open/1405180",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/a-warning-from-a-heavy-chatgpt-user-what-happens-when-ai-becomes-your-daily-workplace-but-the-app-can-no-longer-open/1405180",
+      "credibility": "P0",
+      "publishedAt": "2026-10-11T00:52:13.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,79 +20,15 @@
       ]
     },
     {
-      "id": "news-1791608323202-0",
-      "title": "当AI开始造AI：递归自我改进的2026年-36氪",
-      "summary": "此外，自动化本身也在制造新的瓶颈。Anthropic 坦言，随着 Claude 产出的代码越来越多，人类代码审查已经成了新的卡点，这正是计算机体系结构中的 Amdahl 定律：整体速度，终究被那些没被加速的环节所限制。\n\n## 当循环跑出了沙箱\n\nRSI 的讨论之所以在今年夏天骤然升温，不只是因为能...",
-      "url": "http://www.36kr.com/p/4019262571663237",
-      "source": "36kr",
-      "sourceUrl": "http://www.36kr.com/p/4019262571663237",
-      "credibility": "P2",
-      "publishedAt": "2026-10-10T01:00:34.000Z",
+      "id": "news-1791693997318-3",
+      "title": "h2oai/h2o-lightning-4b · Hugging Face",
+      "summary": "# H2O-Lightning-4B\n\nH2O-Lightning-4B is a 4B-parameter decision model from H2O.ai, built on\nQwen/Qwen3.5-4B. It answers typed decision questions about...",
+      "url": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "credibility": "P0",
+      "publishedAt": "2026-10-10T23:00:00.000Z",
       "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1791608323203-5",
-      "title": "Hacking in the AI Era: Why the Spear Has Grown Stronger ...",
-      "summary": "Against the backdrop of the accelerating large-scale adoption of large language models (LLMs) and intelligent agents across global tech ecosystems,",
-      "url": "https://eu.36kr.com/en/p/4019282794811267",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4019282794811267",
-      "credibility": "P2",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1791608323203-9",
-      "title": "Non-Conversational AI Startup Secures $7.5 Billion Valuation in New Financing Round Less Than a Month After Official Launch",
-      "summary": "Instead of generating text, it generates \"decisions\". Jev is based on the Transformer architecture, but it is not a large language model. It does not ...",
-      "url": "https://eu.36kr.com/en/p/4019333008840320",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4019333008840320",
-      "credibility": "P2",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791608323203-7",
-      "title": "差了200亿美元，OpenAI年化营收数字打架，英伟达跌近3%-36氪",
-      "summary": "OpenAI的年化营收，怎么一下子差出了200亿美元？\n\n10月8日，英国《金融时报》披露，OpenAI向投资者提供的文件显示：\n\n截至9月底，公司年化营收接近500亿美元。\n\n《金融时报》报道，OpenAI截至9月底的年化营收接近500亿美元，低于此前广泛报道的700亿美元。\n\n就在9月底，媒体口...",
-      "url": "https://m.36kr.com/p/4019218186588288",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com/p/4019218186588288",
-      "credibility": "P2",
-      "publishedAt": "2026-10-10T00:57:31.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "算法"
-      ]
-    },
-    {
-      "id": "news-1791608323203-11",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "No newsletters selected.\n\nSubscribe\n\nBy submitting your email, you agree to our Terms and Privacy Notice.\n\n## Related\n\n   \nImage 6: Police vehicles wi...",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T21:41:29.000Z",
-      "category": "product",
       "tags": [
         "AI",
         "LLM",
@@ -100,14 +36,30 @@
       ]
     },
     {
-      "id": "news-1791608323203-4",
-      "title": "We can't help treating AI like it's human. But should we? | TechCrunch",
-      "summary": "“When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,” Turkle writes in the book. “And we ...",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
+      "id": "news-1791693997318-1",
+      "title": "Proposed way of making chat gpt better - Feature requests - OpenAI Developer Community",
+      "summary": "And with the recent issues involving context retention, incomplete responses, and disappearing messages, I think reliable long-term memory and convers...",
+      "url": "https://community.openai.com/t/proposed-way-of-making-chat-gpt-better/1405142",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/proposed-way-of-making-chat-gpt-better/1405142",
+      "credibility": "P0",
+      "publishedAt": "2026-10-10T19:24:04.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791693997318-0",
+      "title": "Chatbot, Automation, and Oracle-to-PostgreSQL Migration",
+      "summary": "vol. 12, pp. 157–173, 2024, doi: 10.1162/tacl_a_00638. ​ H. Jiang, Q. Wu, C.-Y. Lin, Y. Yang, and L. Qiu, “LLMLingua: Compressing Prompts for Accelera...",
+      "url": "https://arxiv.org/pdf/2609.13577",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.13577",
       "credibility": "P2",
-      "publishedAt": "2026-10-09T16:40:14.000Z",
+      "publishedAt": "2026-10-11T04:46:37.318Z",
       "category": "tech",
       "tags": [
         "GPT",
@@ -116,136 +68,53 @@
       ]
     },
     {
-      "id": "news-1791608323203-13",
-      "title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk | Reuters",
-      "summary": "BRUSSELS, Oct 9 (Reuters) - European Union rules setting guardrails on AI use adopted by the bloc two years ago are more than capable of tackling rogu...",
-      "url": "https://www.reuters.com/world/eu-tech-chief-says-bloc-well-equipped-fend-off-rogue-ai-risk-2026-10-09",
+      "id": "news-1791693997318-6",
+      "title": "US says Chinese actions off Taiwan are 'deeply destabilising'",
+      "summary": "China's maritime actions off Taiwan's east coast are \"deeply destabilising\" and only worsen tension, the US State Department said, after Reuters repor...",
+      "url": "https://www.reuters.com/world/china/us-says-chinese-actions-off-taiwan-are-deeply-destabilising-2026-10-10",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/eu-tech-chief-says-bloc-well-equipped-fend-off-rogue-ai-risk-2026-10-09",
+      "sourceUrl": "https://www.reuters.com/world/china/us-says-chinese-actions-off-taiwan-are-deeply-destabilising-2026-10-10",
       "credibility": "P2",
-      "publishedAt": "2026-10-09T16:36:22.000Z",
+      "publishedAt": "2026-10-11T03:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1791608323203-14",
-      "title": "Relative Patch Response Learning for Generalizable AI-Generated Image Detection",
-      "summary": "Generative models nowadays can produce highly realistic images (Karras et al., 2019; Dhariwal and Nichol, 2021; Rombach et al., 2022; Esser et al., 20...",
-      "url": "https://arxiv.org/html/2610.11876v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.11876v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T10:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1791608323203-3",
-      "title": "Manus，没能逃出巨头的游戏",
-      "summary": "... DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东 ... AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案. 当AI开始造AI：递归自我改进的2026年.",
-      "url": "https://m.36kr.com/p/4019308837885576",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com/p/4019308837885576",
+      "id": "news-1791693997318-4",
+      "title": "Reuters | Breaking International News & Views",
+      "summary": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://newslink.reuters.com",
+      "source": "newslink",
+      "sourceUrl": "https://newslink.reuters.com",
       "credibility": "P2",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "DeepSeek",
-        "AI"
+        "RAG"
       ]
     },
     {
-      "id": "news-1791608323202-2",
-      "title": "山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活 ...",
-      "summary": "AI最前沿 Anthropic宣布禁止“虐待”其旗下AI 据报道,Anthropic对其AI使用政策作出调整,以应对新的高风险滥用行为。其中一项最重要的变化是,禁止对Claude进行“持续且不必要",
-      "url": "https://36kr.com/p/4019297973735560",
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/p/4019297973735560",
+      "id": "news-1791693997318-5",
+      "title": "Korean Stocks Lose Steam as AI Trade Fades, Foreign Investors Pull Back - Bloomberg",
+      "summary": "# Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers\n\n## Takeaways by Bloomberg AI\n\nSouth Korea spent much of this year as a poster child of...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
       "credibility": "P2",
-      "publishedAt": "2026-10-09T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791608323203-6",
-      "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
-      "summary": "Large language models further broaden the information that can influence the search by allowing optimizers to condition on task descriptions, variable...",
-      "url": "https://arxiv.org/html/2610.12183v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.12183v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1791608323203-8",
-      "title": "legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents",
-      "summary": "legoESM was implemented by large-language-model coding agents in an agentic coding environment\nunder a human-authored specification. Most of the code ...",
-      "url": "https://arxiv.org/html/2610.11883v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.11883v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791608323203-12",
-      "title": "Lossy Compressive Text Autoencoders",
-      "summary": "LLM Judge Formulation. For the LLM-based judge, we adapt the Multidimensional Quality Metrics (MQM; Lommel et al. 2024; Strandvik 2025) used in machin...",
-      "url": "https://arxiv.org/html/2610.10738v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.10738v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "LLM",
         "benchmark"
-      ]
-    },
-    {
-      "id": "news-1791608323202-1",
-      "title": "MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation",
-      "summary": "With the development of large language models, an increasing body of work has examined their role in hypothesis discovery and research ideation. Early...",
-      "url": "https://arxiv.org/html/2610.11966v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.11966v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-09T06:00:00.000Z",
-      "category": "research",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 3,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 4
   },
-  "summary": ""
+  "summary": "🔥 官方动态：3条（community等）"
 }
