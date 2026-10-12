@@ -1,50 +1,50 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T04:46:37.318Z",
-  "totalItems": 7,
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T05:02:05.199Z",
+  "totalItems": 9,
   "items": [
     {
-      "id": "news-1791693997318-2",
-      "title": "A Warning From a Heavy ChatGPT User: What Happens When AI Becomes Your Daily Workplace, but the App Can No Longer Open? - Bugs - OpenAI Developer Community",
-      "summary": "AI should become more reliable as our work grows—not become inaccessible when we depend on it most.\n\n— Sunny Pei-Hsin Li  \nChatGPT Plus Subscriber, Au...",
-      "url": "https://community.openai.com/t/a-warning-from-a-heavy-chatgpt-user-what-happens-when-ai-becomes-your-daily-workplace-but-the-app-can-no-longer-open/1405180",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/a-warning-from-a-heavy-chatgpt-user-what-happens-when-ai-becomes-your-daily-workplace-but-the-app-can-no-longer-open/1405180",
-      "credibility": "P0",
-      "publishedAt": "2026-10-11T00:52:13.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1791693997318-3",
-      "title": "h2oai/h2o-lightning-4b · Hugging Face",
-      "summary": "# H2O-Lightning-4B\n\nH2O-Lightning-4B is a 4B-parameter decision model from H2O.ai, built on\nQwen/Qwen3.5-4B. It answers typed decision questions about...",
-      "url": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "id": "news-1791781325199-5",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "StanfordUniversity\n\n### Judging in Latent Space: Efficient Generative Reward Modeling via Semantics-Preserving Compression\n\n### AMLworld-Compact: Impo...",
+      "url": "https://huggingface.co/papers/week/2026-W42",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "sourceUrl": "https://huggingface.co/papers/week/2026-W42",
       "credibility": "P0",
-      "publishedAt": "2026-10-10T23:00:00.000Z",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "TPU"
+        "Agent"
       ]
     },
     {
-      "id": "news-1791693997318-1",
-      "title": "Proposed way of making chat gpt better - Feature requests - OpenAI Developer Community",
-      "summary": "And with the recent issues involving context retention, incomplete responses, and disappearing messages, I think reliable long-term memory and convers...",
-      "url": "https://community.openai.com/t/proposed-way-of-making-chat-gpt-better/1405142",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/proposed-way-of-making-chat-gpt-better/1405142",
-      "credibility": "P0",
-      "publishedAt": "2026-10-10T19:24:04.000Z",
+      "id": "news-1791781325199-2",
+      "title": "AI and Human Approaches to Mathematical Problem Solving",
+      "summary": "13 Romera-Paredes, Bernardino, Mohammadamin Barekatain, Alexander Novikov, Matej Balog, M. Pawan Kumar, Emilien Dupont, Francisco J. R. Ruiz, Jordan S...",
+      "url": "https://arxiv.org/pdf/2609.17779",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.17779",
+      "credibility": "P2",
+      "publishedAt": "2026-10-12T05:02:05.199Z",
       "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "news-1791781325198-1",
+      "title": "ChatGPT Co-Creator Liam Fedus: Advancing Beyond Math Mastery – The New Era of AI Laboratory Innovation & Scientific Research",
+      "summary": "In mid-September this year, Periodic released its first model Periodic Neon, a model with about 1 trillion parameters post-trained on its own laborato...",
+      "url": "https://eu.36kr.com/en/p/4020983712272515",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4020983712272515",
+      "credibility": "P2",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "category": "research",
       "tags": [
         "OpenAI",
         "GPT",
@@ -52,69 +52,99 @@
       ]
     },
     {
-      "id": "news-1791693997318-0",
-      "title": "Chatbot, Automation, and Oracle-to-PostgreSQL Migration",
-      "summary": "vol. 12, pp. 157–173, 2024, doi: 10.1162/tacl_a_00638. ​ H. Jiang, Q. Wu, C.-Y. Lin, Y. Yang, and L. Qiu, “LLMLingua: Compressing Prompts for Accelera...",
-      "url": "https://arxiv.org/pdf/2609.13577",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2609.13577",
+      "id": "news-1791781325199-6",
+      "title": "MIT Professor Despairs: OpenAI's Solution to The Millennium Problem Is Already Beyond Human Comprehension",
+      "summary": "This is exactly the terrifying future revealed by OpenAI solving the Navier-Stokes equations: The mathematical derivation capability of cutting-edge A...",
+      "url": "https://eu.36kr.com/en/p/4021210565857412",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4021210565857412",
       "credibility": "P2",
-      "publishedAt": "2026-10-11T04:46:37.318Z",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791781325199-7",
+      "title": "Moonshot execs in talks to settle dispute with shareholder ...",
+      "summary": "Oct 12 (Reuters) - Top executives of Chinese AI startup Moonshot are in talks ahead of its planned Hong Kong listing to settle a legal dispute with a",
+      "url": "https://www.reuters.com/world/china/moonshot-execs-talks-settle-dispute-with-shareholder-ahead-planned-ipo-people-2026-10-11",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/moonshot-execs-talks-settle-dispute-with-shareholder-ahead-planned-ipo-people-2026-10-11",
+      "credibility": "P2",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "category": "hot",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1791781325198-0",
+      "title": "An Analysis of Scoring Schemes on Multiple-Choice ...",
+      "summary": "2.2 Models We assess 31 frontier LLMs: 1) Gemini (Comanici et al., 2025, 2/3 Flash, 2.5 Lite, 2.5/3 Pro); 2) GPT (Singh et al., 2025, 4.1, 5 Nano, 5 M...",
+      "url": "https://arxiv.org/pdf/2608.29887v1?ref=taaft",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2608.29887v1?ref=taaft",
+      "credibility": "P2",
+      "publishedAt": "2026-10-11T18:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1791781325199-3",
+      "title": "These execs think voice AI hasn't reached its ChatGPT moment yet | TechCrunch",
+      "summary": "The theory of voice being the next big interface has picked up strong momentum, with investors pouring billions of dollars into voice AI startups work...",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "credibility": "P2",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "GPT",
         "AI",
-        "LLM"
+        "Agent"
       ]
     },
     {
-      "id": "news-1791693997318-6",
-      "title": "US says Chinese actions off Taiwan are 'deeply destabilising'",
-      "summary": "China's maritime actions off Taiwan's east coast are \"deeply destabilising\" and only worsen tension, the US State Department said, after Reuters repor...",
-      "url": "https://www.reuters.com/world/china/us-says-chinese-actions-off-taiwan-are-deeply-destabilising-2026-10-10",
+      "id": "news-1791781325199-8",
+      "title": "Trump announces Ukraine energy ceasefire with Russia ...",
+      "summary": "Summary. Trump says Russia, Ukraine have agreed to an energy ceasefire; Moscow, Kyiv do not immediately confirm an agreement; Zelenskiy says attacks o...",
+      "url": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/us-says-chinese-actions-off-taiwan-are-deeply-destabilising-2026-10-10",
+      "sourceUrl": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11",
       "credibility": "P2",
-      "publishedAt": "2026-10-11T03:00:00.000Z",
+      "publishedAt": "2026-10-11T10:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1791693997318-4",
-      "title": "Reuters | Breaking International News & Views",
-      "summary": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
-      "url": "https://newslink.reuters.com",
-      "source": "newslink",
-      "sourceUrl": "https://newslink.reuters.com",
+      "id": "news-1791781325199-4",
+      "title": "B!\"#$ A$%&'&(&)* I+%#**&,#+(#-E+).*#/ E+0&$1+2#+%)* ...",
+      "summary": "and environmental governance/practice terms within the same sentence. We started by compiling three lexicons: AIWords, capturing AI-related technologi...",
+      "url": "https://arxiv.org/pdf/2609.11391v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2609.11391v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "publishedAt": "2026-10-11T09:00:00.000Z",
       "category": "tech",
       "tags": [
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1791693997318-5",
-      "title": "Korean Stocks Lose Steam as AI Trade Fades, Foreign Investors Pull Back - Bloomberg",
-      "summary": "# Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers\n\n## Takeaways by Bloomberg AI\n\nSouth Korea spent much of this year as a poster child of...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
-      "credibility": "P2",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 1,
     "p1Count": 0,
-    "p2Count": 4
+    "p2Count": 8
   },
-  "summary": "🔥 官方动态：3条（community等）"
+  "summary": "🔥 官方动态：1条（huggingface等）"
 }
