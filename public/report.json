@@ -1,109 +1,134 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T04:04:58.561Z",
-  "totalItems": 12,
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T03:47:39.225Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1791950698560-3",
-      "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding - Reuters",
-      "summary": "Anthropic CEO ⁠Dario ​Amodei has called for regulation covering ​all US frontier AI companies, while the Trump administration has favored a pro-growth...",
-      "url": "https://www.reuters.com/legal/government/anthropic-seeks-rehearing-case-over-pentagons-security-risk-branding-2026-10-14/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/government/anthropic-seeks-rehearing-case-over-pentagons-security-risk-branding-2026-10-14/",
+      "id": "news-1792036059225-11",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis - TechCrunch",
+      "summary": "The founders say AI is challenging traditional chip design methods by discovering unconventional layouts that can outperform traditional ones. For exa...",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "credibility": "P2",
-      "publishedAt": "2026-10-14T00:50:13.000Z",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1791950698560-4",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings - TechCrunch",
-      "summary": "Cerebras Systems CEO and co-founder Andrew Feldman thinks the AI doomer narrative isn’t doing the industry any favors. At TechCrunch Disrupt 2026, the...",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "id": "news-1792036059224-8",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt - TechCrunch",
+      "summary": "“When we first started in 2021, and then as a company in 2023, we maybe saw one out of four things we looked at have inauthentic activity around it,” ...",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T22:36:59.000Z",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI",
         "RAG"
       ]
     },
     {
-      "id": "news-1791950698560-5",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room - TechCrunch",
-      "summary": "“At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data,” said...",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "id": "news-1792036059223-0",
+      "title": "Anthropic's Q3 revenue surges 45% to nearly $17 billion - Reuters",
+      "summary": "Last ⁠year, Anthropic's revenue increased twelvefold to nearly $4.6 billion, even as the company lost more than $8 billion on an operating basis, excl...",
+      "url": "https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T20:59:11.000Z",
+      "publishedAt": "2026-10-14T22:27:14.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "Claude",
         "AI"
       ]
     },
     {
-      "id": "news-1791950698561-6",
-      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
-      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - US federal agents arrested ...",
-      "url": "https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/",
+      "id": "news-1792036059224-5",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes - TechCrunch",
+      "summary": "According to Sichert, this compatibility with the popular database helps keep switching costs low, since users don’t need to rebuild their apps. It al...",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1792036059224-4",
+      "title": "AI-powered law firms draw lawyers from big firms - Reuters",
+      "summary": "Johnson, who was previously a partner at Kirkland & Ellis, told Reuters he spent the last two years thinking about AI’s impact on the practice of law ...",
+      "url": "https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/",
       "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/",
+      "sourceUrl": "https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T19:59:23.000Z",
+      "publishedAt": "2026-10-14T21:54:30.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
+        "AI"
       ]
     },
     {
-      "id": "news-1791950698561-7",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world - TechCrunch",
-      "summary": "“That will be the biggest moat,” he said.\n\nTopics\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affec...",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-13T17:30:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1791950698561-11",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache - TechCrunch",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fe...",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-13T17:18:25.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1791950698561-8",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay - Ars Technica",
-      "summary": "For your general AI queries, Gemini 4 Argon will be rolling out today in the Gemini app. However, it’s only going to be available for those on AI Pro ...",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "id": "news-1792036059225-12",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
+      "summary": "Epic’s release of the new “vibe coded” Launcher preview comes just days after a Bloomberg report suggesting the company is pivoting to an “AI first” d...",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
       "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T16:00:02.000Z",
+      "publishedAt": "2026-10-14T21:15:56.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792036059224-6",
+      "title": "Apple Prepares to Debut First AI Features in China in December - Bloomberg.com",
+      "summary": "# Apple Prepares to Debut First AI Features in China in December\n\n## Takeaways by Bloomberg AISubscribe\n\nApple Inc. is gearing up to release its artif...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T19:50:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792036059225-13",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms - TechCrunch",
+      "summary": "Get 50% off a second pass  \nThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more...",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T18:23:46.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792036059224-9",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence - TechCrunch",
+      "summary": "It’s a curious evolution of scam-baiting, but it’s not so surprising given how much AI has empowered scammers and hackers. The FBI received more than ...",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T18:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -111,76 +136,75 @@
       ]
     },
     {
-      "id": "news-1791950698560-1",
-      "title": "Google finally releases Gemini 4 Argon - The Verge",
-      "summary": "Google says Argon delivers “frontier reasoning and improved performance across complex workflows,” while cutting down on hedging, repetition, and the ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "id": "news-1792036059224-3",
+      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - An OpenAI employee who left...",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "publishedAt": "2026-10-14T15:21:53.000Z",
       "category": "product",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1791950698561-10",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy - TechCrunch",
-      "summary": "Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington P...",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "credibility": "P2",
-      "publishedAt": "2026-10-13T12:23:42.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Transformer",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1791950698561-9",
-      "title": "Character.AI files for bankruptcy - The Verge",
-      "summary": "# Character.AI files for bankruptcy\n\nThe chatbot startup is looking to sell its assets to Disney after years of legal challenges and safety concerns.\n...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "credibility": "P2",
-      "publishedAt": "2026-10-13T10:32:23.000Z",
-      "category": "tech",
-      "tags": [
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1791950698560-0",
-      "title": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
-      "summary": "The ChatGPT maker said last month that AI labs and assessors should agree on the scope and access before testing, disclose methods and ‌conflicts, and...",
-      "url": "https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/",
+      "id": "news-1792036059224-1",
+      "title": "Anthropic’s self-replicating AI warning is an alarming deja vu - The Verge",
+      "summary": "Earlier this year, Palisade Research, an AI safety research firm based in California demonstrated that AI models could autonomously copy themselves on...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T10:02:06.000Z",
+      "publishedAt": "2026-10-14T15:19:02.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1791950698560-2",
-      "title": "AI models may soon self-replicate without access to data centers, Anthropic warns - Reuters",
-      "summary": "Oct 13 (Reuters) - Anthropic said on Monday its experiments suggested small AI models may be months away from being capable enough to ​self-replicate ...",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "id": "news-1792036059224-10",
+      "title": "Epic’s new games launcher is ‘vibe coded’ - The Verge",
+      "summary": "# Epic’s new games launcher is ‘vibe coded’\n\nEpic is making a big push into AI-assisted development, and that approach includes its work on the new, f...",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
       "credibility": "P2",
-      "publishedAt": "2026-10-13T05:20:36.000Z",
+      "publishedAt": "2026-10-14T13:55:02.000Z",
+      "category": "product",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1792036059224-2",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices - Ars Technica",
+      "summary": "The lightweight Gemma4-26B-A4B model required just 15 boxes, each equipped with only 4GB of memory, to achieve inference. The Qwen3.5-9B was able to c...",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T12:55:06.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1792036059224-7",
+      "title": "Kamala Harris warns window closing for AI safeguards, urges US-China cooperation - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Former US Vice President Ka...",
+      "url": "https://www.reuters.com/legal/government/kamala-harris-warns-window-closing-ai-safeguards-urges-us-china-cooperation-2026-10-14/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/kamala-harris-warns-window-closing-ai-safeguards-urges-us-china-cooperation-2026-10-14/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-14T05:15:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -190,7 +214,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 12
+    "p2Count": 14
   },
   "summary": ""
 }
