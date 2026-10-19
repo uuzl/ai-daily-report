@@ -1,29 +1,75 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T03:40:07.293Z",
-  "totalItems": 1,
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T03:50:06.105Z",
+  "totalItems": 4,
   "items": [
     {
-      "id": "news-1792294807291-0",
-      "title": "36氪_让一部分人先看到未来",
-      "summary": "拆解中国AI算力版图，怎么才能够释放更大的产业价值？\n\n来自主题：人工智能·AI|铑科技2026-10-16\n\n科技[](\n\n腾讯追红果，微信“绿泡泡”打头阵\n\n微信的流量，喂得出另一个红果吗？\n\n来自主题：微信新动向|识礁Farsight2026-10-16\n\n查看更多资讯\n\n最新快讯\n\n微信鸿蒙...",
-      "url": "https://m.36kr.com",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com",
-      "credibility": "P2",
-      "publishedAt": "2026-10-18T00:34:30.000Z",
+      "id": "news-1792381806105-3",
+      "title": "DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF · Hugging Face",
+      "summary": "Hugging Face's logo\n\n# DavidAU / Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF Like 11\n\n### Instructi...",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF",
+      "credibility": "P0",
+      "publishedAt": "2026-10-18T15:00:00.000Z",
       "category": "tech",
       "tags": [
-        "GPT",
-        "DeepSeek",
-        "AI"
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1792381806105-2",
+      "title": "nvidia/Nemotron-3.5-Parse · Hugging Face",
+      "summary": "Nemotron 3.5 Parse · October 17, 2026 release\n\nThis AI model can be embedded as an Application Programming Interface (API) call through the documented...",
+      "url": "https://huggingface.co/nvidia/Nemotron-3.5-Parse",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-3.5-Parse",
+      "credibility": "P0",
+      "publishedAt": "2026-10-18T04:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1792381806105-0",
+      "title": "Liang Wenfeng Makes New Investment in Former Tencent Robotics Division Veteran",
+      "summary": "This is the natural extension of large models from chatbots and Agents to the physical world.\n\nIt is completely reasonable that DeepSeek follows up in...",
+      "url": "https://eu.36kr.com/en/p/4031952474673795",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4031952474673795",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1792381806105-1",
+      "title": "日赚1.7亿，46岁数学博士靠AI​​杀入富豪榜前十 - 36氪",
+      "summary": "日赚1.7亿,46岁数学博士靠AI ,Anthropic宣布奇点已至!AI或把美国GDP推上44万亿美元 … 打开 AI 带来的效率,可能会毁掉下一代专业人才. AI自动化交易,正在颠覆传统金融。",
+      "url": "https://m.36kr.com/p/4031974265836168",
+      "source": "m",
+      "sourceUrl": "https://m.36kr.com/p/4031974265836168",
+      "credibility": "P2",
+      "publishedAt": "2026-10-18T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "自动化"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 2
   },
-  "summary": ""
+  "summary": "🔥 官方动态：2条（huggingface等）"
 }
