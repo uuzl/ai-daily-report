@@ -1,75 +1,210 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T03:50:06.105Z",
-  "totalItems": 4,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T04:01:25.656Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1792381806105-3",
-      "title": "DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF · Hugging Face",
-      "summary": "Hugging Face's logo\n\n# DavidAU / Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF Like 11\n\n### Instructi...",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF",
-      "credibility": "P0",
-      "publishedAt": "2026-10-18T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1792381806105-2",
-      "title": "nvidia/Nemotron-3.5-Parse · Hugging Face",
-      "summary": "Nemotron 3.5 Parse · October 17, 2026 release\n\nThis AI model can be embedded as an Application Programming Interface (API) call through the documented...",
-      "url": "https://huggingface.co/nvidia/Nemotron-3.5-Parse",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-3.5-Parse",
-      "credibility": "P0",
-      "publishedAt": "2026-10-18T04:00:00.000Z",
+      "id": "news-1792468885655-1",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back - TechCrunch",
+      "summary": "“There is this desire to speak about [AI] as if it is infallible, as if it cannot be questioned, as if the only people who can regulate it are the one...",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-20T01:27:03.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "LLM"
+        "AI"
       ]
     },
     {
-      "id": "news-1792381806105-0",
-      "title": "Liang Wenfeng Makes New Investment in Former Tencent Robotics Division Veteran",
-      "summary": "This is the natural extension of large models from chatbots and Agents to the physical world.\n\nIt is completely reasonable that DeepSeek follows up in...",
-      "url": "https://eu.36kr.com/en/p/4031952474673795",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4031952474673795",
+      "id": "news-1792468885655-2",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal - TechCrunch",
+      "summary": "The massive amount of money being sunk into AI compute deals has spooked a certain segment of investors, who worry that companies are spending too muc...",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "credibility": "P2",
-      "publishedAt": "2026-10-19T01:00:00.000Z",
+      "publishedAt": "2026-10-19T23:39:38.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885654-0",
+      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters",
+      "summary": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - OpenAI is racing to secure ...",
+      "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T23:18:45.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885655-7",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says - TechCrunch",
+      "summary": "Instead of active government regulation to identify and mitigate model safety concerns, labs have pushed for the third-party solution. However, doubts...",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T22:49:27.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1792468885655-4",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ - TechCrunch",
+      "summary": "Or as Nadella puts it: “We need to separate the supply of intelligence from the authority over it.”\n\nMicrosoft is now seizing that business opportunit...",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T22:04:28.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
+        "AI"
       ]
     },
     {
-      "id": "news-1792381806105-1",
-      "title": "日赚1.7亿，46岁数学博士靠AI​​杀入富豪榜前十 - 36氪",
-      "summary": "日赚1.7亿,46岁数学博士靠AI ,Anthropic宣布奇点已至!AI或把美国GDP推上44万亿美元 … 打开 AI 带来的效率,可能会毁掉下一代专业人才. AI自动化交易,正在颠覆传统金融。",
-      "url": "https://m.36kr.com/p/4031974265836168",
-      "source": "m",
-      "sourceUrl": "https://m.36kr.com/p/4031974265836168",
+      "id": "news-1792468885655-3",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts - TechCrunch",
+      "summary": "The breach occurred the same night OpenCode made GLM-5.3-Flash free for users. The broader GLM-5.3 family has drawn attention from researchers who stu...",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
       "credibility": "P2",
-      "publishedAt": "2026-10-18T09:00:00.000Z",
+      "publishedAt": "2026-10-19T19:28:34.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1792468885655-5",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips - TechCrunch",
+      "summary": "Jim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capi...",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T18:37:27.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885655-12",
+      "title": "AI game clones are making indie developers afraid to show their work - Ars Technica",
+      "summary": "Alliance Arts isn’t alone in taking a more defensive stance toward sharing ideas. Papers, Please developer Lucas Pope said on an April podcast that, i...",
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T16:59:22.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885655-6",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
+      "summary": "“Any organization that wants to run agents on Nvidia infrastructure now has an open, optimized model for their tier without having to choose between c...",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T15:37:09.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885655-11",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents - The Verge",
+      "summary": "Concerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, with hackers using the tools to carry out large-scal...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T13:58:41.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "自动化"
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1792468885655-9",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world - TechCrunch",
+      "summary": "Topics\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nRebecca Bell...",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T12:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1792468885655-8",
+      "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
+      "summary": "Our Standards: The Thomson Reuters Trust Principles., opens new tab\n\n   Suggested Topics:\n   Asia Pacific\n\n    \n    \n    \n    \n    \n\nPurchase Licensin...",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-2026-10-19/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-2026-10-19/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T12:24:26.000Z",
+      "category": "product",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792468885655-10",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card - WIRED",
+      "summary": "This isn’t even Character.AI’s first reverse acquihire.\n\nIn August 2024, Google reportedly paid the startup $2.7 billion to license its technology. A ...",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "credibility": "P2",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 13
   },
-  "summary": "🔥 官方动态：2条（huggingface等）"
+  "summary": ""
 }
