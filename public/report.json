@@ -1,33 +1,49 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T03:50:37.541Z",
-  "totalItems": 3,
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T03:50:23.122Z",
+  "totalItems": 6,
   "items": [
     {
-      "id": "news-1792554637540-1",
-      "title": "Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial",
-      "summary": "(3b) Before photo only, structured prompt (exploratory):\n\nThis photo shows a meal before eating. Estimate the food energy that was served, the food en...",
-      "url": "https://arxiv.org/html/2610.26538v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.26538v1",
+      "id": "news-1792641023122-5",
+      "title": "Jensen Huang GTC Berlin 2026 Full Speech Transcript: AI Is Not Software — It’s a Manufacturing Industry",
+      "summary": "The MVLink switch tray connects 72 GPUs into one massive GPU. Each GPU has 20 small chips, and 72 of them are connected to form a giant system. Vera R...",
+      "url": "https://eu.36kr.com/en/p/4035763910219649",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4035763910219649",
       "credibility": "P2",
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "category": "hot",
+      "publishedAt": "2026-10-21T23:00:00.000Z",
+      "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "LLM",
+        "Agent"
       ]
     },
     {
-      "id": "news-1792554637540-0",
-      "title": "Outram Park Part II: Agentic Verification, Validation and Documentation as a Human Review Gate for Nuclear Data and Neutronics Software",
-      "summary": "Generative artificial intelligence (AI) tools, including large language models and agentic coding systems, were extensively used in this work. Anthrop...",
-      "url": "https://arxiv.org/html/2609.15258v3",
+      "id": "news-1792641023122-0",
+      "title": "Local Inference of LLMs on Long Contexts:A Data Systems Perspective",
+      "summary": "Many of these tasks can now be performed with open-weight models, allowing users to run inference on their own hardware (Team, 2024; DeepSeek-AI, 2026...",
+      "url": "https://arxiv.org/html/2610.28223v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.15258v3",
+      "sourceUrl": "https://arxiv.org/html/2610.28223v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-20T05:00:00.000Z",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1792641023122-2",
+      "title": "What should AI forget? A design and taxonomy for negative space governance in AI memory",
+      "summary": "The need for such a boundary becomes more pressing as AI systems move beyond remembering what users type. Contemporary assistants can increasingly ret...",
+      "url": "https://arxiv.org/html/2610.27607",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.27607",
+      "credibility": "P2",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,26 +52,58 @@
       ]
     },
     {
-      "id": "news-1792554637541-2",
-      "title": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
-      "summary": "Models. We evaluate a comprehensive set of large language models spanning different scales, architectures, and specializations to provide a thorough a...",
-      "url": "https://arxiv.org/html/2610.26787",
+      "id": "news-1792641023122-1",
+      "title": "CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation",
+      "summary": "Object goal navigation (ObjectNav) serves as a representative testbed for this capability. Given a semantic target (e.g., “find a bed”), an agent must...",
+      "url": "https://arxiv.org/html/2610.27677v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.26787",
+      "sourceUrl": "https://arxiv.org/html/2610.27677v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-20T05:00:00.000Z",
+      "publishedAt": "2026-10-21T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "GPT",
-        "DeepSeek"
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1792641023122-4",
+      "title": "Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs",
+      "summary": "Large Language Models (LLMs) [1, 2] exhibit emergent capabilities in logical reasoning  and generalization . However, a fundamental architectural para...",
+      "url": "https://arxiv.org/html/2610.28176v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.28176v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-21T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1792641023122-3",
+      "title": "CollabSciReM: Aligning Language Models for Scientific Conversations via Science-Aware Reward Decomposition",
+      "summary": "Large Language Models (LLMs) are increasingly embedded in scientific research workflows, assisting with literature synthesis (Lála et al., 2023; Asai ...",
+      "url": "https://arxiv.org/html/2610.27901v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.27901v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "TPU"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 3
+    "p2Count": 6
   },
   "summary": ""
 }
