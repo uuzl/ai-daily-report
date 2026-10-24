@@ -1,200 +1,125 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T03:54:42.204Z",
-  "totalItems": 12,
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T03:49:03.039Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1792727682203-3",
+      "id": "news-1792813743038-0",
       "title": "Daily Papers - Hugging Face",
-      "summary": "In the domain of model-based engineering, models are essential components\nthat enable system design and analysis. Traditionally, the creation of these...",
-      "url": "https://huggingface.co/papers?q=STEP+file",
+      "summary": "Large Language Models (LLMs), such as OpenAI's o1 and DeepSeek's R1, excel at\nadvanced reasoning tasks like math and coding via Reinforcement Learning...",
+      "url": "https://huggingface.co/papers?q=ARC-AGI-1",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=STEP+file",
+      "sourceUrl": "https://huggingface.co/papers?q=ARC-AGI-1",
       "credibility": "P0",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1792727682203-4",
-      "title": "Residual-Based Causal Discovery via Pretrained In- ...",
-      "summary": "In this work, we used generative AI tools for code proto-typing of parts of the code (Claude Sonnet 5 High from Anthropic). Further, we used the ChatG...",
-      "url": "https://arxiv.org/pdf/2610.29530",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2610.29530",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T03:54:42.203Z",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "GPT",
+        "DeepSeek"
       ]
     },
     {
-      "id": "news-1792727682203-7",
-      "title": "SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets",
-      "summary": "Task and Motion Planning (TAMP) stands as a fundamental challenge in robotics, essential for enabling autonomous agents to execute complex, long-horiz...",
-      "url": "https://arxiv.org/html/2610.31518v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.31518v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T03:54:42.203Z",
+      "id": "news-1792813743038-1",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "Large language models (LLMs) have advanced automatic program repair (APR) to the point where agentic systems routinely resolve real-world, repository-...",
+      "url": "https://huggingface.co/papers?q=Correct%401",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=Correct%401",
+      "credibility": "P0",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "RAG"
+        "TPU"
       ]
     },
     {
-      "id": "news-1792727682201-1",
-      "title": "Harnessing Language Models as Optimization Modeling Agents",
-      "summary": "Large language models (LLMs) offer a way to automate this translation from problem descriptions to executable optimization models. Existing approaches...",
-      "url": "https://arxiv.org/html/2610.30917",
+      "id": "news-1792813743038-2",
+      "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
+      "summary": "Large language models (LLMs) increasingly operate in multi-agent systems where they collaborate by responding to others’ choices, creating endogenous ...",
+      "url": "https://arxiv.org/html/2610.30769v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30917",
+      "sourceUrl": "https://arxiv.org/html/2610.30769v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-23T03:54:42.201Z",
+      "publishedAt": "2026-10-23T09:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "AI"
+        "GPT"
       ]
     },
     {
-      "id": "news-1792727682203-11",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "summary": "Image 32: Powered by Onetrust\n\nImage 33Image 34Image 35Image 36Image 37Image 38Image 39Image 40Image 41Image 42Image 43Image 44Image 45Image 46 [...] ...",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "credibility": "P2",
-      "publishedAt": "2026-10-22T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1792727682201-2",
-      "title": "Building Auditable AI Text Detectors with Sparse ...",
-      "summary": "Sungduk Yu, Man Luo, Avinash Madasu, Vasudev Lal, and Phillip Howard. 2026. Is your paper being re-viewed by an LLM? benchmarking AI text detection in...",
-      "url": "https://arxiv.org/pdf/2610.30006",
+      "id": "news-1792813743038-5",
+      "title": "From Clinical Judgment to Checkable Rules:Clinician-Led Guardrails for Mental-Health Chatbots",
+      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult ...",
+      "url": "https://arxiv.org/html/2610.30690v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/pdf/2610.30006",
+      "sourceUrl": "https://arxiv.org/html/2610.30690v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "publishedAt": "2026-10-23T09:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
         "LLM",
-        "RAG"
+        "TPU"
       ]
     },
     {
-      "id": "news-1792727682203-5",
-      "title": "Residual-Based Causal Discovery via Pretrained In-Context Quantile Regression",
-      "summary": "In this work, we used generative AI tools for code prototyping of parts of the code (Claude Sonnet 5 High from Anthropic). Further, we used the ChatGP...",
-      "url": "https://arxiv.org/html/2610.29530v1",
+      "id": "news-1792813743038-4",
+      "title": "VERA: A Responsible AI Dashboard for AssessingLLM Deployments in Light of the EU AI Act",
+      "summary": "Large language models are being built into products across almost every customer-facing function, from answering queries to triaging support requests ...",
+      "url": "https://arxiv.org/html/2610.31588v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.29530v1",
+      "sourceUrl": "https://arxiv.org/html/2610.31588v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-22T05:00:00.000Z",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1792727682203-6",
-      "title": "Where Do LLMs Learn to Recommend AI?",
-      "summary": "| Contrast | Qwen effect [95% CI], pp | Holm pp | DeepSeek effect [95% CI], pp | Holm pp |\n ---  --- \n| H1: Released Instruct–Base | +35.98 [32.96, 38...",
-      "url": "https://arxiv.org/html/2610.29785v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.29785v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-22T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
         "AI",
-        "LLM"
+        "LLM",
+        "TPU"
       ]
     },
     {
-      "id": "news-1792727682201-0",
-      "title": "Environment Duels:A Microcosm of LLM Co-Evolution",
-      "summary": "We run environment duels with nine frontier models:\nClaude-Opus-5 (Anthropic, 2026),\nGPT-5.6-Sol (OpenAI, 2026b),\nDeepSeek-V4.1-Flash (Xu et al., 2026...",
-      "url": "https://arxiv.org/html/2610.30116v1",
+      "id": "news-1792813743038-3",
+      "title": "Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins",
+      "summary": "Large language models (LLMs) offer a complementary way to address this limitation. LLMs can understand task descriptions, reason over previous experie...",
+      "url": "https://arxiv.org/html/2610.31192v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30116v1",
+      "sourceUrl": "https://arxiv.org/html/2610.31192v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "publishedAt": "2026-10-23T05:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1792727682203-8",
-      "title": "Conflicted Records: Typed Adversarial Contractsfor Auditable LLM Output Quality Enforcement",
-      "summary": "#### Family heterogeneity as a data-integrity guarantee.\n\nThe five roles span five distinct model families (Table 2).\nSame-family models show joint er...",
-      "url": "https://arxiv.org/html/2610.29669v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.29669v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
         "AI",
-        "LLM"
+        "LLM",
+        "Agent"
       ]
     },
     {
-      "id": "news-1792727682203-9",
-      "title": "What the Author Wrote, What the Agent Reads:Silent Cue Loss in Enterprise Document Ingestion",
-      "summary": "We build a task from 76 real policy documents: recover the requirements the author singled out\nfor attention, scored against the file’s own OOXML prop...",
-      "url": "https://arxiv.org/html/2610.30026v1",
+      "id": "news-1792813743038-6",
+      "title": "Governed Self-Evolution for Autonomous Investing:A Multi-Agent LLM System with an Invariant Core",
+      "summary": "AutoGen (Wu et al., 2024), MetaGPT (Hong et al., 2024) and CAMEL (Li et al., 2023) coordinate role-specialised agents through natural language and str...",
+      "url": "https://arxiv.org/html/2610.30557v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30026v1",
+      "sourceUrl": "https://arxiv.org/html/2610.30557v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1792727682203-10",
-      "title": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence - Bloomberg",
-      "summary": "EXCLUSIVE\n\n# UK Taxman to Tackle Rogue Advice From Artificial Intelligence\n\nThe UK’s tax authorities are worried that artificial intelligence is givin...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/uk-taxman-to-tackle-rogue-advice-from-artificial-intelligence",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-22/uk-taxman-to-tackle-rogue-advice-from-artificial-intelligence",
-      "credibility": "P2",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
-      "category": "tech",
-      "tags": [
+        "GPT",
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 11
+    "p2Count": 5
   },
-  "summary": "🔥 官方动态：1条（huggingface等）"
+  "summary": "🔥 官方动态：2条（huggingface等）"
 }
