@@ -1,113 +1,33 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T03:49:03.039Z",
-  "totalItems": 7,
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T03:47:58.620Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1792813743038-0",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Large Language Models (LLMs), such as OpenAI's o1 and DeepSeek's R1, excel at\nadvanced reasoning tasks like math and coding via Reinforcement Learning...",
-      "url": "https://huggingface.co/papers?q=ARC-AGI-1",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=ARC-AGI-1",
-      "credibility": "P0",
-      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "id": "news-1792900078620-1",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "StrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nContact Us\n\nImage 3\n\nImage Credits:RiverNorthPhotography / Getty ...",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "credibility": "P2",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "DeepSeek"
+        "AI"
       ]
     },
     {
-      "id": "news-1792813743038-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Large language models (LLMs) have advanced automatic program repair (APR) to the point where agentic systems routinely resolve real-world, repository-...",
-      "url": "https://huggingface.co/papers?q=Correct%401",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=Correct%401",
-      "credibility": "P0",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1792813743038-2",
-      "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
-      "summary": "Large language models (LLMs) increasingly operate in multi-agent systems where they collaborate by responding to others’ choices, creating endogenous ...",
-      "url": "https://arxiv.org/html/2610.30769v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30769v1",
+      "id": "news-1792900078620-0",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.  | TechCrunch",
+      "summary": "“If people are using these LLMs not just to directly ask who to vote for, but are having these more general conversations, then these biases are going...",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
       "credibility": "P2",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1792813743038-5",
-      "title": "From Clinical Judgment to Checkable Rules:Clinician-Led Guardrails for Mental-Health Chatbots",
-      "summary": "Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult ...",
-      "url": "https://arxiv.org/html/2610.30690v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30690v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1792813743038-4",
-      "title": "VERA: A Responsible AI Dashboard for AssessingLLM Deployments in Light of the EU AI Act",
-      "summary": "Large language models are being built into products across almost every customer-facing function, from answering queries to triaging support requests ...",
-      "url": "https://arxiv.org/html/2610.31588v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.31588v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1792813743038-3",
-      "title": "Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins",
-      "summary": "Large language models (LLMs) offer a complementary way to address this limitation. LLMs can understand task descriptions, reason over previous experie...",
-      "url": "https://arxiv.org/html/2610.31192v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.31192v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "LLM",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1792813743038-6",
-      "title": "Governed Self-Evolution for Autonomous Investing:A Multi-Agent LLM System with an Invariant Core",
-      "summary": "AutoGen (Wu et al., 2024), MetaGPT (Hong et al., 2024) and CAMEL (Li et al., 2023) coordinate role-specialised agents through natural language and str...",
-      "url": "https://arxiv.org/html/2610.30557v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.30557v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -117,9 +37,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 2,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 2
   },
-  "summary": "🔥 官方动态：2条（huggingface等）"
+  "summary": ""
 }
