@@ -1,29 +1,45 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T03:51:47.807Z",
-  "totalItems": 1,
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T04:14:01.735Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1792986707806-0",
-      "title": "Does the China-US AI Competition Outcome Really Depend on Short Dramas?",
-      "summary": "Secondly, the country where a model is developed does not mean that the Tokens are consumed in that country. Chinese users may use overseas models suc...",
-      "url": "https://eu.36kr.com/en/p/4041348902655623",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4041348902655623",
+      "id": "news-1793074441735-1",
+      "title": "Paper page - TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional Codes of Ethics",
+      "summary": "### Community\n\nPreprint. TenetBench tests whether LLM-generated text conflicts with specific clauses of Russian-language professional codes, using con...",
+      "url": "https://huggingface.co/papers/2610.29477",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers/2610.29477",
+      "credibility": "P0",
+      "publishedAt": "2026-10-26T07:48:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1793074441735-0",
+      "title": "Kevin Roose on why we can’t ignore AI’s true believers | The Verge",
+      "summary": "So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it j...",
+      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
       "credibility": "P2",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "publishedAt": "2026-10-26T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
-        "GPT"
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 1,
     "p1Count": 0,
     "p2Count": 1
   },
-  "summary": ""
+  "summary": "🔥 官方动态：1条（huggingface等）"
 }
