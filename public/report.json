@@ -1,17 +1,45 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T04:14:01.735Z",
-  "totalItems": 2,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T04:43:27.966Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1793074441735-1",
-      "title": "Paper page - TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional Codes of Ethics",
-      "summary": "### Community\n\nPreprint. TenetBench tests whether LLM-generated text conflicts with specific clauses of Russian-language professional codes, using con...",
-      "url": "https://huggingface.co/papers/2610.29477",
+      "id": "news-1793162607966-9",
+      "title": "witness-archive/alignment-hub · Datasets at Hugging Face",
+      "summary": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "url": "https://huggingface.co/datasets/witness-archive/alignment-hub",
       "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers/2610.29477",
+      "sourceUrl": "https://huggingface.co/datasets/witness-archive/alignment-hub",
       "credibility": "P0",
-      "publishedAt": "2026-10-26T07:48:55.000Z",
+      "publishedAt": "2026-10-28T01:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1793162607965-1",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "Future work should test judges on the kinds of ideas they will actually evaluate, measure sensitivity across prompts and models, improve how prior lit...",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+      "credibility": "P0",
+      "publishedAt": "2026-10-27T16:12:42.000Z",
+      "category": "research",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793162607965-6",
+      "title": "Honesty Testing of LLMs and AI Agents: A Vision for Software Engineering",
+      "summary": "## I Introduction\n\nFollowing advances in large language models (LLMs) [1, 2], artificial intelligence (AI) systems increasingly operate as agents that...",
+      "url": "https://arxiv.org/html/2610.34239v2",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.34239v2",
+      "credibility": "P2",
+      "publishedAt": "2026-10-28T02:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -20,26 +48,122 @@
       ]
     },
     {
-      "id": "news-1793074441735-0",
-      "title": "Kevin Roose on why we can’t ignore AI’s true believers | The Verge",
-      "summary": "So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it j...",
-      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "id": "news-1793162607965-0",
+      "title": "Is the arXiv Apocalypse upon us? A break in preprint ...",
+      "summary": "D. Kobak, R. Gonz´ alez-M´ arquez, E.-´ A. Horv´ at, and J. Lause, Delving into LLM-assisted writing in biomedi-cal publications through excess vocabu...",
+      "url": "https://arxiv.org/pdf/2610.34449",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/pdf/2610.34449",
       "credibility": "P2",
-      "publishedAt": "2026-10-26T14:00:00.000Z",
+      "publishedAt": "2026-10-27T08:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1793162607965-3",
+      "title": "Learning to Remember: Advances in Memory Mechanisms for Large Language Models",
+      "summary": "###### keywords\n\n## 1 Introduction\n\nThe rapid advancement of large language models (LLMs) has reshaped natural language processing and artificial inte...",
+      "url": "https://arxiv.org/html/2610.35089v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35089v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1793162607966-8",
+      "title": "The Hidden Costs of Forgetting: A Study of Trajectory Deletion in Software Engineering Agents",
+      "summary": "###### Index Terms:\n\n## I Introduction\n\nSoftware engineering agents based on large language models (LLMs) increasingly automate software engineering t...",
+      "url": "https://arxiv.org/html/2610.35496v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35496v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T06:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1793162607965-2",
+      "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
+      "summary": "The number of paper submissions to major AI conferences has increased\ndramatically in recent years, substantially increasing the peer-review\nworkload ...",
+      "url": "https://arxiv.org/html/2610.35254v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35254v1",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1793162607965-4",
+      "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+      "summary": "#### General-purpose agent harnesses.\n\nCoding agents have grown into general harnesses such as Codex (OpenAI, 2026) and Claude Code (Anthropic, 2026):...",
+      "url": "https://arxiv.org/html/2610.35767",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35767",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1793162607965-5",
+      "title": "Beyond Single-Attribute Auditing: A Configurable Multi-Attribute Benchmark for Intersectional Fairness in LLMs",
+      "summary": "### A.4 LLM Usage\n\nWe used large language models in the experimental pipeline of this work. GPT-5.2 was used for task-specific prompt construction, co...",
+      "url": "https://arxiv.org/html/2610.35069",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35069",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793162607965-7",
+      "title": "Lost in Translation: Investigating Systematic Discrepancies between Parallel English and Chinese Names of American Chinese Restaurants",
+      "summary": "language models such as BERT Liu et al. (2019a); Tourni et al. (2021), RoBERTa Khanehzar et al. (2019); Huguet Cabot et al. (2020); Mendelsohn et al. ...",
+      "url": "https://arxiv.org/html/2610.35191",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.35191",
+      "credibility": "P2",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 1,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 8
   },
-  "summary": "🔥 官方动态：1条（huggingface等）"
+  "summary": "🔥 官方动态：2条（huggingface等）"
 }
