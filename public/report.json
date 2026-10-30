@@ -1,109 +1,134 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T04:55:23.385Z",
-  "totalItems": 6,
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T04:55:05.320Z",
+  "totalItems": 8,
   "items": [
     {
-      "id": "news-1793249723385-5",
-      "title": "A Serious-Game Testbed for Self-Governing Human-Machine Institutions",
-      "summary": "Keywords: self-governance, societies, LLMs, human-machine institutions, machine behvaiour\n\n## 1 Introduction\n\nAI agents are no longer deployed one at ...",
-      "url": "https://arxiv.org/html/2610.36989v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.36989v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "id": "news-1793336105319-2",
+      "title": "Shocking! A massive vulnerability in the ChatGPT 48 months Team promotion has severely undermined OpenAI’s computing resource infrastructure and caused significant harm to the rights of legitimate users - ChatGPT - OpenAI Developer Community",
+      "summary": "# Shocking! A massive vulnerability in the ChatGPT 48 months Team promotion has severely undermined OpenAI’s computing resource infrastructure and cau...",
+      "url": "https://community.openai.com/t/shocking-a-massive-vulnerability-in-the-chatgpt-48-months-team-promotion-has-severely-undermined-openai-s-computing-resource-infrastructure-and-caused-significant-harm-to-the-rights-of-legitimate-users/1410930",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/shocking-a-massive-vulnerability-in-the-chatgpt-48-months-team-promotion-has-severely-undermined-openai-s-computing-resource-infrastructure-and-caused-significant-harm-to-the-rights-of-legitimate-users/1410930",
+      "credibility": "P0",
+      "publishedAt": "2026-10-30T03:50:24.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "TPU"
-      ]
-    },
-    {
-      "id": "news-1793249723384-2",
-      "title": "The uneven rise of AI-generated web content",
-      "summary": "##### False positives.\n\nWe treat text from language models released before the GPT-3.5 series as negligible on the web. Earlier generators such as GPT...",
-      "url": "https://arxiv.org/html/2610.36631v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.36631v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
+        "OpenAI",
         "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1793249723383-0",
-      "title": "Human Language Shapes the Emerging Physical Reasoning in Large Language Models",
-      "summary": "| Model | Exact identifier | Developer / provider | Released / accessed |\n ---  --- |\n| GPT-6 Astra | openai/gpt-6-astra | OpenAI / OpenRouter | 2026-...",
-      "url": "https://arxiv.org/html/2609.20666v2",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2609.20666v2",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "id": "news-1793336105319-1",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "NPCI\n\n### Amortizing Sequential Experimental Design in Reasoning LLMs\n\nCambUni\n\n### LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data\n...",
+      "url": "https://huggingface.co/papers/date/2026-10-30",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers/date/2026-10-30",
+      "credibility": "P0",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "news-1793336105320-3",
+      "title": "October 29 regression across conversations and models: ignored instructions, missed sources, incomplete work - Bugs - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| How to improve creative writing, literary criticism, and instruction-follow...",
+      "url": "https://community.openai.com/t/october-29-regression-across-conversations-and-models-ignored-instructions-missed-sources-incomplete-work/1410834",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/october-29-regression-across-conversations-and-models-ignored-instructions-missed-sources-incomplete-work/1410834",
+      "credibility": "P0",
+      "publishedAt": "2026-10-29T19:09:03.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1793249723385-3",
-      "title": "Words or Deeds? How LLMs Predict Users’ Decisions in Human–Agent Dialogue",
-      "summary": "A statement is also made to a particular counterpart, and the action is taken toward it. A counterpart’s conduct and persona change people’s decisions...",
-      "url": "https://arxiv.org/html/2610.36813v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.36813v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "category": "tech",
-      "tags": [
         "GPT",
-        "AI",
-        "LLM"
+        "AI"
       ]
     },
     {
-      "id": "news-1793249723385-4",
-      "title": "Follow the Gradient: Tracing SafetyDegradation Back to Training Data",
-      "summary": "Fine-tuning Large Language Models (LLMs) on instruction data can quietly erode their safety, even when no training example looks harmful. Because this...",
-      "url": "https://arxiv.org/html/2610.37481v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.37481v1",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "id": "news-1793336105319-0",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "This paper proposes EvoAgent--an evolvable large language model (LLM) agent framework that integrates structured skill learning with a hierarchical su...",
+      "url": "https://huggingface.co/papers?q=skill+evolution",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers?q=skill+evolution",
+      "credibility": "P0",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "LLM",
-        "Transformer"
-      ]
-    },
-    {
-      "id": "news-1793249723384-1",
-      "title": "Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision",
-      "summary": "Large language models (LLMs) are a promising class of generative artificial intelligence models and have demonstrated abilities to perform complex tas...",
-      "url": "https://arxiv.org/html/2508.20729v3",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2508.20729v3",
-      "credibility": "P2",
-      "publishedAt": "2026-10-28T05:00:00.000Z",
-      "category": "tech",
-      "tags": [
+        "OpenAI",
         "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793336105320-6",
+      "title": "Stocks slump, bonds leap as AI giants' spending spooks ...",
+      "summary": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged toward their biggest monthly gain in nearly three years as investors scurried to ...",
+      "url": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
+      "credibility": "P2",
+      "publishedAt": "2026-10-30T02:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793336105320-7",
+      "title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth - Bloomberg",
+      "summary": "# Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth\n\nThe core businesses of America’s technology giants — the advertising, consumer and...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "credibility": "P2",
+      "publishedAt": "2026-10-30T01:43:55.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793336105320-4",
+      "title": "Watch Odd Lots: What Wall Street Really Thinks  About the AI Trade Now - Bloomberg",
+      "summary": "### Alphabet Shares Tank on Sales Misses Across Core Businesses\n\n### Anthropic IPO: How Investors in Asia Can Get In\n\n### The Race to Replace Lagarde ...",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
+      "credibility": "P2",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "LLM"
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1793336105320-5",
+      "title": "Nvidia in talks to give credit support for Nscale's deal with ...",
+      "summary": "Nvidia is in talks to offer AI cloud provider Nscale billions of dollars in ‌credit guarantees to support debt funding for a data center earmarked for...",
+      "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30",
+      "credibility": "P2",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 4,
     "p1Count": 0,
-    "p2Count": 6
+    "p2Count": 4
   },
-  "summary": ""
+  "summary": "🔥 官方动态：4条（community等）"
 }
