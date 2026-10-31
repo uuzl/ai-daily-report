@@ -1,134 +1,29 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T04:55:05.320Z",
-  "totalItems": 8,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T04:41:10.458Z",
+  "totalItems": 1,
   "items": [
     {
-      "id": "news-1793336105319-2",
-      "title": "Shocking! A massive vulnerability in the ChatGPT 48 months Team promotion has severely undermined OpenAI’s computing resource infrastructure and caused significant harm to the rights of legitimate users - ChatGPT - OpenAI Developer Community",
-      "summary": "# Shocking! A massive vulnerability in the ChatGPT 48 months Team promotion has severely undermined OpenAI’s computing resource infrastructure and cau...",
-      "url": "https://community.openai.com/t/shocking-a-massive-vulnerability-in-the-chatgpt-48-months-team-promotion-has-severely-undermined-openai-s-computing-resource-infrastructure-and-caused-significant-harm-to-the-rights-of-legitimate-users/1410930",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/shocking-a-massive-vulnerability-in-the-chatgpt-48-months-team-promotion-has-severely-undermined-openai-s-computing-resource-infrastructure-and-caused-significant-harm-to-the-rights-of-legitimate-users/1410930",
-      "credibility": "P0",
-      "publishedAt": "2026-10-30T03:50:24.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1793336105319-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "NPCI\n\n### Amortizing Sequential Experimental Design in Reasoning LLMs\n\nCambUni\n\n### LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data\n...",
-      "url": "https://huggingface.co/papers/date/2026-10-30",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers/date/2026-10-30",
-      "credibility": "P0",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1793336105320-3",
-      "title": "October 29 regression across conversations and models: ignored instructions, missed sources, incomplete work - Bugs - OpenAI Developer Community",
-      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| How to improve creative writing, literary criticism, and instruction-follow...",
-      "url": "https://community.openai.com/t/october-29-regression-across-conversations-and-models-ignored-instructions-missed-sources-incomplete-work/1410834",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/october-29-regression-across-conversations-and-models-ignored-instructions-missed-sources-incomplete-work/1410834",
-      "credibility": "P0",
-      "publishedAt": "2026-10-29T19:09:03.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1793336105319-0",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "This paper proposes EvoAgent--an evolvable large language model (LLM) agent framework that integrates structured skill learning with a hierarchical su...",
-      "url": "https://huggingface.co/papers?q=skill+evolution",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=skill+evolution",
-      "credibility": "P0",
-      "publishedAt": "2026-10-29T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1793336105320-6",
-      "title": "Stocks slump, bonds leap as AI giants' spending spooks ...",
-      "summary": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged toward their biggest monthly gain in nearly three years as investors scurried to ...",
-      "url": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
+      "id": "news-1793421670457-0",
+      "title": "AI Cosmos: An Agentic Infra for Situated Learning",
+      "summary": "Large language models (LLMs) can improve task performance during learning, yet these gains do not necessarily reflect learners’ ability to thereafter ...",
+      "url": "https://arxiv.org/html/2610.40031v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2610.40031v1",
       "credibility": "P2",
-      "publishedAt": "2026-10-30T02:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1793336105320-7",
-      "title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth - Bloomberg",
-      "summary": "# Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth\n\nThe core businesses of America’s technology giants — the advertising, consumer and...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
-      "credibility": "P2",
-      "publishedAt": "2026-10-30T01:43:55.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1793336105320-4",
-      "title": "Watch Odd Lots: What Wall Street Really Thinks  About the AI Trade Now - Bloomberg",
-      "summary": "### Alphabet Shares Tank on Sales Misses Across Core Businesses\n\n### Anthropic IPO: How Investors in Asia Can Get In\n\n### The Race to Replace Lagarde ...",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
-      "credibility": "P2",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "publishedAt": "2026-10-30T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1793336105320-5",
-      "title": "Nvidia in talks to give credit support for Nscale's deal with ...",
-      "summary": "Nvidia is in talks to offer AI cloud provider Nscale billions of dollars in ‌credit guarantees to support debt funding for a data center earmarked for...",
-      "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30",
-      "credibility": "P2",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
+        "LLM",
+        "Agent"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 4,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 4
+    "p2Count": 1
   },
-  "summary": "🔥 官方动态：4条（community等）"
+  "summary": ""
 }
