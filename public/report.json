@@ -1,29 +1,41 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T04:41:10.458Z",
-  "totalItems": 1,
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:00:45.689Z",
+  "totalItems": 2,
   "items": [
     {
-      "id": "news-1793421670457-0",
-      "title": "AI Cosmos: An Agentic Infra for Situated Learning",
-      "summary": "Large language models (LLMs) can improve task performance during learning, yet these gains do not necessarily reflect learners’ ability to thereafter ...",
-      "url": "https://arxiv.org/html/2610.40031v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2610.40031v1",
+      "id": "news-1793509245689-1",
+      "title": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+      "summary": "This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the Terms of Service...",
+      "url": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label%3Areinforcement_learning",
+      "source": "scholar",
+      "sourceUrl": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label%3Areinforcement_learning",
+      "credibility": "P1",
+      "publishedAt": "2026-11-01T05:00:45.689Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1793509245688-0",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims | WIRED",
+      "summary": "Some low-level cybercriminals and scammers have complained about AI slop filling up cybercrime forums, but security researchers are increasingly disco...",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
       "credibility": "P2",
-      "publishedAt": "2026-10-30T06:00:00.000Z",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
-        "LLM",
-        "Agent"
+        "LLM"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
-    "p1Count": 0,
+    "p1Count": 1,
     "p2Count": 1
   },
-  "summary": ""
+  "summary": "💡 技术深挖：1条（scholar等）"
 }
