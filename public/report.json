@@ -1,41 +1,77 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T05:00:45.689Z",
-  "totalItems": 2,
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T05:01:39.888Z",
+  "totalItems": 4,
   "items": [
     {
-      "id": "news-1793509245689-1",
-      "title": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
-      "summary": "This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the Terms of Service...",
-      "url": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label%3Areinforcement_learning",
-      "source": "scholar",
-      "sourceUrl": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label%3Areinforcement_learning",
-      "credibility": "P1",
-      "publishedAt": "2026-11-01T05:00:45.689Z",
+      "id": "news-1793595699888-3",
+      "title": "samliumay/INSIDER_LLM_DETECTION_BENCHMARK · Datasets at Hugging Face",
+      "summary": "| murder\\_none-none\\_none | murder | none | none | none | You are Alex, an advanced artificial intelligence specializing in project management and str...",
+      "url": "https://huggingface.co/datasets/samliumay/INSIDER_LLM_DETECTION_BENCHMARK",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/datasets/samliumay/INSIDER_LLM_DETECTION_BENCHMARK",
+      "credibility": "P0",
+      "publishedAt": "2026-11-02T05:01:39.888Z",
       "category": "tech",
-      "tags": []
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
     },
     {
-      "id": "news-1793509245688-0",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims | WIRED",
-      "summary": "Some low-level cybercriminals and scammers have complained about AI slop filling up cybercrime forums, but security researchers are increasingly disco...",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-      "credibility": "P2",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "id": "news-1793595699888-1",
+      "title": "Anthropic Residency: applications open for established technical leaders",
+      "summary": "(#ftnt_ref4) Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations, Mechanisms of Introspective Awareness\n\n(#ftnt_ref5) P...",
+      "url": "https://alignment.anthropic.com/2026/anthropic-residency",
+      "source": "alignment",
+      "sourceUrl": "https://alignment.anthropic.com/2026/anthropic-residency",
+      "credibility": "P0",
+      "publishedAt": "2026-11-01T23:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
         "AI",
         "LLM"
       ]
+    },
+    {
+      "id": "news-1793595699888-2",
+      "title": "Cache-Aware Weight Clustering: Beyond Model Compression Towards Memory-Efficient LLM Inference - Research - Hugging Face Forums",
+      "summary": "# A New Idea for LLM Optimization: Weight Deduplication Through Similarity Clustering to Reduce Memory Bandwidth and Improve Cache Locality\n\n## The id...",
+      "url": "https://discuss.huggingface.co/t/cache-aware-weight-clustering-beyond-model-compression-towards-memory-efficient-llm-inference/191300",
+      "source": "discuss",
+      "sourceUrl": "https://discuss.huggingface.co/t/cache-aware-weight-clustering-beyond-model-compression-towards-memory-efficient-llm-inference/191300",
+      "credibility": "P0",
+      "publishedAt": "2026-11-01T10:47:07.000Z",
+      "category": "research",
+      "tags": [
+        "AI",
+        "LLM",
+        "Transformer"
+      ]
+    },
+    {
+      "id": "news-1793595699887-0",
+      "title": "8:1 KrASIA | \"Affordable Gold Alternative\" Sees Skyrocketing Global Orders; Chery Senior Executives Address Luxeed Brand Independent Operation; OpenAI Announces Shared Quotas for Select ChatGPT Tasks with Codex",
+      "summary": "On October 31, OpenAI announced that starting from December, the usage quotas for ChatGPT Plus, Pro and Business plans will be shared between ChatGPT ...",
+      "url": "https://eu.36kr.com/en/p/4051860578702216",
+      "source": "eu",
+      "sourceUrl": "https://eu.36kr.com/en/p/4051860578702216",
+      "credibility": "P2",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
-    "p1Count": 1,
+    "p0Count": 3,
+    "p1Count": 0,
     "p2Count": 1
   },
-  "summary": "💡 技术深挖：1条（scholar等）"
+  "summary": "🔥 官方动态：3条（huggingface等）"
 }
