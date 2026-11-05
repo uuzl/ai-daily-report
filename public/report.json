@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T05:25:54.614Z",
-  "totalItems": 8,
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:45:05.400Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1793769954613-2",
+      "id": "news-1793857505399-2",
       "title": "Anthropic Residency: applications open for established technical leaders",
       "summary": "(#ftnt_ref4) Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations, Mechanisms of Introspective Awareness\n\n(#ftnt_ref5) P...",
       "url": "https://alignment.anthropic.com/2026/anthropic-residency",
       "source": "alignment",
       "sourceUrl": "https://alignment.anthropic.com/2026/anthropic-residency",
       "credibility": "P0",
-      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "publishedAt": "2026-11-05T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -20,61 +20,155 @@
       ]
     },
     {
-      "id": "news-1793769954613-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "Million-level token inputs in long-context tasks pose significant computational and memory challenges for Large Language Models (LLMs). Recently, Deep...",
-      "url": "https://huggingface.co/papers?q=end-to-end+OCR",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers?q=end-to-end+OCR",
+      "id": "news-1793857505399-8",
+      "title": "Product Evals Engineer, ChatGPT Learning",
+      "summary": "Experience developing or validating LLM-based graders and other automated evaluation methods.\n\n## About OpenAI\n\nOpenAI is an AI research and deploymen...",
+      "url": "https://openai.com/careers/product-evals-engineer-chatgpt-learning-san-francisco",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/careers/product-evals-engineer-chatgpt-learning-san-francisco",
       "credibility": "P0",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "DeepSeek",
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "id": "news-1793769954613-4",
-      "title": "Weight Space Programming (or How to Write LLM Weights Directly using an LLM) - Community - OpenAI Developer Community",
-      "summary": "image\n\nimage1644×958 140 KB\n\nimage\n\n### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| [[PAPER] Mathematical discoveries from ...",
-      "url": "https://community.openai.com/t/weight-space-programming-or-how-to-write-llm-weights-directly-using-an-llm/1412375",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/weight-space-programming-or-how-to-write-llm-weights-directly-using-an-llm/1412375",
-      "credibility": "P0",
-      "publishedAt": "2026-11-03T11:40:38.000Z",
+      "publishedAt": "2026-11-04T21:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793857505400-14",
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out | WIRED",
+      "summary": "The issue for schools and parents, though, is that Google considers AI Overviews and a companion feature called AI Mode inseparable from the tradition...",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T20:06:21.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI",
+        "TPU"
+      ]
+    },
+    {
+      "id": "news-1793857505399-9",
+      "title": "Are LLM Assistants Regulatory Ready?Answers from regenold’s 2026 EU AI Act Q&A Challenge",
+      "summary": "Item authoring was supported by a custom-built user interface (UI), see Figure 1.\nAnnotators could add, remove, and edit questions and related fields,...",
+      "url": "https://arxiv.org/html/2611.04546v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.04546v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1793857505400-15",
+      "title": "Microsoft’s Humane Buyouts Imperil Its AI Ambitions - Bloomberg",
+      "summary": ", Columnist\n\n# Microsoft’s Buyouts Imperil Its AI Ambitions\n\nMicrosoft offered buyouts to roughly a quarter of its employees last week, or about 60,00...",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-04/microsoft-s-humane-buyouts-imperil-its-ai-ambitions",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/opinion/articles/2026-11-04/microsoft-s-humane-buyouts-imperil-its-ai-ambitions",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T10:30:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1793857505399-6",
+      "title": "Equal Access, Unequal Gains? GitHub Copilot and Productivity Among Developers with Disabilities",
+      "summary": "| Category | Keywords |\n --- |\n| Copilot | copilot, GitHub Copilot |\n| ChatGPT | chatgpt, openai |\n| Claude | claude, anthropic |\n| Gemini | gemini, b...",
+      "url": "https://arxiv.org/html/2611.05056v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.05056v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1793857505399-7",
+      "title": "Are We Just Applying LLMs? What SE Research Studies, Underexplores, and Could Do Next in the LLM Era",
+      "summary": "###### Keywords:\n\n## 1. Introduction\n\n“Software engineering research will become an AI application area\n… and eventually will disappear.”\n\n—Anonymous ...",
+      "url": "https://arxiv.org/html/2611.04206v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.04206v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T10:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "GPT",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1793769954613-0",
-      "title": "Towards Multi-Value Alignment via Value Localization in LLMs",
-      "summary": "## 1 Introduction\n\nLarge Language Models (LLMs) Achiam et al. (2023); Grattafiori et al. (2024); Touvron et al. (2023); Yang et al. (2024a) are increa...",
-      "url": "https://arxiv.org/html/2611.02503",
+      "id": "news-1793857505400-12",
+      "title": "Verifier strength does not buy discovery quality: a pre-registered two-domain test of LLM-based automated research, with post-hoc evidence pointing to proposer-pool composition",
+      "summary": "Automated scientific discovery pipelines built on large language models\n increasingly pair an LLM proposer with an automated\nverifier: the model gener...",
+      "url": "https://arxiv.org/html/2611.04420v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.02503",
+      "sourceUrl": "https://arxiv.org/html/2611.04420v1",
       "credibility": "P2",
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-04T10:00:00.000Z",
+      "category": "research",
       "tags": [
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1793769954613-3",
-      "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
-      "summary": "| Model | Score | AA index | HLE (%) | LMArena |\n ---  --- \n| Gemini 4 Argon | 76.6 | 52.6 | 57.1 | 1517 |\n| GPT-6 Astra | 76.5 | 52.7 | 54.7 | 1476 |...",
-      "url": "https://arxiv.org/html/2611.02633",
+      "id": "news-1793857505399-4",
+      "title": "MedPhysBench: A Benchmark for Evaluating Language Models onMedical Physics Calculations and Error Detection",
+      "summary": "| Model | Identifier | Reasoning | With reasoning (%) | Tokens |\n ---  --- \n| GPT-6 Astra | openai/gpt-6-astra | summary | 70 | 370 |\n| GPT-6.1 Sol | ...",
+      "url": "https://arxiv.org/html/2611.05340v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.02633",
+      "sourceUrl": "https://arxiv.org/html/2611.05340v1",
       "credibility": "P2",
-      "publishedAt": "2026-11-03T10:00:00.000Z",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1793857505399-5",
+      "title": "Collaborative Search Meets Large Language Models: An Empirical Study",
+      "summary": "Collaborative search enables users to address complex information needs jointly. Advances in large language models (LLMs) enable autonomous agents to ...",
+      "url": "https://arxiv.org/html/2611.04619v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.04619v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "category": "research",
+      "tags": [
+        "AI",
+        "LLM",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1793857505399-0",
+      "title": "Who is the Pronoun Pro?",
+      "summary": "Large Language Models (LLMs) are changing the methodological landscape\nin the humanities and social sciences, and linguistics more\nspecifically. The p...",
+      "url": "https://arxiv.org/html/2611.04968v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.04968v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -83,57 +177,74 @@
       ]
     },
     {
-      "id": "news-1793769954613-6",
-      "title": "Upshift: User Preference Steering fromHuman–AI Interaction Feedback Traces",
-      "summary": "Large language model assistants increasingly serve users who differ not only in what they ask, but also in what they consider a useful response. Even ...",
-      "url": "https://arxiv.org/html/2611.02667",
+      "id": "news-1793857505399-1",
+      "title": "HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias",
+      "summary": "Recent LLMs, such as Gemini-2.5 Comanici et al. (2025), Sonnet-4.5 Anthropic (2025), Kimi-K2 Team et al. (2025), GPT-5.1 OpenAI (2025), and Qwen3 Yang...",
+      "url": "https://arxiv.org/html/2611.04949v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.02667",
+      "sourceUrl": "https://arxiv.org/html/2611.04949v1",
       "credibility": "P2",
-      "publishedAt": "2026-11-03T10:00:00.000Z",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
       "category": "tech",
       "tags": [
-        "DeepSeek",
-        "AI",
-        "RAG"
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     },
     {
-      "id": "news-1793769954614-7",
-      "title": "Google's use of press by AI chatbot may infringe copyright rules, EU court adviser says | Reuters",
-      "summary": "Copyright rules do not ​protect the \"mere facts\" reported by press publications, but \"only ‌the ⁠specific form of expression\", he added.\n\nOn the other...",
-      "url": "https://www.reuters.com/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03",
+      "id": "news-1793857505400-10",
+      "title": "Personas Are Not People: Identity as State, Not Attribute",
+      "summary": "the person’s identity too, which we take from Akerlof and Kranton (Akerlof and Kranton, 2000) to mean a person’s sense of self as a member of a social...",
+      "url": "https://arxiv.org/html/2611.05292",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.05292",
       "credibility": "P2",
-      "publishedAt": "2026-11-03T09:21:23.000Z",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "AI",
         "LLM"
       ]
     },
     {
-      "id": "news-1793769954613-5",
-      "title": "Networked AI: Architecture, Theory, and Applications",
-      "summary": "In the past decade, with the introduction of key technologies such as AlexNet , ResNet , Transformer , etc., Artificial Intelligence (AI) has entered ...",
-      "url": "https://arxiv.org/html/2611.03063",
+      "id": "news-1793857505400-11",
+      "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
+      "summary": "before failed parses count as incorrect. We report mean and population standard deviation over\nthree runs, using seeds 42, 43, and 44 at temperature 1...",
+      "url": "https://arxiv.org/html/2610.17697v3",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.03063",
+      "sourceUrl": "https://arxiv.org/html/2610.17697v3",
       "credibility": "P2",
-      "publishedAt": "2026-11-03T09:00:00.000Z",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
       "category": "tech",
       "tags": [
+        "Claude",
         "GPT",
-        "AI",
-        "LLM"
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1793857505399-3",
+      "title": "Contents",
+      "summary": "For the past decade, progress in artificial intelligence has been scored on a single axis: how much a machine can accomplish on its own.\nMeasured on t...",
+      "url": "https://arxiv.org/html/2611.05376v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.05376v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-04T06:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 3,
+    "p0Count": 2,
     "p1Count": 0,
-    "p2Count": 5
+    "p2Count": 13
   },
-  "summary": "🔥 官方动态：3条（alignment等）"
+  "summary": "🔥 官方动态：2条（alignment等）"
 }
