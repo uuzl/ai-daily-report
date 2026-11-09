@@ -1,202 +1,230 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T05:07:11.818Z",
-  "totalItems": 12,
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:17:45.794Z",
+  "totalItems": 15,
   "items": [
     {
-      "id": "news-1794114431818-11",
-      "title": "Profile user",
-      "summary": "No information is available for this page.",
-      "url": "https://platform.openai.com/settings/profile/user",
-      "source": "platform",
-      "sourceUrl": "https://platform.openai.com/settings/profile/user",
-      "credibility": "P0",
-      "publishedAt": "2026-11-08T05:07:11.818Z",
+      "id": "news-1794201465794-10",
+      "title": "Apartment building fire in northern China kills 14 - Reuters",
+      "summary": "BEIJING, Nov 9 (Reuters) - A ​fire on ‌Sunday at an ​apartment ​building in Taiyuan, ⁠in ​the ​northern Chinese province of ​Shanxi, ​killed 14 people...",
+      "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-09T03:22:23.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-10",
-      "title": "Our Compute Campus Policy Blueprint",
-      "summary": "OpenAI served 2.5 million businesses in September 2026. People use AI to learn, write, analyze information, and solve problems; OpenAI-owned and opera...",
-      "url": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf",
-      "source": "cdn",
-      "sourceUrl": "https://cdn.openai.com/pdf/compute-campus-policy-blueprint.pdf",
-      "credibility": "P0",
-      "publishedAt": "2026-11-08T03:00:00.000Z",
+      "id": "news-1794201465794-9",
+      "title": "Trump says he expects Rubio to remain as secretary of state - Reuters",
+      "summary": "Nov 8 (Reuters) - Trump expressed confidence ​that Marco Rubio ‌would remain as secretary ​of ​state, saying he expected ⁠the ​former Florida senator ...",
+      "url": "https://www.reuters.com/world/us/trump-says-he-expects-rubio-remain-secretary-state-2026-11-09/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/us/trump-says-he-expects-rubio-remain-secretary-state-2026-11-09/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-09T00:49:57.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-8",
-      "title": "Product improvement proposal - Feature requests - OpenAI Developer Community",
-      "summary": "Phase 1 — In-Conversation Feedback\n\nAllow users to prepare and submit structured product feedback directly from ChatGPT.\n\nPhase 2 — Diagnostic Integra...",
-      "url": "https://community.openai.com/t/product-improvement-proposal/1413979",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/product-improvement-proposal/1413979",
-      "credibility": "P0",
-      "publishedAt": "2026-11-08T01:58:56.000Z",
+      "id": "news-1794201465794-14",
+      "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say - Reuters",
+      "summary": "Nov 8 (Reuters) - Production was halted on Sunday at Iraq's Khor Mor gas field, one of the largest in the Kurdistan region, after a drone ​attack hit ...",
+      "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T21:49:07.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1794201465794-5",
+      "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy - TechCrunch",
+      "summary": "The investigation will be conducted by independent directors working with outside legal counsel.\n\nIn response to earlier reports about the CEO’s relat...",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-2",
-      "title": "OpenAI Developer Community",
-      "summary": "| GPT-Image Art Gallery - Share AI images made with ChatGPT or OpenAI's API  Community image-generation ,  gallery ,  imagegen ,  gpt-image-2 |  | 171...",
-      "url": "https://community.openai.com/latest?page=1",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/latest?page=1",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T23:00:00.000Z",
+      "id": "news-1794201465794-6",
+      "title": "If Snap's Specs are still ridiculously expensive, they're also a lot more comfortable than they used to be - TechCrunch",
+      "summary": "When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nBuy One Pass, Get a ...",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T21:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1794201465794-12",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery. - TechCrunch",
+      "summary": "While they managed to find conditions that could generate a resonance that peaked once per minute, they couldn’t explain why it persisted for so long....",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T20:30:00.000Z",
+      "category": "research",
+      "tags": [
+        "AI",
+        "Transformer",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1794201465794-8",
+      "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade - Bloomberg",
+      "summary": "# Treasury Rally Gets New Boost as Election Hammers the AI Trade\n\n## Takeaways by Bloomberg AISubscribe\n\nWall Street sees the Treasury market emerging...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T20:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-7",
-      "title": "I would love to see OpenAI develop a small autonomous companion robot - Feature requests - OpenAI Developer Community",
-      "summary": "| ChatGPT and wishes for OpenAI  Feature requests chatgpt | 0 | 25 | November 2, 2026 | [...] | Topic |  | Replies | Views | Activity |\n ---  --- \n| A...",
-      "url": "https://community.openai.com/t/i-would-love-to-see-openai-develop-a-small-autonomous-companion-robot/1413905",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/i-would-love-to-see-openai-develop-a-small-autonomous-companion-robot/1413905",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T20:01:16.000Z",
+      "id": "news-1794201465794-1",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’ - TechCrunch",
+      "summary": "SNL seems to have its knives out for tech executives this season, starting with Jane Wickline’s impression of Anthropic CEO Dario Amodei as a stutteri...",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T18:00:04.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-9",
-      "title": "Built-in Daily Review Calendar and Personal Activity Journal in ChatGPT - Feature requests - OpenAI Developer Community",
-      "summary": "### Why This Feature Matters\n\nFor users: This feature could transform ChatGPT from a tool primarily used for immediate conversations into a genuinely ...",
-      "url": "https://community.openai.com/t/built-in-daily-review-calendar-and-personal-activity-journal-in-chatgpt/1413882",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/built-in-daily-review-calendar-and-personal-activity-journal-in-chatgpt/1413882",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T17:46:03.000Z",
+      "id": "news-1794201465794-0",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. - TechCrunch",
+      "summary": "That total is already ahead of the entirety of 2025, even though the number of deals fell to 248 from 358 last year. Seed rounds in particular are bal...",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T17:30:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1794201465794-7",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over - TechCrunch",
+      "summary": "May Mobility and Forterra advanced to phase three of the Department of Defense’s Robotic Operations for Autonomous Delivery and Sustainment (ROADS) pr...",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T17:02:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1794201465794-3",
+      "title": "Blackstone Real Estate Seeks Rebound From Shock Exits and Losses - Bloomberg",
+      "summary": "### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business an...",
+      "url": "https://www.bloomberg.com/news/features/2026-11-08/blackstone-real-estate-seeks-rebound-from-shock-exits-and-losses",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-11-08/blackstone-real-estate-seeks-rebound-from-shock-exits-and-losses",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T17:00:01.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "news-1794201465794-13",
+      "title": "Private equity firm BC Partners seeks to take control of LIV Golf from Saudi wealth fund, FT reports - Reuters",
+      "summary": "Nov 8 (Reuters) - BC Partners has revived efforts to create a successor to LIV Golf, the Financial Times reported on Sunday, after ​the breakaway circ...",
+      "url": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T15:57:35.000Z",
+      "category": "tech",
+      "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-3",
-      "title": "Is ChatGPT just a tool, or can it be a companion? - Use cases and examples - OpenAI Developer Community",
-      "summary": "If they stopped with their constant product updates and actually focused on their alleged “AI will change the world” narrative, perhaps AI might serve...",
-      "url": "https://community.openai.com/t/is-chatgpt-just-a-tool-or-can-it-be-a-companion/1413835",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/is-chatgpt-just-a-tool-or-can-it-be-a-companion/1413835",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T13:33:29.000Z",
+      "id": "news-1794201465794-2",
+      "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era - Bloomberg",
+      "summary": "# Wall Street Races for Megadeals as Countdown Begins on Trump Era\n\n## Takeaways by Bloomberg AI [...] Bloomberg News has reported that Musk, who spen...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T14:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-5",
-      "title": "When Will This Madness Stop? - ChatGPT - OpenAI Developer Community",
-      "summary": "If they stopped with their constant product updates and actually focused on their alleged “AI will change the world” narrative, perhaps AI might serve...",
-      "url": "https://community.openai.com/t/when-will-this-madness-stop/1413835",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/when-will-this-madness-stop/1413835",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T13:33:29.000Z",
+      "id": "news-1794201465794-11",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery - Ars Technica",
+      "summary": "# Physicists listened to electrical noise to crack a superconductor mystery\n\nTuning in to electronic noise can tell us whether electrons have paired u...",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T12:15:31.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794114431818-4",
-      "title": "Preserving ChatGPT's Unique Capabilities Through More Efficient Inference - Feature requests - OpenAI Developer Community",
-      "summary": "# Preserving ChatGPT's Unique Capabilities Through More Efficient Inference\n\nI would encourage OpenAI’s leadership and engineering teams to investigat...",
-      "url": "https://community.openai.com/t/preserving-chatgpts-unique-capabilities-through-more-efficient-inference/1413733",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/preserving-chatgpts-unique-capabilities-through-more-efficient-inference/1413733",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T05:59:33.000Z",
+      "id": "news-1794201465794-4",
+      "title": "Indian shares consolidate in Diwali session after seven-day rally - Reuters",
+      "summary": "Nov 8 (Reuters) - Indian shares closed the special Diwali session little changed on Sunday, pausing a rally driven ​by a resurgence of foreign inflows...",
+      "url": "https://www.reuters.com/world/india/indian-shares-consolidate-diwali-session-after-seven-day-rally-2026-11-08/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/indian-shares-consolidate-diwali-session-after-seven-day-rally-2026-11-08/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-08T10:43:43.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1794114431818-1",
-      "title": "Feature Request: Full Video Understanding in ChatGPT and Public Product Improvement Roadmaps - ChatGPT - OpenAI Developer Community",
-      "summary": "- Completed improvements and recent updates.\n\n- Future development plans and possible new features.\n\n- Expected release dates or timelines when availa...",
-      "url": "https://community.openai.com/t/feature-request-full-video-understanding-in-chatgpt-and-public-product-improvement-roadmaps/1413725",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/feature-request-full-video-understanding-in-chatgpt-and-public-product-improvement-roadmaps/1413725",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T05:58:13.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794114431818-6",
-      "title": "Access to full ChatGPT history for project tracking, - Feature requests - OpenAI Developer Community",
-      "summary": "Powered by Discourse, best viewed with JavaScript enabled [...] | Topic |  | Replies | Views | Activity |\n ---  --- \n| Allow ChatGPT to Search the Ful...",
-      "url": "https://community.openai.com/t/access-to-full-chatgpt-history-for-project-tracking/1413719",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/access-to-full-chatgpt-history-for-project-tracking/1413719",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T05:57:25.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794114431817-0",
-      "title": "Please Preserve Long-Term AI Personality and Humor Across Model Upgrades - ChatGPT - OpenAI Developer Community",
-      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| Please Keep GPT-5.6 Sol Available — Conversational Quality Matters Too  Feature requests | 2 | ...",
-      "url": "https://community.openai.com/t/please-preserve-long-term-ai-personality-and-humor-across-model-upgrades/1413716",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/please-preserve-long-term-ai-personality-and-humor-across-model-upgrades/1413716",
-      "credibility": "P0",
-      "publishedAt": "2026-11-07T05:56:44.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
+        "AI",
+        "RAG",
+        "benchmark"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 12,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 0
+    "p2Count": 15
   },
-  "summary": "🔥 官方动态：12条（platform等）"
+  "summary": ""
 }
