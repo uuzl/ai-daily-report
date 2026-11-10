@@ -1,230 +1,139 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T05:17:45.794Z",
-  "totalItems": 15,
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T06:31:34.899Z",
+  "totalItems": 8,
   "items": [
     {
-      "id": "news-1794201465794-10",
-      "title": "Apartment building fire in northern China kills 14 - Reuters",
-      "summary": "BEIJING, Nov 9 (Reuters) - A ​fire on ‌Sunday at an ​apartment ​building in Taiyuan, ⁠in ​the ​northern Chinese province of ​Shanxi, ​killed 14 people...",
-      "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-09T03:22:23.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794201465794-9",
-      "title": "Trump says he expects Rubio to remain as secretary of state - Reuters",
-      "summary": "Nov 8 (Reuters) - Trump expressed confidence ​that Marco Rubio ‌would remain as secretary ​of ​state, saying he expected ⁠the ​former Florida senator ...",
-      "url": "https://www.reuters.com/world/us/trump-says-he-expects-rubio-remain-secretary-state-2026-11-09/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/trump-says-he-expects-rubio-remain-secretary-state-2026-11-09/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-09T00:49:57.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794201465794-14",
-      "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say - Reuters",
-      "summary": "Nov 8 (Reuters) - Production was halted on Sunday at Iraq's Khor Mor gas field, one of the largest in the Kurdistan region, after a drone ​attack hit ...",
-      "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T21:49:07.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1794201465794-5",
-      "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy - TechCrunch",
-      "summary": "The investigation will be conducted by independent directors working with outside legal counsel.\n\nIn response to earlier reports about the CEO’s relat...",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T21:00:11.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794201465794-6",
-      "title": "If Snap's Specs are still ridiculously expensive, they're also a lot more comfortable than they used to be - TechCrunch",
-      "summary": "When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nBuy One Pass, Get a ...",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T21:00:00.000Z",
-      "category": "tech",
-      "tags": []
-    },
-    {
-      "id": "news-1794201465794-12",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery. - TechCrunch",
-      "summary": "While they managed to find conditions that could generate a resonance that peaked once per minute, they couldn’t explain why it persisted for so long....",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T20:30:00.000Z",
-      "category": "research",
-      "tags": [
-        "AI",
-        "Transformer",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1794201465794-8",
-      "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade - Bloomberg",
-      "summary": "# Treasury Rally Gets New Boost as Election Hammers the AI Trade\n\n## Takeaways by Bloomberg AISubscribe\n\nWall Street sees the Treasury market emerging...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T20:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794201465794-1",
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’ - TechCrunch",
-      "summary": "SNL seems to have its knives out for tech executives this season, starting with Jane Wickline’s impression of Anthropic CEO Dario Amodei as a stutteri...",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T18:00:04.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794201465794-0",
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. - TechCrunch",
-      "summary": "That total is already ahead of the entirety of 2025, even though the number of deals fell to 248 from 358 last year. Seed rounds in particular are bal...",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "id": "news-1794292294897-2",
+      "title": "GPT-6 Pro may now support Intelligent UI! - ChatGPT - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Intelligent UI unavailable in Android Chat with Extra High — rollout or kno...",
+      "url": "https://community.openai.com/t/gpt-6-pro-may-now-support-intelligent-ui/1414597",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/gpt-6-pro-may-now-support-intelligent-ui/1414597",
+      "credibility": "P0",
+      "publishedAt": "2026-11-10T02:42:52.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "AI",
-        "RAG"
-      ]
-    },
-    {
-      "id": "news-1794201465794-7",
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over - TechCrunch",
-      "summary": "May Mobility and Forterra advanced to phase three of the Department of Defense’s Robotic Operations for Autonomous Delivery and Sustainment (ROADS) pr...",
-      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T17:02:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "Agent"
-      ]
-    },
-    {
-      "id": "news-1794201465794-3",
-      "title": "Blackstone Real Estate Seeks Rebound From Shock Exits and Losses - Bloomberg",
-      "summary": "### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business an...",
-      "url": "https://www.bloomberg.com/news/features/2026-11-08/blackstone-real-estate-seeks-rebound-from-shock-exits-and-losses",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-11-08/blackstone-real-estate-seeks-rebound-from-shock-exits-and-losses",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T17:00:01.000Z",
-      "category": "tech",
-      "tags": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "id": "news-1794201465794-13",
-      "title": "Private equity firm BC Partners seeks to take control of LIV Golf from Saudi wealth fund, FT reports - Reuters",
-      "summary": "Nov 8 (Reuters) - BC Partners has revived efforts to create a successor to LIV Golf, the Financial Times reported on Sunday, after ​the breakaway circ...",
-      "url": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/private-equity-firm-bc-partners-seeks-take-control-liv-golf-saudi-wealth-fund-ft-2026-11-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T15:57:35.000Z",
-      "category": "tech",
-      "tags": [
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794201465794-2",
-      "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era - Bloomberg",
-      "summary": "# Wall Street Races for Megadeals as Countdown Begins on Trump Era\n\n## Takeaways by Bloomberg AI [...] Bloomberg News has reported that Musk, who spen...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T14:00:00.000Z",
+      "id": "news-1794292294898-7",
+      "title": "Pricing and billing for dots in ChatGPT Enterprise",
+      "summary": "You're not charged per message: even when you don't send one, your unpaused dot can check connected apps for updates, run your scheduled tasks, spot w...",
+      "url": "https://help.openai.com/en/articles/20001641-pricing-and-billing-for-dots-in-chatgpt-enterprise",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001641-pricing-and-billing-for-dots-in-chatgpt-enterprise",
+      "credibility": "P0",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
       "category": "tech",
       "tags": [
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1794292294897-1",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "2026\n   ChatGPT\n   Partnerships\n\n## Author\n\nOpenAI\n\n## Keep reading\n\nView all\n\nImage 1: Daybreak with AWS 1x1\n\nDaybreak models are now available on AW...",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794201465794-11",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery - Ars Technica",
-      "summary": "# Physicists listened to electrical noise to crack a superconductor mystery\n\nTuning in to electronic noise can tell us whether electrons have paired u...",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T12:15:31.000Z",
+      "id": "news-1794292294898-5",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "Image 3: Greptile — Connections card\n\nGreptile takes bug detection beyond code review with GPT-6 Astra Startup Oct 26, 2026\n\nResearch\n   Research Inde...",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/coderabbit-codex-daybreak",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T18:00:00.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
+        "GPT",
         "AI"
       ]
     },
     {
-      "id": "news-1794201465794-4",
-      "title": "Indian shares consolidate in Diwali session after seven-day rally - Reuters",
-      "summary": "Nov 8 (Reuters) - Indian shares closed the special Diwali session little changed on Sunday, pausing a rally driven ​by a resurgence of foreign inflows...",
-      "url": "https://www.reuters.com/world/india/indian-shares-consolidate-diwali-session-after-seven-day-rally-2026-11-08/",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/world/india/indian-shares-consolidate-diwali-session-after-seven-day-rally-2026-11-08/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-08T10:43:43.000Z",
+      "id": "news-1794292294898-6",
+      "title": "Cannot find Cancel review for ChatCut plugin v1.10.21 - ChatGPT Apps SDK - OpenAI Developer Community",
+      "summary": "Powered by Discourse, best viewed with JavaScript enabled [...] Could someone verify that v1.10.21 is correctly queued, confirm where the action shoul...",
+      "url": "https://community.openai.com/t/cannot-find-cancel-review-for-chatcut-plugin-v1-10-21/1414485",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/cannot-find-cancel-review-for-chatcut-plugin-v1-10-21/1414485",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T16:03:38.000Z",
       "category": "tech",
       "tags": [
-        "AI",
-        "RAG",
-        "benchmark"
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794292294898-4",
+      "title": "Opt-In Adult Mode for ChatGPT users - #522 by giorgosmai - Feature requests - OpenAI Developer Community",
+      "summary": "Protecting minors and preventing genuine harm remain essential.\n\nBut protection should not automatically mean treating every adult conversation as tho...",
+      "url": "https://community.openai.com/t/opt-in-adult-mode-for-chatgpt-users/1361089/522",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/opt-in-adult-mode-for-chatgpt-users/1361089/522",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T15:58:16.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794292294897-0",
+      "title": "GPT-6 Longitudinal Regressions, Recursive Self-Improvement, and the Scientific Evidence OpenAI Needs to Address - ChatGPT - OpenAI Developer Community",
+      "summary": "Shumailov et al. — Nature, 2024: AI models collapse when trained on recursively generated data\n\nKazdan et al. — ICML, 2025: Collapse or Thrive: Perils...",
+      "url": "https://community.openai.com/t/gpt-6-longitudinal-regressions-recursive-self-improvement-and-the-scientific-evidence-openai-needs-to-address/1414462",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/gpt-6-longitudinal-regressions-recursive-self-improvement-and-the-scientific-evidence-openai-needs-to-address/1414462",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T15:20:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1794292294898-3",
+      "title": "$200/month ChatGPT Pro with Daybreak Blue: Account-wide cybersecurity blocks, unusable conversations, and ineffective support - Bugs - OpenAI Developer Community",
+      "summary": "It is both frustrating and regrettable that a customer willing to pay for a premium service should end up cancelling it simply because the company can...",
+      "url": "https://community.openai.com/t/200-month-chatgpt-pro-with-daybreak-blue-account-wide-cybersecurity-blocks-unusable-conversations-and-ineffective-support/1414433",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/200-month-chatgpt-pro-with-daybreak-blue-account-wide-cybersecurity-blocks-unusable-conversations-and-ineffective-support/1414433",
+      "credibility": "P0",
+      "publishedAt": "2026-11-09T14:11:43.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 0,
+    "p0Count": 8,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 0
   },
-  "summary": ""
+  "summary": "🔥 官方动态：8条（community等）"
 }
