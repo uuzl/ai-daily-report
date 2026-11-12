@@ -1,49 +1,17 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T05:17:31.326Z",
-  "totalItems": 15,
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T06:22:21.092Z",
+  "totalItems": 11,
   "items": [
     {
-      "id": "news-1794374251326-7",
-      "title": "A message too the Open AI GPT 6 product team - ChatGPT - OpenAI Developer Community",
-      "summary": "This is not a question of technical capability. GPT-6 is clearly an extremely capable model. That is precisely what makes this so infuriating. The cap...",
-      "url": "https://community.openai.com/t/a-message-too-the-open-ai-gpt-6-product-team/1414932",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/a-message-too-the-open-ai-gpt-6-product-team/1414932",
-      "credibility": "P0",
-      "publishedAt": "2026-11-11T02:53:36.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1794374251326-11",
-      "title": "The 'gpt-6.1-sol' model requires a newer version of Codex. Please upgrade to the latest app or CLI and try again - Codex - OpenAI Developer Community",
-      "summary": "# The 'gpt-6.1-sol' model requires a newer version of Codex. Please upgrade to the latest app or CLI and try again\n\nScreenshot from 2026-11-10 23-33-5...",
-      "url": "https://community.openai.com/t/the-gpt-6-1-sol-model-requires-a-newer-version-of-codex-please-upgrade-to-the-latest-app-or-cli-and-try-again/1414891",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/the-gpt-6-1-sol-model-requires-a-newer-version-of-codex-please-upgrade-to-the-latest-app-or-cli-and-try-again/1414891",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T23:03:07.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-15",
+      "id": "news-1794464541091-6",
       "title": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center",
       "summary": "OpenAI\n\n# Retiring Advanced and Standard Voice in ChatGPT\n\nAdvanced and Standard voice will be retiring on December 11, 2026.\n\nUpdated: 3 hours ago\n\n#...",
       "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
       "source": "help",
       "sourceUrl": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
       "credibility": "P0",
-      "publishedAt": "2026-11-10T23:00:00.000Z",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1794374251325-1",
+      "id": "news-1794464541091-0",
       "title": "OpenAI Developer Community",
-      "summary": "| Solicitud a OpenAI: Cámara en vivo gratuita (con límites) para narrar futbol en tiempo real ⚽️🎙️  Feature requests chatgpt |  | 0 | 7 | November 10...",
+      "summary": "| An Open Petition to OpenAI: Please Preserve Long-Term Conversations and Creative Continuity  ChatGPT chatgpt |  | 4 | 92 | November 11, 2026 |\n| New...",
       "url": "https://community.openai.com/latest?page=1",
       "source": "community",
       "sourceUrl": "https://community.openai.com/latest?page=1",
       "credibility": "P0",
-      "publishedAt": "2026-11-10T22:00:00.000Z",
+      "publishedAt": "2026-11-11T23:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,14 +36,126 @@
       ]
     },
     {
-      "id": "news-1794374251325-0",
-      "title": "I Have Been Using ChatGPT for 12–20 Hours Every Day for Two Years, but I Will Switch to Claude as Soon as My Account Credits Run Out. - ChatGPT - OpenAI Developer Community",
-      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| I Used ChatGPT 10–11 Hours a Day for a Year. Now I’m Ready to Leave  ChatGPT chatgpt ,  bug ,  ...",
-      "url": "https://community.openai.com/t/i-have-been-using-chatgpt-for-12-20-hours-every-day-for-two-years-but-i-will-switch-to-claude-as-soon-as-my-account-credits-run-out/1414832",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/i-have-been-using-chatgpt-for-12-20-hours-every-day-for-two-years-but-i-will-switch-to-claude-as-soon-as-my-account-credits-run-out/1414832",
+      "id": "news-1794464541092-9",
+      "title": "Getting started with your dot | OpenAI Help Center",
+      "summary": "Keep that computer online with the ChatGPT app open. Offline means the computer is unavailable; it doesn’t revoke the connection. If Allow access is u...",
+      "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
       "credibility": "P0",
-      "publishedAt": "2026-11-10T20:02:23.000Z",
+      "publishedAt": "2026-11-11T21:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541091-1",
+      "title": "Feature requests - OpenAI Developer Community",
+      "summary": "| Feature Request: Allow Users to Customize the ChatGPT App’s Display Name  chatgpt ,  ios-app |  | 1 | 38 | November 11, 2026 |\n| Feature Request to ...",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "credibility": "P0",
+      "publishedAt": "2026-11-11T20:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541091-5",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/jiostar-vijay-seshadri",
+      "credibility": "P0",
+      "publishedAt": "2026-11-11T20:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541091-7",
+      "title": "Partnerships Lead, Southern Europe",
+      "summary": "Familiarity with AI platforms, modern cloud architectures, cloud marketplaces, and enterprise procurement models.\n\nAbout OpenAI\n\nOpenAI is an AI resea...",
+      "url": "https://openai.com/careers/partnerships-lead-southern-europe-london-uk",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/careers/partnerships-lead-southern-europe-london-uk",
+      "credibility": "P0",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541091-8",
+      "title": "Manager, Applied AI Architects (Australia)",
+      "summary": "Safety\n   Safety Approach\n   Deployment Safety(opens in a new window)\n   Security & Privacy\n   Trust & Transparency\n\nProducts\n   ChatGPT(opens in a ne...",
+      "url": "https://openai.com/careers/manager-applied-ai-architects-(australia)-sydney-australia",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/careers/manager-applied-ai-architects-(australia)-sydney-australia",
+      "credibility": "P0",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541091-4",
+      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time | TechCrunch",
+      "summary": "Still, the company lagged Anthropic in catering to enterprises, a market where the Claude-maker has pulled ahead, at least in terms of revenue growth....",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "credibility": "P2",
+      "publishedAt": "2026-11-11T16:14:44.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794464541092-10",
+      "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap - Bloomberg",
+      "summary": "EXCLUSIVE\n\nAI\n\n# ByteDance Prepares Muse-Like Agent in Push to Close AI Gap\n\nByteDance Ltd. plans the release of a Muse-like AI assistant in the comin...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
+      "credibility": "P2",
+      "publishedAt": "2026-11-11T10:10:36.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1794464541091-3",
+      "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "summary": "AI agents built atop large language models (LLMs) can increasingly reason, use tools, and take a variety of actions in online environments (Casper et ...",
+      "url": "https://arxiv.org/html/2611.11306v2",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.11306v2",
+      "credibility": "P2",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,170 +164,26 @@
       ]
     },
     {
-      "id": "news-1794374251325-2",
-      "title": "Businesses in ChatGPT",
-      "summary": "Developers\n   Plugins(opens in a new window)\n   Models(opens in a new window)\n   Docs(opens in a new window)\n   Resources(opens in a new window)\n   De...",
-      "url": "https://openai.com/policies/businesses-in-chatgpt",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/policies/businesses-in-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "id": "news-1794464541091-2",
+      "title": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
+      "summary": "Three frontier LLMs from three independent model families are deployed as parallel annotators: GPT-4.1 OpenAI (2025) from OpenAI, Claude Sonnet 4 Anth...",
+      "url": "https://arxiv.org/html/2611.13595v1",
+      "source": "arxiv",
+      "sourceUrl": "https://arxiv.org/html/2611.13595v1",
+      "credibility": "P2",
+      "publishedAt": "2026-11-11T07:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-6",
-      "title": "Businesses in ChatGPT: Claim Your Business",
-      "summary": "Developers\n   Plugins(opens in a new window)\n   Models(opens in a new window)\n   Docs(opens in a new window)\n   Resources(opens in a new window)\n   De...",
-      "url": "https://openai.com/business/businesses-in-chatgpt",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/business/businesses-in-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-8",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Developers\n   Plugins(opens in a new window)\n   Models(opens in a new window)\n   Docs(opens in a new window)\n   Resources(opens in a new window)\n   De...",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-12",
-      "title": "Business Agents Policy",
-      "summary": "Skip to main content\n\n\n\nLog inTry ChatGPT(opens in a new window)\n\n   Research\n   Products\n   Business\n   Developers\n   Company\n   Foundation(opens in ...",
-      "url": "https://openai.com/policies/business-agents-policy",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/policies/business-agents-policy",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-5",
-      "title": "Partner Director, Oracle North America | OpenAI",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/careers/partner-director-oracle-north-america-san-francisco",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/partner-director-oracle-north-america-san-francisco",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T17:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-10",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "Image 9: Australian universities are creating AI-native graduates — Cover\n\nAustralian universities are creating AI-native graduates Company Nov 5, 202...",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-16",
-      "title": "ChatGPT Context Window Filling Up Significantly Faster and Increasing Continuity Problems – Affecting Free and Paid Users - Bugs - OpenAI Developer Community",
-      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| I have a problem with the new context window capacity  ChatGPT chatgpt | 5 ...",
-      "url": "https://community.openai.com/t/chatgpt-context-window-filling-up-significantly-faster-and-increasing-continuity-problems-affecting-free-and-paid-users/1414761",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/chatgpt-context-window-filling-up-significantly-faster-and-increasing-continuity-problems-affecting-free-and-paid-users/1414761",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T14:58:02.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-17",
-      "title": "HIPAA eligible products and functionality | OpenAI Help Center",
-      "summary": "### Access to ChatGPT Functionality not covered under BAA\n\nA customer may, in its sole discretion, enable access to additional ChatGPT functionality t...",
-      "url": "https://help.openai.com/en/articles/20001069-hipaa-eligible-products-and-functionality",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001069-hipaa-eligible-products-and-functionality",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251326-14",
-      "title": "What chatgpt whats to have - Feature requests - OpenAI Developer Community",
-      "summary": "22\n\nPersistent workspaces\n\nKeep projects, tools, and files organized permanently.\n\n## :glowing_star: 4. ChatGPT itself\n\n:glowing_star:\n\n#\n\nFeature\n\nWh...",
-      "url": "https://community.openai.com/t/what-chatgpt-whats-to-have/1414718",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/what-chatgpt-whats-to-have/1414718",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T12:44:47.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794374251325-3",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "We are grateful to Caregiver Action Network, Alzheimer’s Association, American Diabetes Association®, and the caregivers and community health organiza...",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "credibility": "P0",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 15,
+    "p0Count": 7,
     "p1Count": 0,
-    "p2Count": 0
+    "p2Count": 4
   },
-  "summary": "🔥 官方动态：15条（community等）"
+  "summary": "🔥 官方动态：7条（help等）"
 }
