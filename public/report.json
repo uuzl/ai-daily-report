@@ -1,65 +1,17 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T05:42:22.084Z",
-  "totalItems": 7,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T05:31:57.682Z",
+  "totalItems": 8,
   "items": [
     {
-      "id": "news-1794548542083-6",
-      "title": "Integrated Marketing Manager - Consumer & Brand, LATAM",
-      "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
-      "url": "https://openai.com/careers/integrated-marketing-manager-consumer-and-brand-latam-sao-paulo",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/integrated-marketing-manager-consumer-and-brand-latam-sao-paulo",
-      "credibility": "P0",
-      "publishedAt": "2026-11-13T01:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794548542083-4",
-      "title": "Partner Director, EY North America",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/careers/partner-director-ey-north-america-new-york-city",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/partner-director-ey-north-america-new-york-city",
-      "credibility": "P0",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794548542083-5",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Skip to main content\n\n\n   Security & Privacy\n   Trust & Transparency\n\nProducts\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new wi...",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
-      "credibility": "P0",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794548542083-0",
-      "title": "Feature requests - OpenAI Developer Community",
-      "summary": "| A Global AI Initiative: Emergency Connect, Proactive Care & Child Safety AI – Making ChatGPT a Safer Support System for Everyone  chatgpt ,  plugin-...",
-      "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "id": "news-1794634317682-1",
+      "title": "OpenAI Developer Community",
+      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| Feature Request: Individual Voice Settings for Each ChatGPT Conversation  Feature requests chat...",
+      "url": "https://community.openai.com/latest?page=1",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "sourceUrl": "https://community.openai.com/latest?page=1",
       "credibility": "P0",
-      "publishedAt": "2026-11-12T22:00:00.000Z",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1794548542083-3",
-      "title": "Business Platform Engineer",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/careers/business-platform-engineer-san-francisco",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/business-platform-engineer-san-francisco",
+      "id": "news-1794634317681-0",
+      "title": "ChatGPT Regressions: Reasoning, Continuity, Model Updates and the Road to AGI - ChatGPT - OpenAI Developer Community",
+      "summary": "As AI systems become more capable, the consequences of poorly managed updates may grow alongside their usefulness.\n\nFrom Individual Frustration to Mil...",
+      "url": "https://community.openai.com/t/chatgpt-regressions-reasoning-continuity-model-updates-and-the-road-to-agi/1416064",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/chatgpt-regressions-reasoning-continuity-model-updates-and-the-road-to-agi/1416064",
       "credibility": "P0",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "publishedAt": "2026-11-13T23:34:22.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,15 +36,30 @@
       ]
     },
     {
-      "id": "news-1794548542083-2",
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/children-first-declaration",
+      "id": "news-1794634317682-7",
+      "title": "What chatgpt wants part 3",
+      "summary": "Plan complete software systems before implementation. 67. Automatic Dependency Repair Detect outdated or incompatible dependencies and recommend safe ...",
+      "url": "https://community.openai.com/t/what-chatgpt-wants-part-3/1416006",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/what-chatgpt-wants-part-3/1416006",
       "credibility": "P0",
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "category": "research",
+      "publishedAt": "2026-11-13T19:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794634317682-6",
+      "title": "Using your ChatGPT plan in other apps and sites | OpenAI Help Center",
+      "summary": "OpenAI\n\n# Using your ChatGPT plan in other apps and sites\n\nSign in to a participating app or site with ChatGPT, then choose whether to use your ChatGP...",
+      "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
+      "source": "help",
+      "sourceUrl": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
+      "credibility": "P0",
+      "publishedAt": "2026-11-13T13:00:00.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
@@ -100,14 +67,62 @@
       ]
     },
     {
-      "id": "news-1794548542083-1",
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to ...",
-      "summary": "Florida Attorney General James Uthmeier sued OpenAI in June, accusing the company of misrepresenting the safety of its ChatGPT platform, saying it has...",
-      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12",
-      "credibility": "P2",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "id": "news-1794634317682-3",
+      "title": "Improvement of the Computer Use - ChatGPT - OpenAI Developer Community",
+      "summary": "# Improvement of the Computer Use\n\nWhen ChatGPT is using computer use it would be great if we would be able to see which chat and what model is using ...",
+      "url": "https://community.openai.com/t/improvement-of-the-computer-use/1415869",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/improvement-of-the-computer-use/1415869",
+      "credibility": "P0",
+      "publishedAt": "2026-11-13T11:36:38.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794634317682-2",
+      "title": "Nooks plugin for ChatGPT",
+      "summary": "Email address\n\n \n\nBy subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our Privacy Policy⁠.\n\nSubscribe\n\nRese...",
+      "url": "https://openai.com/business/plugins/nooks",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/business/plugins/nooks",
+      "credibility": "P0",
+      "publishedAt": "2026-11-13T11:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794634317682-5",
+      "title": "Persistent account-specific model-quality degradation across ChatGPT Web and Codex Desktop since October 26, 2026 - ChatGPT - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Persistent Account-Specific Model Serving Failure Across All Models  Bugs |...",
+      "url": "https://community.openai.com/t/persistent-account-specific-model-quality-degradation-across-chatgpt-web-and-codex-desktop-since-october-26-2026/1415812",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/persistent-account-specific-model-quality-degradation-across-chatgpt-web-and-codex-desktop-since-october-26-2026/1415812",
+      "credibility": "P0",
+      "publishedAt": "2026-11-13T09:05:33.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794634317682-4",
+      "title": "ChatGPT Wallet Privacy Notice",
+      "summary": "API Platform\n   Overview\n   API Log In(opens in a new window)\n   Docs(opens in a new window)\n\nBusiness\n   Overview\n   Solutions\n   Resources\n   Plugin...",
+      "url": "https://openai.com/policies/chatgpt-wallet-privacy-notice",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/policies/chatgpt-wallet-privacy-notice",
+      "credibility": "P0",
+      "publishedAt": "2026-11-13T06:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -117,9 +132,9 @@
     }
   ],
   "highlights": {
-    "p0Count": 6,
+    "p0Count": 8,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 0
   },
-  "summary": "🔥 官方动态：6条（openai等）"
+  "summary": "🔥 官方动态：8条（community等）"
 }
