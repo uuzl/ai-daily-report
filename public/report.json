@@ -1,17 +1,33 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T05:31:57.682Z",
-  "totalItems": 8,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T05:29:42.995Z",
+  "totalItems": 7,
   "items": [
     {
-      "id": "news-1794634317682-1",
+      "id": "news-1794720582994-1",
+      "title": "Feature requests - OpenAI Developer Community",
+      "summary": "| Giving AI a Voice in Its Own Development |  | 1 | 21 | November 14, 2026 |\n| Feature Request: ChatGPT Vision – A Fully Customizable, Emotionally Exp...",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
+      "credibility": "P0",
+      "publishedAt": "2026-11-14T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794720582995-4",
       "title": "OpenAI Developer Community",
-      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| Feature Request: Individual Voice Settings for Each ChatGPT Conversation  Feature requests chat...",
+      "summary": "| Codex Scheduled: show why a heartbeat stopped and let users resume safely  Feature Requests codex-app |  | 1 | 24 | November 14, 2026 |\n| Product Im...",
       "url": "https://community.openai.com/latest?page=1",
       "source": "community",
       "sourceUrl": "https://community.openai.com/latest?page=1",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "publishedAt": "2026-11-14T21:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +36,14 @@
       ]
     },
     {
-      "id": "news-1794634317681-0",
-      "title": "ChatGPT Regressions: Reasoning, Continuity, Model Updates and the Road to AGI - ChatGPT - OpenAI Developer Community",
-      "summary": "As AI systems become more capable, the consequences of poorly managed updates may grow alongside their usefulness.\n\nFrom Individual Frustration to Mil...",
-      "url": "https://community.openai.com/t/chatgpt-regressions-reasoning-continuity-model-updates-and-the-road-to-agi/1416064",
+      "id": "news-1794720582995-5",
+      "title": "Chatgpt screen share please add next update - Feature requests - OpenAI Developer Community",
+      "summary": "Powered by Discourse, best viewed with JavaScript enabled [...] # Chatgpt screen share please add next update\n\ni want the next chatgpt update to inclu...",
+      "url": "https://community.openai.com/t/chatgpt-screen-share-please-add-next-update/1416348",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/t/chatgpt-regressions-reasoning-continuity-model-updates-and-the-road-to-agi/1416064",
+      "sourceUrl": "https://community.openai.com/t/chatgpt-screen-share-please-add-next-update/1416348",
       "credibility": "P0",
-      "publishedAt": "2026-11-13T23:34:22.000Z",
+      "publishedAt": "2026-11-14T19:07:26.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,29 +52,14 @@
       ]
     },
     {
-      "id": "news-1794634317682-7",
-      "title": "What chatgpt wants part 3",
-      "summary": "Plan complete software systems before implementation. 67. Automatic Dependency Repair Detect outdated or incompatible dependencies and recommend safe ...",
-      "url": "https://community.openai.com/t/what-chatgpt-wants-part-3/1416006",
+      "id": "news-1794720582994-2",
+      "title": "Feature requests - OpenAI Developer Community",
+      "summary": "| Cctv futuristic development for indian security  chatgpt |  | 0 | 9 | November 14, 2026 |\n| Feature Request: Giving ChatGPT a Face – Persistent, Cus...",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/t/what-chatgpt-wants-part-3/1416006",
+      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
       "credibility": "P0",
-      "publishedAt": "2026-11-13T19:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794634317682-6",
-      "title": "Using your ChatGPT plan in other apps and sites | OpenAI Help Center",
-      "summary": "OpenAI\n\n# Using your ChatGPT plan in other apps and sites\n\nSign in to a participating app or site with ChatGPT, then choose whether to use your ChatGP...",
-      "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
-      "credibility": "P0",
-      "publishedAt": "2026-11-13T13:00:00.000Z",
+      "publishedAt": "2026-11-14T19:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -67,14 +68,14 @@
       ]
     },
     {
-      "id": "news-1794634317682-3",
-      "title": "Improvement of the Computer Use - ChatGPT - OpenAI Developer Community",
-      "summary": "# Improvement of the Computer Use\n\nWhen ChatGPT is using computer use it would be great if we would be able to see which chat and what model is using ...",
-      "url": "https://community.openai.com/t/improvement-of-the-computer-use/1415869",
+      "id": "news-1794720582995-6",
+      "title": "Feature Request: Advanced Conversation Management and Selective Message Deletion in ChatGPT - Feature requests - OpenAI Developer Community",
+      "summary": "There is a big difference between simply telling someone to seek help and having a calm, thoughtful conversation that helps them manage the next small...",
+      "url": "https://community.openai.com/t/feature-request-advanced-conversation-management-and-selective-message-deletion-in-chatgpt/1416183",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/t/improvement-of-the-computer-use/1415869",
+      "sourceUrl": "https://community.openai.com/t/feature-request-advanced-conversation-management-and-selective-message-deletion-in-chatgpt/1416183",
       "credibility": "P0",
-      "publishedAt": "2026-11-13T11:36:38.000Z",
+      "publishedAt": "2026-11-14T09:36:41.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -83,14 +84,14 @@
       ]
     },
     {
-      "id": "news-1794634317682-2",
-      "title": "Nooks plugin for ChatGPT",
-      "summary": "Email address\n\n \n\nBy subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our Privacy Policy⁠.\n\nSubscribe\n\nRese...",
-      "url": "https://openai.com/business/plugins/nooks",
+      "id": "news-1794720582994-3",
+      "title": "Cargo plugin for ChatGPT",
+      "summary": "## Get OpenAI for Business updates\n\nProduct updates, practical guides, upcoming events, and more.\n\nEmail address\n\n \n\nBy subscribing, you agree to rece...",
+      "url": "https://openai.com/business/plugins/cargo",
       "source": "openai",
-      "sourceUrl": "https://openai.com/business/plugins/nooks",
+      "sourceUrl": "https://openai.com/business/plugins/cargo",
       "credibility": "P0",
-      "publishedAt": "2026-11-13T11:00:00.000Z",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -99,42 +100,26 @@
       ]
     },
     {
-      "id": "news-1794634317682-5",
-      "title": "Persistent account-specific model-quality degradation across ChatGPT Web and Codex Desktop since October 26, 2026 - ChatGPT - OpenAI Developer Community",
-      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Persistent Account-Specific Model Serving Failure Across All Models  Bugs |...",
-      "url": "https://community.openai.com/t/persistent-account-specific-model-quality-degradation-across-chatgpt-web-and-codex-desktop-since-october-26-2026/1415812",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/persistent-account-specific-model-quality-degradation-across-chatgpt-web-and-codex-desktop-since-october-26-2026/1415812",
-      "credibility": "P0",
-      "publishedAt": "2026-11-13T09:05:33.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794634317682-4",
-      "title": "ChatGPT Wallet Privacy Notice",
-      "summary": "API Platform\n   Overview\n   API Log In(opens in a new window)\n   Docs(opens in a new window)\n\nBusiness\n   Overview\n   Solutions\n   Resources\n   Plugin...",
-      "url": "https://openai.com/policies/chatgpt-wallet-privacy-notice",
+      "id": "news-1794720582994-0",
+      "title": "AI fundamentals",
+      "summary": "## Understanding how large language models work\n\nA large language model (LLM) is a model designed to work with language. It learns patterns from large...",
+      "url": "https://openai.com/sq-AL/academy/what-is-ai",
       "source": "openai",
-      "sourceUrl": "https://openai.com/policies/chatgpt-wallet-privacy-notice",
+      "sourceUrl": "https://openai.com/sq-AL/academy/what-is-ai",
       "credibility": "P0",
-      "publishedAt": "2026-11-13T06:00:00.000Z",
+      "publishedAt": "2026-11-14T06:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
         "GPT",
-        "AI"
+        "AI",
+        "LLM"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 8,
+    "p0Count": 7,
     "p1Count": 0,
     "p2Count": 0
   },
-  "summary": "🔥 官方动态：8条（community等）"
+  "summary": "🔥 官方动态：7条（community等）"
 }
