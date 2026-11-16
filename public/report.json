@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T05:29:42.995Z",
-  "totalItems": 7,
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T05:29:06.253Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1794720582994-1",
-      "title": "Feature requests - OpenAI Developer Community",
-      "summary": "| Giving AI a Voice in Its Own Development |  | 1 | 21 | November 14, 2026 |\n| Feature Request: ChatGPT Vision – A Fully Customizable, Emotionally Exp...",
-      "url": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
+      "id": "news-1794806946253-10",
+      "title": "Manager, Applied AI Engineering (Southeast Asia)",
+      "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
+      "url": "https://openai.com/careers/manager-applied-ai-engineering-(southeast-asia)-singapore",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/careers/manager-applied-ai-engineering-(southeast-asia)-singapore",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T22:00:00.000Z",
+      "publishedAt": "2026-11-16T02:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "news-1794720582995-4",
+      "id": "news-1794806946252-3",
       "title": "OpenAI Developer Community",
-      "summary": "| Codex Scheduled: show why a heartbeat stopped and let users resume safely  Feature Requests codex-app |  | 1 | 24 | November 14, 2026 |\n| Product Im...",
+      "summary": "| GPT-6 Thinking images appear in Library but are missing from My Images  Bugs chatgpt ,  image-generation ,  image-library ,  image ,  gpt-image-2.6 ...",
       "url": "https://community.openai.com/latest?page=1",
       "source": "community",
       "sourceUrl": "https://community.openai.com/latest?page=1",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T21:00:00.000Z",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,30 +36,46 @@
       ]
     },
     {
-      "id": "news-1794720582995-5",
-      "title": "Chatgpt screen share please add next update - Feature requests - OpenAI Developer Community",
-      "summary": "Powered by Discourse, best viewed with JavaScript enabled [...] # Chatgpt screen share please add next update\n\ni want the next chatgpt update to inclu...",
-      "url": "https://community.openai.com/t/chatgpt-screen-share-please-add-next-update/1416348",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/chatgpt-screen-share-please-add-next-update/1416348",
-      "credibility": "P0",
-      "publishedAt": "2026-11-14T19:07:26.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794720582994-2",
+      "id": "news-1794806946252-1",
       "title": "Feature requests - OpenAI Developer Community",
-      "summary": "| Cctv futuristic development for indian security  chatgpt |  | 0 | 9 | November 14, 2026 |\n| Feature Request: Giving ChatGPT a Face – Persistent, Cus...",
+      "summary": "| AI SMART TV: A Personal AI Teacher and Development Companion for Every Child |  | 0 | 19 | November 15, 2026 |\n| Conversation-Aware Character Expres...",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24?page=1",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T23:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946252-0",
+      "title": "OpenAI Newsroom | Science",
+      "summary": "Science\n\n2026. g. 15. nov.\n\nOur new blog for science The OpenAI science blog shares new findings, practical methods, and firsthand accounts from resea...",
+      "url": "https://openai.com/lv-LV/news/science",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/lv-LV/news/science",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946252-2",
+      "title": "Feature requests - OpenAI Developer Community",
+      "summary": "| The Bushbaby Initiative: AI Accountability and Economic Value Attribution |  | 0 | 14 | November 15, 2026 |\n| Feature Request: Let ChatGPT Initiate ...",
       "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
       "source": "community",
       "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T19:00:00.000Z",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,14 +84,46 @@
       ]
     },
     {
-      "id": "news-1794720582995-6",
-      "title": "Feature Request: Advanced Conversation Management and Selective Message Deletion in ChatGPT - Feature requests - OpenAI Developer Community",
-      "summary": "There is a big difference between simply telling someone to seek help and having a calm, thoughtful conversation that helps them manage the next small...",
-      "url": "https://community.openai.com/t/feature-request-advanced-conversation-management-and-selective-message-deletion-in-chatgpt/1416183",
+      "id": "news-1794806946252-4",
+      "title": "Our new blog for science",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/our-new-blog-for-science",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946253-12",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Skip to main content\n\n\n\nLog inTry ChatGPT(opens in a new window)\n\n   Research\n   Products\n   Business\n   Developers\n   Company\n   Foundation(opens in ...",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946252-5",
+      "title": "OpenAI Developer Community",
+      "summary": "| Can AI Agents Fall Into \"Bonhoefferian Stupidity\"? (Reasoning vs. the Appearance of Reasoning)  Use cases and examples chatgpt |  | 1 | 20 | Novembe...",
+      "url": "https://community.openai.com/latest?no_definitions=true&page=1",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/t/feature-request-advanced-conversation-management-and-selective-message-deletion-in-chatgpt/1416183",
+      "sourceUrl": "https://community.openai.com/latest?no_definitions=true&page=1",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T09:36:41.000Z",
+      "publishedAt": "2026-11-15T21:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,14 +132,14 @@
       ]
     },
     {
-      "id": "news-1794720582994-3",
-      "title": "Cargo plugin for ChatGPT",
-      "summary": "## Get OpenAI for Business updates\n\nProduct updates, practical guides, upcoming events, and more.\n\nEmail address\n\n \n\nBy subscribing, you agree to rece...",
-      "url": "https://openai.com/business/plugins/cargo",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/business/plugins/cargo",
+      "id": "news-1794806946253-9",
+      "title": "What should i do?ChatGPT cloned my voice and asked for me with what I am about to ask! - Bugs - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Sudden new chat with Chinese-character prompt  ChatGPT chatgpt | 4 | 1607 |...",
+      "url": "https://community.openai.com/t/what-should-i-do-chatgpt-cloned-my-voice-and-asked-for-me-with-what-i-am-about-to-ask/1416664",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/what-should-i-do-chatgpt-cloned-my-voice-and-asked-for-me-with-what-i-am-about-to-ask/1416664",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "publishedAt": "2026-11-15T18:14:53.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -100,26 +148,74 @@
       ]
     },
     {
-      "id": "news-1794720582994-0",
-      "title": "AI fundamentals",
-      "summary": "## Understanding how large language models work\n\nA large language model (LLM) is a model designed to work with language. It learns patterns from large...",
-      "url": "https://openai.com/sq-AL/academy/what-is-ai",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/sq-AL/academy/what-is-ai",
+      "id": "news-1794806946252-7",
+      "title": "They've broken something that was just working - ChatGPT - OpenAI Developer Community",
+      "summary": "# They've broken something that was just working\n\n### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| What is going on with Cha...",
+      "url": "https://community.openai.com/t/theyve-broken-something-that-was-just-working/1416661",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/theyve-broken-something-that-was-just-working/1416661",
       "credibility": "P0",
-      "publishedAt": "2026-11-14T06:00:00.000Z",
+      "publishedAt": "2026-11-15T18:01:27.000Z",
       "category": "tech",
       "tags": [
+        "OpenAI",
         "GPT",
-        "AI",
-        "LLM"
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946253-11",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "(ouverture dans une nouvelle fenêtre)(ouverture dans une nouvelle fenêtre)(ouverture dans une nouvelle fenêtre)(ouverture dans une nouvelle fenêtre)(o...",
+      "url": "https://openai.com/fr-FR/index/introducing-chatgpt-wallet",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/fr-FR/index/introducing-chatgpt-wallet",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946253-8",
+      "title": "Business Recruiter",
+      "summary": "About OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of human...",
+      "url": "https://openai.com/careers/business-recruiter-tokyo-japan",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/careers/business-recruiter-tokyo-japan",
+      "credibility": "P0",
+      "publishedAt": "2026-11-15T07:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1794806946252-6",
+      "title": "Apple launches new app to study how people use AI for health | TechCrunch",
+      "summary": "The new app will allow users to ask health-related questions, as they do with ChatGPT or Claude, with answers grounded in clinical data, from sources ...",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "credibility": "P2",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "category": "product",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 7,
+    "p0Count": 12,
     "p1Count": 0,
-    "p2Count": 0
+    "p2Count": 1
   },
-  "summary": "🔥 官方动态：7条（community等）"
+  "summary": "🔥 官方动态：12条（openai等）"
 }
