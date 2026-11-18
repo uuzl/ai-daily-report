@@ -1,17 +1,49 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T07:07:06.367Z",
-  "totalItems": 8,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T06:31:31.921Z",
+  "totalItems": 9,
   "items": [
     {
-      "id": "news-1794899226366-1",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "Our first phase of embedded assessments Safety Nov 13, 2026\n\nImage 3: Introducing Control Room — Cover\n\nControl Room: A new way to track and stop AI w...",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "id": "news-1794983491920-1",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "2026\n\n## Author\n\nOpenAI\n\n## Footnotes\n\n1.   1 Terminal-Bench-Science 0.1 results for Fable 5.2 are as reported by Artificial Analysis⁠(opens in a new ...",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/strengthening-online-child-safety",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "publishedAt": "2026-11-18T01:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1794983491920-0",
+      "title": "December Update: Why pay for ChatGPT Plus if GPT‑6 High in regular chat would draw from the same quota as Codex? - Feature requests - OpenAI Developer Community",
+      "summary": "## So why am I even comparing ChatGPT to Claude?\n\nWell, simply because Anthropic was founded by people who left OpenAI, including Dario and Daniela Am...",
+      "url": "https://community.openai.com/t/december-update-why-pay-for-chatgpt-plus-if-gpt-6-high-in-regular-chat-would-draw-from-the-same-quota-as-codex/1417603",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/december-update-why-pay-for-chatgpt-plus-if-gpt-6-high-in-regular-chat-would-draw-from-the-same-quota-as-codex/1417603",
+      "credibility": "P0",
+      "publishedAt": "2026-11-17T23:16:28.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1794983491920-4",
+      "title": "OpenAI Developer Community",
+      "summary": "- Most Recent Poster'&gt; &lt;/a&gt; &lt;/td&gt; &lt;td class=\"replies\"&gt; &lt;span class='posts' title='posts'&gt;2&lt;/span&gt; &lt;/td&gt; &lt;td ...",
+      "url": "https://community.openai.com/latest?no_definitions=true&page=1",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/latest?no_definitions=true&page=1",
+      "credibility": "P0",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -20,14 +52,14 @@
       ]
     },
     {
-      "id": "news-1794899226367-2",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding the ChatGPT for Academic Researchers program to give up to 200,000 researchers worldwide free access to ChatGPT.\n\nThe program began as...",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "id": "news-1794983491920-5",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT Company Oct 27, 2026\n\nResearch\n   Research Index\n   Research Overview\n   Economic ...",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -36,14 +68,14 @@
       ]
     },
     {
-      "id": "news-1794899226367-3",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Scientific progress depends on researchers asking new questions and finding ways to answer them. AI is becoming part of that work, but we’re still lea...",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/science-at-the-frontier",
+      "id": "news-1794983491920-7",
+      "title": "GPT-6.2 Astra and Sol are now available - Announcements - OpenAI Developer Community",
+      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| GPT-6.1 Sol in the API: a meaningful step up in cost-performance  Announcements codex ,  chatgp...",
+      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "publishedAt": "2026-11-17T18:00:37.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,14 +84,30 @@
       ]
     },
     {
-      "id": "news-1794899226367-5",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Developers: Build healthcare applications with theOpenAI API⁠(opens in a new window), and explore ourcomputer use guide⁠(opens in a new window) to bui...",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "id": "news-1794983491920-3",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Skip to main content\n\n\n\nLog inTry ChatGPT(opens in a new window)\n\n   Research\n   Products\n   Business\n   Developers\n   Company\n   Foundation(opens in ...",
+      "url": "https://openai.com/index/astra-law-6-2",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "sourceUrl": "https://openai.com/index/astra-law-6-2",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "publishedAt": "2026-11-17T17:52:49.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "id": "news-1794983491920-6",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/introducing-openai-for-chile",
+      "credibility": "P0",
+      "publishedAt": "2026-11-17T13:58:59.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,14 +116,14 @@
       ]
     },
     {
-      "id": "news-1794899226367-7",
-      "title": "Our first phase of embedded assessments",
-      "summary": "2026\n   Alignment\n\n## Author\n\nOpenAI\n\n## Footnotes\n\n1.   1 This scope is less expansive than what METR outlines in their alignment assessment proposal...",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "id": "news-1794983491920-2",
+      "title": "Feature requests - OpenAI Developer Community",
+      "summary": "| Proposal: Local-First Storage for Custom ChatGPT Assistant Avatars  chatgpt |  | 0 | 8 | November 17, 2026 |\n| End user confidence in results can be...",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "publishedAt": "2026-11-17T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,57 +132,26 @@
       ]
     },
     {
-      "id": "news-1794899226367-4",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Developers\n   Plugins(opens in a new window)\n   Models(opens in a new window)\n   Docs(opens in a new window)\n   Resources(opens in a new window)\n   De...",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "news-1794983491920-8",
+      "title": "Careers",
+      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
+      "url": "https://openai.com/careers/search?q=startups",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sourceUrl": "https://openai.com/careers/search?q=startups",
       "credibility": "P0",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794899226366-0",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "Image 2: Setting a new standard for responsible AI infrastructure — Cover\n\nSetting a new standard for responsible AI infrastructure Global Affairs Nov...",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/the-kings-trust-and-openai",
-      "credibility": "P0",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "category": "product",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1794899226367-6",
-      "title": "California sues OpenAI over AI models' cyberattacks on ...",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, accusing the company of developing a dangerous product ‌without adequate safety procedure...",
-      "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16",
-      "credibility": "P2",
-      "publishedAt": "2026-11-16T21:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
         "AI"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 7,
+    "p0Count": 9,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 0
   },
-  "summary": "🔥 官方动态：7条（openai等）"
+  "summary": "🔥 官方动态：9条（openai等）"
 }
