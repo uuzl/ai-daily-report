@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T06:31:31.921Z",
-  "totalItems": 9,
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T06:32:48.886Z",
+  "totalItems": 10,
   "items": [
     {
-      "id": "news-1794983491920-1",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "2026\n\n## Author\n\nOpenAI\n\n## Footnotes\n\n1.   1 Terminal-Bench-Science 0.1 results for Fable 5.2 are as reported by Artificial Analysis⁠(opens in a new ...",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "id": "news-1795069968885-0",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI\n\n## Footnotes\n\n1.   1 While the science of empirically measuring AI R&D acceleration is relatively young, it is rapidly growing across the rese...",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
       "credibility": "P0",
-      "publishedAt": "2026-11-18T01:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-19T02:00:00.000Z",
+      "category": "research",
       "tags": [
         "OpenAI",
         "Claude",
@@ -20,30 +20,30 @@
       ]
     },
     {
-      "id": "news-1794983491920-0",
-      "title": "December Update: Why pay for ChatGPT Plus if GPT‑6 High in regular chat would draw from the same quota as Codex? - Feature requests - OpenAI Developer Community",
-      "summary": "## So why am I even comparing ChatGPT to Claude?\n\nWell, simply because Anthropic was founded by people who left OpenAI, including Dario and Daniela Am...",
-      "url": "https://community.openai.com/t/december-update-why-pay-for-chatgpt-plus-if-gpt-6-high-in-regular-chat-would-draw-from-the-same-quota-as-codex/1417603",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/december-update-why-pay-for-chatgpt-plus-if-gpt-6-high-in-regular-chat-would-draw-from-the-same-quota-as-codex/1417603",
+      "id": "news-1795069968885-1",
+      "title": "Daily Papers - Hugging Face",
+      "summary": "OPTML-Group\n\n### DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding\n\ncerebras\n\n### MillBill: A Machining Agent with Geometric Feedba...",
+      "url": "https://huggingface.co/papers/date/2026-11-19",
+      "source": "huggingface",
+      "sourceUrl": "https://huggingface.co/papers/date/2026-11-19",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T23:16:28.000Z",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
       "category": "tech",
       "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "LLM",
+        "Agent"
       ]
     },
     {
-      "id": "news-1794983491920-4",
-      "title": "OpenAI Developer Community",
-      "summary": "- Most Recent Poster'&gt; &lt;/a&gt; &lt;/td&gt; &lt;td class=\"replies\"&gt; &lt;span class='posts' title='posts'&gt;2&lt;/span&gt; &lt;/td&gt; &lt;td ...",
-      "url": "https://community.openai.com/latest?no_definitions=true&page=1",
+      "id": "news-1795069968885-4",
+      "title": "ChatGPT Work Reliability: Execution Environment Failures, Service Transparency, and the Need for Better Incident Communication - ChatGPT - OpenAI Developer Community",
+      "summary": "&lt;span class='badge-category clear-badge'&gt; &lt;span class='category-name'&gt;Bugs&lt;/span&gt; &lt;/span&gt; &lt;/a&gt; &lt;div class=\"discourse-...",
+      "url": "https://community.openai.com/t/chatgpt-work-reliability-execution-environment-failures-service-transparency-and-the-need-for-better-incident-communication/1418042",
       "source": "community",
-      "sourceUrl": "https://community.openai.com/latest?no_definitions=true&page=1",
+      "sourceUrl": "https://community.openai.com/t/chatgpt-work-reliability-execution-environment-failures-service-transparency-and-the-need-for-better-incident-communication/1418042",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T22:00:00.000Z",
+      "publishedAt": "2026-11-18T22:40:32.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -52,14 +52,30 @@
       ]
     },
     {
-      "id": "news-1794983491920-5",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT Company Oct 27, 2026\n\nResearch\n   Research Index\n   Research Overview\n   Economic ...",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "id": "news-1795069968885-6",
+      "title": "Branched Full Context Chat into Work Agent - Still Filled Up - Solution Could Avoid Usage Overhaul - ChatGPT - OpenAI Developer Community",
+      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Feedback on needing a New Chat when the Context Window Is Reached  ChatGPT ...",
+      "url": "https://community.openai.com/t/branched-full-context-chat-into-work-agent-still-filled-up/1418041",
+      "source": "community",
+      "sourceUrl": "https://community.openai.com/t/branched-full-context-chat-into-work-agent-still-filled-up/1418041",
+      "credibility": "P0",
+      "publishedAt": "2026-11-18T22:31:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795069968885-3",
+      "title": "ChatGPT for Accounting",
+      "summary": "Business\n   Overview\n   Solutions\n   Resources\n   Plugins\n   Customer Stories\n   Partner Network\n   Contact Sales\n\nDevelopers\n   Plugins(opens in a ne...",
+      "url": "https://openai.com/business/solutions/accounting",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceUrl": "https://openai.com/business/solutions/accounting",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T22:00:00.000Z",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -68,14 +84,14 @@
       ]
     },
     {
-      "id": "news-1794983491920-7",
-      "title": "GPT-6.2 Astra and Sol are now available - Announcements - OpenAI Developer Community",
-      "summary": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| GPT-6.1 Sol in the API: a meaningful step up in cost-performance  Announcements codex ,  chatgp...",
-      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+      "id": "news-1795069968885-5",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "Before broad release, employees switch from sandboxed research use of frontier models to unsandboxed internal use, e.g. making the model accessible in...",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/managing-frontier-ai-risk",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T18:00:37.000Z",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -84,30 +100,14 @@
       ]
     },
     {
-      "id": "news-1794983491920-3",
-      "title": "Astra for Law leads in legal intelligence",
+      "id": "news-1795069968885-2",
+      "title": "The Silent Consensus",
       "summary": "Skip to main content\n\n\n\nLog inTry ChatGPT(opens in a new window)\n\n   Research\n   Products\n   Business\n   Developers\n   Company\n   Foundation(opens in ...",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "openai",
-      "sourceUrl": "https://openai.com/index/astra-law-6-2",
+      "sourceUrl": "https://openai.com/index/the-silent-consensus",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T17:52:49.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "id": "news-1794983491920-6",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/introducing-openai-for-chile",
-      "credibility": "P0",
-      "publishedAt": "2026-11-17T13:58:59.000Z",
+      "publishedAt": "2026-11-18T18:14:20.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -116,14 +116,14 @@
       ]
     },
     {
-      "id": "news-1794983491920-2",
-      "title": "Feature requests - OpenAI Developer Community",
-      "summary": "| Proposal: Local-First Storage for Custom ChatGPT Assistant Avatars  chatgpt |  | 0 | 8 | November 17, 2026 |\n| End user confidence in results can be...",
-      "url": "https://community.openai.com/c/chatgpt/feature-requests/24",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/c/chatgpt/feature-requests/24",
+      "id": "news-1795069968885-7",
+      "title": "Advancing chip design with OpenAI models | OpenAI",
+      "summary": "# Advancing chip design with OpenAI models\n\nOpenAI’s models are quickly improving the chips that power AI. In August,⁠ we shared how OpenAI engineers ...",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "openai",
+      "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
       "credibility": "P0",
-      "publishedAt": "2026-11-17T13:00:00.000Z",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
@@ -132,26 +132,40 @@
       ]
     },
     {
-      "id": "news-1794983491920-8",
-      "title": "Careers",
-      "summary": "Products\n   ChatGPT(opens in a new window)\n   ChatGPT Business(opens in a new window)\n   ChatGPT Enterprise(opens in a new window)\n   ChatGPT for Educ...",
-      "url": "https://openai.com/careers/search?q=startups",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/careers/search?q=startups",
-      "credibility": "P0",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "id": "news-1795069968885-9",
+      "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk - Bloomberg",
+      "summary": "EXCLUSIVE\n\n# Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk\n\n## Takeaways by Bloomberg AI\n\nArtificial intelligence can bring exponen...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T01:00:36.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795069968885-8",
+      "title": "Arizona says it is investigating OpenAI, other firms over ...",
+      "summary": "The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue A...",
+      "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
-        "GPT",
-        "AI"
+        "AI",
+        "Agent"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 9,
+    "p0Count": 8,
     "p1Count": 0,
-    "p2Count": 0
+    "p2Count": 2
   },
-  "summary": "🔥 官方动态：9条（openai等）"
+  "summary": "🔥 官方动态：8条（openai等）"
 }
