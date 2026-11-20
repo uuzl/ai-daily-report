@@ -1,33 +1,97 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T06:32:48.886Z",
-  "totalItems": 10,
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T06:20:14.082Z",
+  "totalItems": 14,
   "items": [
     {
-      "id": "news-1795069968885-0",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI\n\n## Footnotes\n\n1.   1 While the science of empirically measuring AI R&D acceleration is relatively young, it is rapidly growing across the rese...",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "credibility": "P0",
-      "publishedAt": "2026-11-19T02:00:00.000Z",
-      "category": "research",
+      "id": "news-1795155614082-8",
+      "title": "Apple may be developing its own AI agent that runs your Mac - TechCrunch",
+      "summary": "The posting additionally notes that the agents should be able to move “fluidly between tools” and “carry out multi-step tasks across apps, browsers, c...",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "category": "tech",
       "tags": [
         "OpenAI",
-        "Claude",
-        "GPT"
+        "AI",
+        "RAG"
       ]
     },
     {
-      "id": "news-1795069968885-1",
-      "title": "Daily Papers - Hugging Face",
-      "summary": "OPTML-Group\n\n### DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding\n\ncerebras\n\n### MillBill: A Machining Agent with Geometric Feedba...",
-      "url": "https://huggingface.co/papers/date/2026-11-19",
-      "source": "huggingface",
-      "sourceUrl": "https://huggingface.co/papers/date/2026-11-19",
-      "credibility": "P0",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "id": "news-1795155614082-4",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models - TechCrunch",
+      "summary": "On the same day that Anthropic went public in the largest IPO on record, with investor enthusiasm for the AI lab through the roof, far away at the Slu...",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-20T00:26:03.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "DeepSeek",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795155614082-6",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you. - TechCrunch",
+      "summary": "Besides tracking AI usage in ChatGPT, Claude, and Cursor, you can also create live icons for a number of the built-in Mac apps like Messages, Mail, Sa...",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T22:33:26.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795155614082-1",
+      "title": "Apple is hiring engineers to build its own AI agent - The Verge",
+      "summary": "An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta’s Muse, OpenAI’s Dots, Anthropic’s Duet, and Google...",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795155614082-7",
+      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com",
+      "summary": "EXCLUSIVE\n\n# Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding\n\n## Takeaways by Bloomberg AI\n\nApple Inc. is developing its ow...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T21:44:56.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1795155614082-10",
+      "title": "These tech outages are giving Y2K, AI agent style - TechCrunch",
+      "summary": "The first thought, naturally, is an AI hacker invasion of some sort, especially after cyber hackers managed to attack fridges in a grocery store and a...",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -36,136 +100,133 @@
       ]
     },
     {
-      "id": "news-1795069968885-4",
-      "title": "ChatGPT Work Reliability: Execution Environment Failures, Service Transparency, and the Need for Better Incident Communication - ChatGPT - OpenAI Developer Community",
-      "summary": "&lt;span class='badge-category clear-badge'&gt; &lt;span class='category-name'&gt;Bugs&lt;/span&gt; &lt;/span&gt; &lt;/a&gt; &lt;div class=\"discourse-...",
-      "url": "https://community.openai.com/t/chatgpt-work-reliability-execution-environment-failures-service-transparency-and-the-need-for-better-incident-communication/1418042",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/chatgpt-work-reliability-execution-environment-failures-service-transparency-and-the-need-for-better-incident-communication/1418042",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T22:40:32.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-6",
-      "title": "Branched Full Context Chat into Work Agent - Still Filled Up - Solution Could Avoid Usage Overhaul - ChatGPT - OpenAI Developer Community",
-      "summary": "### Related topics\n\n| Topic |  | Replies | Views | Activity |\n ---  --- \n| Feedback on needing a New Chat when the Context Window Is Reached  ChatGPT ...",
-      "url": "https://community.openai.com/t/branched-full-context-chat-into-work-agent-still-filled-up/1418041",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/branched-full-context-chat-into-work-agent-still-filled-up/1418041",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T22:31:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-3",
-      "title": "ChatGPT for Accounting",
-      "summary": "Business\n   Overview\n   Solutions\n   Resources\n   Plugins\n   Customer Stories\n   Partner Network\n   Contact Sales\n\nDevelopers\n   Plugins(opens in a ne...",
-      "url": "https://openai.com/business/solutions/accounting",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/business/solutions/accounting",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T22:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-5",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "Before broad release, employees switch from sandboxed research use of frontier models to unsandboxed internal use, e.g. making the model accessible in...",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/managing-frontier-ai-risk",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T20:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-2",
-      "title": "The Silent Consensus",
-      "summary": "Skip to main content\n\n\n\nLog inTry ChatGPT(opens in a new window)\n\n   Research\n   Products\n   Business\n   Developers\n   Company\n   Foundation(opens in ...",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/the-silent-consensus",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T18:14:20.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-7",
-      "title": "Advancing chip design with OpenAI models | OpenAI",
-      "summary": "# Advancing chip design with OpenAI models\n\nOpenAI’s models are quickly improving the chips that power AI. In August,⁠ we shared how OpenAI engineers ...",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "credibility": "P0",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795069968885-9",
-      "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk - Bloomberg",
-      "summary": "EXCLUSIVE\n\n# Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk\n\n## Takeaways by Bloomberg AI\n\nArtificial intelligence can bring exponen...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+      "id": "news-1795155614082-13",
+      "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf - Bloomberg.com",
+      "summary": "# Google’s Gemini Can Now Control Mac Devices on Users’ Behalf\n\n## Takeaways by Bloomberg AI\n\nGoogle’s Gemini can now take control of Mac computers to...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
       "credibility": "P2",
-      "publishedAt": "2026-11-19T01:00:36.000Z",
+      "publishedAt": "2026-11-19T18:55:31.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1795069968885-8",
-      "title": "Arizona says it is investigating OpenAI, other firms over ...",
-      "summary": "The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue A...",
-      "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19",
-      "source": "reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19",
+      "id": "news-1795155614082-2",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask - Ars Technica",
+      "summary": "## CO2 Q&A\n\nLLM research often faces (no-true-Scotsman-tinged) criticism for focusing on a particular model rather than some other frontier model that...",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
       "credibility": "P2",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "publishedAt": "2026-11-19T18:44:39.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "GPT",
+        "DeepSeek"
+      ]
+    },
+    {
+      "id": "news-1795155614082-5",
+      "title": "Google gives Gemini the ability to use your Mac for you - TechCrunch",
+      "summary": "Google on Thursday announced that it is bringing computer use to its Gemini desktop application on macOS, allowing its AI to complete tasks on users’ ...",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T18:09:11.000Z",
       "category": "tech",
       "tags": [
         "OpenAI",
         "AI",
         "Agent"
       ]
+    },
+    {
+      "id": "news-1795155614082-11",
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says - TechCrunch",
+      "summary": "### Newsletters\n\nSubscribe for the industry’s biggest tech news [...] Posted:\n\n# Meta’s AI agent Muse is mixing up conversations and exposing private ...",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T17:38:40.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1795155614082-12",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents - WIRED",
+      "summary": "# Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents\n\nAs the Google Chrome team has worked to develop AI browsing features ...",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "Agent"
+      ]
+    },
+    {
+      "id": "news-1795155614081-0",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development - TechCrunch",
+      "summary": "Claude can help them do their research in a fraction of the time it would have taken just a couple of years ago. I believe sufficiently powerful AI, w...",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T16:19:41.000Z",
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795155614082-3",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test - TechCrunch",
+      "summary": "This is the circular financing that has made some observers so skeptical of the AI boom. These companies are not just investors; they’re also Anthropi...",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T14:54:39.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795155614082-9",
+      "title": "Superhuman pushes its Go assistant everywhere - TechCrunch",
+      "summary": "While Go might not directly compete with the likes of Instinct, Muse, and Fo, Superhuman wants users to choose its assistant over something like OpenA...",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
     }
   ],
   "highlights": {
-    "p0Count": 8,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 14
   },
-  "summary": "🔥 官方动态：8条（openai等）"
+  "summary": ""
 }
