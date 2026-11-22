@@ -1,149 +1,74 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T06:09:57.933Z",
-  "totalItems": 15,
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T05:44:30.571Z",
+  "totalItems": 12,
   "items": [
     {
-      "id": "news-1795241397932-6",
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar - Ars Technica",
-      "summary": "# Google rolls out new search homepage with AI chat history and no search button\n\nGoogle search is making it even easier to access AI tools on the sea...",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "id": "news-1795326270570-5",
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+      "summary": "# China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet\n\n## Takeaways by Bloomberg AI\n\nChina’s AI stock trade, once a hot bet as the nation’s ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T21:58:29.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "category": "hot",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1795241397932-4",
-      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now - TechCrunch",
-      "summary": "After the Huang allegations broke, jokes flooded the internet about which tech CEO will be next, but it’s not just CEOs and founders who are at risk. ...",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "id": "news-1795326270570-4",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance - TechCrunch",
+      "summary": "Get an Early Peek at the Next TechCrunch Disrupt  \nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the li...",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T20:58:29.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397933-14",
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain - Ars Technica",
-      "summary": "## Different landers, different priorities\n\nFor Artemis III, NASA will launch a four-person crew to low-Earth orbit on a Space Launch System rocket an...",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "source": "arstechnica",
-      "sourceUrl": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T20:26:33.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397932-3",
-      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too - TechCrunch",
-      "summary": "Alpöge described a “stream-of-consciousness jaunt through the experience of finding all the pieces of the argument through incredible confusion with C...",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T19:32:08.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397932-1",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year - The Verge",
-      "summary": "Jay Peters\n\n## Most Popular\n\n The wait begins for GTA VI on PC\n Anthropic mathematician claims to have solved prestigious Millennium Prize problem wit...",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T18:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397932-0",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude - The Verge",
-      "summary": "In the quarter-century since the prize was established, only one problem has been officially solved: The Poincaré conjecture, a topological problem co...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T16:34:13.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "Claude",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397932-10",
-      "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online - TechCrunch",
-      "summary": "According to Anurag Sen, a good faith security researcher who found the data, the files were located on an Amazon-hosted (S3) cloud server that was op...",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T15:46:07.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "category": "hot",
       "tags": [
         "AI",
-        "RAG"
+        "Agent"
       ]
     },
     {
-      "id": "news-1795241397932-7",
-      "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8% - Bloomberg.com",
-      "summary": "EXCLUSIVE\n\nAI\n\n# SpaceX Wraps Up $32 Billion of AI Chip Debt at Yields Topping 8%\n\n## Takeaways by Bloomberg AI\n\nSpaceX’s $32 billion debt deal to fun...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+      "id": "news-1795326270570-6",
+      "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland - Bloomberg.com",
+      "summary": "# Russian Cargo Ship Attacked By Drones in Gulf of Finland\n\n## Takeaways by Bloomberg AI\n\nRussia said a cargo ship bound for its Kaliningrad exclave w...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T14:10:21.000Z",
+      "publishedAt": "2026-11-21T20:01:26.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1795241397933-12",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear - TechCrunch",
-      "summary": "Topics\n\nGet an Early Peek at the Next TechCrunch Disrupt  \nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front o...",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "id": "news-1795326270570-8",
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations - Bloomberg.com",
+      "summary": "EXCLUSIVE\n\nAI\n\n# California Nvidia Probe Covers Potential Criminal Law Violations\n\n## Takeaways by Bloomberg AI\n\nCalifornia’s probe into whether Nvidi...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "credibility": "P2",
+      "publishedAt": "2026-11-21T17:11:23.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795326270570-3",
+      "title": "Here are the top AI agents that can live in your text messages - TechCrunch",
+      "summary": "Poke became particularly notable in June 2026 when Apple approved Poke as the first AI agent on the Apple Messages for Business platform. A month late...",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T13:25:00.000Z",
-      "category": "tech",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795241397932-8",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen - The Verge",
-      "summary": "Signal took a similar approach last year to prevent Microsoft’s controversial Recall feature from capturing secured chats. The encrypted messaging ser...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "theverge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "credibility": "P2",
-      "publishedAt": "2026-11-20T12:30:47.000Z",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI",
@@ -151,42 +76,71 @@
       ]
     },
     {
-      "id": "news-1795241397933-13",
-      "title": "Muse Is Unleashing a World of Pettiness on Instagram - WIRED",
-      "summary": "# Muse Is Unleashing a World of Pettiness on Instagram\n\nKhalil Roberts had heard horror stories of people getting kicked off Instagram for using third...",
-      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "source": "wired",
-      "sourceUrl": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "id": "news-1795326270570-9",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood? - TechCrunch",
+      "summary": "Topics\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet an Early...",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1795326270570-10",
+      "title": "Republicans’ Midterm Defeat Corners Vance as 2028 Field Widens - Bloomberg.com",
+      "summary": "EXCLUSIVE\n\nUS\n\n# Republicans’ Midterm Defeat Corners Vance as 2028 Field Widens\n\n## Takeaways by Bloomberg AI\n\nA generational defeat in the midterm el...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/republicans-midterm-defeat-corners-vance-as-2028-field-widens",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/republicans-midterm-defeat-corners-vance-as-2028-field-widens",
+      "credibility": "P2",
+      "publishedAt": "2026-11-21T15:56:07.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1795241397932-5",
-      "title": "Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide - Bloomberg.com",
-      "summary": "# Emerging Stocks on Cusp of Bear Market as AI-led Rout Extends\n\nEmerging markets extended their declines on Friday, with MSCI’s equity index on the c...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+      "id": "news-1795326270570-7",
+      "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle - Bloomberg.com",
+      "summary": "# Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle\n\n## Takeaways by Bloomberg AI\n\nGoldman Sachs Group Inc. spent more than a year trying to solve one...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T11:31:46.000Z",
+      "publishedAt": "2026-11-21T15:31:22.000Z",
       "category": "tech",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "news-1795241397932-2",
-      "title": "Anthropic Slumps 5% Post-Market After Record $107.3 Billion IPO - Bloomberg.com",
-      "summary": "# Anthropic Drops After IPO Pop as AI Slump Engulfs Markets\n\nAnthropic PBC shares fell on their second day of trading as the unwinding of the global A...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+      "id": "news-1795326270570-11",
+      "title": "Alaska, your next governor is a Wikipedia nerd - TechCrunch",
+      "summary": "Topics\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silbe...",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T11:24:07.000Z",
+      "publishedAt": "2026-11-21T15:18:29.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795326270570-0",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku - The Verge",
+      "summary": "Stevie Bonifield\n\n## Most Popular\n\n Google says it’s going to shut off Google Assistant on smart speakers next year\n Anthropic mathematician claims to...",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "credibility": "P2",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
       "category": "tech",
       "tags": [
         "Claude",
@@ -194,28 +148,29 @@
       ]
     },
     {
-      "id": "news-1795241397932-11",
-      "title": "Sanofi’s New CEO Eyes Mega-Deal to Jump-Start Pipeline Rebuild - Bloomberg.com",
-      "summary": "Health\n\n# Sanofi’s New CEO Eyes Mega-Deal to Jump-Start Pipeline Rebuild\n\n## Takeaways by Bloomberg AI\n\nSanofi SA underwhelmed investors when it appoi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-s-new-ceo-eyes-mega-deal-to-jump-start-pipeline-rebuild",
-      "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-s-new-ceo-eyes-mega-deal-to-jump-start-pipeline-rebuild",
+      "id": "news-1795326270570-1",
+      "title": "The Outages Are Just Getting Started - WIRED",
+      "summary": "Still, the evidence that AI has fundamentally changed cybersecurity is mounting. This week the total number of vulnerabilities found in 2026 surpassed...",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T10:15:27.000Z",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
       "category": "tech",
       "tags": [
-        "AI"
+        "AI",
+        "LLM"
       ]
     },
     {
-      "id": "news-1795241397932-9",
-      "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff - Bloomberg.com",
-      "summary": "# Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff\n\n## Takeaways by Bloomberg AI\n\nGold fell for a fifth day — heading for the biggest we...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "id": "news-1795326270570-2",
+      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
+      "summary": "# Wall Street Asks What Can Save AI Trade After Anthropic Wipeout\n\n## Takeaways by Bloomberg AI\n\nIt’s been a tough month for the stock market, rocked ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
       "source": "bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
       "credibility": "P2",
-      "publishedAt": "2026-11-20T07:15:10.000Z",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
       "category": "tech",
       "tags": [
         "AI"
@@ -225,7 +180,7 @@
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 15
+    "p2Count": 12
   },
   "summary": ""
 }
