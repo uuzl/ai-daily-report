@@ -1,109 +1,29 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T07:37:31.953Z",
-  "totalItems": 6,
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T07:27:27.599Z",
+  "totalItems": 1,
   "items": [
     {
-      "id": "news-1795592251952-5",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center",
-      "summary": "## Can my business get help, and what does it cost?\n\nThe pilot is free for independently owned U.S. small businesses and includes three months of Chat...",
-      "url": "https://help.openai.com/en/articles/20001724-how-to-apply-to-openworks-and-follow-up-on-your-application",
-      "source": "help",
-      "sourceUrl": "https://help.openai.com/en/articles/20001724-how-to-apply-to-openworks-and-follow-up-on-your-application",
-      "credibility": "P0",
-      "publishedAt": "2026-11-25T03:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795592251952-1",
-      "title": "ChatGPT Sites source updates blocked by repository storage limit - Bugs - OpenAI Developer Community",
-      "summary": "&lt;link href=\" &lt;meta itemprop=\"datePublished\" content=\"2026-11-25T00:27:24Z\"&gt;&lt;/meta&gt; &lt;meta itemprop=\"keywords\" content=\"chatgpt\"&gt;&l...",
-      "url": "https://community.openai.com/t/chatgpt-sites-source-updates-blocked-by-repository-storage-limit/1420456",
-      "source": "community",
-      "sourceUrl": "https://community.openai.com/t/chatgpt-sites-source-updates-blocked-by-repository-storage-limit/1420456",
-      "credibility": "P0",
-      "publishedAt": "2026-11-25T00:27:24.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795592251952-4",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026\n\nImage 14: A softly textured blue and turquoise gradient.\n\nResearch accele...",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "credibility": "P0",
-      "publishedAt": "2026-11-24T20:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795592251952-3",
-      "title": "How Intentful uses dots to make more time for growth",
-      "summary": "—Marina Petrova, CEO and cofounder, Intentful\n\n## Join the new era of work\n\nMore than 1 million businesses around the world are achieving meaningful r...",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "openai",
-      "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
-      "credibility": "P0",
-      "publishedAt": "2026-11-24T19:35:42.000Z",
-      "category": "tech",
-      "tags": [
-        "OpenAI",
-        "GPT",
-        "AI"
-      ]
-    },
-    {
-      "id": "news-1795592251952-0",
-      "title": "AI Enters Factories: The First Revolution Transforming Industrial Enterprises Themselves",
-      "summary": "In the early stage of the development of large language models, AI entered the market in the form of a \"conversation assistant\", and its underlying lo...",
-      "url": "https://eu.36kr.com/en/p/4084571385796480",
-      "source": "eu",
-      "sourceUrl": "https://eu.36kr.com/en/p/4084571385796480",
-      "credibility": "P2",
-      "publishedAt": "2026-11-25T04:00:00.000Z",
-      "category": "tech",
-      "tags": [
-        "Claude",
-        "GPT",
-        "DeepSeek"
-      ]
-    },
-    {
-      "id": "news-1795592251952-2",
-      "title": "Disclosure Bias in AI Reviewers",
-      "summary": "#### Labels without a change in the text.\n\nA label alone can move LLM judges. Responses labelled as written by an expert or a human are preferred over...",
-      "url": "https://arxiv.org/html/2611.30410v1",
+      "id": "news-1795678047598-0",
+      "title": "Beyond Fixed-Context Likelihood: Zero-Shot AI-Generated Text Detection via Context Perturbation Discrepancy",
+      "summary": "- GPT-Neo: large scale autoregressive language modeling with Mesh-Tensorflow. Note: Zenodo External Links: Document, Link Cited by: §D.11.\n- Zero-shot...",
+      "url": "https://arxiv.org/html/2611.32778v1",
       "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.30410v1",
+      "sourceUrl": "https://arxiv.org/html/2611.32778v1",
       "credibility": "P2",
-      "publishedAt": "2026-11-24T09:00:00.000Z",
-      "category": "tech",
+      "publishedAt": "2026-11-25T09:00:00.000Z",
+      "category": "hot",
       "tags": [
+        "OpenAI",
         "Claude",
-        "GPT",
-        "AI"
+        "GPT"
       ]
     }
   ],
   "highlights": {
-    "p0Count": 4,
+    "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 2
+    "p2Count": 1
   },
-  "summary": "🔥 官方动态：4条（help等）"
+  "summary": ""
 }
