@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T07:27:27.599Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T07:23:33.739Z",
   "totalItems": 1,
   "items": [
     {
-      "id": "news-1795678047598-0",
-      "title": "Beyond Fixed-Context Likelihood: Zero-Shot AI-Generated Text Detection via Context Perturbation Discrepancy",
-      "summary": "- GPT-Neo: large scale autoregressive language modeling with Mesh-Tensorflow. Note: Zenodo External Links: Document, Link Cited by: §D.11.\n- Zero-shot...",
-      "url": "https://arxiv.org/html/2611.32778v1",
-      "source": "arxiv",
-      "sourceUrl": "https://arxiv.org/html/2611.32778v1",
+      "id": "news-1795764213739-0",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "The AI industry operates with efficiency as its north star. The promise of this technology is that we will be able to automate so much work that we ca...",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
       "credibility": "P2",
-      "publishedAt": "2026-11-25T09:00:00.000Z",
-      "category": "hot",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "category": "tech",
       "tags": [
-        "OpenAI",
         "Claude",
-        "GPT"
+        "AI",
+        "LLM"
       ]
     }
   ],
