@@ -1,29 +1,198 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T07:23:33.739Z",
-  "totalItems": 1,
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T06:54:48.781Z",
+  "totalItems": 13,
   "items": [
     {
-      "id": "news-1795764213739-0",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "summary": "The AI industry operates with efficiency as its north star. The promise of this technology is that we will be able to automate so much work that we ca...",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-      "source": "techcrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "id": "news-1795848888781-11",
+      "title": "Spurs take care of Lakers in battle of early-season titans - Reuters",
+      "summary": "Los Angeles fouled De'Aaron Fox with 6.6 seconds left and he made both ​free throws. The Spurs returned the favor on the Lakers' ensuing position and ...",
+      "url": "https://www.reuters.com/sports/basketball/spurs-take-care-lakers-battle-early-season-titans--flm-2026-11-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/basketball/spurs-take-care-lakers-battle-early-season-titans--flm-2026-11-28/",
       "credibility": "P2",
-      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "publishedAt": "2026-11-28T06:05:25.000Z",
       "category": "tech",
       "tags": [
-        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888781-8",
+      "title": "India finds bacteria in second unsafe Bisleri water sample, document shows - Reuters",
+      "summary": "Reporting by Aditya Kalra; Editing by William Mallard\n\nOur Standards: The Thomson Reuters Trust Principles. [...] NEW DELHI, Nov 28 (Reuters) - Indian...",
+      "url": "https://www.reuters.com/world/india-finds-bacteria-second-unsafe-bisleri-water-sample-document-shows-2026-11-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/world/india-finds-bacteria-second-unsafe-bisleri-water-sample-document-shows-2026-11-28/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-28T05:10:10.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888781-12",
+      "title": "Von Dellingshausen battles winds to retain lead in Australian PGA Championship - Reuters",
+      "summary": "Former world number one and Smith's compatriot Adam Scott matched Noren's clinical performance as ⁠he ​shook off a disappointing second round, ​and mo...",
+      "url": "https://www.reuters.com/sports/golf/von-dellingshausen-battles-winds-retain-lead-australian-pga-championship-2026-11-28/",
+      "source": "reuters",
+      "sourceUrl": "https://www.reuters.com/sports/golf/von-dellingshausen-battles-winds-retain-lead-australian-pga-championship-2026-11-28/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-28T05:03:53.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888781-10",
+      "title": "The 25 best gaming deals we’ve found so far for Black Friday - The Verge",
+      "summary": "### Meta Quest 3S\n\nThe Meta Quest 3S is a battery-powered standalone VR headset that has the same chipset as the pricier Quest 3, but with the same le...",
+      "url": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T21:50:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888780-1",
+      "title": "Meloni Seethes at Zelenskyy for Not Warning Her on Libya Strike - Bloomberg.com",
+      "summary": "# Meloni Seethes at Zelenskyy for Not Warning Her on Libya Strike\n\n## Takeaways by Bloomberg AI\n\nGiorgia Meloni and Volodymyr Zelenskyy had a tense co...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/meloni-seethes-at-zelenskyy-for-not-warning-her-on-libya-strike",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-27/meloni-seethes-at-zelenskyy-for-not-warning-her-on-libya-strike",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T19:50:52.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888781-7",
+      "title": "The best Black Friday deals on smart home gear - The Verge",
+      "summary": "### Birdbuddy Nook\n\nThe Birdbuddy Nook is the company’s least expensive and smallest model, and it packs a lot of bang for your buck. Its 4K HDR camer...",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T19:30:00.000Z",
+      "category": "tech",
+      "tags": [
         "AI",
-        "LLM"
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1795848888780-0",
+      "title": "The tech products we enthusiastically recommend this holiday season - TechCrunch",
+      "summary": "Sure, there are cheaper ice makers on the market. But Aisha clarifies that this is the ice maker for “those who crave what’s called ‘the good ice.’” I...",
+      "url": "https://techcrunch.com/2026/11/27/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "source": "techcrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/27/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T17:09:19.000Z",
+      "category": "tech",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888781-9",
+      "title": "The best Black Friday deals Ars could find - Ars Technica",
+      "summary": "## Best TV and home audio deals\n\n LG C6 OLED TV for $1,400 ($1,300 off)\n Roku Streaming Stick Plus with voice remote for $34 ($26 off)\n Samsung The Fr...",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "arstechnica",
+      "sourceUrl": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T17:05:37.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888780-5",
+      "title": "Buying a laptop right now is rough, but these last-minute Black Friday deals help - The Verge",
+      "summary": "### HP OmniBook 5 14 (2025, Snapdragon X Plus)\n\nA nice OLED, 16GB of RAM, and marathon battery life in a travel-friendly laptop with an affordalbe pri...",
+      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T14:30:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "id": "news-1795848888780-3",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun - The Verge",
+      "summary": "Google announced the ability to create custom widgets using AI back at I/O in the spring. It’s called Create My Widget, and it’s part of Android’s sui...",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888780-2",
+      "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg.com",
+      "summary": "# Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang\n\n## Takeaways by Bloomberg AI\n\nA pair of Chinese firms installed Nvidia Corp.’s pow...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+      "source": "bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T11:45:46.000Z",
+      "category": "tech",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "news-1795848888780-6",
+      "title": "The British Government is Turning Everyone Into a Prepper - WIRED",
+      "summary": "Just this month, supermarket fridges and freezers across Europe were hacked in an attack France believes was conducted by Iran. [...] without power, b...",
+      "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+      "source": "wired",
+      "sourceUrl": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "category": "tech",
+      "tags": []
+    },
+    {
+      "id": "news-1795848888780-4",
+      "title": "The absolute best Black Friday deals we’ve found (so far) - The Verge",
+      "summary": "### Apple Watch Series 12\n\nThe Apple Watch Series 12 introduces AI-powered Audio Intelligence features, including sound recognition alerts, Live Rewin...",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "theverge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "credibility": "P2",
+      "publishedAt": "2026-11-27T09:35:30.000Z",
+      "category": "tech",
+      "tags": [
+        "AI",
+        "RAG"
       ]
     }
   ],
   "highlights": {
     "p0Count": 0,
     "p1Count": 0,
-    "p2Count": 1
+    "p2Count": 13
   },
   "summary": ""
 }
